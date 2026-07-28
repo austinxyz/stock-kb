@@ -5,7 +5,7 @@ source: austin
 # GLW — Corning Incorporated
 
 **Last updated**: 2026-07-17
-**Status**: Closed — 🛑 止损退出 2026-07-17 @ ~$155.97（持仓7天，亏损-18.3%）。⚡动量规则：固定止损$163连续2日破位 + SOXX赛道降温。篮子调整为 NVTS+COHR。
+**Status**: Closed — 🛑 止损退出 2026-07-17 @ ~$155.97（持有 7 天）。⚡动量规则：固定止损$163连续2日破位 + SOXX赛道降温。篮子调整为 NVTS+COHR。
 **Source of promotion**: Fresh analysis (Scenario C — no rwh upstream, no prior overlay), surfaced via the `optical-interconnect` sector thesis update (video-driven) as the route-agnostic "保守型" fiber pick
 **Language**: English | [中文](overview.zh.md)
 
