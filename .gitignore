@@ -1,0 +1,20 @@
+# Written by scripts/build_stock_kb.py --profile public.
+# These are excluded from the build; the entries are a second line of defence
+# in case a full-profile build is ever run over this directory.
+
+# Private tree — positions, cost basis, account data.
+data/
+
+# Third-party content — paid-course notes and verbatim transcription of a
+# named individual's stock calls. Quoting privately is fine; republishing is not.
+raw/
+wiki/opinions/
+wiki/frameworks/chen-yun-method.md
+wiki/frameworks/chen-yun-method.zh.md
+
+# Local agent instructions and editor state.
+CLAUDE.*.md
+.obsidian/
+.stfolder*
+.stignore
+*.log

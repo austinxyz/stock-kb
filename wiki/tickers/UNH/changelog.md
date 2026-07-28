@@ -1,0 +1,267 @@
+---
+source: upstream
+---
+
+# UNH — Changelog
+
+*Append-only. Most recent entry first. Format defined in CLAUDE.md.*
+
+---
+
+## [2026-04-28] — CMS 2027 MA Final Rate Notice ≈+2% — largest §6 overhang DE-RISKED; +4% rally to ≈$368
+
+**Trigger**: Two material events since 2026-04-26 baseline:
+1. **CMS 2027 Medicare Advantage Final Rate Notice finalized at ≈+2% average rate increase** (April 2026) — above bearish-flat sell-side baseline; multi-billion-dollar FY2027 EBIT tailwind for the MA cohort.
+2. **Sustained post-Q1 rally**: UNH +≈4% intraday on 2026-04-28 to ≈$368, post-Q1 cumulative ≈+14% in one week ($323 → ≈$368). Sector commentary frames Q1 MCR 83.9% as durable utilization-driven, not just reserve development; CMS rate notice is the second leg.
+
+**Sources reviewed**:
+- [CMS — Medicare Advantage Rates & Statistics](https://www.cms.gov/medicare/payment/medicare-advantage-rates-statistics) (CMS landing page; canonical 2027 Final Rate Notice PDF link backfill pending)
+- [raw/UNH/regulatory/2026-04-CMS-2027-MA-Final-Rate-Notice.md](../../../raw/UNH/regulatory/2026-04-CMS-2027-MA-Final-Rate-Notice.md) — newly created markdown summary
+- [Yahoo Finance — UNH](https://finance.yahoo.com/quote/UNH) (live verification: previous close $354.69 on Apr 27, 2026; pre-market $356.68 +0.56%; intraday Apr 28 ≈$368)
+- [UnitedHealth Group Q1 2026 PR (2026-04-21)](https://www.unitedhealthgroup.com/newsroom/2026/2026-04-21-uhg-reports-first-quarter-2026-results.html) — context for the rally
+- [24/7 Wall St — UNH/HUM April rally](https://247wallst.com/investing/2026/04/28/unitedhealth-and-humana-soar-in-april-which-healthcare-stock-is-winning-and-why/) (HTTP 403 during fetch — backfill pending)
+- [Quiver Quant — UNH 2026 outlook](https://www.quiverquant.com/news/UnitedHealth+Group+Stock+(UNH)+Opinions+on+Recent+Price+Surge+and+2026+Outlook)
+
+### What Changed
+- **Header**: Last Updated → 2026-04-28; Live Price → ≈$368 (+≈4% session); 52-wk high refreshed to $421.75; market cap ≈$334B.
+- **Summary**: refreshed; lead bullet now combines Q1 confirmation + CMS rate de-risk; added explicit "✅ Major de-risk (2026-04-28)" bullet quantifying ~$2–4B incremental FY27 EBIT.
+- **Business Overview**: appended sentence on the 2026-04-28 CMS rate finalization.
+- **Key Stats Snapshot**: price/cap/52-wk fields refreshed; rebound math added.
+- **§6 Key Risks**: row "CMS V28 MA risk-adjustment phase-in / 2027 MA rate cycle uncertainty" marked `~~struck~~ ✅ DE-RISKED 2026-04-28` with link to raw notes.
+- **§7 Industry Macro**: FY2027 MA rate bullet refreshed from "phase-in completes — dominant macro risk" → "✅ FINALIZED 2026-04-28 at ≈+2%" with sensitivity math.
+- **§8 Valuation**: multiples re-computed at ≈$368/$334B; FY27E normalized EPS anchor lifted from $25–28 → $26–29 on rate tailwind; fair-price ranges raised: base $400–430→$410–440, bull $500–550→$510–560.
+- **§9 Catalyst & Sentiment**: live price/52-wk/market cap refreshed; added 2026-04-28 CMS rate notice + price action news bullets at top of Recent Corporate News; CMS 2027 rate notice moved Upcoming → Delivered ✅.
+- **§10 BAIT (Analytical)**: refreshed — FY27 normalization gap "widened" by +2% rate notice; FCF yield ~4.8% at ≈$368.
+- **§11 Bull/Bear/Base**: probabilities shifted Bull 30%→**35%**, Bear 20%→**15%**, Base 50% unchanged. Midpoints lifted: Bull $525→$540, Base $415→$430, Bear $275→$285.
+- **§12 PW EV**: recomputed — PW EV $420→**$447**; +21% / 24mo at ≈$368; R/R 2.1:1 preserved on lifted absolute base.
+- **§13 Recommendation**: thesis sentence refreshed; entry zone $300–$340→$310–$345; trim zone $470–$520→$480–$530; thesis-break trigger "MA rate cycle adverse cut" marked DE-RISKED 2026-04-28 alongside the prior Q1 MLR de-risk.
+
+### Thesis Status
+- **Overall**: **STRENGTHENED** — second material de-risk in 7 days. Q1 closed the recoverability question; the CMS rate notice closes the 2027 macro question. DOJ tail risk and Q2 sequential MCR remain the live unresolved variables.
+- **BAIT delta**: Quadruple overlap maintained (B-Strong/A-Strong/I-Strong/T-Moderate). A (Analytical) edge widened on the FY27 normalization gap; B (Behavioral) edge compressed further as the price has rallied.
+- **Price target delta**: Bull $525→$540 | Base $415→$430 | Bear $275→$285. PW EV $420→$447.
+- **Catalyst & Sentiment delta**: short interest continues to bleed; Goldman Sachs and others raised targets post-Q1; CMS rate notice removes the largest macro overhang on the cohort.
+
+### Recommendation
+- **For a non-holder**: 🟢 Initiate / Watch on pullback — ≈$368 still defensible (PW EV ~$447, +21% / 24mo); patient buyers wait sub-$345.
+- **For a current holder**: 🟢 Hold / Add on dips — both Q1 + CMS rate confirm thesis; trim only above $480.
+
+**Next review trigger**: **Q2 2026 earnings — late July 2026** (sequential MCR; FY26 guide refresh; Optum Health quarterly trajectory; DOJ status).
+
+---
+
+## [2026-04-26] — v2.9 Schema Retrofit
+
+**Trigger**: Apply CLAUDE.md v2.9 schema retrofit to UNH (single-ticker serial run).
+v2.9 retired old §1, merged old §3+§4 into new §2, and codified Rules #19/#20/#23/#24/#25/#26
+(primary-source synthesis discipline, moat+competitive-landscape consolidation, risk-factor
+materiality filter, R/R calculation discipline anchored to §11 scenarios).
+
+**Sources reviewed**:
+- [UnitedHealth Group Q1 2026 PR (2026-04-21)](https://www.unitedhealthgroup.com/newsroom/2026/2026-04-21-uhg-reports-first-quarter-2026-results.html)
+- [Q1 2026 transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/21/unitedhealth-unh-q1-2026-earnings-transcript/)
+- [Yahoo Finance](https://finance.yahoo.com/quote/UNH) — live price verification 2026-04-25
+- [FY2024 10-K (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unh-20241231.htm)
+- [SEC EDGAR — UNH filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000731766&type=10-K) (HTTP 403 during retrofit; deeper enumeration deferred)
+- raw/UNH/press-releases/2026-04-21-Q1-2026-results.md (newly created summary)
+
+### What Changed (structural — v2.9 retrofit)
+- **Header**: Schema v2.5 → **v2.9**, Last Updated → 2026-04-26, live price re-verified at $354.92.
+- **Summary**: refreshed to v2.9 emoji-tagged ≤10-bullet format; added moat one-liner, R/R per Rule #26, primary-source signal bullet.
+- **Moat Assessment standalone block**: ✅ retired per Rule #23. Moat detail consolidated into new §3 (Competitive Moat & Landscape).
+- **Old §1 (Why Does This Company Exist)**: ✅ retired per v2.9 — content folded into Business Overview and Pivotal Investment Question header subsections.
+- **Old §3 (Geographic) + §4 (Revenue Mix)**: ✅ merged into new §2 (Revenue Mix & Geographic Split) per v2.9.
+- **§3 Competitive Moat & Landscape**: ✅ NEW per Rule #24 — added Competitive Landscape subsection with named peers (ELV, HUM, CI, CVS, CNC, MOH; PBM peer-set; care-delivery + health-tech peer-sets) with market positioning + 1–2 sentence threat-vector read each + explicit framing of how UNH's tri-leg moat differs (cross-payer Optum revenue, structural-not-bolt-on integration) + tail-risk read.
+- **§4 Management & Leadership**: refreshed RMC subsection per Rule #19; added Multi-year Strategic-Framework Arc table (Hemsley era 1 → Witty era → crisis interregnum → Hemsley era 2). Pattern C handling — Chairman/CEO letters in annual-report front-matter tagged [link pending] for next-pass backfill (raw/UNH/shareholder-letters/_FETCH_STATUS.md created).
+- **§5 Strategic Growth Initiatives**: refined to 9 vectors with explicit proof-points.
+- **§6 Key Risks**: ✅ Rule #25 materiality filter applied — dropped boilerplate (generic earnings fluctuation, generic cyber, generic key-personnel); kept risks differentiated from peers, not priced in (DOJ tail risk explicitly flagged "not priced in"), or tied to thesis-break triggers. **5-Year Risk Factor Evolution table → synthesis paragraph** per Rule #21.
+- **§8 Valuation**: peer table expanded to 6 peers; added market caps; added explicit fair-price range.
+- **§9 Catalyst & Sentiment**: refreshed live-price line, 1-yr median target ($386.08 per Yahoo), short-interest narrative; preserved Q1 2026 event entry.
+- **§10 BAIT**: preserved Quadruple-overlap verdict; tightened justifications.
+- **§11 Bull/Bear/Base**: midpoints unchanged ($525 / $415 / $275); probabilities unchanged (30 / 50 / 20).
+- **§12 PW EV**: ✅ Rule #26 R/R calculation discipline applied — explicit Bull/Bear midpoint anchor, R/R 2.1:1 documented; secondary stop-loss-anchored R/R 3.7:1 framed as secondary per rule.
+- **§13 Recommendation**: structure preserved; thesis-break triggers refreshed.
+
+### Thesis Status
+- **Overall**: **Unchanged** vs. 2026-04-24 entry — Q1 2026 print remains the dominant recent event; live price essentially flat ($354.92 vs. $354.92 prior). v2.9 retrofit is **structural** (schema discipline + synthesis depth + competitive landscape + R/R discipline), not directional.
+- **BAIT delta**: Unchanged Quadruple overlap (B/A/I-Strong, T-Moderate). Conviction High.
+- **Price target delta**: Bull $525 / Base $415 / Bear $275 — unchanged. PW EV ~$420 — unchanged. R/R 2.1:1 (now anchored to §11 midpoints per Rule #26).
+- **Catalyst & Sentiment delta**: Q2 2026 earnings (late July) is the next hard gate.
+
+### Recommendation
+- **For a non-holder**: 🟢 Initiate / Watch on pullback — defensible at $355 (PW EV $420; +18% / 24mo); patient buyers wait sub-$340.
+- **For a current holder**: 🟢 Hold / Add on dips — Q1 print confirms thesis; trim only above $470.
+
+**Next review trigger**: **Q2 2026 earnings — late July 2026** (sequential MCR confirmation; Optum Health quarterly trajectory; FY26 guide refresh; DOJ status).
+
+### Open backfill items ([link pending])
+- FY2020–FY2024 annual-report Chairman/CEO letters (Pattern C) — verbatim quotes for §4 RMC.
+- Full FY2025 10-K direct download (SEC HTTP 403 during retrofit) — multi-year Item 1A diff for §6 evolution paragraph.
+
+---
+
+## [2026-04-24] — Q1 2026 Earnings Update (post-print refresh, 3 days after print)
+
+**Trigger**: UNH reported Q1 2026 earnings on **April 21, 2026** — three days before this changelog entry. Big beat with raised FY2026 guidance.
+
+**Sources reviewed**:
+- UnitedHealth Group press release "Reports First Quarter 2026 Results" (2026-04-21)
+- CNBC, Seeking Alpha, BusinessWire coverage
+- Yahoo Finance JSON chart API (UNH 5-day price action)
+
+### What Changed
+- **Q1 2026 results**:
+  - Revenue $111.7B (+2% YoY)
+  - **Adj EPS $7.23 vs. $6.59 consensus = +9.7% beat**
+  - GAAP EPS $6.90 | Operating earnings $9.0B | Net margin 5.6%
+  - Operating cash flow $8.9B (1.4× net income)
+  - **MCR 83.9% vs. 84.8% Q1 2025** — meaningful improvement (the metric the bull thesis required)
+  - Debt-to-capital 42.9%
+- **FY2026 guidance raised**: Adj EPS now **>$18.25** (was >$17.75); GAAP EPS >$17.35
+- **Capital management**: $2B+ buybacks committed through end of Q2 2026
+- **Stock reaction**: Pre-print Apr 20 close $324.63 → 5 sessions later Apr 24 close $354.92 = **+9.3% post-print and holding gains**; small intraday volatility but no give-back
+
+### Thesis Status
+- **Overall**: **STRENGTHENED** — Q1 print decisively closes the binary "is MLR recoverable" question. Recovery thesis is now confirmed on accelerated timing.
+- **BAIT delta**:
+  - B: Strong → Moderate (behavioral mispricing partially corrected by +28% appreciation since prior $277 entry + the +9.3% post-print pop)
+  - A: Strong → Strong (the bridge from $13.23 trough EPS to $18.25+ FY26 is management-committed, not just modeled)
+  - I: Strong → Strong (Q1 disclosures confirm Optum normalization trajectory)
+  - T: Moderate → Moderate (unchanged)
+  - **Overall: Quadruple-overlap preserved but B compressed; conviction Medium-High**
+- **Price target delta**: Bull/Base/Bear weights unchanged; thesis-break trigger "Q1 reported MLR > 89.5%" has been **DE-RISKED** (actual 83.9%)
+- **Catalyst & Sentiment delta**: Q1 line moved from "Upcoming" → "DELIVERED ✅"; Q2 2026 earnings (late July) is now the next hard catalyst
+
+### Recommendation
+- **For a non-holder**: **Initiate / Watch on pullback** (upgraded from "Watch / Initiate selectively"). At $355 the stock is reasonably priced post-confirmation; the $300–$340 attractive entry zone is unlikely to re-print absent unrelated macro shock or DOJ escalation.
+- **For a current holder**: **Hold / Add on dips** (unchanged). Q1 print confirms thesis. Add aggressively only into a sub-$320 dip.
+
+**Updated thesis-break triggers** (post Q1):
+1. DOJ files formal antitrust complaint seeking Optum divestiture (still live tail risk)
+2. Hemsley resignation or Board instability
+3. **Q2 2026 MCR re-expansion to >87%** (signals Q1 was seasonal/one-off)
+4. Optum Health FY2026 adj. earnings < $2B
+5. Sequential MCR worsening for 2 consecutive quarters
+
+**Next review trigger**: **Q2 2026 earnings — late July 2026**. Sequential MCR confirmation gate.
+
+---
+
+## [2026-04-24] — v2.1 Schema Migration + Recovery-in-Progress Refresh
+
+**Trigger**: Migration of UNH wiki from v1 (4-file: overview/thesis/financials/changelog) to v2.1 (single consolidated `UNH.md` + `changelog.md`). Triggered by user request as part of batch v2.1 rollout. Legacy v1 files deleted; content folded into `UNH.md`. Live price refreshed — recovery has materially advanced since prior ingest.
+
+**Sources reviewed**:
+- Yahoo Finance JSON API (live price $354.92; 52-wk $234.60–$424.12; April 24, 2026)
+- Prior wiki v1 files (overview.md, thesis.md, financials.md, changelog.md from 2026-04-05 ingest at $277.26)
+- businesswire.com FY2025 release; stockanalysis.com; medicaremarketinsights.com; fiercehealthcare.com; unitedhealthgroup.com IR
+
+### What Changed from Prior Entry (2026-04-05)
+
+- **Live price**: $277.26 → **$354.92** (+28% since prior ingest); the recovery thesis is materially playing out
+- **52-week range re-set**: Prior wiki's $606.36 52-wk high is now outside the trailing 12-month window. New 52-wk range is **$234.60 – $424.12**, with the high recently re-tested then sold off to $355 (significant volatility — suggests market remains uncertain about whether the recovery extends to the bull case or stalls)
+- **Drawdown framing**: From "54% off 52-wk high $606" → **–16.3% off new 52-wk high $424.12**, but **+51.3% above the $234.60 low**
+- **Asymmetry compressed**: At $277.26 the prior wiki computed PW EV of ~$369 (+33% over 24 months). At $354.92 with the same scenario probabilities (Bull 30% / Base 50% / Bear 20%) the PW EV is ~$420 (~+18% over 24 months). Asymmetry remains favorable but is no longer exceptional; ~28% of the recovery has been captured.
+- **Bull/Bear/Base preserved structurally** but recalibrated: Bull $500–550 (30%), Base $400–430 (50%, narrowed up from prior $340–380 to reflect recovery progress), Bear $250–300 (20%, narrowed up from prior $180–220 — the deep capitulation low of $234 was the test and was passed).
+- **BAIT verdict preserved as Quadruple Overlap (B+A+I-Strong, T-Moderate)** — UNH retains the highest BAIT-overlap signal in the wiki universe per user instruction
+- **Schema migration**: Consolidated 4 files → 2 files per v2.1. Position-sizing language removed (no tranche %, no allocation %, no stock/options split). Section 11 now "Catalyst & Sentiment Tracker"; Section 15 now "Recommendation & Bottom Line" with action verbs.
+- **Recent volatility note**: The recent re-test of $424.12 followed by drop to $354.92 is meaningful — the market is testing whether the recovery extends; this is not a smooth grind higher
+
+### Thesis Status
+- **Overall**: **Strengthened** in terms of operational execution (price action validates Hemsley discipline + MA repricing thesis); **Slightly Weaker on asymmetry** simply because price has moved up
+- **BAIT delta**:
+  - B: Strong (preserved; behavioral edge is now the gap from $355 to fair value, smaller than the gap from $277)
+  - A: Strong (preserved; trough-to-normalized EPS gap remains underappreciated)
+  - I: Strong (preserved; Hemsley + MA exit + Optum restructuring detail underweighted)
+  - T: Moderate (preserved; recovery in progress, no new mechanical catalyst)
+  - Overall: **Quadruple overlap maintained** per user instruction. Conviction High on long-term thesis; asymmetry now Moderate (vs. High at $277).
+- **Price target delta (24-month scenarios)**: Bull $500–550 (30%) preserved | Base $400–430 (50%) tightened upward | Bear $250–300 (20%) tightened upward. PW EV ~$420 → ~+18% from $354.92 (vs. ~+33% from $277.26 to ~$369 PW EV).
+- **Catalyst & Sentiment delta**: Stock has materially recovered (+28% since prior entry); $234 capitulation low has been left behind; recent $424 retest then drop to $355 indicates ongoing volatility within the recovery channel.
+
+### Recommendation
+- **For a non-holder**: **Watch / Initiate selectively** — initiate in $300–340 zone on any Q1 MLR pullback. At $355 the prior wiki's $250–285 attractive entry is missed; full sizing here gives away too much margin of safety. Bull case still offers +40%+ but pre-Q1 binary risk warrants partial sizing only.
+- **For a current holder**: **Hold / Add selectively on pullbacks** — do not exit. Add in $300–340 zone if offered. Trim above $470 unless bull case is clearly confirmed by sequential MLR < 87%.
+
+**Attractive entry zone**: $300 – $340
+**Trim zone**: $470 – $520
+**Exit / avoid zone**: >$580
+
+**Thesis-break triggers**:
+1. Q1 2026 reported MLR > 89.5% with no improvement trajectory (primary, immediate reduction)
+2. DOJ files formal antitrust complaint seeking Optum divestiture
+3. Hemsley resignation or Board instability
+4. Optum Health FY2026 adj. earnings < $2B (worse than 2025)
+5. MA membership exits beyond 2M (signals competitive loss vs. discipline)
+6. New CEO appointment without continuity from Hemsley plan
+7. Sequential MLR worsening two consecutive quarters in 2026
+
+**Next review trigger**: **Q1 2026 earnings — expected late April 2026**. Q1 MLR vs. 89.1% trailing is the make-or-break print. A clean sub-88% Q1 MLR could trigger meaningful re-rating toward bull case; a >89.5% print would activate trigger #1.
+
+---
+
+## 2026-04-05 — Initial Thesis Compilation
+
+**Trigger**: First full wiki import — thesis compiled from live data (Yahoo Finance,
+stockanalysis.com, businesswire.com FY2025 results, fiercehealthcare.com, web search).
+**Data points reviewed**:
+- FY2021–FY2025 annual financials (revenue, EBITDA, EPS, FCF)
+- FY2025 full year results: $447.6B revenue (+11.8%), MLR 89.1% (vs. 85.5% in FY2024),
+  EBITDA $23.3B (vs. $36.4B in FY2024), EPS $13.23 (vs. $15.51), FCF $16.1B (–22%)
+- UNH expected to exit 1.3–1.4M Medicare Advantage members in 2026 (margin > scale)
+- CEO Andrew Witty resigned May 13, 2025; Stephen Hemsley (former CEO 2006-2017) returned
+- 2025 annual guidance was suspended mid-year due to accelerating medical costs
+- Optum Health adj. earnings: collapsed from $7.9B (FY2024) to $2.3B (FY2025)
+- DOJ antitrust investigation into UNH vertical integration: ongoing
+- Stock: $277.26 (54% off 52-week high $606.36; 3-year lows)
+
+### What Changed
+- First-time compilation — no prior thesis to compare against
+- Critical negative events in 2025 (all material to thesis):
+  1. MLR 89.1% — worst in UNH history, ~400bps above normalized range
+  2. CEO resignation + guidance suspension — most severe credibility event in decades
+  3. Optum Health $5.6B earnings decline — vertical integration thesis challenged
+  4. DOJ antitrust investigation — existential tail risk, low probability
+  5. Brian Thompson assassination (Dec 2024) — unprecedented reputational damage
+- Positive counters established in thesis:
+  - Hemsley return = credibility signal
+  - $16.1B FCF even at trough = quality floor
+  - Proactive 1.3M MA member exits = margin discipline > scale (bullish for MLR recovery)
+  - BAIT quadruple overlap — highest in portfolio
+
+### Thesis Status
+- **Overall**: Established — **Medium Conviction** (elevated uncertainty, high risk/reward)
+- **BAIT delta**: B-STRONG + A-STRONG + I-STRONG + T-MODERATE = **Quadruple Overlap**
+  Highest BAIT signal across portfolio. Thesis: market is pricing permanent impairment;
+  data supports cyclical impairment with strong recovery trajectory.
+- **Price targets**:
+  - Bull: $500–$550 (30%) | Base: $340–$380 (45%) | Bear: $180–$220 (25%)
+  - Probability-weighted EV: ~$369 (~+33% from $277 on 24-month horizon)
+
+### Action
+- [x] Buy more — Tranche 1: 40% of position at $250–$285; current $277 is in range
+- [ ] Trim — N/A (establishing position)
+- [ ] Hold — N/A
+- [ ] Watch — **Q1 2026 MLR** is the single most important data point (expected April 2026)
+
+**Data gaps to resolve**:
+- ⚠️ Quarterly MLR breakdown by segment (MA vs. Medicaid vs. Commercial)
+- ⚠️ Full balance sheet detail from UNH 10-K (debt, dividend coverage)
+- ⚠️ DOJ investigation status and scope (public filings only)
+- ⚠️ 2026 guidance (company did not provide formal 2026 guidance as of Jan 2026)
+
+**Next review trigger**: Q1 2026 earnings (expected April 2026) — MLR is the make-or-break
+number. Q1 MLR above 89.5% = thesis delay; Q1 MLR at 87-88% = thesis confirming; below
+87% = significant re-rating catalyst.
+
+**Thesis-break triggers**:
+- DOJ files formal antitrust complaint seeking Optum divestiture
+- Q1 2026 MLR > 89.5% with no evidence of improvement trajectory
+- Hemsley resignation or Board instability
+
+---
+
+## 2026-04-05 — INIT
+
+**Trigger**: Wiki initialization — stub created.
+**Thesis Status**: Pending first import
+**Next review trigger**: Import from raw/analyses/

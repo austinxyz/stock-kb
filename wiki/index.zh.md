@@ -1,0 +1,226 @@
+# kg-invest-wiki — Index
+
+Master catalog of all wiki pages. Updated by the LLM agent on every ingest or
+substantial wiki change. Each entry: link, one-line summary, last updated, status.
+
+**Schema**: v3.0 (current) — 13-section thesis structure, single consolidated
+`[TICKER].md` per ticker, position-agnostic. Active / Paused status governs
+weekly-update coverage (Core Rule #14). 4 tickers Paused (ABNB, ACLS, LNTH, MP —
+user-directed, Workflow C.1). Per-page schema-version history lives in git.
+
+---
+
+## Tickers
+
+*Alphabetical. 47 tickers covered (43 Active / 4 Paused).*
+
+| Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
+|--------|--------|---------|------|-----------|--------------|---------|
+| [ABNB](tickers/ABNB/ABNB.md) | Paused | Airbnb | Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 2026 — rev +18% beat, GBV +19%, FCF $1.7B, FY26 raised; cross-sell quantified; verb upgrade Watch→**Initiate**; PW EV $189 (5-yr); R/R 5.5:1 |
+| [ACLS](tickers/ACLS/ACLS.md) | Paused | Axcelis Technologies | Narrow | Low-Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 beat ($199M / $0.72 EPS) + Q2 guide above; FY26 reaffirmed; B. Riley PT $150→$180; PW EV $180 (5-yr); R/R ~2:1; **Watch / Hold**; entry $95–115 |
+| [ACN](tickers/ACN/ACN.md) | Active | Accenture plc | Wide | Moderate-High | 2026-05-31 | **v3.0 + Workflow B** — #1 global IT-services/consulting at $187.07 (May 29 close, ~19th %ile) on AI-disintermediation fear; FY25 rev $69.7B / ~9.5% FCF yield / ~13.6× fwd P/E trough / ~3.5% div (20 yrs growth); record $22.1B Q2 FY26 bookings + GenAI $2.2B/qtr + OpenAI Federal partnership (May 2026). Outsider-leaning (trough buybacks). BAIT 3–4 (B-strong); PW EV $233 (5-yr); R/R ~2.2:1; **Watch / Initiate on dips ≤$185 / Hold**; Q3 FY26 Jun 18 |
+| [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide→Narrowing | High | 2026-06-13 | Q2 FY2026 — rev $6.62B (+13% beat), NGAAP EPS $5.96 (+18%), AI-first ARR >$500M (3× YoY); FY2026 guide raised $26.5–26.6B; CFO Durn departed (→ Marvell), CEO search ongoing — dual vacancy; H2 ARR organic headwind ~$500M (freemium bet + deferred CC price opts); stock $204 (new 52-wk low); ≈8.4× FY26E NGAAP / 11% FCF yield; PW EV $323; R/R ≈8:1. **Initiate gradually / Hold-Add selectively** |
+| [AMCR](tickers/AMCR/AMCR.md) | Active | Amcor plc | Narrow-and-widening (post-Berry duopoly) | Moderate | 2026-05-10 | **v2.14 ingest** — global packaging at $39.93 / 9.4× FY26E P/E + 6.51% div (51+ yr unbroken); Berry $650M synergy bet; Double BAIT (B+A); PW EV $57 (+43%); R/R ~6:1; Initiate <$44 / Hold |
+| [AMZN](tickers/AMZN/AMZN.md) | Active | Amazon | Wide | High | 2026-05-01 | Q1 FY26 — AWS +28%, EPS +70% beat; ATH $265; R/R 1.4:1 → Watch / Hold |
+| [BKNG](tickers/BKNG/BKNG.md) | Active | Booking Holdings | Wide | High | 2026-05-01 | Q1 beat-and-cut on Iran/Hormuz; $3.6B Q1 buyback acceleration; Initiate / Add at $168 |
+| [BRK.B](tickers/BRK.B/BRK.B.md) | Active | Berkshire Hathaway | Wide | Moderate | 2026-05-10 | **v2.5→v2.14** + Q1 op earnings $11.35B (+18%, slight miss); cash $397B record; Q1 buyback only $235M; OxyChem closed Jan; first Abel annual mtg May 3 (no deployment target); PW EV $549 (5-yr); R/R 2.7:1; **Initiate / Hold** (softened from Hold-Add) |
+| [CELH](tickers/CELH/CELH.md) | Active | Celsius Holdings | Narrow | Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 (May 7) rev $782.6M (+138%, in-line) / EPS $0.41 beat; Alani Nu +60% pro forma; CELSIUS brand +6% (SKU rationalization); GM compressed 48.3% vs. 52.3%; no Q2 quant guide; PW EV $52; R/R 3.7:1; **Watch / Initiate small / Hold** |
+| [CMG](tickers/CMG/CMG.md) | Active | Chipotle Mexican Grill | Narrow & contested | Moderate | 2026-06-03 | **v3.0 Initial Ingest** — fast-casual leader at ~$28.70 (new 52-wk low, –51% from high) / ~30× FY26E P/E / flat SSS guidance; traffic down all 4 quarters of 2025; Morgan Stanley downgrade to Equalweight June 2026; unit-growth flywheel (285+/yr ~20% ROIC) intact; Q1 2026 SSS +0.5% first green shoot; Double BAIT (B-Strong); PW EV $41.50 (+45% 5-yr); R/R ~4.5:1. **Watch / Initiate (scaled) / Hold**; entry $27–33; Q2 2026 late July. |
+| [CPNG](tickers/CPNG/CPNG.md) | Active | Coupang | Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 (May 5) Korea GM 27% (–228 bps); adj EBITDA $29M vs. $382M prior; DO burn –$329M; **margin expansion deferred to 2027**; Taiwan cohort "reminiscent of early Korea"; Farfetch silent. PW EV $24; R/R 2.4:1; **Watch / Hold** (downgraded) |
+| [DASH](tickers/DASH/DASH.md) | Active | DoorDash | Narrow | Lower-Moderate | 2026-07-01 | **WEEKLY**: rallied +12.6% to $184.53 on ads/AI/World Cup narrative with no new earnings; autonomous delivery funded (Also/Rivian $200M round) + DOL gig-worker NPRM de-risks federal reclassification tail; but PW EV unchanged $133 → stock now deeper in Trim zone (28% above PW EV, was 19%); R/R worsened mechanically 0.4:1→0.23:1; short interest reversed to building, insider selling broadened, analyst targets cut despite the rally; **Avoid / Reduce**; Q2 FY26 earnings confirmed **Jul 30, 2026** |
+| [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
+| [DIS](tickers/DIS/DIS.md) | Active | The Walt Disney Company | Wide (bifurcated) | Moderate-High | 2026-07-01 | **v3.0 Initial Ingest** — at $98.84 (~21st %ile, –21% from 52-wk high) on sector-wide media stigma, ESPN sports-rights cost step-up (Q3 FY26 guided –14% YoY), and an escalating FCC/ABC broadcast-license dispute; Disney+/Hulu op income +88% YoY, Experiences records almost every quarter ($10.0B FY25); clean CEO handoff to Josh D'Amaro (Mar 18, 2026), Iger stays as senior advisor; buyback raised to $8B, dividend to $1.50/yr, net debt/EBITDA 1.9× (lowest since 2018). Double-Triple BAIT (A-Strong); PW EV $146 (5-yr); R/R ~4.7:1. **Initiate / Hold-Add**; spot already inside the ≤$115 entry zone; Q3 FY26 ~Aug 12 |
+| [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-05-01 | Q1 beat (rev +19%, GMV +14% FXN); R/R 1.0:1; Watch / Hold-Trim into $115+ |
+| [FDX](tickers/FDX/FDX.md) | Active | FedEx Corporation | Narrow (eroding) | Moderate | 2026-06-24 | **v3.0 Initial Ingest** — post-spin parcel pure-play (FedEx Freight → FDXF, June 1, 2026; FY-end May→Dec) at ~$297 (−6% on the June 23 Q4 print). Record FY2026 ($94.7B / $20.24 adj EPS +11%) through a ~$1B trade headwind; optical FY2027 continuing-ops guide $16.90–$18.10 (Freight deconsolidation + ~$350M stranded costs + pilot-contract cost). DRIVE ($4B done) + Network 2.0 ($2B by FY27) → FY2029 ~8% margin the crux of lifting sub-WACC ROIC (~6.7%). Amazon now #1 US carrier by volume; Double BAIT (A+B-Mod); Outsider grade Reinvestor (reforming). PW EV $372 (+25% 5-yr); R/R ~3:1. **Initiate (scaled $280–300) / Hold-Add**; entry at 20%-MoS line; next read ~Sept 2026 |
+| [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Anthropic Claude Design launch Apr 17 (named direct AI-disruption threat); FIG –16% in April; short int 20.67% (+27.5% MoM); Director Reed buy $36.5M; Q1 print May 14; PW EV ~$28 (5-yr); R/R ~5:1; **Initiate (small, contrarian) / Hold** |
+| [HD](tickers/HD/HD.md) | Active | The Home Depot | Wide | Moderate-High | 2026-05-31 | **Q1 FY2026 post-print Workflow B** — binary resolved positively (adj EPS $3.43 beat, comps +0.6%, FY26 guidance reaffirmed); ~$320 (+7.5% post-print); GMS closed Sep 4, Mingledorff's HVAC closed May 11; SRS cross-sell ~$400M/yr. At $320 / ≈21× P/E (top of entry zone); PW EV $377 (+18%); R/R ~2.0:1. **🟡 Initiate/Watch** (prefer $290–305 pullback) **/ Hold, add on weakness**; Q2 FY26 ~Aug |
+| [HOOD](tickers/HOOD/HOOD.md) | Active | Robinhood Markets, Inc. | Narrow-and-Widening | Moderate-High | 2026-04-29 | Post-Q1 reset to $70.29 (–14% session) — Q1 call confirmed structural diversification (margin book +93%, Gold card $15B annualized spend, Rothera April $3B second-highest month); crypto "about similar to Q1" in April removes near-term recovery. R/R ≈5.5:1 at $70; PW EV ~$108 (+54%). **Initiate / Add** at $65–80 |
+| [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | Moderate-High | 2026-06-15 | Post-Q3 slide extended ~13% on *no earnings* (Goldman→Sell PT $276 at spot; **OpenAI personal-finance entry**; $1.75B debt; fraud probe); ~11.6× FY26E NGAAP; on-balance mispricing but fatter OpenAI tail (bear $220, 25%); Triple BAIT (higher-variance); PW EV $521 (+88%); R/R ~8:1; Initiate / Add |
+| [KGS](tickers/KGS/KGS.md) | Active | Kodiak Gas Services | Narrow | Low-Moderate | 2026-04-26 | v2.9 — Double BAIT (A+I+T Mod); R/R ~1:1 at 52-wk high; Watch / Hold |
+| [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-05-01 | Q1 +56% rev / Mounjaro +125% / FY26 guide raised; Triple BAIT; Initiate / Hold-Add at ~$974 |
+| [LOW](tickers/LOW/LOW.md) | Active | Lowe's Companies | Narrow | Moderate | 2026-05-31 | **v3.0 Initial Ingest** — #2 US home improvement at $214 (~3rd %ile, –27% from high) / ~17× FY26E P/E (6× discount to HD); housing lock-in + FBM ($8.8B, 13.4× EBITDA at construction peak) integration risk priced in; Dividend King (63 consec raises); Pro 30% of retail → FBM unlocks $250B construction TAM. Double BAIT (B+A-Mod); PW EV $322 (+50% 5-yr); R/R ~4.9:1. **Initiate / Hold-Add**; entry ≤$260; Q2 FY26 ~Aug. |
+| [LNTH](tickers/LNTH/LNTH.md) | Paused | Lantheus Holdings | Narrow | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 rev $377M beat / EPS $1.46 beat; PYLARIFY –6.5% net price; FY26 reaffirmed; **strategic pivot to pure radiodiagnostics — exploring alternatives for radiotherapeutic pipeline**; LNTH-2501 PDUFA Jun 29 / MK-6240 Aug 13; PW EV $96 (5-yr); R/R 1.5:1 spot / 3.6:1 entry; **Watch / Hold**; entry $65–78 |
+| [LULU](tickers/LULU/LULU.md) | Active | Lululemon Athletica | Narrow | Moderate | 2026-05-01 | Wilson DFAN14A proxy fight + Bracey board addition; new 52-wk low ~$138; Watch / Initiate <$135 / Hold |
+| [MP](tickers/MP/MP.md) | Paused | MP Materials | Wide-Strategic | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 huge beat (rev $90.6M +49%, NdPr 917 MT Q1 record, +63% YoY; Magnetics +306%); **10X campus groundbreaking confirmed with full DoW support**; HREE separation commissioning Q2; cash $1.74B; Wedbush PT $90→$100; PW EV $86 (5-yr); R/R 2.5:1; **Initiate dips $55–68 / Hold** |
+| [MSFT](tickers/MSFT/MSFT.md) | Active | Microsoft | Wide | High | 2026-05-01 | Q3 FY26 — Azure +40%, EPS +23%; FY26 capex $190B drove –5–6% sell-off to ~$414; Hold/Add <$420 |
+| [NFLX](tickers/NFLX/NFLX.md) | Active | Netflix | Wide | Moderate | 2026-07-13 | Pre-Q2-earnings update — engagement deep dive + WBD break-fee correction; Triple BAIT (B+A+I-Mod); FY26 op-margin 31.5% intact; Initiate (small, scaled); entry $65–75 |
+| [NKE](tickers/NKE/NKE.md) | Active | Nike | Wide | Moderate | 2026-07-01 | **WEEKLY**: Q4/FY26 print — underlying beat (adj EPS $0.20 vs $0.12 cons.) masked by $986M one-time tariff refund (52¢/sh of reported $0.72); NA +3% confirmed 2nd straight qtr; China accelerated to –17% CN; new Sportswear/Jordan streetwear weakness disclosed; CFO Friend departing (→ Denton, ex-Pfizer); **no FY27 guide — deferred to Nov 16–17 Investor Day**; fresh multi-yr low ~$40 then +3.2% relief rally to $42.42; PW EV $60.50 unchanged; R/R 3.6:1→4.6:1 (mechanical); verbs tempered: **Initiate (small,scaled) / Hold-Add**; entry $40–48 |
+| [ONON](tickers/ONON/ONON.md) | Active | On Holding | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong + A-Mod); +23% c-c at 62.8% GM; Initiate / Add |
+| [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide (cyclical pressure) | Moderate | 2026-05-10 | **v2.14 schema migration** + 70th consecutive div raise (+3% Apr 14 to $1.0885/qtr); $147.90; PW EV $159.50; R/R 1.3:1 at spot, 2.7:1 below $140; Watch / Hold; Initiate <$140 |
+| [PEP](tickers/PEP/PEP.md) | Active | PepsiCo | Wide | Moderate-High | 2026-07-01 | **WEEKLY**: $138.68 (−3.8% on a 6-firm analyst target-cut cluster, no rating changes) / ≈16× fwd core P/E / ≈4.27% yield; Elliott primary-source deep dive (actual ask = PBNA bottling refranchising, not a snacks/beverages split; late-2026 review is next catalyst); GLP-1 adversarial review finds aggregate F&B impact (~1–2%) far below individual-user impact (20–30%) — bear case thinner than headlines imply; Triple BAIT (B+A+I, I raised to Mod-Strong); PW EV ≈$183; R/R ≈7.4:1 (mechanical, spot-driven); **Initiate (scaled) / Hold-Add**; entry $127–$150; Q2 FY26 earnings **Jul 9, 2026** |
+| [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong, T-Mod via 35.6% short); deep cyclical trough; Watch / selective Initiate |
+| [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-05-18 | Post-earnings weakness + dilution deep-dive — $13.79 (2026-05-15, −16.6% from pre-print close on a Q1 beat) on financing overhang (mixed-shelf S-3 + DOE cut $6.57B→$4.5B + Georgia 400K→300K + R2 slip late 2028). Dilution ~850M IPO→~1.28B (~+50%); VW largest holder 15.9%; fully-loaded ~1.6–1.9B but bull-path-weighted — priced, not thesis-breaking. PW EV $21.10→$19.90; R/R 2.1→2.4:1; **Watch / Hold**; entry $11–13 |
+| [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 most-profitable in 4 yrs — EBITDA $738M (26% margin); **Mr. Cooper $400M synergies pulled 1 yr forward to end-2026**; Redfin attach 45% w/ "line of sight to 50%"; AI capacity $300B 2 yrs early; +10.88% to $15.69; PW EV $25.80 (5-yr); R/R 3.6:1; verb upgrade **Add / Hold-Add** |
+| [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Moderate | 2026-04-28 | Q2 FY26 turnaround confirmed — US comp +7.1% / txns +4.3% / op margin +110 bps; FY26 guide raised to ≥5%/$2.25–$2.45; 🟢 Initiate-on-dip / Hold |
+| [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide & Widening | High | 2026-05-28 | May weakness update — $85.05 (52-wk low, –7.3% from Apr baseline) on non-fundamental selling (debt issuance, 10b5-1 insider sales, short int +14.8% MoM); thesis intact; R/R improved ~2:1 → ~3.5:1; PW EV ~$107 (+26%, 18mo); **Initiate / Add** |
+| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-05-10 | **v2.13→v2.14** + Q1 2026 (May 5) — rev $3.17B (+34%), GMV $100.7B (+35%), FCF $476M (15% margin), AI orders +13× YoY; Q2 guide high-20s drove –7.9% to $117.45; continued drift to $110.51 (May 8) on new 52-wk low $99.01. PW EV $212; R/R ~13:1 (~19:1 w/ Bull+ tail); **Initiate / Add <$110** |
+| [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow & Widening | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 (May 6) beat-and-raise — rev $1.41B (+15.6%, intl +31.6% accelerating); EBITDA $235M; **FY26 raised** ($1.29–1.30B EBITDA / $6.00–6.10 EPS); SEA tariff 20%→10%; GM –100bps (1H drag, 2H recovery watch); PW EV $150 (5-yr); R/R 2.7:1; **Initiate / Hold-Add weakness**; entry $95–110 |
+| [SPCX](tickers/SPCX/SPCX.md) | Active | Space Exploration Technologies (SpaceX) | Wide (Launch/Starlink) / None yet (AI) | Low-Moderate | 2026-07-13 | **v3.0 Initial Ingest** — 5-week-old listing (largest IPO in history, Jun 12 debut) at $145.30, essentially at its post-IPO all-time low after round-tripping from a $225.64 ATH; three segments — Starlink (61% of FY25 rev, only profitable segment), Launch (22%), AI-Compute (17%, ramping via signed Anthropic $1.25B/mo + Google $920M/mo contracts toward ~$26B/yr run-rate); S-1 targets aggressive 2028-2030 growth ($120-180B→$400-500B+) gated on unproven Starship; bond market pricing debt like junk despite IG rating; ~4-5% float with ~31% of float short. Double BAIT (B-Strong, I-Mod-Strong); PW EV ~$185 (5-yr); R/R ~2.3:1. **Watch**; entry <$110; next catalyst first earnings + Aug 11 lockup unlock |
+| [SPOT](tickers/SPOT/SPOT.md) | Active | Spotify Technology | Wide & Widening | Moderate-High | 2026-05-22 | **v2.9→v2.14** + May 21 Investor Day (2030: 35–40% GM, >20% op margin, 1B MAU) + **landmark UMG AI-covers deal** de-risked label/AI overhang; +17% to ~$490 — thesis strengthened, entry compressed; PW EV ~$680 (+39% 5-yr); R/R ~5:1; Watch / Hold |
+| [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 beat ($343M / $0.59 EPS / GM 40.5% +100bps); FY26 reaffirmed; capex cut $224M→$100–120M; **channel inventory 30–40 days vs. 90–120 historical = thesis-break trigger DE-RISKED ✅**; Arkansas plant 2027; PW EV $58 (5-yr); R/R 3.7:1; **Initiate / Hold (add <$37)** |
+| [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow auto + Optional Wide autonomy | Moderate | 2026-04-26 | v2.9 — Quadruple BAIT (Mod); R/R ~1.4:1 not asymmetric; Hold / Watch; entry $280–320 |
+| [UBER](tickers/UBER/UBER.md) | Active | Uber Technologies | Wide (network + brand) | High | 2026-05-22 | Between-prints update — **$10B+ AV commitment (Waymo break) + Delivery Hero takeover study**; –7% to $71.82 (near 52-wk low); sell-side split (May-7 raises vs. May-11 BNP/HSBC/UBS downgrades). Triple BAIT (T softened); PW EV $195 held (+172% 5yr); R/R ~11:1. **Initiate / Add**; entry <$85 |
+| [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-28 | v2.9 — Quadruple BAIT; Q1 BEAT + **CMS 2027 MA Final Rate ≈+2% (2026-04-28)** = double de-risk; ≈$368 (+14% week); Initiate / Add |
+| [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Lower-Moderate | 2026-05-01 | 5-firm post-Q1 analyst cluster confirms thesis-weakening (Goldman Buy→Neutral $190); zones unchanged; Watch / Reduce on bounce |
+| [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide consumer / Narrow agent | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 (May 6) rev $708M (+18%) beat / EBITDA $182M (26%) beat; **record $626M Q1 buyback**; Showcase 4.3% (from 1.7%); mortgage +96%; Q2 guide incl. $20M FTC trial costs; **FTC motion-to-dismiss DENIED May 7** — risk escalated; Zillow+Realtor.com Preview May 5; PW EV $75 (5-yr); R/R ~4:1; **Initiate <$50 / Hold (selective add $38–45)** |
+
+---
+
+## Ticker Summary
+
+| Ticker | Price (4/24–4/26/26) | vs. 52-wk High | BAIT | Recommendation (non-holder / holder) |
+|--------|-----------------|----------------|------|--------------------------------------|
+| ABNB | *(Paused 2026-05-18)* | — | — | — |
+| ACLS | *(Paused 2026-05-18)* | — | — | — |
+| ACN | $187.07 (5/29/26) | –42% | 3–4 lens (B-Strong) | Watch / Initiate on dips ≤$185 / Hold |
+| ADBE | $245.44 | –42% | Triple | Initiate / Add |
+| AMZN | ~$247 | mid-range | Triple | Initiate / Hold-Add |
+| BKNG | $180.25 (post-split) | –22.8% | Triple (B+A-Strong) | Initiate / Hold-Add |
+| BRK.B | $469.32 | –13.4% (52-wk low band) | Triple (B+I-Strong, A-Mod) | **Initiate (small/scaled) / Hold-Add** (Abel succession discount; March buyback at zone) |
+| CELH | $35.25 | –47% | Triple (B-Strong) | Initiate small / Hold-Add |
+| CMG | ~$28.70 (6/3/26) | –51% (new 52-wk low) | Double (B-Strong, A-Mod) | Watch / Initiate (scaled $27–32) / Hold |
+| CPNG | $20.58 | –40% | Triple (B+A-Strong) | Initiate / Add modestly |
+| DASH | $184.53 | –35.4% | Double (B+A+I, all Mod) | **Avoid / Reduce** — PW EV $133 sits 28% below spot; entry $100–113 |
+| DELL | $214.65 | near high | Single | Watch (insider selling) |
+| DIS | $98.84 (7/1/26) | –21% | Double-Triple (A-Strong) | Initiate / Hold-Add |
+| EBAY | $97.94 | –8.8% | Single | Watch / selective Initiate / Hold |
+| FDX | ~$297 (6/24/26) | –14% (post-spin band) | Double (A+B-Mod) | Initiate (scaled $280–300) / Hold-Add |
+| FIG | $17.47 | –88% (post-IPO) | Triple (B+A+I) | Initiate (small, contrarian) / Hold-Add |
+| HOOD | **$70.29** (–14.35% Apr 29) | **–54.3%** | Double (B+A Mod-Strong) | **Initiate / Add** at $65–80; R/R ≈5.5:1 |
+| INTU | $276.73 (6/12/26) | –66.0% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $268–360 |
+| KGS | $65.98 | –0.3% (52-wk high) | Double (A+I+T-Mod) | Watch / Hold; entry $50–55 |
+| LLY | $883.96 | –22.0% | Triple (A+I-Strong, B-Mod) | Initiate / Hold-Add on pullback; entry $750–850 |
+| LNTH | *(Paused 2026-05-10)* | — | — | — |
+| LOW | ~$214 (5/30/26) | –27% | Double (B+A-Mod) | Initiate / Hold-Add; entry ≤$260 |
+| LULU | $143.80 | –57.7% (52-wk low) | Double (B-Strong + A-Mod) | Watch / Initiate <$135 / Hold |
+| MP | *(Paused 2026-05-18)* | — | — | — |
+| MSFT | $424.62 | –23.5% | **Quadruple (B+A+T-Strong, I-Mod)** | Initiate / Hold-Add; entry $380–440 |
+| NFLX | $73.37 (post-split) | –42.6% | Triple (B+A+I-Mod) | Initiate (small, scaled); entry $65–75 |
+| NKE | $42.42 | –47.1% (fresh multi-yr low) | Triple (B-Strong, A-Mod, I-Mod) | Initiate (small,scaled) / Hold-Add; entry $40–48 |
+| ONON | $36.25 | –40.8% | Double (B-Strong + A-Mod) | Initiate / Add; entry $31–40 |
+| PG | $148.18 | –13.3% | Low-Moderate (post-Q3 print) | Watch / Hold; entry $135–148 |
+| PEP | $138.68 | –19.1% | Triple (B+A+I, I now Mod-Strong), Mod T | Initiate (scaled) / Hold-Add; entry $127–150 |
+| RH | $137.51 | –46.5% | Double (B-Strong, T-Mod via 35.6% short) | Watch / selective Initiate; entry $110–135 |
+| RIVN | $13.79 (5/15/26) | –41% from high | Triple (B+A+I-Mod, T-Mod) | Watch / Hold; entry $11–13 |
+| RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
+| SBUX | $97.28 (AH $102.68 +5.5%) | flat (AH near 52w high) | Double (A+I Mod-Strong) | 🟢 Initiate-on-dip / Hold (Add on dip); entry $90–97 |
+| SCHW | $91.71 | –14.7% | Triple-Strong (B+A+I), Mod T | **Initiate / Add**; entry $80–93 |
+| SHOP | $110.51 (May 8) | –39.4% from $182 high | Triple (B+A+I-Mod) | **Initiate / Add <$110** — entry zone reached post-Q1 drift |
+| SN | $115.74 | –13.6% | Triple (A-Mod-Strong; B+I+T-Mod) | Initiate; entry $95–105 |
+| SPCX | $145.30 (7/13/26) | –35.6% from ATH | Double (B-Strong, I-Mod-Strong) | Watch; entry <$110 |
+| SPOT | $489.93 (5/21/26) | –37.6% | Double (A-Mod-Strong, B+I+T-Mod) | Watch / Hold; entry $400–540 |
+| TREX | $41.90 | –39% | Double (B+A-Mod) | Initiate (patient) / Hold; entry $30–42 |
+| TSLA | $376.30 | –24.6% | Quadruple-Mod (B+A+I+T) | Hold / Watch; entry $280–320 |
+| UBER | $71.82 (5/22/26) | –29.6% | Triple (B+A+I-Strong, T-Weak) | **Initiate / Add**; entry <$85 |
+| UNH | ≈$368 | ≈–13% | Quadruple (B-compressed; A+I-Strong, T-Mod) | **Initiate / Add** (Q1 BEAT + CMS 2027 MA Final Rate ≈+2% double de-risk) |
+| WING | $165.64 | –57% | Triple (B-Strong, A-Mod, T-Weak) | Watch / Reduce on bounce >$180; entry $135–150 |
+| ZG | $45.41 | –51.6% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $38–50 |
+
+---
+
+## Frameworks
+
+| Framework | Description | File |
+|-----------|-------------|------|
+| BAIT | Mauboussin Behavioral/Analytical/Informational/Technical | [frameworks/bait.md](frameworks/bait.md) |
+| Moneyball | Probability-weighted scenario scoring | [frameworks/moneyball.md](frameworks/moneyball.md) |
+| Asset Types | Valuation approaches by business model | [frameworks/asset-types.md](frameworks/asset-types.md) |
+| Outsiders | Thorndike §4 capital-allocation grade (countercyclical buyback discipline) | [frameworks/outsiders.md](frameworks/outsiders.md) |
+
+*(Position Sizing framework retired in v2 — wiki is position-agnostic per Core Rule #3.)*
+
+---
+
+## Other Pages
+
+| Page | Description |
+|------|-------------|
+| [watchlist.md](watchlist.md) | Cross-ticker attractiveness ranking (no allocation) |
+| [/README.md](../README.md) | Top-level repo orientation + ticker table (Core Rule #13) |
+
+---
+
+## Pending Data Gaps (flag for next session)
+
+| Ticker | Gap | Source Needed |
+|--------|-----|--------------|
+| LLY | FCF, operating cash flow, capex from 10-K | SEC EDGAR / investor.lilly.com |
+| LLY | Precise drug revenue breakdown FY2025 full year | LLY 10-K or Q4 press release |
+| LLY | Geographic revenue by region (exact %) | LLY 10-K segment note |
+| WING | FCF, operating cash flow from 10-K | SEC EDGAR / ir.wingstop.com |
+| UNH | Full balance sheet: debt structure, dividend coverage | UNH 10-K |
+| SCHW | Insider activity (last 90 days) | OpenInsider / SEC Form 4 |
+| RKT | Short interest % of float | Fintel / aggregator |
+| RKT | Insider activity (last 90 days) | OpenInsider / SEC Form 4 |
+| RKT | Full FY2025 adj revenue (post-acquisition, full year) | RKT 10-K |
+| Multiple (v2.4 batch) | Specific short interest %, insider Form 4 cadence, geographic revenue mix detail flagged in 25-ticker batch ingest | Per-ticker raw fetches in subsequent passes |
+| INTU, KGS, AMZN, MSFT | Specific April 2026 short interest figures | Aggregator pull |
+| FDX | FY2025 GAAP diluted EPS; FY2026 free cash flow; Q4 FY2026 GAAP line items | SEC 8-K (fdx-earningsreleasefy2026q4) — 403 to automated fetch |
+| FDX | Verbatim FY2021–FY2026 annual shareholder/Chairman letters (Rule #18) | investors.fedex.com annual reports |
+| FDX | Freight-spin stranded-cost figure (~$350M from call coverage, not yet in filings) | FDXF Form 10 information statement |
+| FDX | Exact FedEx & USPS US parcel revenue-share %; raw 10-K/transcript PDFs not stored locally | 2025 Pitney Bowes Index PDF; SEC EDGAR |
+| Multiple (v2.4 batch) | Yahoo Finance chart-API stale-price issue noted by 2 of 5 ingest agents | Cross-verify prices on next refresh; consider using `/quote/[TICKER]/` HTML scrape as fallback |
+
+---
+
+*Last full index refresh: 2026-07-13 — NFLX Workflow B (pre-Q2-earnings update ahead of the confirmed Jul 16, 2026 print; corrected a factual error — the $2.8B Q1 26 cash receipt was the M&A break fee from the failed $82.7B WBD bid, not a content-licensing termination; Nielsen engagement deep-dive verdict: real under current methodology but industry-wide/mature-market-concentrated, not a subscriber-retention problem, real exposure is the ad-inventory linkage; five analyst target cuts (KeyBanc $115→$92, Citi/Bernstein →$100, Jefferies $128→$110, all Buy-equivalent held) plus a TipRanks AI Analyst downgrade (Buy→Neutral, $80→$77); price fell to $73.37 (–43% from 52-wk high, now below the stock's own old 2028 Bear case); Bull/Base/Bear reweighted/trimmed to $150/$105/$60 (25/50/25%); PW EV $119.50→$105; R/R 2.9:1→5.7:1 mechanical, price-driven; Initiate (small, scaled) unchanged; entry $80–88→$65–75; 47 tickers, 43 Active / 4 Paused). Prior 2026-07-13 — SPCX Workflow A ingest (v3.0 Initial Ingest; 5-week-old listing — largest IPO in history, Jun 12 debut — at $145.30, essentially at its post-IPO all-time low after round-tripping from a $225.64 ATH; three segments: Starlink 61% of FY25 revenue (only profitable segment), Launch 22%, AI-Compute 17% (ramping via signed Anthropic $1.25B/mo + Google $920M/mo contracts toward ~$26B/yr run-rate); S-1 targets aggressive 2028-2030 growth ($120-180B→$400-500B+) gated on unproven Starship; bond market pricing a $25B IG-rated offering like junk; ~4-5% float with ~31% of float short; $60B Cursor/Anysphere acquisition undisclosed rationale. Double BAIT B-Strong/I-Mod-Strong; PW EV ~$185 (5-yr); R/R ~2.3:1; Watch; entry <$110; next catalyst first earnings + Aug 11 lockup unlock; 47 tickers, 43 Active / 4 Paused). Prior 2026-07-01 — NKE Workflow B (Q4/FY2026 earnings — underlying beat masked by a one-time $986M tariff refund; NA +3% confirmed for a 2nd straight quarter; China accelerated to –17% CN; new Nike Sportswear/Jordan streetwear weakness disclosed; CFO Friend departing for Denton (ex-Pfizer); no FY2027 guide given, deferred to Nov 16–17, 2026 Investor Day; fresh multi-year low ~$40 then a +3.2% relief rally to $42.42; PW EV $60.50 unchanged, R/R improved mechanically 3.6:1→4.6:1; verbs tempered to Initiate (small, scaled) / Hold-Add). Prior 2026-07-01 — DASH Workflow B (rallied +12.6% to $184.53 on ads/AI/World Cup narrative with no new earnings; autonomous delivery funded via Also/Rivian $200M round + DOL gig-worker NPRM de-risks federal reclassification tail; PW EV unchanged $133 → stock deeper in Trim zone, R/R worsened mechanically 0.4:1→0.23:1; Avoid / Reduce unchanged; Q2 FY26 earnings confirmed Jul 30, 2026). Prior 2026-07-01 — PEP Workflow B (analyst target-cut cluster + Elliott primary-source deep dive + GLP-1 adversarial review; price $144.19→$138.68; R/R ≈4.7:1→≈7.4:1 mechanical; Initiate (scaled) / Hold-Add unchanged; entry $127–$150; Q2 FY26 earnings confirmed Jul 9, 2026; 46 tickers, 42 Active / 4 Paused). Prior 2026-07-01 — DIS Workflow A ingest (v3.0 Initial Ingest; at $98.84 / ~21st %ile / –21% from 52-wk high on sector-wide media stigma, an ESPN sports-rights cost step-up (Q3 FY26 guided –14% YoY), and an escalating FCC/ABC broadcast-license dispute; Disney+/Hulu op income +88% YoY, Experiences records almost every quarter ($10.0B FY25); clean CEO handoff to Josh D'Amaro Mar 18, 2026, Iger stays as senior advisor through 2026; buyback raised to $8B, dividend to $1.50/yr, net debt/EBITDA 1.9× lowest since 2018; Outsider grade Steward (not Outsider); Double-Triple BAIT A-Strong; PW EV $146/+48% 5-yr; R/R ~4.7:1; Initiate / Hold-Add; spot already inside the ≤$115 entry zone; Q3 FY26 ~Aug 12; 46 tickers, 42 Active / 4 Paused). Prior 2026-06-24 — FDX Workflow A ingest (v3.0 Initial Ingest; post-spin parcel pure-play after the June 1, 2026 FedEx Freight/FDXF tax-free spin-off + FY-end change May→Dec; ~$297 post-Q4-print, −6%; record FY2026 $94.7B / $20.24 adj EPS +11% through a ~$1B de-minimis/trade headwind; optical FY2027 continuing-ops guide $16.90–$18.10; DRIVE $4B done + Network 2.0 $2B-by-FY27 → FY2029 ~8%-margin target the re-rating crux for sub-WACC ROIC ~6.7%; Narrow moat eroding, Amazon #1 US carrier by volume, RLA labor cost-edge; Double BAIT A+B-Mod; Outsider Reinvestor-reforming; PW EV $372/+25% 5-yr; R/R ~3:1; Initiate scaled $280–300 / Hold-Add; entry at 20%-MoS line; 45 tickers, 41 Active / 4 Paused). Prior 2026-06-15 — INTU Workflow B (post-earnings weakness re-eval): post-Q3 slide extended ~13% to $276.73 (fresh 52-wk low $268.01) on *no earnings* — Goldman→Sell (PT $276 at spot), OpenAI personal-finance entry, $1.75B debt raise, securities-fraud probe; bear deepened $270→$220 & re-weighted 20%→25%; PW EV $552→$521 (+88%); R/R ~8:1; on-balance mispricing but higher-variance; Initiate / Add; entry $268–360; 44 tickers, 40 Active / 4 Paused. Prior 2026-06-03 — CMG Workflow A ingest (v3.0 Initial Ingest; fast-casual leader at ~$28.70 new 52-wk low; –51% from high; traffic down all 4Q 2025; flat FY2026 SSS guide; Morgan Stanley downgrade to Equalweight; unit-growth flywheel intact; Double BAIT B-Strong; PW EV $41.50; R/R ~4.5:1; Watch / Initiate scaled / Hold; entry $27–33; 44 tickers, 40 Active / 4 Paused). Prior 2026-05-31 — HD Workflow B Q1 FY2026 post-print (binary resolved positively: adj EPS $3.43 beat, comps +0.6%, guidance reaffirmed; ~$320 post-print; GMS closed Sep 4; Mingledorff's HVAC closed May 11; SRS cross-sell ~$400M/yr; PW EV $377/+18%; R/R ~2.0:1; Initiate/Watch / Hold-add on weakness; Q2 FY26 ~Aug); also LOW vs. HD comparison insights document created. Prior 2026-05-31 — LOW Workflow A ingest (v3.0 Initial Ingest; #2 US home improvement at $214 near 52-wk low; 17× FY26E P/E 6× discount to HD; housing lock-in + FBM $8.8B integration risk priced in; Dividend King; Pro 30% + FBM unlocks $250B construction TAM; Double BAIT B+A-Mod; PW EV $322/+50%; R/R ~4.9:1; Initiate / Hold-Add; entry ≤$260); 43 tickers (39 Active / 4 Paused). Prior 2026-05-31 — ACN Workflow B + v3.0 upgrade (price $168.82→$187.07; Outsider-leaning grade added; OpenAI Federal partnership captured; R/R 3.3:1→2.2:1; verbs Watch/Initiate-on-dips/Hold). Prior 2026-05-30 — PEP Workflow A ingest (Dividend King at trough multiple / ≈4.05% yield; GLP-1 + FLNA + MAHA-dye + Elliott fear overshooting a wide-moat compounder; Q1 FY26 FLNA +2% volume inflection + PBNA margin mean-reversion lever; Triple BAIT B+A+I; PW EV ≈$183; R/R ≈4.7:1; Initiate (scaled) / Hold-Add; entry $127–$150); 42 tickers (38 Active / 4 Paused). Prior 2026-05-22 — INTU + SPOT + UBER Workflow B. UBER between-prints update: publicly broke from Waymo + disclosed $10B+ AV commitments (Lucid/Nuro, Rivian) + studying full Delivery Hero takeover (~25% stake); –7% to $71.82 near 52-wk low; sell-side split; PW EV $195 held, R/R 9→11:1; Initiate/Add (error bars widened, capital-allocation now the key monitorable). INTU + SPOT (both v2.9→v2.14). INTU: Q3 FY26 beat-and-raise met –20% (17% workforce cut + FY27 11–12% guide); IRS Direct File ✅ permanently de-risked; PW EV $566→$552 (+73%); R/R ~8:1; Initiate / Add. SPOT: May 21 Investor Day 2030 targets (35–40% GM, >20% op margin, 1B MAU) + landmark UMG AI-covers deal de-risked label/AI overhang; +17% to ~$490; migrated to 5-yr terminal PW EV ~$680 (+39%); R/R ~5:1; verb shift Initiate→Watch (entry compressed). Prior 2026-05-18 PM — RIVN Workflow B (post-earnings weakness + share-dilution deep-dive IPO→present + forward VW/convert path; PW EV $21.10→$19.90; R/R 2.1→2.4:1; Watch / Hold). Earlier 2026-05-18 — ACN Workflow A ingest (#1 global IT-services at trough multiple; PW EV $233; R/R 3.3:1; Initiate ≤$185 / Add) + HD pre-Q1 price-action update (slid to $297.51 fresh 52-wk low — opportunity-leaning conditional on May 19 print) + ABNB/ACLS/MP user-directed pause (Workflow C.1); 41 tickers (37 Active / 4 Paused). Prior 2026-05-10 PM2 (SHOP v2.13→v2.14 + Q1 print cross-cutting propagation + post-Q1 drift to $110.51 with entry-zone-reached verb upgrade; LNTH Paused via Workflow C.1). Earlier 2026-05-10 PM: 13-ticker Workflow B Q1 2026 cluster (ABNB / ACLS / BRK.B / CELH / CPNG / DASH / FIG / LNTH / MP / RKT / SN / TREX / ZG). Earlier 2026-05-10 AM: HD + AMCR Workflow A dual-ingest + PG v2.9→v2.14 migration. 40 tickers total (39 Active / 1 Paused). Prior: 2026-05-06 (UBER v2.14); 2026-04-29 (HOOD v2.12; WING Q1 thesis-break).*
+
+---
+
+## Austin 的 Overlay 股票
+
+*在 `rwh-overlay` 独立研究的股票，不属于上游覆盖范围。*
+
+| Ticker | 状态 | 公司 | 护城河 | 最后更新 | 摘要 |
+|--------|------|------|--------|----------|------|
+| [ACLS](tickers/ACLS/overview.zh.md) | 观察 — 周期复苏标的；Q1 FY2026 财报后缺口跳涨 +22%，严重偏离均线 | Axcelis Technologies, Inc. |  | 2026-05-06 | Axcelis 设计并制造用于半导体晶圆厂的离子注入设备——将掺杂原子精确植入硅晶圆的专用机器，是逻辑、存储和功率芯片制造的必经工序——并在碳化硅（SiC）功率器件注入领域占有约 80% 的市场份额。 |
+| [ACN](tickers/ACN/overview.zh.md) | ⚠️ 待审核 — 宽护城河复利型公司处于历史估值低点；Q3 FY26 指引未知；FCF 收益率… | 埃森哲（Accenture plc） |  | 2026-06-19 | 埃森哲是全球最大的 IT 服务和咨询平台（营收约 $700 亿，786,000 名员工），其核心战略地位是企业 AI 转型的"编排层"——问题在于这一地位能否在 AI 工具推动自助转型浪潮下持续，还是会被 AI 本身取代。 |
+| [ADBE](tickers/ADBE/overview.zh.md) | 观望 — 历史估值洼地，优质复合增长股；AI 颠覆叙事已超出基本面恶化程度；入场触发条件：2026-06-11 财报 | Adobe Inc. |  | 2026-05-05 | Adobe 是全球内容创作的事实操作系统——从 Photoshop 到 PDF 再到企业营销分析——现正押注其 Firefly 生成式 AI 平台将扩大而非侵蚀其主导的专业用户护城河。 |
+| [AMCR](tickers/AMCR/overview.md) |  |  |  | 2026-06-15 |  |
+| [AMKR](tickers/AMKR/overview.zh.md) | Watch— AI 先进封装 OSAT 龙头，干净 Stage 2但 +314% 严重扩展；PW EV ≈… | Amkor Technology, Inc.（安靠科技） |  | 2026-06-01 | 安靠是全球第二大 OSAT（外包半导体封装测试）厂商，AI 算力时代"封装瓶颈"核心受益者——先进封装（chiplet / 2.5D / 系统级封装）是 AI 芯片从晶体管到系统的关键卡口，安靠正以亚利桑那 CHIPS Act… |
+| [ASTS](tickers/ASTS/overview.zh.md) | Watch— 投机性 LEO 直连卫星平台；Stage 2但高于 MA50 30%；等回调至 $90–95 后入场 | AST SpaceMobile, Inc. |  | 2026-05-29 | AST SpaceMobile 正在建设低地球轨道卫星星座，通过与 AT&T、Verizon、乐天、沃达丰等一级运营商签订批发协议，直接向普通智能手机（无需特殊硬件）提供蜂窝宽带服务。 |
+| [AVGO](tickers/AVGO/overview.zh.md) | Watch— Q2 FY26 超预期；AI XPU 论点强化，但盘后 −8%"sell the… | 博通公司 | 宽护城河 | 2026-06-03 |  |
+| [AXTI](tickers/AXTI/overview.zh.md) | 观察 — 🔴 Stage 3 破位；基本面改善；股价已到达此前目标入场区 $65-80；2026-07-30 Q2… |  | 窄 | 2026-06-26 | AXT, Inc. 制造化合物半导体衬底——磷化铟（InP）、砷化镓（GaAs）、锗（Ge）、砷化铟（InAs）——是 AI 数据中心光互连、5G 以及太空太阳能等应用的关键基础材料。 |
+| [BB](tickers/BB/overview.zh.md) | 观察+ — Q1 FY2027 EPS +50% 超预期；价格 $10.34；MA50 持续追赶；财报后整理入场窗口开启 | 黑莓有限公司 |  | 2026-06-25 |  |
+| [BKNG](tickers/BKNG/overview.zh.md) | Watch — 🔄 性质反转。价格 $196.48已收复 MA50/150/200 并触及 PW EV… | Booking Holdings Inc. |  | 2026-07-28 |  |
+| [CLFD](tickers/CLFD/overview.zh.md) | 观察 — 突破后的复苏行情；BEAD + NOVA 数据中心转型 | Clearfield, Inc. |  | 2026-05-14 | Clearfield 制造光纤管理、保护与配线产品 —— 面向 ISP/CLEC 的 FieldSmart/FieldShield 生态系统（BEAD 宽带）以及面向超大规模数据中心的新品 NOVA HD 面板（384 个 LC 光纤端口… |
+| [COHR](tickers/COHR/overview.zh.md) | ⚠️ 持平共识 / 优先等回调 — Q3 FY2026 已确认；股价 +13.25% 至新 ATH… | Coherent Corp. | 护城河较窄，在 2026-2028 年 AI 建设周期内可防御。 | 2026-05-11 |  |
+| [COMP](tickers/COMP/overview.zh.md) | 观察 → 走强可操作— 被低关注的价值扭亏标的，具真实盈利拐点；站上 MA50、basing、early Stage… | Compass, Inc.（康普斯） |  | 2026-06-12 |  |
+| [EBAY](tickers/EBAY/overview.zh.md) | 活跃 — 🟡 观察 | eBay Inc. | 窄 | 2026-06-18 |  |
+| [EOSE](tickers/EOSE/overview.zh.md) | Active— 2026-06-17 新产线投产公告 +16.37% 大涨，99× 均量；170 股 @ $7.95… | Eos Energy Enterprises, Inc. |  | 2026-06-17 | Eos Energy 是美国唯一规模化商业化的锌基（Znyth）长效储能公司，核心产品 Z3 电池系统针对 3–12 小时电网储能，2025 年营收 +632% 至 $114M，2026 年目标 $310M+——押注锌基化学在 4h+… |
+| [FCEL](tickers/FCEL/overview.zh.md) | 回避 — 动量驱动的投机标的；当前价位结构性负毛利率 | FuelCell Energy, Inc. | MCFC 知识产权方面护城河较窄；单位经济学方面没有护城河。 | 2026-05-14 | 熔融碳酸盐燃料电池（MCFC）发电厂开发商与运营商——通过电化学反应将天然气和氢气转化为电力（无燃烧、超低 NOx、可捕碳）——主要面向公用事业、数据中心及市政机构提供固定式商业和工业电力。 |
+| [GLW](tickers/GLW/overview.zh.md) | 持有— MA50 触发线命中；止损 $163 未触及；财报 2026-07-28 二元催化剂 | Corning Incorporated（康宁） |  | 2026-07-15 |  |
+| [GOOG](tickers/GOOG/overview.zh.md) | 观望 — 基本面强劲；财报后跌破MA50；等待MA50收复或更深的MA150回测 | Alphabet Inc.（A类股） |  | 2026-07-22 |  |
+| [INTC](tickers/INTC/overview.zh.md) | 观察 — 转型拐点信号；Q2 2026财报EPS +92%超预期；SEPA Stage 3；等待重回MA50 | 英特尔公司 | x86生态系统+美国芯片法案地位形成狭窄护城河。IFS护城河今日为零——须在2027年之前靠执行力赢得。 | 2026-07-23 | 世界历史上最大的半导体公司；正从纯IDM模式转型为IDM+外部代工（IFS），经历$500亿+资本支出周期——目前呈现拐点：资本支出下降，盈利恢复。 |
+| [INTT](tickers/INTT/overview.zh.md) | Watch — 杯柄形态形成中；8 月 5 日 Q2 财报为关键二元事件；PW EV $18.70 ≈ 当前价格 | inTEST 公司 |  | 2026-06-25 | inTEST 公司设计和制造专业测试及工艺技术设备——热腔体、ATE 操纵器、飞针 PCB 测试仪和感应加热系统——服务于半导体、国防、电动车/汽车、工业和生命科学终端市场，同时积极推进 Vision 2030… |
+| [INTU](tickers/INTU/overview.zh.md) | 观察/建仓 — Q3 FY26 超预期+上调指引；IRS Direct File 永久终止；论点实际加强；入场区间… | Intuit Inc. |  | 2026-05-22 | 美国最大消费者/中小企业财税软件平台（TurboTax + QuickBooks），凭借多年用户数据锁定和会计师网络效应构筑护城河——但 AI 正在快速侵蚀这些护城河所依赖的技术壁垒。 |
+| [MP](tickers/MP/overview.zh.md) | 观察。股价 $52.38；SEPA 趋势模板 0/8；Stage 1 深度下跌趋势；三条均线全部高于股价且 MA200… | MP Materials Corp. | 窄偏中等护城河，经政策强化中扩宽。 | 2026-07-09 | Mountain Pass（加州莫哈韦沙漠）—— 西半球唯一一体化的稀土采选与分离 综合体 —— 的所有者/运营商。MP 正在从稀土精矿出口商转型为完全一体化的 "从矿山到磁铁"（mine-to-magnet） 国内生产商，具有… |
+| [MRAM](tickers/MRAM/overview.zh.md) | 回避 — $40M 国防合同已签；股价+622% 处于抛物线阶段；触及52周高点；当前股价为最高分析师目标价的2.15倍… | Everspin Technologies, Inc. | 窄护城河 | 2026-05-11 |  |
+| [MRVL](tickers/MRVL/overview.zh.md) | 观察— Q1 FY27 财报超预期；刷新 52 周新高 $217；PW EV 更新至 ~$193；等待… | 美满电子科技公司 | 窄护城河。 | 2026-05-27 |  |
+| [MSFT](tickers/MSFT/overview.md) |  | Microsoft Corporation |  | 2026-05-15 |  |
+| [NKE](tickers/NKE/overview.zh.md) | 观察 — Stage 4 技术形态；PW EV ~$51 vs 当前 $46；等待 Q4 FY26 财报或 Stage… | 耐克公司 | 宽护城河 | 2026-05-27 |  |
+| [NOK](tickers/NOK/overview.zh.md) | 观察中 — Stage 2 确认，趋势模板 8/8；但较 MA50 超涨 44.9%，处于 52 周高点；概率加权… | 诺基亚（Nokia Oyj） |  | 2026-04-30 | 诺基亚设计并销售 5G/4G 移动网络、光纤/光学/IP 基础设施和云网络服务——并通过其约 2 万件专利组合（诺基亚技术部门）向苹果、三星等设备制造商收取高毛利版税。 |
+| [NVDA](tickers/NVDA/overview.zh.md) | 活跃 — 🟢 等待区间已到达。$196.23落入 5/20 设定的 $195–$210 入场区下沿。趋势模板… | 英伟达 | 宽护城河，但并非无懈可击。 | 2026-07-28 | 英伟达设计和销售图形处理器（GPU）、AI 加速芯片及配套软件——AI 训练和推理基础设施的全球标准，凭借约 80% 的 AI GPU 市场份额和 20 年 CUDA 软件护城河主导市场。 |
+| [NVTS](tickers/NVTS/overview.zh.md) | Watch — Stage 3 修正；Q2 财报 7/27 临近 | Navitas Semiconductor（纳微半导体） |  | 2026-07-10 | 宽禁带（WBG）功率半导体纯种设计公司，产品线涵盖 GaN（氮化镓）和 SiC（碳化硅），正从低毛利手机充电器业务向 AI 数据中心、电网、电动汽车、工业等高功率应用转型。 |
+| [OCC](tickers/OCC/overview.zh.md) | 观察— 价格较高点回落 –29% 至目标 $14–18 入场区间；Q3 FY2026为关键确认催化剂；当前价 PW… | Optical Cable Corporation（光缆公司） | 窄护城河 | 2026-07-11 | Optical Cable Corporation 生产光纤和铜线结构化布线产品，服务企业网络、数据中心和军事/恶劣环境市场 — 一家小市值国内制造商，作为 AI 数据中心基础设施建设的二阶受益者。 |
+| [OKLO](tickers/OKLO/overview.zh.md) | 🔴 观察— 论点 Weakened。$10 亿 ATM 增发在股价距 52 周低点仅 3.6% 时提交，「稀释性增发… | Oklo Inc.（奥克洛） |  | 2026-07-27 |  |
+| [PFE](tickers/PFE/overview.zh.md) | Watch— Stage 1 筑底；当前价 R/R ~1:1；下次财报 2026-08-04 盘前；股息率 6.87%… | 辉瑞公司（Pfizer Inc.） |  | 2026-07-19 | 辉瑞是全球最大传统制药公司之一（市值~$1,428亿），COVID 红利消退后正以 Seagen ADC 肿瘤平台重建营收基础——同时管理 $647亿收购债务，并维持一项正在压榨自由现金流的高额股息。 |
+| [PLTR](tickers/PLTR/overview.zh.md) | Watch — 基本面极强，Stage 3-4 技术性回调；股价进入 $120-130 等待区，底部尚未形成 | Palantir Technologies Inc. | 政府端护城河宽（深化中）；商业端护城河窄（竞争加剧）。 | 2026-07-22 |  |
+| [POET](tickers/POET/overview.zh.md) | 关注— Lumilens $50M PO 确认 + Q1 营收大超预期；股价 $20.57，高于 PW EV… | POET Technologies Inc.（派特科技） | 护城河狭窄、尚待验证。 | 2026-05-14 | 无晶圆厂光子集成公司，商业化其 光学插入器™ 平台——将激光器、调制器和探测器单片集成于单一芯片，生产面向 AI 超大规模数据中心互连的 800G / 1.6T / 3.2T+ 光引擎。 |
+| [QSI](tickers/QSI/overview.zh.md) | Watch — 回避技术入场；监控营收反转信号；EV 约 $49M 基于 $163M 现金 | Quantum-Si Incorporated | 窄护城河 | 2026-05-07 |  |
+| [RFIL](tickers/RFIL/overview.zh.md) | 观察 — Chen 确认翻转，价格小幅回调至 $14.18，等待 $11-12 入场 | RF Industries, Ltd. |  | 2026-04-27 | RF Industries 制造电信级同轴连接器、线缆组件及小型基站解决方案，是 5G 无线基础设施的小众供应商，正从 FY2023-2024 的营收下滑中完成结构性翻转。 |
+| [RXT](tickers/RXT/overview.zh.md) | 观察 — Stage 2 Base 1 突破但过度延伸；价格远超分析师共识；等待整理 | Rackspace Technology, Inc. |  | 2026-06-19 |  |
+| [SCHW](tickers/SCHW/overview.zh.md) | Active— 论点执行中；T1 ✅已达；当前价 $101.56，Stage 2过渡确认；下次财报… | 嘉信理财集团（The Charles Schwab Corporation） |  | 2026-07-17 | 嘉信理财是美国最大零售券商（$11.8万亿客户资产，4,650万账户），主要通过扫描现金的净利差（约49%营收）以及持续扩大的顾问/ETF/交易服务货币化客户信任——凭借规模、RIA 托管主导地位和竞争对手无法复制的自营银行构建宽护城河。 |
+| [SHOP](tickers/SHOP/overview.zh.md) | 观察 / 基本面积累 — 技术面处于第4阶段；基本面入场区间 $100–120 已至；当前价 $103 已低于 rwh… | Shopify Inc. |  | 2026-05-23 |  |
+| [SMCI](tickers/SMCI/overview.zh.md) | 回避 — Stage 4 下跌趋势；6月10-11日灾难性破位，如3-6个月内形成Stage 2底部则考虑重新入场 | Super Micro Computer, Inc. | 护城河狭窄，正在侵蚀。 | 2026-06-19 |  |
+| [SN](tickers/SN/overview.zh.md) | 观察— 优质复利成长股，但 $128.48 处动量 extended；入场已无不对称性 | SharkNinja, Inc. |  | 2026-06-09 |  |
+| [SNPS](tickers/SNPS/overview.zh.md) | Watch— 宽护城河 EDA 双寡头；Ansys 收购消化 + 中国 EDA 禁令双重压制；PW EV ≈… | Synopsys, Inc.（新思科技） |  | 2026-06-01 | 新思科技是 EDA（电子设计自动化）双寡头之一——每家半导体公司设计和验证芯片都必用的命脉软件——通过 ~$35B 收购 Ansys 扩入仿真/多物理场，定位为 AI 算力时代的"硅到系统"设计平台。 |
+| [TRT](tickers/TRT/overview.zh.md) | 关注 — 东南亚半导体测试微型股；AI GPU 烧结需求真实，但股价受散户炒作推高；等待整固 | Trio-Tech International |  | 2026-06-19 | Trio-Tech International 在东南亚（马来西亚、新加坡、泰国、印度尼西亚）半导体供应链枢纽中运营嵌入式烧结、可靠性及环境测试实验室，目前正通过自有烧结板（BIB）制造业务捕获 AI GPU 可靠性验证需求。 |
+| [TSLA](tickers/TSLA/overview.zh.md) | 观察— 技术 Stage 4，Q2 EPS -28% 未达预期，Robotaxi 叙事待电话会确认，🏦 蓝筹仓位… | 特斯拉公司 |  | 2026-07-23 | 特斯拉是全球领先的电动汽车制造商，同时押注自动驾驶（FSD/Robotaxi）和能源存储（Megapack），以"AI + 能源"叙事支撑 $1.42T 市值，但近年汽车毛利率从 25% 降至 18%，盈利大幅压缩。 |
+| [TSLL](tickers/TSLL/overview.md) |  | Direxion Daily TSLA Bull 2X Shares |  | 2026-05-07 |  |
+| [UBER](tickers/UBER/overview.zh.md) | 持仓中 — 论点完整 + 价格处于入场区间，但 SEPA 处于 Stage 4 且位于 52… | Uber Technologies, Inc. | 双边网络 + 美国出行业务具备宽护城河；外卖业务护城河较窄；AV 领域存在生死问题（若 OEM… | 2026-06-10 | 全球双边交通+外卖平台（覆盖 70+ 国，1.99 亿月活用户，FY2025 总预订额 $1935 亿），抽成率约 27%——已越过自由现金流拐点（FY2025 FCF $98 亿），从"自动驾驶受害者"重新定位为"AV 分发层"，借助… |
+| [UUUU](tickers/UUUU/overview.zh.md) | 观察 — Stage 3/4 下降趋势；价格 $15.64 低于 MA50 $18.95；待技术结构修复后再考虑加仓 | Energy Fuels Inc.（能源燃料公司） | 真实的战略期权价值，美国稀土-铀一体化的真正先行者， 但当前规模尚小。 | 2026-06-17 | 美国唯一同时生产铀和稀土元素（REE）的公司 —— 运营犹他州 White Mesa 磨矿厂（美国唯一常规运营的铀磨矿厂）， 处理独居石矿以生产稀土碳酸盐，同时建设稀土分离产能， 并在此基础上叠加新兴医疗同位素（镭-226）业务。 |
+| [VSH](tickers/VSH/overview.zh.md) | 观察 — 深度价值周期性复苏；价格处于52周高位，从低点大幅拉升+457%；50MA溢价+60%极度拉伸；等待整理 | Vishay Intertechnology, Inc. | 窄护城河。 | 2026-06-19 | 全球最大的分立半导体与无源电子元件制造商（MOSFET、二极管、电阻、电容、电感、光电器件）——每个电源电路的隐形支柱，从AI服务器电源到电动车逆变器到工业电机。 |
+| [WOLF](tickers/WOLF/overview.zh.md) | 🟡 活跃 — 论点 Weakened。价格 $22.56；营收连续 3 季下滑 $196.8M→$150.2M逼近… | Wolfspeed, Inc.（沃飞半导体） | 衬底 + 美国 CHIPS 位置有窄护城河；器件领域护城河弱 | 2026-07-27 | 垂直整合的碳化硅（SiC）半导体制造商 —— SiC 衬底全球龙头（约 34% 份额），SiC 器件市场落后玩家 —— 2025 年 9 月从 Chapter 11 破产保护 退出，资产负债表去杠杆化但底层业务结构性问题仍存在。 |
+| [XRX](tickers/XRX/overview.zh.md) | 回避 — 债务缠身的衰退印刷企业遭遇空头逼仓，无经核实的 AI/转型催化剂 | 施乐控股公司 |  | 2026-05-03 |  |
+| [ZETA](tickers/ZETA/overview.zh.md) | 观察 — AI营销云，强劲FCF与19连胜记录；数据来源风险限制高确信度 | Zeta Global Holdings Corp |  | 2026-05-22 | Zeta Global运营一套统一的AI驱动营销云，以2.45亿用户身份的专有数据图（Zeta Data Cloud）和OpenAI驱动的AI代理（Athena）为核心，取代碎片化的CDP/DSP/CRM/分析工具栈。 |

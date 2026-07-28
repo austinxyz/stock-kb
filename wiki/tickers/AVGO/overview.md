@@ -1,0 +1,129 @@
+---
+source: austin
+---
+
+# AVGO — Broadcom Inc.
+
+**Last updated**: 2026-06-03
+**Status**: Watch — Q2 FY26 beat (rev $22.2B +48%, AI semi $10.8B +143%); AI XPU thesis strengthened, but stock −8% AH on "sell the news" (Hock Tan reiterated, did NOT raise >$100B FY26 AI target); post-earnings pullback toward cleaner entry now materializing
+**Language**: English | [中文](overview.zh.md)
+
+---
+
+## Business in One Line
+
+Broadcom designs custom AI accelerators for Google, Meta, and ByteDance — the dominant contractor for hyperscaler AI silicon — while operating VMware as the backbone of enterprise private cloud, generating $27B+ in annual FCF.
+
+---
+
+## Asset Type
+
+**Large-cap compounding FCF machine + AI growth kicker.** Primary valuation lens: Forward P/E (non-GAAP) and FCF yield. GAAP earnings are distorted by ~$8-9B/year in VMware intangible amortization post-acquisition; track non-GAAP EPS and FCF. Dividend grower (0.62% yield, 14 consecutive annual raises).
+
+| Attribute | Value |
+|-----------|-------|
+| Market Cap | $1.97T |
+| Revenue (FY2025, ended Oct 2025) | $63.9B (+23.8% YoY) |
+| Revenue TTM | $68.3B |
+| Gross Margin (TTM) | 76.7% |
+| Operating Margin (FY2025) | 40.8% |
+| FCF (FY2025) | $26.9B |
+| Cash | $16.2B |
+| Total Debt | $65.1B |
+| Net Debt | $48.9B |
+| Dividend Yield | 0.62% ($2.60/share annual) |
+| Beta (5Y) | 1.44 |
+| Shares Outstanding | 4.74B |
+
+---
+
+## Moat
+
+**Wide moat — custom ASIC qualification lock-in + networking oligopoly + VMware sticky enterprise base.**
+
+### What AVGO has
+- **Custom ASIC exclusivity**: Only company with confirmed multi-generation XPU design wins at Google (TPU v6), Meta (MTIA-2), and ByteDance — each a 3-5 year revenue stream with 18-36 month re-qualification to switch
+- **AI networking monopoly**: Tomahawk 5 Ethernet switch (51.2Tb/s) and Jericho3-AI router hold 60-70% market share in AI cluster fabric
+- **VMware stickiness**: 80%+ of Fortune 500 enterprises run vSphere; migration is a multi-year project — switching cost is enormous
+- **SerDes IP depth**: 50+ years of high-speed interconnect IP; irreplaceable for custom photonic chip integration
+
+### What AVGO doesn't have
+- **GPU training dominance**: NVIDIA H100/H200/B200 remains the default for AI training workloads; AVGO's XPUs target inference and specialized training
+- **Manufacturing flexibility**: Fully fabless; dependent on TSMC N3/N2 capacity competing with NVDA and Apple
+- **Revenue diversification**: Google alone is ~26% of semiconductor revenue — extreme concentration risk
+
+### Verdict
+**Wide moat** for 2026-2029 AI infrastructure buildout cycle. ASIC design-cycle lock-in (3-5 year horizon per customer) + networking switching costs = durable. VMware adds enterprise software stickiness. Primary risk: Google accelerating in-house ASIC design (Axion CPU shows capability).
+
+---
+
+## Technical Summary (2026-06-03)
+
+| Metric | Value |
+|--------|-------|
+| Price | $479.23 收盘 → ~$441 盘后（−8% on earnings）|
+| 50-day MA | $395.06 |
+| 150-day MA | $361.46 |
+| 200-day MA | $353.88 |
+| % above MA50 (收盘) | +21.3%（盘后 ~$441 → ~+11.6%）|
+| Pattern | 财报前 5 日 +13.6% 冲高，盘后 −8% sell-the-news 回吐 |
+| Nearest valid entry | $400–420 区（深度回调）；盘后 ~$441 仍 MA50 +11.6% 扩展，未到理想区 |
+| Next earnings | ~Sep 2026（Q3 FY2026）|
+
+**SEPA verdict**: Stage 2 维持，但财报前已扩展至 MA50 +21%。盘后 −8% sell-news 回吐启动 overview 等待的"post-earnings pullback"。基本面强（Q2 beat），技术上等更深回调（$400–420）入场 R/R 更优。
+
+---
+
+## Peers and Relative Performance (Last 3 Months)
+
+| Ticker | Company | 3M Return | Price | Mkt Cap |
+|--------|---------|----------:|-------|---------|
+| **AVGO** | Broadcom Inc. | **+25.6%** | $416.79 | $1.97T |
+| NVDA | NVIDIA Corp | +22.1% | $225.83 | $5.47T |
+| AMD | Advanced Micro Devices | +119.4% | $445.50 | $726B |
+| MRVL | Marvell Technology | +125.3% | $177.95 | $156B |
+| QCOM | Qualcomm | +50.4% | $213.17 | $225B |
+| TXN | Texas Instruments | +36.4% | $306.34 | $279B |
+
+AVGO at +25.6% is a relative laggard vs MRVL (+125%) and AMD (+119%), reflecting its large-cap anchor effect. This creates a potential catch-up opportunity if AI XPU TAM guidance materializes — at $2T market cap, upside requires much larger absolute dollars.
+
+---
+
+## Social Sentiment
+
+| Platform | Signal | Basis (Adanos 7d, 2026-06-03) |
+|----------|--------|-------|
+| X.com / Twitter | Bullish | Buzz 84.6（rising），bullish 53% / bearish 7%，mentions 2,641 — 财报前冲顶 |
+| Reddit (r/stocks, r/investing) | Bullish-Neutral | Buzz 75.6，bullish 24% / bearish 17%（分歧大），mentions 2,112 |
+| News Sentiment | Bullish | Buzz 62.1，bullish 78% / bearish 7%，mentions 76 |
+| **Overall** | **Bullish（财报前）→ sell-news（盘后）** | 高热度看多 run-up，盘后 −8% 获利了结；中长期 AI 主线情绪强 |
+
+---
+
+## Pivotal Investment Question
+
+> **"Will Broadcom's AI XPU revenue from hyperscaler customers (Google, Meta, ByteDance) scale from ~$16B annualized today to $60–90B by FY2027, validating a 22–36× forward P/E and sustaining AVGO's premium valuation?"**
+
+Current milestone status:
+- ✅ Google TPU v6 XPU: in production ramp
+- ✅ Meta MTIA-2: production ramp
+- ✅ ByteDance XPU: design win confirmed
+- ✅ **Q2 FY26 (Jun 3) 验证**: AI 半导体收入 $10.8B（+143% YoY），Q3 指引 AI $16B（+200%+），远超 ~$16B 年化起点 → 轨迹强劲
+- ✅ FY26 AI 目标 >$100B 重申（未上调 → sell-news 触发，但量级巨大）
+- ⏳ 2 additional hyperscaler customers (rumored): in evaluation phase
+- ⏳ FY2027 正式指引（$148-175B 共识）：Hock Tan 称势头延续至 FY2027
+
+---
+
+## Why It's In The Wiki
+
+Added 2026-05-13 as a direct research initiative: AVGO is the primary large-cap AI infrastructure name not yet in the wiki, providing competitive context to COHR, MRVL, and NVTS. As the #1 custom ASIC contractor for hyperscalers and dominant AI networking switch maker, AVGO is the "establishment" against which smaller optical/semiconductor bets are measured. The wiki documents the XPU TAM verification framework, the VMware integration thesis, and entry discipline for a $2T position.
+
+See [thesis.md](thesis.md) for the full 15-section analysis.
+
+---
+
+## 历史入场分析
+
+- [2026-06-04 — ⏳ Tranche 2 等回调 $385–405，止损 $375（独立于 starter $387）](../../../outputs/AVGO/entry-2026-06-04.md)
+- [2026-05-19 — ⏳ 等待 $405–425，止损 $387，Tranche 2 等财报后 $380–400](../../../outputs/AVGO/entry-2026-05-19.md)

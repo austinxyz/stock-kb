@@ -1,0 +1,313 @@
+---
+source: austin
+---
+
+# AVGO — Key Financial Metrics
+
+**Last updated**: 2026-06-03
+**Data source**: Yahoo Finance, Broadcom Q2 FY2026 earnings (Jun 3, 2026), FY2025 10-K
+**Next update trigger**: Q3 FY2026 earnings — ~Sep 2026
+**Language**: English | [中文](financials.zh.md)
+
+---
+
+## 1. Critical Context
+
+**VMware acquisition accounting distortions (read before using GAAP metrics):**
+- VMware closed November 22, 2023 for $69B — Broadcom's largest acquisition
+- Creates ~$8-9B/year non-cash intangible amortization charge that depresses GAAP net income and EPS
+- FY2024 GAAP EPS: $1.23 (artificially low); non-GAAP adjusted EPS was ~$4.66 split-adjusted
+- **Always compare non-GAAP EPS for historical trend analysis; use FCF as the primary profitability metric**
+- 10-for-1 stock split: July 15, 2024 — all historical per-share data below is split-adjusted
+
+---
+
+## 2. Price & Market Data (2026-06-03)
+
+| Metric | Value |
+|--------|-------|
+| Price | $479.23 收盘 → ~$441 盘后（−8% on earnings）|
+| Today's Change | −$2.36 (−0.49% 常规盘)；盘后 −8%+ |
+| 52-Week Range | $219.82 – ~$485（财报前新高）|
+| Market Cap | ~$2.27T 收盘 / ~$2.09T 盘后 |
+| Avg Volume (10d) | ~19M shares |
+| Beta (5Y) | 1.44 |
+| Forward P/E (FY2026 non-GAAP) | ~30×（盘后价）|
+| Forward P/E (FY2027 non-GAAP) | ~20×（盘后价）|
+| Analyst Median Target | $477.50（财报前；预计上调）|
+| Dividend Yield | ~0.59% ($2.60/year) |
+
+---
+
+## 2.5. Q2 FY2026 Results (reported Jun 3, 2026)
+
+| 指标 | Q2 FY26 实际 | YoY | vs 预期 |
+|------|-------------|-----|---------|
+| 总收入 | **$22.2B** | +48% | ~符合（指引 $22.0B）|
+| AI 半导体收入 | **$10.8B** | **+143%** | beat（~$10.7B 预期）|
+| GAAP 净利润 | $9.3B | — | — |
+| GAAP 摊薄 EPS | $1.91 | — | — |
+| Non-GAAP 净利润 | $12.1B | — | — |
+| **Non-GAAP EPS** | **$2.44** | — | **beat +1.78%**（est $2.40）|
+| Adj. EBITDA 利润率 | ~68% | — | — |
+
+**Q3 FY2026 指引：**
+- 总收入 ~**$29.4B**（+84% YoY）
+- AI 半导体收入 ~**$16.0B**（+200%+ YoY）
+- Non-GAAP 营业利润率 ~67%，Adj. EBITDA ~68%
+
+**关键定调（"sell the news"）：** CEO Hock Tan **重申**但**未上调** FY2026 >$100B AI 半导体收入目标（"势头延续至 FY2027"）。Beat + 强指引，但市场预期"上调目标"落空 → 盘后 −8%（财报前 5 日已 +13.6%，典型 buy-rumor-sell-news）。
+
+---
+
+## 3. Annual Income Statement (FY ended October 31)
+
+| | FY2022 | FY2023 | FY2024 | FY2025 |
+|---|---|---|---|---|
+| Revenue ($B) | $33.2 | $35.8 | $51.6 | $63.9 |
+| Rev Growth YoY | — | +7.9% | +44.0%¹ | +23.8% |
+| Gross Profit ($B) | $22.1 | $24.7 | $32.5 | $43.3 |
+| Gross Margin % | 66.5% | 68.9% | 63.0% | 67.8% |
+| Operating Income ($B) | $14.3 | $16.5 | $15.0 | $26.1 |
+| Operating Margin % | 43.0% | 46.0% | 29.1% | 40.8% |
+| Net Income ($B) | $11.5 | $14.1 | $5.9 | $23.1 |
+| GAAP Diluted EPS | $2.65 | $3.30 | $1.23² | $4.77 |
+| Diluted Shares (B) | 4.23 | 4.27 | 4.78 | 4.85 |
+
+¹ VMware acquisition added ~$20B incremental annual revenue starting FY2024.
+² FY2024 EPS suppressed by ~$8.8B/year intangible amortization; non-GAAP adjusted EPS was ~$4.66.
+
+---
+
+## 4. Gross Margin Trend
+
+| FY | GM% | Commentary |
+|----|-----|-----------|
+| FY2022 | 66.5% | Semiconductor-only mix; solid foundational margin |
+| FY2023 | 68.9% | Organic mix shift toward higher-margin networking; +240bps |
+| FY2024 | 63.0% | VMware acquisition integration temporarily diluted (lower initial contract mix) |
+| FY2025 | 67.8% | Recovery: VMware VCF bundle conversion lifting software GM; AI chip mix improving |
+| TTM (Q1 FY2026) | 76.7% | Quarterly GM% now approaching 68–70% consistently; TTM includes high-margin Q1 |
+
+**Trend**: Gross margin structurally expanding as VMware software (90%+ GM) becomes a larger revenue share. Long-term target: 70–75% by FY2027 as VCF subscription mix matures.
+
+---
+
+## 5. Annual Cash Flow
+
+| | FY2022 | FY2023 | FY2024 | FY2025 |
+|---|---|---|---|---|
+| Operating CF ($B) | $16.7 | $18.1 | $20.0 | $27.5 |
+| CapEx ($B) | ($0.42) | ($0.45) | ($0.55) | ($0.62) |
+| Free Cash Flow ($B) | $16.3 | $17.6 | $19.4 | $26.9 |
+| SBC ($B) | $1.53 | $2.17 | $5.74 | $7.57 |
+
+CapEx is exceptionally lean (< 1% of revenue) — fabless model means no fab investment. FCF conversion from operating CF: 97%+ (best-in-class). SBC spike in FY2024-2025 reflects VMware retention packages; expected to normalize to $4-5B by FY2027.
+
+**TTM FCF (Q2 FY2025 – Q1 FY2026):** ~$28.9B. FCF yield: 1.47% at $1.97T market cap.
+
+---
+
+## 6. Balance Sheet (October 31, 2025)
+
+| Item | Value |
+|------|-------|
+| Cash + ST Investments | $16.18B |
+| Total Debt | $65.14B |
+| Net Debt | $48.96B |
+| Goodwill | $97.80B |
+| Other Intangible Assets | $32.27B |
+| Total Goodwill + Intangibles | $130.07B |
+| Stockholders' Equity | $81.29B |
+| Retained Earnings | $9.76B |
+| Total Assets | $171.09B |
+| Shares Outstanding | 4.74B |
+
+**Debt metrics:**
+- Net Debt / FY2025 FCF = $48.96B / $26.9B = **1.82×** (target: ≤ 2.0×; on track)
+- Interest coverage = Op Income $26.1B / ~$4.0B interest = **~6.5×** (comfortable)
+- Maturity profile: $8B in FY2026, $12B in FY2027 — covered by $27B+ annual FCF
+
+**Tangible book value:** $81.3B equity − $130.1B intangibles = **−$48.8B** (negative; normal for serial software acquirers — cash flows, not book value, are the true asset)
+
+---
+
+## 7. Quarterly Context
+
+| Quarter | Revenue ($B) | Gross Profit ($B) | GM% | Op Income ($B) | Net Income ($B) |
+|---------|-------------|------------------|-----|----------------|-----------------|
+| Q2 FY2025 (Apr 2025) | $15.00 | $10.20 | 68.0% | $5.92 | $4.97 |
+| Q3 FY2025 (Jul 2025) | $15.95 | $10.70 | 67.1% | $6.07 | $4.14 |
+| Q4 FY2025 (Oct 2025) | $18.02 | $12.25 | 68.0% | $7.65 | $8.52¹ |
+| Q1 FY2026 (Jan 2026) | $19.31 | $13.16 | 68.2% | $8.67 | $7.35 |
+
+¹ Q4 FY2025 net income elevated by one-time gain; normalized net income ~$5-6B.
+
+**Revenue acceleration**: Q1 FY2026 $19.31B = +7.2% QoQ and +29.5% YoY. Sequential acceleration from prior quarters confirms AI XPU ramp.
+
+**Q2 FY2026 consensus (Jun 3 report):** Revenue $22.06B (+47% YoY), Non-GAAP EPS $2.39.
+
+---
+
+## 8. Dilution History
+
+| Year | Shares (B) | YoY % | Source |
+|------|-----------|-------|--------|
+| FY2022 | 4.23 | — | Baseline |
+| FY2023 | 4.27 | +0.9% | SBC grants |
+| FY2024 | 4.78 | +12.0% | VMware stock consideration (~530M shares issued) |
+| FY2025 | 4.85 | +1.5% | SBC grants (offset by ~$10B buybacks) |
+| Current | 4.74 | (−2.3%) | FY2025 buybacks reducing share count |
+
+Cumulative dilution FY2022–FY2025: +14.7%. Most dilution from VMware deal (one-time). FY2025 buybacks ($10B+) have started reducing the float. At $7.57B SBC/year, buyback program must exceed $7.57B to be net-neutral — currently running ~$10-12B/year.
+
+---
+
+## 9. Estimate Momentum
+
+**EPS Estimates (non-GAAP):**
+
+| Period | Avg | Low | High | YoY Growth | # Analysts |
+|--------|-----|-----|------|------------|-----------|
+| Q2 FY2026 (0q) | $2.39 | $2.36 | $2.50 | +51.3% | 36 |
+| Q3 FY2026 (+1q) | $3.24 | $2.69 | $4.26 | +91.7% | 35 |
+| FY2026 (0y) | $11.43 | $10.24 | $13.31 | +67.5% | 43 |
+| FY2027 (+1y) | $18.12 | $13.35 | $22.56 | +58.6% | 42 |
+
+**EPS Revision Trend (90 days):**
+
+| Period | 90d Ago | 60d Ago | 30d Ago | Current | Change |
+|--------|---------|---------|---------|---------|--------|
+| Q2 FY2026 | $2.14 | $2.15 | $2.39 | $2.39 | **+11.7%** |
+| Q3 FY2026 | $2.83 | $2.85 | $3.22 | $3.24 | **+14.5%** |
+| FY2026 | $10.26 | $10.28 | $11.33 | $11.43 | **+11.4%** |
+| FY2027 | $14.17 | $14.48 | $17.67 | $18.12 | **+27.8%** ← largest |
+
+**Revision breadth (FY2027):** 6 upgrades in last 7 days, 8 upgrades in last 30 days, 0 downgrades.
+**Overall signal: 🟢 Strongly Bullish — consistent upward EPS revisions across all periods, largest in +1y (27.8% up in 90 days).**
+
+**Revenue Estimates:**
+
+| Period | Avg ($B) | Low ($B) | High ($B) | YoY Growth |
+|--------|---------|---------|---------|-----------|
+| Q2 FY2026 | $22.1 | $21.9 | $22.4 | +47.0% |
+| Q3 FY2026 | $29.0 | $25.2 | $37.5 | +81.7% |
+| FY2026 | $104.4 | $95.7 | $119.2 | +63.4% |
+| FY2027 | $158.5 | $90.7 | $194.9 | +51.8% |
+
+Note: Q3 FY2026 and FY2027 estimates have very wide ranges (Q3: $25-38B), reflecting uncertainty about AI XPU ramp timing.
+
+---
+
+## 10. Earnings Track Record
+
+| Quarter | EPS Estimate | EPS Actual | Surprise % | Revenue |
+|---------|-------------|-----------|-----------|---------|
+| Q2 FY2025 (Apr 2025) | $1.57 | $1.58 | **+0.6%** | $15.0B |
+| Q3 FY2025 (Jul 2025) | $1.66 | $1.69 | **+1.6%** | $15.95B |
+| Q4 FY2025 (Oct 2025) | $1.87 | $1.95 | **+4.4%** | $18.02B |
+| Q1 FY2026 (Jan 2026) | $2.02 | $2.05 | **+1.3%** | $19.31B |
+
+Consistent beats. EPS acceleration from $1.58 → $2.05 over 4 quarters (+30%). Q4 FY2025 had the largest beat (+4.4%) — likely AI XPU ramp ahead of schedule.
+
+**Next earnings:** Q2 FY2026 — **June 3, 2026**
+- EPS consensus: $2.39 (range $2.36–$2.50)
+- Revenue consensus: $22.06B (range $21.88–$22.40B)
+- Key watch: AI XPU revenue quarterly breakout, FY2026/FY2027 guidance update
+
+---
+
+## 11. Liquidity
+
+| Metric | Value |
+|--------|-------|
+| ADTV (20d avg dollar volume) | $8,026M |
+| Avg Daily Volume (shares) | ~24M shares |
+| Bid-Ask Spread | ~$1.04 (~0.25%) |
+| Float Turnover (daily) | 0.51% |
+| Daily Return Volatility | 2.54% |
+| Short % of Float | 1.1% (very low) |
+| Short Ratio | 2.28 days |
+| $50K Order Market Impact | ~$3 (0.6 bps) |
+
+**Liquidity Grade: Very High.** At $8B+ ADTV, AVGO is one of the most liquid US equities. A $50K position represents < 0.001% of daily dollar volume — zero execution concern at any retail position size. Short float at 1.1% is exceptionally low, signaling strong institutional conviction without speculative short exposure.
+
+---
+
+## 12. Valuation Sensitivity
+
+**Implied revenue needed to justify $416.79 at various multiples:**
+
+| P/E Multiple | Required FY2026 EPS | Required FY2027 EPS | Achievable? |
+|-------------|---------------------|---------------------|------------|
+| 20× | $20.84 | Already above FY2026 est. | FY2027 consensus $18.12 — close |
+| 25× | $16.67 | Below FY2026 est. | FY2027 est. $18.12 > required |
+| 30× | $13.89 | Below FY2026 est. | FY2026 est. $11.43 — not yet |
+| 36× | $11.58 | ~FY2026 consensus | Yes — current price = FY2026 consensus |
+
+Current $416.79 implies the market is pricing AVGO at ~36× FY2026 non-GAAP EPS or ~23× FY2027 non-GAAP EPS. Both are reasonable given growth trajectory.
+
+**Forward scenario → share price (FY2027):**
+
+| FY2027 Rev | EPS | 20× | 25× | 30× |
+|-----------|-----|-----|-----|-----|
+| $120B (bear) | $14.00 | $280 | $350 | $420 |
+| $148B (base) | $18.12 | $362 | $453 | $544 |
+| $175B (bull) | $22.00 | $440 | $550 | $660 |
+
+---
+
+## 13. Analyst Consensus
+
+| | Value |
+|--|-------|
+| Total analysts | 42 |
+| Strong Buy | 7 |
+| Buy | 36 |
+| Hold | 3 |
+| Sell / Strong Sell | 0 |
+| Mean target | $475.49 |
+| Median target | $477.50 |
+| High target | $630 (Cantor Fitzgerald, Bernstein) |
+| Low target | $360 (Wells Fargo) |
+
+**Recent actions:**
+- 2026-05-12: Citigroup raises target $475 → $500 (Buy)
+- 2026-04-14: JP Morgan maintains $500 (Overweight)
+- 2026-04-14: Bernstein maintains $525 (Outperform)
+- 2026-04-08: Seaport Global downgrades Buy → Neutral (lone dissenter; no target)
+
+---
+
+## 14. Peer Comparison
+
+| Ticker | Mkt Cap | Rev TTM | EV/Rev | 3M Return | GM% | Profitable |
+|--------|---------|---------|--------|-----------|-----|-----------|
+| **AVGO** | $1.97T | $68.3B | 29.6× | +25.6% | 76.7% | Yes |
+| NVDA | $5.47T | ~$115B | ~47.6× | +22.1% | ~75% | Yes |
+| AMD | $726B | ~$25B | ~29.2× | +119.4% | ~50% | Yes |
+| MRVL | $156B | ~$8.5B | ~18.4× | +125.3% | ~51% | Yes |
+| QCOM | $225B | ~$43B | ~5.2× | +50.4% | ~55% | Yes |
+| TXN | $279B | ~$16B | ~17.4× | +36.4% | ~62% | Yes |
+
+---
+
+## 15. Upcoming Catalysts
+
+| Date | Event | What to Watch |
+|------|-------|--------------|
+| June 3, 2026 | Q2 FY2026 Earnings | AI revenue ≥$5B, FY2026 guidance ≥$100B, VMware mix shift |
+| June 3, 2026 | FY2026 Full-Year Guide | AI XPU TAM progress toward $60-90B, 5th customer hint |
+| Aug–Sep 2026 | Hot Chips Conference | AVGO XPU architecture disclosures; competitor positioning |
+| Oct–Nov 2026 | Q4 FY2026 / FY2026 Full Year | Annual AI revenue tally vs $16B+ run rate |
+
+---
+
+## 16. Sources
+
+- Yahoo Finance: price, estimates, historical financials, analyst data (2026-05-13)
+- Broadcom Q1 FY2026 earnings call transcript (March 2026)
+- Broadcom FY2025 10-K filing (December 2025)
+- Hock Tan investor day presentation (December 2024) — $60-90B AI TAM
+- Citigroup research note (May 12, 2026)
+- Broadcom Q4 FY2025 earnings transcript (December 2025)
