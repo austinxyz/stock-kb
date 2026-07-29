@@ -4,9 +4,30 @@ source: austin
 
 # GLW — Key Financial Metrics
 
-**Last updated**: 2026-07-15
-**Data source**: yfinance (price/estimates/liquidity, 2026-06-11) + Corning IR (Springboard framework); price/MA/ATR refreshed 2026-07-15
-**Next update trigger**: Q2 2026 earnings — 2026-07-28
+**Last updated**: 2026-07-28
+**Data source**: yfinance（价格/预期/流动性）+ Corning IR（Q2 2026 实际值、Springboard 框架）；基本面明细章节数据仍为 2026-06-11
+**Next update trigger**: Q3 2026 earnings（约 2026 年 10 月）
+
+## 0. Q2 2026 实际结果（2026-07-28）
+
+| 指标 | 实际 | 预期 | 差异 |
+|------|------|------|------|
+| Core EPS | **$0.78** | $0.754 | **+3.48%** |
+| Core 营收 | $4.74B | — | **+17% YoY** |
+| GAAP 营收 | $4.51B | — | +17% YoY |
+| GAAP 净利 | $559M | — | — |
+| **Q3 指引** | **$4.9–5.0B** | 共识 $5.0B | **中值 ≈ −1%** |
+
+**四季度超预期序列**：+0.80% → +2.08% → +1.21% → **+3.48%**（本季最大）
+
+**EPS 预期修正（近 30 日）**：当季 0↑/2↓ · 下季 1↑/1↓ · FY26 2↑/1↓ · FY27 2↑/2↓
+
+**FY 预期**：FY26 $3.21（+27.4% growth，14 位分析师）· FY27 $4.28（+33.3%，16 位）
+
+**估值**：前瞻 P/E **29.4×**（6 月为 ≈42× core）· TTM P/E 60.6× · P/S 6.64×
+**分析师均值目标**：$215.47（**注意：该目标多数尚未反映 7/28 指引**）
+
+**Springboard 目标（管理层 7/28 更新）**：2026 年底 $20B 年化 → 2028 $30B → 2030 $40B；Q4'26–Q4'30 营收 CAGR **19%**
 **Language**: English | [中文](financials.zh.md)
 
 > **Overlay note**: Fresh analysis (Scenario C — no rwh upstream). All data live 2026-06-11. Surfaced via the [optical-interconnect sector thesis](../../sectors/optical-interconnect.md) (video-driven) as the route-agnostic "保守型" fiber pick and the cleanest Stage-2 entry among optical names.

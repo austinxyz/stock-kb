@@ -6,14 +6,31 @@ source: austin
 
 **Ticker**: GLW (NYSE)
 **Company**: Corning Incorporated
-**As of**: 2026-06-11
-**Price**: $176.55 (Yahoo Finance verified; +4.98% on the day)
-**52-wk range**: $49.47 – $211.79
-**Market cap**: ≈$152B (860.6M shares)
-**Verdict**: Watch → Actionable — quality AI-fiber compounder AND the cleanest Stage-2 entry among optical names (price AT MA50, NOT extended). Full valuation (≈42× fwd core P/E) but supported by +27–31% growth + NVDA/Meta visibility + route-agnostic moat. PW EV $228.5 (+29% / 3yr), R/R ≈2.7:1. Entry zone $170–177; stop below ≈$155.
+**As of**: 2026-07-28（Q2 财报刷新；基本面章节 §1–§12 数据仍为 2026-06-11）
+**Price**: $126.01（−12.10% 当日，44.1M 量 ≈ 常量 3×）
+**52-wk range**: $61.31 – $255.69（高点 2026-06-29，现价距高 **−50.7%**）
+**Market cap**: ≈$108B
+**Verdict**: **Watch (Weakened)** — 基本面未破（Q2 EPS +3.48% 超预期、营收 +17%、Springboard 目标上修），但技术面决定性破坏：一个月内自 $255.69 回撤 **−50.7%**，低于 MA50 **−32.0%**。前瞻 P/E 由 ≈42× 压缩至 **29.4×**，分析师均值目标 $215.47（未下调）。**不建议现在入场** —— 三条基本面触发器未击发不构成买入理由，价格结构未修复前只是「便宜的下跌趋势」。
 **Language**: English | [中文](thesis.zh.md)
 
 > **Overlay note**: Fresh analysis (Scenario C — no rwh upstream, no prior overlay). All data live 2026-06-11 (price/SEPA, financials, estimates, sentiment, liquidity). Surfaced via the [optical-interconnect sector thesis](../../sectors/optical-interconnect.md) update (video-driven). **GLW is the route-agnostic "保守型" fiber pick** — whether CPO or pluggable transceivers win, both need fiber, so Corning sidesteps the architecture war — **and the cleanest Stage-2 entry among optical names**: while peers (COHR/LITE/MRVL/AXTI) blew off +50–220%, GLW sits AT its MA50 (+0.5%), a healthy pullback rather than a chase.
+
+---
+
+> ### 2026-07-28 Q2 刷新（via `/stock-refresh`）
+>
+> **论点 §15 指定的二元事件已落地，结果与市场反应方向相反。**
+>
+> | 项目 | 结果 |
+> |------|------|
+> | Core EPS | **$0.78 vs 预期 $0.754 = +3.48% 超预期** — 四个季度最大幅度（前三次 +0.8% / +2.1% / +1.2%）|
+> | Core 营收 | $4.74B，**同比 +17%**；GAAP 营收 $4.51B |
+> | **Q3 指引** | **$4.9–5.0B vs 共识 $5.0B** — 中值差约 **−1%** |
+> | Springboard | **目标上修并延长**：2026 年底 $20B 年化 → 2028 $30B → 2030 $40B；Q4'26–Q4'30 CAGR **19%** |
+> | 股价反应 | 盘中 **−18%**，收 −12.10%，**2002-07-30 以来最大单日跌幅** |
+>
+> **一个约 −1% 的指引缺口，触发了 24 年来最大单日跌幅。** 这是预期水位的重置，不是基本面破裂。
+> 同日 MRVL / LITE / AXTI / COHR 跌逾 10% —— **由 GLW 指引传导，GLW 是源头不是受害者**。
 
 ---
 
@@ -250,13 +267,22 @@ Corning is a long-established, professionally managed industrial — not a found
 
 **⚠️ 2026-07-15 Update**: MA50 thesis-break trigger hit (price $174.41 vs MA50 $192.13, –9.2%). Verdict downgraded to **Watch (Weakened)**. Personal stop $163 not yet breached. Hold above stop; do NOT add pre-earnings. 2026-07-28 Q2 earnings is the binary catalyst — Springboard progress vs. +$4B/$+$3B target determines trajectory. See changelog 2026-07-15.
 
-**1-year view**: base ≈$210–225 (analyst median $210); upside trigger = Springboard beat + hyperscaler capex guides up ($250+); downside trigger = AI-capex digestion signal or a close below MA50 then MA150 (back toward $150–155).
+**1-year view（2026-07-28 重估）**: base ≈$170–190（分析师均值 $215.47，但该目标尚未反映 7/28 指引）；上行触发 = 收复 MA150（≈$150）且 Q3 实际落在指引上沿；下行触发 = Q3 再度指引不及 或 跌破 MA200（≈$134）。
+*（原 1 年展望 $210–225 作于 2026-06-11 价格 $176.55，已被 7/28 的预期重置作废。）*
 
-**3-year view**: bull $300 / base $225 / bear $130; PW EV $228.5 (+29%).
+**3-year view（2026-07-28 重估）**: bull $280 / base $200 / bear $110；`PW EV = 0.25×$280 + 0.50×$200 + 0.25×$110 = $197.5`，较现价 $126.01 **+56.7%（3 年，≈16%/yr）**。
+R/R ≈ **(280−126)/(126−110) = 9.6:1** —— 赔率显著优于 6 月（2.7:1），但这是价格下跌带来的，**不等于确定性提高**：熊市情景概率由 20% 上调至 25%，正是因为指引已证明预期水位可以被打掉。
+*（原 PW EV $228.5 基于 bull $300 / base $225 / bear $130 与 30/50/20 概率，作于 $176.55。）*
 
 **Portfolio allocation**: ~~**Actionable**~~ → **Watch (Weakened)** as of 2026-07-15 (Stage-2 break, MA50 trigger hit). For current holder: hold with stop $163; await 2026-07-28 earnings. For non-holder: do NOT enter until price recovers above MA50 or Q2 earnings re-confirm Springboard thesis.
 
-**Verdict**: GLW retains its **wide, route-agnostic moat** (fiber wins whether CPO or pluggable prevails) but has technically broken Stage 2 (price –9.2% below MA50 $192.13). The fundamental thesis (Springboard, NVDA/Meta locked capacity, +27–31% core-EPS growth) remains unrefuted — but the MA50 breach is a mandated thesis-break trigger. 2026-07-28 Q2 earnings is the next binary: Springboard progress near +$4B/+$3B = thesis intact; miss = exit signal.
+**Verdict（2026-07-28 更新）**: GLW 的**宽护城河与路线无关性依然成立**，Q2 财报在基本面上是**正面**的 —— EPS 超预期 +3.48%（四季度最大）、营收 +17%、Springboard 目标不降反升。
+
+**但论点性质已第二次改变。** 6/10 是「便宜但图形破了」；7/15 是「图形在修复但不再便宜」；**7/28 是「基本面兑现了，但市场为该基本面付的价格被重估了一半」**。
+
+§15 指定的二元事件已落地，判据是「Springboard 接近目标 = 论点完好」—— 按此标准**论点完好**。真正被证伪的不是公司，是**当时嵌入股价的增长预期水位**：一个约 −1% 的季度指引缺口就抹去 24 年来最大单日市值。
+
+**结论：Watch (Weakened) 维持，不升不降。** 基本面未破不构成买入理由；重新入场需要价格结构给出独立确认（收复 MA150 ≈$150 且放量），而非仅凭「跌了 50% 所以便宜」。
 
 ---
 
@@ -273,6 +299,23 @@ Corning is a long-established, professionally managed industrial — not a found
 - [ ] Optical mix rising toward >40% of revenue
 - [ ] FCF conversion improves (de-leveraging path; $612M is thin today)
 - [ ] Margin expansion on optical operating leverage (GM 36.4% → higher)
+
+### 2026-07-28 触发器逐条核对
+
+| 触发器 | 判定 | 依据 |
+|--------|------|------|
+| Hyperscaler AI-capex 指引下调 | ✅ 未击发 | 无相关证据；管理层称进入「加速增长的新阶段」 |
+| Springboard 显著低于 +$4B / +$3B 目标 | ✅ **未击发 —— 反向** | 目标上修至 $20B/$30B/$40B，CAGR 19% |
+| Optical Communications 增长转负 | ✅ 未击发 | Core 营收 +17% YoY |
+| **收盘跌破 MA50 $175，再破 MA150 $130** | 🛑 **已击发** | 现价 $126.01，低于 MA50 $185.40（−32.0%）与 MA150 $150.53（−16.3%）|
+| Core EPS 预期修正转净负 | ⚠️ **部分击发** | 当季 0↑/2↓（30日）净负；FY26 2↑/1↓ 净正；FY27 2↑/2↓ 持平 |
+| FCF 转换停滞 / 债务高息再融资 | ❓ 数据不足 | 需 10-Q 明细 |
+
+**1 条明确击发（技术面）、1 条部分击发（近端修正）、3 条明确未击发、1 条待查。**
+
+> ⚠️ **触发器写法缺陷（同 [S007]）**：第 4 条把 MA150 写死为 **$130**，而当前 MA150 实际为 **$150.53** ——
+> 六周内偏离 $20。今日两种读法（固定 $130 / 当时的 MA150）碰巧都判击发，但这是运气：
+> 若价格落在 $130–$150 之间，两种读法会给出相反答案。**应改为「收盘跌破当时的 MA150」。**
 
 **Thesis-break triggers** (any ONE = reassess):
 - ⚠️ Hyperscaler AI-capex guidance cut

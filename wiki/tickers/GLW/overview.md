@@ -47,14 +47,20 @@ The global optical-fiber leader and a diversified 167-year specialty-materials c
 | Field | Value |
 |-------|-------|
 | Price (2026-07-15) | $174.41 (–7.05% on the day) |
-| MA50 / MA150 / MA200 | $192.13 (**–9.2%**) / $146.84 (+18.8%) / $131.20 (+33.0%) |
-| Stage | **Stage 3** — price below MA50, above MA150/MA200 |
-| Trend template | Degraded — MA50 breach fails the "price above MA50" criterion |
+| MA50 / MA150 / MA200 | $185.40 (**–32.0%**) / $150.53 (**–16.3%**) / $134.26 (**–6.1%**) |
+| Stage | **Stage 4 转换中** — 价格低于 MA50/MA150，仅略高于 MA200 |
+| Trend template | **5/8** — 均线仍多头排列（MA50>MA150>MA200）且 MA200 上行，但价格已脱离三线 |
+| 52 周高点 | $255.69（2026-06-29）→ 现价 **−50.7%**，一个月腰斩 |
+| ATR(14) | $13.64（价格的 **10.8%**）|
+| RS vs SPY (6m) | **+25.6pp**（前期大涨的残留，非当前强度）|
 | ATR(14) | $17.51 (expanded from $11.99) |
 | Personal stop | $163.00 (buffer $11.41, 6.6%) |
 | Next earnings | **2026-07-28** (Q2 2026 — 13 days) |
 
-**SEPA verdict (2026-07-15)**: ⚠️ **Stage 3** — price broke below MA50 ($192.13) on heavy 2-day selling (–7.05% + –9.84%). Thesis-break trigger "close below MA50 $175" is definitively hit. Hold above personal stop $163; **Watch (Weakened)** until 07-28 earnings resolve.
+**SEPA verdict (2026-07-28)**: 🛑 **趋势模板 5/8，Stage 4 转换中**。Q2 财报当日 −12.10%（盘中 −18%），44.1M 量约为常量 3×。价格低于 MA50 −32.0%、MA150 −16.3%，仅略高于 MA200。
+**均线仍呈多头排列，但那反映的是过去 200 天，不是现在** —— 这正是「分发形态」的典型样本：
+长周期均线还没来得及反映一个月内 −50.7% 的回撤。
+ATR $13.64 = 价格的 10.8%，单日波动极大，不适合在下跌中段建仓。
 
 *Prior SEPA data (2026-06-11): Price $176.55, MA50 $175.69 (+0.5%), Stage 2, trend template ~7–8/8, ATR $11.99.*
 

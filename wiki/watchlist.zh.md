@@ -31,7 +31,7 @@
 | FCEL | austin | 2026-05-14 | _（无变更日志）_ | _（无变更日志）_ |  |
 | FDX | upstream | 2026-06-24 | Initiated at Strengthened-leaning — credible de-conglomeration + cost-out + turning freight cycle; gated on FY2029… | _（无变更日志）_ | First earnings print under the new December fiscal year (~Sept 2026) — clean continuing-ops margin trajectory, Network… |
 | FIG | upstream | 2026-05-10 | **Weakened** — AI-disruption thesis upgraded from generic fear to named direct competitor (Claude Design); short… | _（无变更日志）_ | 📅 Q1 2026 earnings — **2026-05-14 post-close**. Key items: (1) revenue vs. $315–317M, (2) NDR ≥125%, (3) Make weekly… |
-| GLW | austin | 2026-07-15 | _（无变更日志）_ | _（无变更日志）_ |  |
+| GLW | austin | 2026-07-28 | _（无变更日志）_ | _（无变更日志）_ |  |
 | GOOG | austin | 2026-07-22 | _（无变更日志）_ | _（无变更日志）_ |  |
 | HD | upstream | 2026-05-31 | **Strengthened** — Q1 binary resolved positively; comps +0.6%, adj EPS beat, FY2026 guidance fully reaffirmed;… | _（无变更日志）_ | 📅 **Q2 FY2026 earnings (~August 2026)** — SRS fully in comp base; first full-period read on SRS organic comps and GMS… |
 | HOOD | upstream | 2026-04-29 | 🟢 **Strengthened** (vs. earlier-today ingest baseline) — the $14 price reset at unchanged fundamentals improves R/R… | _（无变更日志）_ | 📅 **Q2 2026 earnings (late July 2026)** — crypto sequential recovery or further deterioration; Rothera JV first live… |
