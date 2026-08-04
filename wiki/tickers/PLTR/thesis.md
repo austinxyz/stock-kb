@@ -423,9 +423,9 @@ Government contracts are often classified and cannot be disclosed until announce
 
 ### T — Technical
 
-Stage 3 decline: below MA50, MA150, MA200. Trend template: 1/7 (only MA200 trending up from trough). -36% from peak. ATR14: $5.19 (about $5 daily range). Stock needs to form a 4–6 week base, reclaim MA50, and show improving RS before SEPA calls it Stage 2.
+**Stage 4 confirmed** (2026-07-30): below MA50 ($130.93), MA150 ($144.10), MA200 ($153.15). Trend template: ~0/7 (all criteria failing). –42% from $207.52 peak. ATR14: $6.12. Price $120.51 is at bottom of prior analysis's $120–130 target wait zone. No base formation — stock continues accelerating lower on elevated volume (21.5x average). Q2 2026 earnings in 4 days (2026-08-03) is next major catalyst; pre-earnings risk is elevated.
 
-**Technical verdict**: Avoid for new entry until base formation evident. Risk of continued decline to $107–115 (52-wk low retest zone).
+**Technical verdict**: Stage 4 Avoid. 52-wk low at $106.37 is the next support level. No base formation signals present. Earnings on 2026-08-03 could accelerate move in either direction.
 
 ### BAIT Overall
 
@@ -485,7 +485,7 @@ The low PW EV upside (9%) does NOT mean PLTR is a bad business. It means at $133
 
 ### Near-Term (next 60 days)
 
-- [ ] **Q2 2026 earnings** (~2026-08-04, 13 days away): Revenue ≥ $1.75B (consensus $1.79B); EPS ≥ $0.347 (est. avg); operating margin ≥ 38%
+- [ ] **Q2 2026 earnings** (2026-08-03, **4 days away**): Revenue ≥ $1.81B (consensus); EPS ≥ $0.347 (est. avg); operating margin ≥ 38%
 - [ ] **US commercial customer count**: Target ≥ 750 paying US commercial customers (from ~600-650 Q4 2025)
 - [ ] **AIP Boot Camp cadence**: Any press releases or customer case studies confirming continued Boot Camp expansion
 - [ ] **Government contract news**: Maven Smart System expansion, JADC2 awards, or TITAN program updates

@@ -4,8 +4,8 @@ source: austin
 
 # PLTR — Palantir Technologies Inc.
 
-**Last updated**: 2026-07-22
-**Status**: Watch — exceptional fundamentals, Stage 3-4 technical correction; price in $120-130 target wait zone, base NOT yet forming
+**Last updated**: 2026-07-30
+**Status**: Watch — Stage 4 confirmed ($120.51, –42% from peak); fundamentals intact (est. 3↑/0↓); earnings 2026-08-03 in 4 days; 52-wk low $106 is next support
 **Source of promotion**: Direct research (triggered by Q1 2026 earnings beat + guidance raise, May 5 2026)
 **Language**: English | [中文](overview.zh.md)
 
@@ -56,24 +56,24 @@ Palantir builds the data and AI operating system for governments and enterprises
 
 ---
 
-## Technical Summary (2026-07-22)
+## Technical Summary (2026-07-30)
 
 | Metric | Value |
 |--------|-------|
-| Price | $126.75 |
+| Price | **$120.51** |
 | 52-wk range | $106.37 – $207.52 |
-| vs 52-wk low | +19.2% |
-| vs 52-wk high | –38.9% |
-| MA50 | $132.19 (–4.1% above current) |
-| MA150 | $146.63 (–13.6% above current) |
-| MA200 | $154.84 (–18.2% above current) |
-| ATR14 | $6.08 |
+| vs 52-wk low | +13.3% |
+| vs 52-wk high | **–42.0%** |
+| MA50 | **$130.93** (–8.0% above current) |
+| MA150 | $144.10 (–19.6% above current) |
+| MA200 | $153.15 (–27.1% above current) |
+| ATR14 | $6.12 |
 | Avg Volume (20d) | ~42.0M shares |
-| Trend Template Score | **~1/7** (Stage 3-4 — technically Avoid) |
-| Pattern | Continued Stage 3-4 decline; price now in $120-130 target wait zone; base NOT yet forming |
-| Nearest valid entry | $115–127 (current zone) IF base forms 3+ weeks with improving RS |
-| Next earnings | Q2 2026 — ~2026-08-04 (13 days) |
-| SEPA verdict | **Avoid** (Stage 3-4, below all MAs, low template score) |
+| Trend Template Score | **~0/7** (Stage 4 — all criteria failing) |
+| Pattern | Stage 4 acceleration; bottom of prior $120–130 wait zone; no base formation; 52-wk low $106 next support |
+| Nearest valid entry | Not applicable — earnings in 4 days; wait for Q2 print + base formation |
+| Next earnings | **Q2 2026 — 2026-08-03 (4 days)** |
+| SEPA verdict | **Avoid** (Stage 4, below all MAs, 0/7 trend template) |
 
 ---
 

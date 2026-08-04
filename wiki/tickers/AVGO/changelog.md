@@ -9,6 +9,31 @@ Per-ticker change log documenting thesis evolution and action triggers.
 
 ---
 
+## 2026-08-03 — Exit Analysis
+
+**当前价：** $390.09 | **保守止损：** $364 → **上调至 $380**（MA50 - 1×ATR）| **论文止损：** $330
+**出场模式：** 🔴 防御模式（SOXX -11% vs MA50，赛道降温 0/3）| **不主动 Trim**（亏损状态）
+**完全退出触发：** 跌破 $380（保守）/ $330（全仓）/ Q3 AI XPU < $14B / Google 自研 XPU / ByteDance 管制
+**File：** [exit-2026-08-03.md](../../../data/outputs/AVGO/exit-2026-08-03.md)
+
+---
+
+## 2026-07-31 — Entry Analysis (Tranche 2)
+
+**入场区间：** $385.00 — $400.00 | **止损：** $364.00（2.03×ATR，7.3%）| **目标 1：** $477.50（3.0:1）| **目标 2：** $536.50（5.1:1）
+**Setup：** Stage 2，post-Q2 48 日回调，价格在计划区间低沿 $386；今日 gap +1.69% + 量比 28.74×
+**决策：** ✅ 分批入场 — 今日 3 股 @ $386-388（限价），止损 $364；第二批 2 股等量比 <5× 确认或 Samsung ITC 明确后补
+**File：** [entry-2026-07-31.md](../../../data/outputs/AVGO/entry-2026-07-31.md)
+
+---
+
+## 2026-07-31 — 论点时效刷新（58 天，via /stock-refresh）
+
+价格 $384（-20% from 6/3 close $479）= post-Q2 sell-news 持续回调已跌至 6/4 计划入场区低沿（$385–405）；MA50 $394.93 已跌破（-2.8%），MA150/200 支撑完好；FY2027E EPS 上修至 $19.49（90天 +7.8%）→ FY2027 P/E ~19.7× 近期最低；PW EV $536.50 vs $384 = +39.7% R/R（较 6/3 AH $441 改善）；论点完整，无 thesis-break 触发；今日 vol 26.41× 原因待确认（标题"AVGO No Longer Sells Itself As Chip Cycle Story"）。
+**前次论点状态**: Watch → **更新后**: Watch（不变；入场窗口已开）
+
+---
+
 ## 2026-06-04 — Entry Analysis (Tranche 2)
 
 **入场区间：** $385.00 — $405.00 | **止损：** $375.00（5.7%，独立于 starter $387）| **目标 1：** $477.50（3.6:1）| **目标 2：** $536.00（6.2:1）

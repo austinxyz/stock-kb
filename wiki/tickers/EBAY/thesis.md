@@ -443,10 +443,12 @@ $140×25% + $116×55% + $87×20% = $35.00 + $63.80 + $17.40 = **~$116.20**
 
 **6/17 Close**: $107.89 — **–7.2% BELOW PW EV $116.20** (best R/R since pre-Cohen-bid levels); MA50 $107.08; at critical SEPA support
 
-**Verdict**: 🟡 **Watch (Recommerce + Cohen Activism) — Best R/R Since May**
-- **For non-holders**: **$107.89 is IN the $104–$110 initiation zone.** –7.2% discount to PW EV is the widest since pre-bid. MA50 at $107.08 (barely +0.8% above) = natural stop reference. Initiate half-size; confirm with Q2 GMV beat 7/29 for full size.
+**7/30 Close**: $112.08 — **–3.7% BELOW PW EV $116.20**; MA50 $111.66 (+0.4% = Stage 2 intact); Q2 earnings **2026-08-05** (6 days); vol_ratio 16.25×
+
+**Verdict**: 🟡 **Watch (Recommerce + Cohen Activism) — Pre-Earnings Window**
+- **For non-holders**: ⛔ Earnings 2026-08-05 in 6 days — **do NOT initiate new position pre-earnings**. Post-earnings beat = re-enter $104–$110 on any pullback. Stage 2 intact.
 - **For current holders**: 🟡 Hold. Trim zone $120–$125 NOT triggered. MA50 holding = Stage 2 intact.
-- **Position sizing**: 3–5% max weight. Current $107.89 is actionable entry level.
+- **Position sizing**: 3–5% max weight. Watch for Q2 EPS beat (consensus $1.508) / GMV ($21.3–21.7B guide) as confirmation catalyst.
 
 **Key analytical updates (2026-06-18 refresh)**:
 - **Price $107.89**: –2.2% vs 5/27 $110.36; no confirmed news catalyst; Cohen proxy fight status unconfirmed from price action
@@ -469,7 +471,7 @@ $140×25% + $116×55% + $87×20% = $35.00 + $63.80 + $17.40 = **~$116.20**
 - **Cohen DFAN14A proxy fight filing**: NOT filed as of 6/18 (~5 weeks post-rejection). Cohen raised stake to ~9% (from ~7.8%, as of ~6/5); GME Q1 unrealized EBAY gain +$268M — committed. No formal proxy war yet.
 - **Deal completion odds**: Kalshi/Polymarket ~17–20% (mid-May) — market skeptical but not dismissing
 - **Cohen options expiry (Oct/Dec 2026)**: Hard deadline — must exercise or exit; forces resolution by year-end regardless of proxy fight outcome
-- **Q2 2026 earnings (2026-07-29)**: Primary near-term catalyst. GMV guide = $21.3–21.7B (+mid-single-digit FXN); EPS guide $1.46–1.51. Beat confirms re-acceleration; miss = bear case reassessment
+- **Q2 2026 earnings (2026-08-05)**: Primary near-term catalyst（已确认，6 天后）. GMV guide = $21.3–21.7B (+mid-single-digit FXN); EPS guide $1.46–1.51，共识 $1.508。Beat confirms re-acceleration; miss = bear case reassessment
 - **Depop closing (end Q3 2026)**: Further delay = integration risk signal; on-time = execution credibility
 - **Active buyer Q2 confirmation**: Watch for 137M+ to confirm Q1 inflection was structural
 - **MA50 $107.08 support**: Close below MA50 on elevated volume (>1.5×) = Stage 2 weakening signal; re-evaluate

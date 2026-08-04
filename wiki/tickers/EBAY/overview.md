@@ -5,9 +5,9 @@ source: austin
 # EBAY — Overview
 
 > **Status**: Active — 🟡 Watch (Recommerce + Cohen Activism; deal arb closed 2026-05-12)
-> **Last Updated**: 2026-06-18 (price $107.89; –2.2% vs 5/27; MA50 $107.08 (+0.8%) = at SEPA critical support; 7/7 Stage 2 intact; initiation zone $104–$110 active; Q2 earnings 2026-07-29 approaching)
+> **Last Updated**: 2026-07-30 (price $112.08 -2.77%, vol_ratio 16.25×; MA50 $111.66 (+0.4%) = Stage 2 intact; Q2 earnings **2026-08-05**; ⛔ 财报前禁止新建仓)
 > **Moat**: Narrow
-> **Conviction**: Medium — standalone recommerce thesis intact + Cohen activism option value; PW EV ~$116.20 > current price $107.89; –7.2% discount to fair value; non-holder initiation zone ($104–$110) active and current price IN zone
+> **Conviction**: Medium — standalone recommerce thesis intact + Cohen activism option value; PW EV ~$116.20 > current price $112.08; –3.7% discount to fair value; 财报前观望
 
 ---
 
@@ -68,7 +68,8 @@ for a $1B GMV asset is expensive.
 | **Price (close 5/13)** | **$113.12** — +2.5%; post-rejection stabilization + Citigroup $127 PT |
 | **Price (close 5/20)** | **$118.96** — +5.2% vs 5/13; 52-week high; above analyst consensus $110 |
 | **Price (close 5/27)** | **$110.36** — –4.29%; –7.2% from peak; no news catalyst; back below PW EV $116.20 (–5.3% discount); AT analyst median $110; ex-div 5/28 |
-| **Price (close 6/17)** | **$107.89** ✅ — **–2.2% vs 5/27; MA50 $107.08 (+0.8%) = at critical SEPA support; 7/7 Stage 2 all pass; –7.2% discount to PW EV $116.20; 6/18 vol 7.9M (1.43×) elevated; no confirmed catalyst; IN initiation zone $104–$110** |
+| **Price (close 6/17)** | **$107.89** — –2.2% vs 5/27; MA50 $107.08 (+0.8%); Stage 2; IN initiation zone $104–$110 |
+| **Price (7/30)** | **$112.08** ✅ — 今日 -2.77%，vol_ratio 16.25×；MA50 **$111.66**（+0.4%）；Stage 2 维持；52-wk $78.03–$119.31；分析师目标中位 **$114**；Q2 财报 **2026-08-05（6 天）**；⛔ 禁止新建仓 |
 | **Board Rejection (5/12)** | eBay board rejected $56B GameStop offer — "neither credible nor attractive" |
 | **Cohen Response (5/12)** | "Proxy fight is the immediate next step" — confirmed activism continues |
 | **Citigroup PT (5/13)** | **$127** — first post-rejection standalone analyst PT |

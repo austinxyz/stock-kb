@@ -293,12 +293,12 @@ UBER trades at ~13x FY2026E EV/EBITDA vs DASH at 50x — same or better growth, 
 
 **Position context**: UBER is an **active holding** (rwh #4b High conviction; entry zone $65–80). The current price $70.38 is *inside* rwh's entry zone, fundamentally attractive. The complication is **technical**: the stock is at its 52-week low, below all major MAs (Stage 4 downtrend), with near-term estimates being cut. The merged stance for adding more: **thesis intact + price in entry zone, but wait for technical stabilization before adding — don't catch the falling knife.**
 
-### Current SEPA State (2026-06-10)
+### Current SEPA State (2026-07-30)
 
-- Price $70.38 — **sitting AT the 52-wk low** ($69.18–$100.10; –29.7% from high, +1.7% above low)
-- Below ALL MAs: MA50 $73.63 (–4.4%), MA150 $78.70, MA200 $82.93; staircase MA50<MA150<MA200 = **downtrend**
-- **SEPA Stage 4 / downtrend near 52-wk low — NOT Stage 2.** Trend template ~1–2/8
-- ATR(14) $2.02 (2.9%)
+- Price $69.11（今日 -2.98%，vol_ratio 26.62×）— **period low hit $65.41**（期间新 52-wk low，已部分回升 +5.6%）
+- Below ALL MAs: MA50 **$71.99**（-3.9%），MA150 $74.93，MA200 $78.69；MA50<MA150<MA200 = **downtrend 维持**
+- **SEPA Stage 4 / downtrend — NOT Stage 2。** Trend template ~1–2/8
+- ATR(14) $2.34 (3.4%)
 
 ### Adding-to-Holding Discipline (not net-new initiation)
 
@@ -306,11 +306,11 @@ UBER trades at ~13x FY2026E EV/EBITDA vs DASH at 50x — same or better growth, 
 |--------|---------|-------|
 | **HOLD existing** | Thesis intact; price in rwh entry zone | No reason to trim — fundamentals strong, valuation cheap |
 | **WAIT to add** | Technical stabilization needed | Do not average down into a Stage 4 falling knife |
-| **Add trigger** | Reclaim MA50 ($73.63) on above-average volume | First technical confirmation the downtrend is pausing |
-| **Stronger add** | Base forms + reclaim MA150 ($78.70) on volume | SEPA-qualified; trend turning |
-| **Stop / reassess** | Decisive break below $65 on volume | 52-wk-low breakdown + newsflow = thesis-break check |
+| **Add trigger** | Reclaim MA50 (**$71.99**) on above-average volume | First technical confirmation the downtrend is pausing |
+| **Stronger add** | Base forms + reclaim MA150 ($74.93) on volume | SEPA-qualified; trend turning |
+| **Stop / reassess** | Decisive break below $65.41（已测试）on volume + newsflow | 52-wk-low 再破 + newsflow = thesis-break check |
 
-**Why wait, given the price is "in the zone"**: rwh likes the thesis at $65–80 and the stock is at $70.38 — but a stock at a fresh 52-wk low below all MAs with estimates being cut near-term has no technical floor confirmed yet. The $3B/quarter buyback provides a demand floor, but the cleanest add is *after* the price reclaims MA50 on volume, not while it is still making lower lows.
+**Why wait, given the price is "in the zone"**: rwh likes the thesis at $65–80 and the stock is at $69.11 — 52-wk low 期间触至 $65.41（已测试），MA50 $71.99 仍未回收，Stage 4 维持。估值修正已转正（3↑/0↓），但技术面确认仍缺。The cleanest add is *after* MA50 reclaim on volume, not while still in Stage 4.
 
 **Options perspective**: Given the fundamental/technical asymmetry, **LEAPS** (Jan 2027 or Jan 2028 calls, $75–80 strike) offer leveraged upside with defined risk while avoiding catching the falling knife in common stock. The buyback program compresses downside — premium is not as expensive as the chart might suggest.
 
@@ -401,7 +401,7 @@ UBER is the cleanest BAIT triple in the current wiki — and trades at the cheap
 
 ## 14. Bottom Line
 
-**Thesis in one sentence**: Uber is a global two-sided platform that has crossed the FCF inflection ($9.8B FY2025) and trades at ~13x FY2026E EV/EBITDA / ~6.7% FCF yield back AT its 52-week low — a price that discounts AV disintermediation *and* the new May-2026 capital-allocation concerns (a $10B+ AV bet + a possible Delivery Hero takeover), against a still-intact 50M-member Uber One flywheel and a $27B buyback deployed into weakness. **Merged verdict: thesis intact and price in rwh's $65–80 entry zone, but technically Stage 4 at the 52-wk low with estimates being cut — wait for a MA50 ($73.63) reclaim on volume before adding; don't catch the falling knife.**
+**Thesis in one sentence**: Uber is a global two-sided platform that has crossed the FCF inflection ($9.8B FY2025) and trades at ~13x FY2026E EV/EBITDA / ~6.7% FCF yield — tested a new 52-wk low at $65.41 and recovered to $69.11, still inside rwh's $65–80 entry zone, with estimate revisions now fully positive (3↑/0↓ Q2), but technically Stage 4 (MA50 $71.99 not reclaimed). **Merged verdict: thesis intact; price in rwh entry zone; estimates turning; but wait for MA50 ($71.99) reclaim on volume before adding — Q2 earnings 2026-08-05 is the next inflection test.**
 
 **1-year view**:
 - Base: $95–110 (Mobility revenue reaccelerates to high-single to low-double-digit YoY; Zoox Vegas AV launch; DH-takeover question resolves without value destruction; analyst mean holds ~$105)
@@ -411,11 +411,11 @@ UBER is the cleanest BAIT triple in the current wiki — and trades at the cheap
 **3-year view**:
 - Bull: $200–295 | Base: $130–195 | Bear: $52–80
 
-**Position posture (active holding)**: HOLD the existing position; thesis intact and valuation cheap. To ADD: wait for technical stabilization (MA50 $73.63 reclaim on volume), don't average down into a Stage 4 falling knife. Form for adds: stock on confirmation, or Jan 2027 LEAPS at $75–80 strike to keep risk defined while the chart is broken.
+**Position posture (active holding)**: HOLD the existing position; thesis intact and valuation cheap. To ADD: wait for technical stabilization (**MA50 $71.99 reclaim on volume**), don't average down into a Stage 4 falling knife. Form for adds: stock on confirmation, or Jan 2027 LEAPS at $75–80 strike to keep risk defined while the chart is broken.
 
 **What upstream (rwh v3.0) got right**: The PW EV $195 / R/R ~11:1 framing holds; the FCF yield ~6.7% on a 40%-growing compounder is exceptionally cheap. rwh's key new contribution this cycle is correctly elevating the **capital-allocation question** ($10B AV + DH takeover) to the dominant new monitorable — the overlay's value-add is layering the SEPA reality (Stage 4 at the 52-wk low) on top, which argues for patience on adds despite the attractive fundamentals.
 
-**What to watch next**: Q2 2026 earnings (~Aug 2026) AND any Delivery Hero takeover decision (could come sooner). Specifically: (1) Mobility revenue reacceleration from +5% Q1 trough; (2) DH takeover — does Uber proceed, at what price, how funded (buyback impact)?; (3) buyback pace — sustained at $3B+ or slowed to fund AV/DH?; (4) technical — does price reclaim MA50 on volume?
+**What to watch next**: **Q2 2026 earnings 2026-08-05**（6 天后）AND any Delivery Hero takeover decision. Specifically: (1) Mobility revenue reacceleration from +5% Q1 trough; (2) DH takeover — does Uber proceed, at what price, how funded (buyback impact)?; (3) buyback pace — sustained at $3B+ or slowed to fund AV/DH?; (4) technical — does price reclaim MA50 ($71.99) on volume post-earnings?
 
 ---
 
@@ -423,7 +423,7 @@ UBER is the cleanest BAIT triple in the current wiki — and trades at the cheap
 
 ### Near-term (next 60 days)
 
-- [ ] **Q2 2026 Gross Bookings vs guide**: Management guided $56.3–57.8B. A miss here is the first warning signal (tells: GB growth decelerating below 20%)
+- [ ] **Q2 2026 Gross Bookings vs guide** (earnings **2026-08-05**): Management guided $57.5–59.5B. A miss here is the first warning signal (tells: GB growth decelerating below 14%)
 - [ ] **Zoox Las Vegas launch** (summer 2026): Confirm deployment on Uber app; any disclosed ride count / revenue signals AV thesis progressing
 - [ ] **Mobility revenue YoY Q2 2026**: Watch for reacceleration from Q1's +5% trough. +8–10% or better = thesis intact. Second consecutive quarter at +5% or below = thesis-weakening
 - [ ] **Analyst estimate revisions post-Q1**: Track whether median target moves from $105 toward $110–115 (positive) or stalls at current level
@@ -449,7 +449,7 @@ UBER is the cleanest BAIT triple in the current wiki — and trades at the cheap
 
 ### Technical Re-Add Triggers (active holding — when to add more)
 
-- 📈 Price **reclaims MA50 ($73.63) on above-average volume** — first technical confirmation the Stage 4 downtrend is pausing
+- 📈 Price **reclaims MA50 ($71.99) on above-average volume** — first technical confirmation the Stage 4 downtrend is pausing
 - 📈 A **base forms + price reclaims MA150 ($78.70) on volume** — SEPA-qualified add; trend turning
 - ⛔ **Decisive break below $65 on volume** — 52-wk-low breakdown; reassess thesis before adding anything
 

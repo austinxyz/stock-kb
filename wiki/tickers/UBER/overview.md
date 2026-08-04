@@ -4,8 +4,8 @@ source: austin
 
 # UBER — Uber Technologies, Inc.
 
-**Last updated**: 2026-06-10
-**Status**: **Active holding (rwh #4b High conviction)** — thesis intact + price in entry zone ($65–80), BUT SEPA Stage 4 at 52-wk low; HOLD, wait for technical stabilization (MA50 $73.63 reclaim) before adding
+**Last updated**: 2026-07-30
+**Status**: **Active holding (rwh #4b High conviction)** — thesis intact + price $69.11 in entry zone ($65–80); 期间 52-wk low $65.41 已测试（守住）；Stage 4 维持（MA50 $71.99 未回收）；HOLD，Q2 财报 **2026-08-05** 后看 MA50 回收再加仓；⛔ 财报前禁止新建仓
 **Source of promotion**: Upstream rwh analysis (`wiki/tickers/UBER/UBER.md` v3.0, As-of 2026-05-22); rwh #4b High conviction, entry $65–80
 **Language**: English | [中文](overview.zh.md)
 
@@ -63,22 +63,23 @@ Global two-sided transportation + delivery platform (70+ countries, 199M monthly
 
 | Field | Value |
 |-------|-------|
-| Price (2026-06-10) | $70.38 — **AT 52-wk low** |
-| 50 MA | $73.63 (price –4.4% below) |
-| 150 MA | $78.70 |
-| 200 MA | $82.93 |
-| % above 52wk low | +1.7% (low: $69.18) |
-| % below 52wk high | –29.7% (high: $100.10) |
-| MA staircase | MA50 < MA150 < MA200 = **downtrend** |
+| Price (2026-07-30) | **$69.11**（今日 -2.98%，vol_ratio 26.62×）|
+| 50 MA | **$71.99**（price –3.9% below）|
+| 150 MA | $74.93 |
+| 200 MA | $78.69 |
+| 52wk low / high | **$65.41**（期间新低，已守住）/ $101.99 |
+| % above 52wk low | +5.6% (new low: $65.41) |
+| % below 52wk high | –32.3% (high: $101.99) |
+| MA staircase | MA50 < MA150 < MA200 = **downtrend 维持** |
 | Trend template score | **~1–2/8** |
-| Stage | **SEPA Stage 4 / downtrend near 52-wk low — NOT Stage 2** |
-| Pattern | Making lower lows; post-Q1 reversal failed; no base yet |
-| Nearest valid re-add (SEPA) | Reclaim MA50 $73.63 on volume (first confirm) → MA150 $78.70 (qualified) |
-| ATR (14d) | $2.02 (2.9%) |
+| Stage | **SEPA Stage 4 / 52-wk low 已测试守住；MA50 未回收 — NOT Stage 2** |
+| Pattern | 52-wk low $65.41 tested & held；期待财报催化 MA50 回收 |
+| Nearest valid re-add (SEPA) | Reclaim MA50 **$71.99** on volume (first confirm) → MA150 $74.93 (qualified) |
+| ATR (14d) | $2.34 (3.4%) |
 | ADV | ~$1.4B/day (Grade A liquidity) |
-| Next earnings | ~early Aug 2026 (Q2 2026, date TBA) |
+| Next earnings | **2026-08-05**（Q2 2026，6 天后）|
 
-**SEPA verdict**: **Stage 4 / downtrend — do not add yet.** Price is at the 52-wk low, below ALL major MAs, with a bearish MA staircase (50<150<200) and near-term estimates being cut (revision breadth DOWN30d=29). This is **not** a Stage 2 setup; trend template ~1–2/8. The fundamental case (PW EV $195, FCF yield ~6.7%) is compelling and the price IS inside rwh's $65–80 entry zone — but technically the stock is a falling knife. **Wait for price to reclaim MA50 ($73.63) on above-average volume before adding to the holding; don't average down into the downtrend.**
+**SEPA verdict**: **Stage 4 / downtrend — do not add yet.** 52-wk low $65.41 tested & held（正面信号），but MA50 **$71.99** not reclaimed. Estimate revisions 大幅改善（3↑/0↓ for Q2 vs 原 DOWN30d=29）；fundamental case 完整（PW EV $195，FCF yield ~6.7%）。价格在 rwh $65–80 入场区内。**等财报（2026-08-05）后看 MA50 ($71.99) 放量回收再加仓；⛔ 财报前禁止新建仓。**
 
 ---
 

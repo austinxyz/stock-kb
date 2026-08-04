@@ -4,8 +4,8 @@ source: austin
 
 # AVGO — Key Financial Metrics
 
-**Last updated**: 2026-06-03
-**Data source**: Yahoo Finance, Broadcom Q2 FY2026 earnings (Jun 3, 2026), FY2025 10-K
+**Last updated**: 2026-07-31
+**Data source**: Yahoo Finance, Broadcom Q2 FY2026 earnings (Jun 3, 2026), FY2025 10-K; yfinance (2026-07-31)
 **Next update trigger**: Q3 FY2026 earnings — ~Sep 2026
 **Language**: English | [中文](financials.zh.md)
 
@@ -22,20 +22,22 @@ source: austin
 
 ---
 
-## 2. Price & Market Data (2026-06-03)
+## 2. Price & Market Data (2026-07-31)
 
 | Metric | Value |
 |--------|-------|
-| Price | $479.23 收盘 → ~$441 盘后（−8% on earnings）|
-| Today's Change | −$2.36 (−0.49% 常规盘)；盘后 −8%+ |
-| 52-Week Range | $219.82 – ~$485（财报前新高）|
-| Market Cap | ~$2.27T 收盘 / ~$2.09T 盘后 |
-| Avg Volume (10d) | ~19M shares |
-| Beta (5Y) | 1.44 |
-| Forward P/E (FY2026 non-GAAP) | ~30×（盘后价）|
-| Forward P/E (FY2027 non-GAAP) | ~20×（盘后价）|
-| Analyst Median Target | $477.50（财报前；预计上调）|
-| Dividend Yield | ~0.59% ($2.60/year) |
+| Price | **$384.04** (−0.98%；vol 26.41× 异常；-20% from 6/3 close) |
+| Today's Change | −$3.80 (−0.98%) |
+| 52-Week Range | $281.61 – $495.00（6/4 新高 $495 → 现回落 -22.4%）|
+| Market Cap | ~$1.83T |
+| Avg Volume (10d) | ~24M shares |
+| Beta (5Y) | 1.46 |
+| Forward P/E (FY2026 non-GAAP) | ~33×（$384 / $11.63E）|
+| Forward P/E (FY2027 non-GAAP) | **~19.7×**（$384 / $19.49E — 接近历史低估区）|
+| Analyst Median Target | $477.50（6/3 财报前；预计 Q3 后重估）|
+| Dividend Yield | ~0.67% ($2.60/year) |
+
+**⚠️ 入场信号：** 6/4 分析计划入场区 $385–405（止损 $375）现已达到。$384 = 区间下沿。
 
 ---
 
@@ -163,39 +165,37 @@ Cumulative dilution FY2022–FY2025: +14.7%. Most dilution from VMware deal (one
 
 ---
 
-## 9. Estimate Momentum
+## 9. Estimate Momentum (2026-07-31)
 
 **EPS Estimates (non-GAAP):**
 
 | Period | Avg | Low | High | YoY Growth | # Analysts |
 |--------|-----|-----|------|------------|-----------|
-| Q2 FY2026 (0q) | $2.39 | $2.36 | $2.50 | +51.3% | 36 |
-| Q3 FY2026 (+1q) | $3.24 | $2.69 | $4.26 | +91.7% | 35 |
-| FY2026 (0y) | $11.43 | $10.24 | $13.31 | +67.5% | 43 |
-| FY2027 (+1y) | $18.12 | $13.35 | $22.56 | +58.6% | 42 |
+| Q3 FY2026 (0q) | $3.24 | — | — | +91.7% | 36 |
+| Q4 FY2026 (+1q) | $3.87 | — | — | +93.9% | 34 |
+| FY2026 (0y) | $11.63 | — | — | +67.5% | 43 |
+| FY2027 (+1y) | **$19.49** | — | — | +67.7% | 48 |
 
-**EPS Revision Trend (90 days):**
+**EPS Revision Trend (90 days, from ~2026-05-01):**
 
 | Period | 90d Ago | 60d Ago | 30d Ago | Current | Change |
 |--------|---------|---------|---------|---------|--------|
-| Q2 FY2026 | $2.14 | $2.15 | $2.39 | $2.39 | **+11.7%** |
-| Q3 FY2026 | $2.83 | $2.85 | $3.22 | $3.24 | **+14.5%** |
-| FY2026 | $10.26 | $10.28 | $11.33 | $11.43 | **+11.4%** |
-| FY2027 | $14.17 | $14.48 | $17.67 | $18.12 | **+27.8%** ← largest |
+| Q3 FY2026 | $3.241 | $3.190 | $3.238 | $3.238 | **flat** |
+| FY2026 | $11.39 | $11.33 | $11.62 | $11.63 | **+2.1%** |
+| FY2027 | $18.08 | $18.40 | $19.40 | $19.49 | **+7.8%** ← 持续上修 |
 
-**Revision breadth (FY2027):** 6 upgrades in last 7 days, 8 upgrades in last 30 days, 0 downgrades.
-**Overall signal: 🟢 Strongly Bullish — consistent upward EPS revisions across all periods, largest in +1y (27.8% up in 90 days).**
+**Overall signal: 🟢 Bullish — FY2027 EPS +7.8% in 90 days，Q3 估算稳定，无下修。**
 
 **Revenue Estimates:**
 
 | Period | Avg ($B) | Low ($B) | High ($B) | YoY Growth |
 |--------|---------|---------|---------|-----------|
-| Q2 FY2026 | $22.1 | $21.9 | $22.4 | +47.0% |
-| Q3 FY2026 | $29.0 | $25.2 | $37.5 | +81.7% |
-| FY2026 | $104.4 | $95.7 | $119.2 | +63.4% |
-| FY2027 | $158.5 | $90.7 | $194.9 | +51.8% |
+| Q3 FY2026 (0q) | $29.4 | $29.2 | $29.7 | +84.5% |
+| Q4 FY2026 (+1q) | $34.9 | $33.4 | $37.0 | +93.9% |
+| FY2026 (0y) | $106.0 | $104.3 | $109.1 | +66.0% |
+| FY2027 (+1y) | $173.2 | $114.7 | $200.1 | +63.4% |
 
-Note: Q3 FY2026 and FY2027 estimates have very wide ranges (Q3: $25-38B), reflecting uncertainty about AI XPU ramp timing.
+FY2027 范围 $115–200B 极宽，反映 AI XPU 路径不确定性；但估算中枢持续上修。
 
 ---
 
@@ -207,13 +207,14 @@ Note: Q3 FY2026 and FY2027 estimates have very wide ranges (Q3: $25-38B), reflec
 | Q3 FY2025 (Jul 2025) | $1.66 | $1.69 | **+1.6%** | $15.95B |
 | Q4 FY2025 (Oct 2025) | $1.87 | $1.95 | **+4.4%** | $18.02B |
 | Q1 FY2026 (Jan 2026) | $2.02 | $2.05 | **+1.3%** | $19.31B |
+| **Q2 FY2026 (Jun 3, 2026)** | $2.398 | **$2.44** | **+1.7%** | **$22.2B (+48% YoY)** |
 
-Consistent beats. EPS acceleration from $1.58 → $2.05 over 4 quarters (+30%). Q4 FY2025 had the largest beat (+4.4%) — likely AI XPU ramp ahead of schedule.
+Consistent beats (5 consecutive). EPS acceleration from $1.58 → $2.44 over 5 quarters (+54%). Q2 FY2026 milestone: AI 半导体 $10.8B (+143% YoY)，Q3 指引 AI $16B。
 
-**Next earnings:** Q2 FY2026 — **June 3, 2026**
-- EPS consensus: $2.39 (range $2.36–$2.50)
-- Revenue consensus: $22.06B (range $21.88–$22.40B)
-- Key watch: AI XPU revenue quarterly breakout, FY2026/FY2027 guidance update
+**Next earnings:** Q3 FY2026 — **~Sep 2026**（具体日期待确认）
+- EPS consensus: $3.24
+- Revenue consensus: $29.4B (+84.5% YoY)
+- Key watch: AI XPU revenue ≥$16B（FY2026 >$100B 节奏验证）；VMware VCF mix；5th customer hint
 
 ---
 
@@ -296,10 +297,10 @@ Current $416.79 implies the market is pricing AVGO at ~36× FY2026 non-GAAP EPS 
 
 | Date | Event | What to Watch |
 |------|-------|--------------|
-| June 3, 2026 | Q2 FY2026 Earnings | AI revenue ≥$5B, FY2026 guidance ≥$100B, VMware mix shift |
-| June 3, 2026 | FY2026 Full-Year Guide | AI XPU TAM progress toward $60-90B, 5th customer hint |
-| Aug–Sep 2026 | Hot Chips Conference | AVGO XPU architecture disclosures; competitor positioning |
-| Oct–Nov 2026 | Q4 FY2026 / FY2026 Full Year | Annual AI revenue tally vs $16B+ run rate |
+| ✅ Jun 3, 2026 | Q2 FY2026 Earnings | ✅ AI $10.8B (+143%)，Rev $22.2B，Q3 指引 AI $16B — 超预期 |
+| Aug–Sep 2026 | Hot Chips Conference | AVGO XPU 架构披露；竞争格局 |
+| ~Sep 2026 | Q3 FY2026 Earnings | **关键**：AI 收入 ≥$16B（Q3 指引）；FY2026 >$100B 节奏；5th customer |
+| Oct–Nov 2026 | Q4 FY2026 / FY2026 Full Year | AI 年度 tally；FY2027 首次正式指引（共识 $173B）|
 
 ---
 

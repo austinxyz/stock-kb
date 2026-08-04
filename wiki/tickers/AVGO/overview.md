@@ -4,8 +4,8 @@ source: austin
 
 # AVGO — Broadcom Inc.
 
-**Last updated**: 2026-06-03
-**Status**: Watch — Q2 FY26 beat (rev $22.2B +48%, AI semi $10.8B +143%); AI XPU thesis strengthened, but stock −8% AH on "sell the news" (Hock Tan reiterated, did NOT raise >$100B FY26 AI target); post-earnings pullback toward cleaner entry now materializing
+**Last updated**: 2026-07-31
+**Status**: Watch — post-Q2 sell-off -20% from earnings close; $384 = at planned entry zone $385–405 (June 4 analysis); FY2027E P/E ~19.7× attractive; Q3 FY2026 AI ≥$16B is next catalyst (~Sep 2026)
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -57,20 +57,22 @@ Broadcom designs custom AI accelerators for Google, Meta, and ByteDance — the 
 
 ---
 
-## Technical Summary (2026-06-03)
+## Technical Summary (2026-07-31)
 
 | Metric | Value |
 |--------|-------|
-| Price | $479.23 收盘 → ~$441 盘后（−8% on earnings）|
-| 50-day MA | $395.06 |
-| 150-day MA | $361.46 |
-| 200-day MA | $353.88 |
-| % above MA50 (收盘) | +21.3%（盘后 ~$441 → ~+11.6%）|
-| Pattern | 财报前 5 日 +13.6% 冲高，盘后 −8% sell-the-news 回吐 |
-| Nearest valid entry | $400–420 区（深度回调）；盘后 ~$441 仍 MA50 +11.6% 扩展，未到理想区 |
-| Next earnings | ~Sep 2026（Q3 FY2026）|
+| Price | **$384.04** (−0.98%；vol 26.41×；-20% from 6/3 close $479) |
+| 50-day MA | $394.93 |
+| 150-day MA | $366.58 |
+| 200-day MA | $364.87 |
+| % vs MA50 | **−2.8%（跌破 MA50）** |
+| 52-wk range | $281.61 – $495.00（6/4 新高后 43 天 −22.4%）|
+| ATR(14d) | $14.06 |
+| Pattern | Post-earnings 持续回调；整合至 MA50/150/200 之间 |
+| Nearest valid entry | **$384 = June 4 计划入场区低沿**（$385–405，止损 $375）|
+| Next earnings | **~Sep 2026（Q3 FY2026）**；AI 收入 ≥$16B 关键验证 |
 
-**SEPA verdict**: Stage 2 维持，但财报前已扩展至 MA50 +21%。盘后 −8% sell-news 回吐启动 overview 等待的"post-earnings pullback"。基本面强（Q2 beat），技术上等更深回调（$400–420）入场 R/R 更优。
+**SEPA verdict**: Stage 2（价格跌破 MA50 但仍在 MA150/200 上方；MA 顺序完整）。Q2 sell-news pullback 兑现 6/3 预判的"更干净入场"窗口；$384 = 计划入场区（止损 $375 = -2.3%）。FY2027E P/E 19.7× 为近期最低估值。等 vol 异常原因确认后可考虑启动建仓。
 
 ---
 
@@ -123,7 +125,12 @@ See [thesis.md](thesis.md) for the full 15-section analysis.
 
 ---
 
+## 历史出场分析
+
+- [2026-08-03 — 出场计划 保守止损$380，论文止损$330（防御模式）](../../../data/outputs/AVGO/exit-2026-08-03.md)
+
 ## 历史入场分析
 
-- [2026-06-04 — ⏳ Tranche 2 等回调 $385–405，止损 $375（独立于 starter $387）](../../../outputs/AVGO/entry-2026-06-04.md)
+- [2026-07-31 — ✅ Tranche 2 分批入场 $385–400，止损 $364（2.03×ATR），今日 3 股](../../../data/outputs/AVGO/entry-2026-07-31.md)
+- [2026-06-04 — ⏳ Tranche 2 等回调 $385–405，止损 $375（独立于 starter $387）](../../../data/outputs/AVGO/entry-2026-06-04.md)
 - [2026-05-19 — ⏳ 等待 $405–425，止损 $387，Tranche 2 等财报后 $380–400](../../../outputs/AVGO/entry-2026-05-19.md)

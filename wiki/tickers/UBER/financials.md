@@ -4,9 +4,9 @@ source: austin
 
 # UBER — Key Financial Metrics
 
-**Last updated**: 2026-06-10
-**Data source**: Yahoo Finance via yfinance (price/technical/estimates 2026-06-10); Adanos sentiment (7d); upstream rwh analysis v3.0 (As-of 2026-05-22); Uber Q1 2026 press release
-**Next update trigger**: Q2 2026 earnings — ~early August 2026 (date TBA); or a Delivery Hero takeover decision
+**Last updated**: 2026-07-30
+**Data source**: Yahoo Finance via yfinance (price/technical/estimates 2026-07-30); upstream rwh analysis v3.0 (As-of 2026-05-22); Uber Q1 2026 press release
+**Next update trigger**: Q2 2026 earnings — 2026-08-05; or a Delivery Hero takeover decision
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -15,16 +15,16 @@ source: austin
 
 | Field | Value |
 |-------|-------|
-| Price (2026-06-10) | $70.38 — **AT 52-wk low** |
-| 52-week range | $69.18 – $100.10 |
-| Position vs 52-week | +1.7% above low; –29.7% below high |
-| MA50 / MA150 / MA200 | $73.63 / $78.70 / $82.93 (price below all; downtrend) |
-| Market cap | ~$143B |
+| Price (2026-07-30) | $69.11（今日 -2.98%，vol_ratio 26.62×）|
+| 52-week range | **$65.41** – $101.99（期间创新低 $65.41，新 52-wk high $101.99）|
+| Position vs 52-week | +5.6% above new low; –32.3% below high |
+| MA50 / MA150 / MA200 | **$71.99** / $74.93 / $78.69（价格低于全部；Stage 4 维持）|
+| Market cap | ~$140.7B |
 | ADV (dollars) | ~$1.4B/day (Grade A liquidity) |
-| ATR(14) | $2.02 (2.9%) |
+| ATR(14) | $2.34 (3.4%) |
 | Beta (5Y) | 1.16 |
-| Analyst mean / median target | ~$105 / ~$107 |
-| Implied upside to mean | +49% |
+| Analyst mean / median target | $103.89 / $105.90（48 人）|
+| Implied upside to mean | +50% |
 
 ---
 
@@ -125,24 +125,18 @@ $27B share buyback authorization announced; $3.0B repurchased in Q1 2026 alone (
 
 ## 9. Estimate Momentum
 
-### EPS Estimates by Period (yfinance, 2026-06-10)
+### EPS Estimates by Period (yfinance, 2026-07-30)
 
-| Period | Avg Est | YoY Growth | # Analysts |
-|--------|---------|-----------|------------|
-| Current Q (0q) | $0.83 | +32% | 32 |
-| Next Q (+1q) | $0.91 | — | — |
-| Current Y (0y) | $2.95 | (growth figure noisy/GAAP) | 35 |
-| Next Y (+1y) | $4.46 | +51% | 38 |
+| Period | Avg Est | Up (30d) | Down (30d) | Signal |
+|--------|---------|---------|-----------|--------|
+| Current Q / Q2 2026 (0q) | $0.837 GAAP | **3** | 0 | **↑ 转正** |
+| Next Q / Q3 2026 (+1q) | $0.918 GAAP | **4** | 0 | **↑ Positive** |
+| Current Y / FY2026 (0y) | $3.043 GAAP | 3 | 1 | ↑ Mildly Positive |
+| Next Y / FY2027 (+1y) | $4.540 GAAP | **4** | 0 | **↑↑ Strongly Positive** |
 
-### Revision Breadth (0y, yfinance)
+FY2026 营收共识: **$58.2B**（overlay 原估 $61.6B，下修约 5.5%；反映 Q1 后保守指引重定价）
 
-| Window | Up | Down | Read |
-|--------|----|----|----|
-| Up last 7 days | 3 | — | — |
-| Up last 30 days | 3 | — | — |
-| **Down last 30 days** | — | **29** | **Estimates being CUT recently** |
-
-**Overall Estimate Signal: MIXED → near-term NEGATIVE.** Near-term (0y) revision breadth is clearly negative — 29 downward revisions in the last 30 days vs only 3 up — i.e. estimates are being cut, consistent with the Mobility-revenue deceleration and the May-2026 capital-allocation overhang. BUT the forward picture is strong: +1y EPS $4.46 implies +51% growth. Net: near-term estimates softening, long-term thesis growth intact. This negative near-term breadth corroborates the Stage 4 technical state — another reason to wait for stabilization before adding.
+**Overall Estimate Signal: 大幅改善 → 全面正向。** 从 6/10 的 DOWN30d=29（估值正在被下修）完全逆转为今日 3↑/0↓（Q2）、4↑/0↓（Q3），体现市场预期稳定或底部形成。FY2026 营收共识从 $61.6B 下修至 $58.2B 已消化，修正方向已回正。**技术面仍 Stage 4，但估值修正方向与技术面的分歧改善 → 是等待期内最积极的信号之一。**
 
 ---
 
@@ -158,8 +152,8 @@ $27B share buyback authorization announced; $3.0B repurchased in Q1 2026 alone (
 
 Uber has beat EPS consensus in 5 consecutive quarters with an average surprise of ~18%. Revenue beats are consistent but narrower (1–2%). EPS beats are driven by EBITDA outperformance + buyback share count reduction.
 
-**Next earnings date**: ~early August 2026 (Q2 2026; specific date TBA)
-**Q2 2026 consensus**: EPS ~$0.46, Revenue ~$15.2B, GB ~$58.5B
+**Next earnings date**: **2026-08-05**（Q2 2026，6 天后）
+**Q2 2026 consensus**: EPS $0.837（GAAP），Revenue ~$14.3B，GB Q2 guide $57.5–59.5B
 
 ---
 

@@ -5,8 +5,8 @@ source: austin
 # EBAY — Financials
 
 > **Status**: Active — 🟡 Watch (Recommerce + Cohen Activism)
-> **Last Updated**: 2026-06-18 (price $107.89; –2.2% vs 5/27 $110.36; MA50 $107.08 (+0.8%) = critical support; 6/18 volume 7.9M elevated; Cohen proxy fight status unconfirmed)
-> **Next Update Trigger**: Q2 2026 earnings (2026-07-29); Cohen DFAN14A filing (overdue ~5wks post rejection); Depop closing (~end Q3 2026)
+> **Last Updated**: 2026-07-30 (price $112.08; –2.77% today; vol_ratio 16.25×; pre-earnings positioning / FOMC aftermath; Q2 earnings confirmed 2026-08-05)
+> **Next Update Trigger**: Q2 2026 earnings — 2026-08-05
 > **Sources**: eBay IR press releases (Q1 2026, Q4 2025, FY2025), MacroTrends, stockanalysis.com,
 > financecharts.com, gurufocus.com, yfinance (live price 2026-05-20)
 
@@ -132,7 +132,8 @@ important growth levers via take rate expansion on private sellers.*
 | **Price (close 5/13)** | **$113.12** | +2.5%; post-rejection stabilization + Citigroup PT $127 catalyst; deal arb framework closed |
 | **Price (close 5/20)** | **$118.96** | +5.2% vs 5/13; +4.13% today; AT 52-week high ($119.31); +18.8% above MA50 $100.11 — extended; ABOVE analyst median $110 and mean $107.94 |
 | **Price (close 5/27)** | **$110.36** | –4.29%; –7.2% from 52-wk high; vol 4.58M (0.81× avg, no panic); ex-div 5/28 ($0.31); BELOW PW EV $116.20 (–5.3% discount); AT analyst median $110; MA50 $101.99 (+8.2% = healthy Stage 2) |
-| **Price (close 6/17)** | **$107.89** ✅ | **–2.2% vs 5/27; MA50 $107.08 (+0.8%) = at critical SEPA support; 7/7 Stage 2 conditions all pass; –7.2% discount to PW EV $116.20; 6/18 vol 7.9M (1.43× avg) elevated; no confirmed news catalyst** |
+| **Price (close 6/17)** | **$107.89** | –2.2% vs 5/27; MA50 $107.08 (+0.8%) = at critical SEPA support; 7/7 Stage 2; –7.2% discount to PW EV $116.20 |
+| **Price (7/30)** | **$112.08** ✅ | -2.77% 今日；vol_ratio 16.25×；MA50 $111.66（+0.4%）；Stage 2 维持；52-wk $78.03–$119.31；分析师中位 **$114**（27 人）；Q2 财报 **2026-08-05（6 天后）** |
 | **Board Rejection (5/12)** | "Neither credible nor attractive" | eBay board formally rejected GameStop's $56B offer; Cohen stated proxy fight as "immediate next step" |
 | **Citigroup PT (5/13)** | **$127** | Post-rejection; first standalone analyst PT; sell-side re-rating underway |
 | **PW EV (Standalone + Activism)** | **~$116.20** | $140×25% + $116×55% + $87×20% (updated 2026-05-20; prior: $114) |
@@ -153,17 +154,18 @@ important growth levers via take rate expansion on private sellers.*
 
 ---
 
-## Estimate Momentum (2026-05-27)
+## Estimate Momentum (2026-07-30)
 
-| Period | Consensus EPS | 30d change | Up (30d) | Down (30d) | Signal |
-|--------|--------------|-----------|---------|-----------|--------|
-| Q2 2026E (0q) | $1.509 | +$0.018 (+1.2%) | 8 | 3 | **↑ Positive** |
-| FY2026E (0y) | $6.128 | +$0.089 (+1.5%) | **17** | 2 | **↑↑ Strongly Positive** |
-| FY2027E (+1y) | $6.764 | +$0.127 (+1.9%) | **16** | 2 | **↑↑ Strongly Positive** |
+| Period | Consensus EPS | Up (30d) | Down (30d) | Signal |
+|--------|--------------|---------|-----------|--------|
+| Q2 2026E (0q) | $1.508 | 8 | 3 | **↑ Positive** |
+| Q3 2026E (+1q) | $1.452 | 3 | 8 | ↓ Negative（Q3 慎） |
+| FY2026E (0y) | $6.120 | **17** | 2 | **↑↑ Strongly Positive** |
+| FY2027E (+1y) | $6.738 | **16** | 2 | **↑↑ Strongly Positive** |
 
-**Revision trend (30d)**: FY2026 17 up / 2 down (89% positive); FY2027 16 up / 2 down (89% positive). All periods moved higher. Estimates rising while price pulled back = improved risk/reward signal.
+**Revision trend (30d)**: FY2026 17↑/2↓（89% 正向），FY2027 16↑/2↓（89% 正向）；全年修正强烈正向，但 Q3 逆向（3↑/8↓）。Q2 EPS 共识 $1.508 vs Q1 实际 $1.66——预期偏保守，历史上 EBAY 多次超预期。
 
-**Signal**: **Bullish estimate momentum** — revisions still firmly upward at $110.36. Analyst re-ratings following Q1 2026 beat continue to filter through. At current price, stock at analyst median $110 with estimates still moving up = constructive setup for Q2 earnings.
+**Signal**: **全年强烈看涨，Q2 小幅上行，Q3 需注意逆向修正** — 分析师对 FY2026/2027 增势信心不减；Q2 8/5 财报是近期最大催化剂（共识 $1.508，历史平均超预期 +4–5%）。
 
 ---
 
@@ -177,6 +179,6 @@ important growth levers via take rate expansion on private sellers.*
 | **~2026-05-13** | **Citigroup raises PT to $127** (post-rejection standalone) | ✅ Sell-side re-rating begins |
 | **~Weeks post-5/12** | **Cohen proxy fight filing (SEC Form DFAN14A)** — "immediate next step" per Cohen | **🔴 HIGH — primary near-term catalyst; activates activism premium** |
 | **~End Q3 2026** | **Depop acquisition closing** (delayed from H1 2026) | 🟡 MEDIUM — execution credibility; further delay = risk signal |
-| **~2026-07-29** | **Q2 2026 earnings** | **🔴 HIGH — confirms or breaks Q1 GMV re-acceleration thesis** |
+| **2026-08-05** | **Q2 2026 earnings**（已确认）| **🔴 HIGH — confirms or breaks Q1 GMV re-acceleration thesis；Q2 EPS 共识 $1.508，Revenue $3.02B** |
 | **Oct/Dec 2026** | **Cohen EBAY call options expiry** | 🔴 HIGH — forces resolution: exercise (long-term bet) or exit (removes activism premium) |
 | **TBD** | Cohen proxy fight resolution (board seat / strategic review / withdrawal) | 🟠 HIGH — defines activism premium outcome |

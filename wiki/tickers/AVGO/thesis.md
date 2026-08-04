@@ -350,7 +350,7 @@ PW EV = (0.35 × $700) + (0.45 × $510) + (0.20 × $310)
      = $536.50
 ```
 
-**$536.50 vs 盘后 ~$441 = ~+21.6% upside to fair value**（5/13 时为 +28.7% @ $416.79；run-up 已吃掉部分上行）。Q2 FY26 实际（收入 $22.2B、AI $10.8B +143%、Q3 指引 AI $16B +200%）使 base-case FY2026 收入轨迹（~$104B）**得到验证甚至偏上**，场景概率维持，目标暂不调（等 FY2027 正式指引再重估 bull 概率）。盘后 ~$441 已接近 base case $510 的 ~86%，下行（bear $310）仍真实 if AI capex 放缓。
+**$536.50 vs $384（2026-07-31）= +39.7% upside to fair value**（6/3 盘后 ~$441 时为 +21.6%；post-sell-off 回调改善了 R/R）。Q2 FY26 实际验证 base-case 轨迹：Rev $22.2B、AI $10.8B +143%、Q3 指引 AI $16B +200%，FY2026 Rev 共识升至 $106B（base $104B 确认偏上）。场景概率维持不变，等 FY2027 首次正式指引（Q3 或 Q4 FY26 财报）再重估 bull 概率。目标价不调（FY2027E EPS 已从 $18.12 上修至 $19.49，Base $510 = 26× $19.49 vs 前 28× $18.12——倍数压缩已消化）。
 
 ---
 
@@ -363,7 +363,7 @@ PW EV = (0.35 × $700) + (0.45 × $510) + (0.20 × $310)
 - Base: $450–540 (3 customers, $50B AI revenue, VMware steady)
 - Bear: $250–320 (AI normalization, VMware churn)
 
-**Portfolio allocation recommendation:** At current $416.79, a 3–5% core position is appropriate for an AI infrastructure portfolio. Entry form: split between stock (60%) and Jan 2027 LEAPS $450C or $500C (40%) to capture AI binary optionality with defined risk. Primary monitoring trigger: quarterly AI XPU revenue print.
+**Portfolio allocation recommendation:** At current $384, PW EV ~+40% upside, a 3–5% core position is appropriate. This is the post-earnings pullback zone planned in the June 4 entry analysis ($385–405, stop $375). Entry form: stock entry at $384 with stop at $375 (−2.3% risk); Jan 2027 LEAPS revisit after Q3 FY2026 results (AI $16B confirmation before paying option premium). Primary monitoring trigger: Q3 FY2026 AI XPU revenue print (~Sep 2026).
 
 **Verdict:** Broadcom is the structurally strongest AI semiconductor play for investors seeking quality over speculation. NVIDIA has higher beta upside but also higher bubble risk. AVGO offers $27B+ annual FCF, 0.62% dividend, and wide moat across custom ASIC + networking + enterprise software — with AI optionality layered on top. At 23× FY2027 P/E, the market is pricing "AI succeeds moderately." If 5 hyperscaler design wins are confirmed, the stock could double from here over 2-3 years. Risk: Google deciding to accelerate in-house is the single biggest thesis-break event to monitor.
 
@@ -371,13 +371,14 @@ PW EV = (0.35 × $700) + (0.45 × $510) + (0.20 × $310)
 
 ## 15. Monitoring Checklist
 
-**Near-term (next 60 days):**
+**Near-term (next 60 days — Q3 FY2026 earnings ~Sep 2026):**
 - [x] **Q2 FY2026 earnings (Jun 3, 2026)** ✅ beat: AI 半导体 $10.8B（+143%，远超 ≥$5.0B）· 总收入 $22.2B（≥$22.0B）· Q3 指引 AI $16B +200%
 - [x] **Non-GAAP EPS** ✅ $2.44（≥$2.39，beat +1.78%）= thesis on track
-- [ ] **VMware VCF adoption**: % subscription mix above 70% = integration on track（待电话会细节）
-- [ ] **China revenue**: Monitor for ByteDance XPU orders continuing vs any export restriction news
-- [ ] **Analyst upgrades**: Track if targets converge toward $500+ following earnings（财报前 median $477.50，预计上调）
-- [ ] **⚠️ 新增观察：FY26 AI 目标 >$100B 未上调** — 市场视为 sell-news；下次财报看是否首次上调 → bull 概率催化
+- [ ] **Q3 FY2026 AI XPU revenue ≥$16B**: 最关键验证点（Q3 指引 = 自我设定标准）；miss < $14B → 重新评估
+- [ ] **FY2026 AI 目标首次上调**: Hock Tan Q3 电话会是否将 >$100B 上调至 >$120B → bull 催化剂
+- [ ] **VMware VCF adoption**: subscription mix >70% = integration on track（待 Q3 电话会细节）
+- [ ] **China / ByteDance**: 监控出口管制新规 vs 订单延续（目前无禁令新闻）
+- [ ] **今日（7/31）新闻确认**：标题"Broadcom No Longer Sells Itself As A Chip Cycle Story"（vol 26.41×）— 确认是否为战略重申（中性）或具体产品/客户消息
 
 **Mid-term (FY2026 Q3/Q4):**
 - [ ] **5th hyperscaler announcement**: Any new XPU customer disclosure = strong bull trigger

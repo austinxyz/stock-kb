@@ -4,94 +4,72 @@ source: austin
 
 # ARKX — Holdings & Composition
 
-**Last updated**: 2026-04-30
-**Data source**: Yahoo Finance as of 2026-04-30
+**Last updated**: 2026-07-30
+**Data source**: Yahoo Finance as of 2026-07-30
 **Next update trigger**: ARK daily disclosure shows >5% weight change in any top-10 holding
 **Language**: English | [中文](holdings.zh.md)
 
-## Full Holdings (Top 10 via yfinance)
+## Full Holdings (Top 10)
 
 | # | Ticker | Company | Weight % | On-theme? |
 |---|--------|---------|----------|-----------|
-| 1 | LHX | L3Harris Technologies Inc | 9.49% | ⚠️ Adjacent |
-| 2 | RKLB | Rocket Lab Corp | 7.20% | ✅ On-theme |
-| 3 | TER | Teradyne Inc | 6.67% | ❌ Off-theme |
-| 4 | KTOS | Kratos Defense & Security Solutions Inc | 6.63% | ⚠️ Adjacent |
-| 5 | DE | Deere & Co | 6.30% | ❌ Off-theme |
-| 6 | AVAV | AeroVironment Inc | 5.30% | ❌ Off-theme |
-| 7 | AMD | Advanced Micro Devices Inc | 4.65% | ❌ Off-theme |
-| 8 | TRMB | Trimble Inc | 4.03% | ⚠️ Adjacent |
-| 9 | ACHR | Archer Aviation Inc Class A | 3.77% | ❌ Off-theme |
-| 10 | PLTR | Palantir Technologies Inc | 3.53% | ❌ Off-theme |
+| 1 | SPCX | Space Exploration Technologies (SpaceX Class A) | 8.81% | ✅ On-theme (LEO launch — dominant operator) |
+| 2 | LHX | L3Harris Technologies | 6.50% | ⚠️ Adjacent (defense comms/satellite systems) |
+| 3 | RKLB | Rocket Lab Corp | 6.44% | ✅ On-theme (small satellite launch) |
+| 4 | DE | Deere & Co | 6.08% | ❌ Off-theme (agricultural machinery) |
+| 5 | AMD | Advanced Micro Devices | 5.95% | ❌ Off-theme (CPUs/GPUs) |
+| 6 | KTOS | Kratos Defense & Security | 5.44% | ⚠️ Adjacent (satellite ground systems + drones) |
+| 7 | TER | Teradyne Inc | 4.79% | ❌ Off-theme (semiconductor test equipment) |
+| 8 | AVAV | AeroVironment Inc | 4.29% | ⚠️ Adjacent (tactical drones, defense) |
+| 9 | GOOG | Alphabet Inc Class C | 3.87% | ❌ Off-theme (megacap tech) |
+| 10 | AMZN | Amazon.com Inc | 3.85% | ❌ Off-theme (Project Kuiper — adjacent but not ETF-grade LEO) |
 
-**Top 10 total**: ~57.3% AUM
-**On-theme**: ~7.2% (RKLB only)
-**Adjacent**: ~20.1% (LHX + KTOS + TRMB)
-**Off-theme**: ~30.0% (TER + DE + AVAV + AMD + ACHR + PLTR)
+**Concentration**: Top 5 = 33.3% · Top 10 = 56.0%
 
-*Full holdings list (ARK publishes daily): https://ark-funds.com/funds/arkx/*
+**Changes vs 2026-04-30**: SPCX added as #1 (new — SpaceX private shares vehicle); TRMB, ACHR, PLTR exited top 10; GOOG and AMZN entered; LHX dropped from 9.49% to 6.50%.
+
+*Source: Yahoo Finance funds_data 2026-07-30. Full ARK holding list: ark-funds.com daily disclosure.*
 
 ## Sector Weights
 
-| Sector | Weight % |
-|--------|----------|
-| Industrials | 58.6% |
-| Technology | 26.8% |
-| Consumer Cyclical | 6.8% |
-| Communication Services | 6.3% |
-| Healthcare | 1.5% |
-| Cash | 0.2% |
+| Sector | Weight % | Assessment |
+|--------|----------|-----------|
+| Industrials | 58.9% | Core (defense, aerospace, manufacturing) |
+| Technology | 24.4% | Mixed (AMD, TER off-theme; GOOG, AMZN partially space-adjacent) |
+| Communication Services | 8.0% | Space-adjacent (comms satellites, spectrum) |
+| Consumer Cyclical | 8.0% | Off-theme |
+| Healthcare | 0.8% | Off-theme |
 
 ## Geographic Exposure
 
-Predominantly US-listed companies. Top holdings are all US-domiciled or US-listed foreign
-companies (RKLB is NZ-founded but NYSE-listed). No significant EM exposure identified in
-top 10.
+Predominantly US-listed companies. RKLB has New Zealand heritage but is NYSE-listed. No direct EM exposure in top 10.
 
 ## Market Cap Breakdown
 
-Based on top holdings profile: predominantly **Large-Cap** (LHX, DE, AMD, PLTR) and
-**Mid-Cap** (RKLB, KTOS, AVAV, TER, TRMB). ARK categorizes ARKX as "Mid-Cap Growth."
-
-| Cap Range | Estimated Weight % |
-|-----------|-------------------|
-| Large-cap (>$10B) | ~55% |
-| Mid-cap ($2B–$10B) | ~35% |
-| Small/Micro (<$2B) | ~10% |
+Large/mega-cap dominant: DE, AMD, GOOG, AMZN are all large-cap. RKLB, AVAV, KTOS are mid-cap growth. SPCX is private (SpaceX), accessed via structured Class A vehicle — unique liquidity profile.
 
 ## Index Methodology
 
-ARKX is **actively managed** — there is no passive index. ARK Invest's portfolio management
-team selects securities based on their proprietary research into the "space exploration and
-innovation" theme. Key criteria include:
+**Actively managed** — no passive index. ARK Invest's Space research team selects and weights holdings at discretion. Holdings disclosed daily on ark-funds.com. No fixed rebalance schedule; portfolio shifts occur at ARK's discretion.
 
-- Companies directly involved in space launch, satellite networks, or space infrastructure
-- Companies that enable space exploration (components, software, data)
-- Companies that benefit from space (precision agriculture via satellite, etc.)
-
-This broad mandate explains the inclusion of DE (precision farming) and AMD (space-grade
-processing). ARK's interpretation of the theme is expansive and diverges significantly from
-a pure-play LEO definition.
-
-Rebalance: Discretionary. ARK publishes holdings daily (full transparency).
+Key selection criteria per ARK: companies that "lead, enable, or benefit from space exploration" — broad mandate that includes defense, AI, autonomous systems, and agricultural tech (DE).
 
 ## Tracking Quality
 
 | Metric | Value |
 |--------|-------|
 | Expense ratio | 0.75% |
-| Tracking difference | N/A (active, no benchmark) |
-| Tracking error | N/A (active) |
+| Tracking difference (1y) | N/A (active fund, no index to track) |
+| Tracking error (annualized) | N/A |
+| Current NAV premium/discount | +1.47% ($30.01 price vs $29.575 NAV) |
+| 12-month avg premium/discount | Not available via yfinance |
 | Benchmark index | None (actively managed) |
 
-Active management means tracking error vs a passive space index is irrelevant, but the
-broader question is whether ARK's stock selection generates alpha above the ETF cost.
-3Y annualized return of 33.2% vs the peer median suggests reasonable but not exceptional
-active management performance.
+*Active fund note: tracking difference metric is not meaningful. The 1.47% NAV premium is the effective execution cost vs fair value today — factor into limit order placement.*
 
 ## Upcoming Rebalances
 
 | Date | Event | Expected Impact |
 |------|-------|----------------|
-| Daily | ARK publishes holdings | Monitor RKLB weight changes |
-| Quarterly | ARK typically reassesses major positions | Potential rotation affecting LEO purity |
+| Ongoing | ARK daily discretionary rebalance | Monitor ark-funds.com for holding shifts |
+| — | No semi-annual schedule | Changes can occur any trading day |

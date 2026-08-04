@@ -4,8 +4,8 @@ source: austin
 
 # POET — POET Technologies Inc.
 
-**Last updated**: 2026-05-14
-**Status**: Watch (重新观察) — Lumilens $50M PO confirmed + Q1 beat +216%; price $20.57 (ATH); ~15% above PW EV $17.80; management fraud allegation unresolved → do not chase ATH
+**Last updated**: 2026-07-29
+**Status**: Watch (Weakened) — 现价 $6.77（较 ATH $20.57 −67.1%）；三起 PFIC 税务集体诉讼已立案 + $400M 增发已完成（$21/股）+ CFO 退休；运营叙事（Lumilens/马来西亚/新COO）仍在推进但价格结构 Stage 4；PW EV 重估至 $6.35（现价基本收敛）；不建议在诉讼结果明朗前新增正股敞口
 **Source of promotion**: `wiki/opinions/chen-yun.md` (4/3, 4/11, 4/20, 4/21, 4/24 mentions)
 **Language**: English | [中文](overview.zh.md)
 
@@ -29,17 +29,18 @@ is essentially a rounding error.
 
 | Attribute | Value |
 |-----------|-------|
-| Market cap | ~$3.14B (2026-05-14, $20.57/share) |
+| Market cap | ~$1.16B (2026-07-29, $6.77/share) — was ~$3.14B at ATH |
 | Revenue (FY2025) | $1.07M; Q1 2026 actual ~$1.1M (+216% beat) |
 | Gross margin | 100% (licensing/NRE; production mix begins Q2 2026) |
 | Operating loss (FY2025) | –$42M |
 | Trailing FCF | –$33M |
-| Cash | **~$430M** (post Jan 2026 raise; Lumilens warrant exercise adds ~$189M if executed) |
+| Cash | ~$430M pre-raise + $400M 2026-05 增发净额（扣发行费用后）；Lumilens 权证已转为价外（$8.25 strike vs $6.77 现价），行权不再近乎确定 |
 | Total debt | $7M |
 | Beta (5Y monthly) | 0.37 (atypical — realized vol is 4–6× market) |
-| Shares outstanding | ~152.7M + 22.9M Lumilens warrants @$8.25 = **~175.6M fully diluted** |
-| Institutional ownership | 7.6% (very low — predominantly retail) |
-| **Lumilens deal** | **$50M confirmed PO (12mo) + up to $500M/5yr framework — signed 2026-05-14** |
+| Shares outstanding | **172.6M**（较 5 月增发前增加约 19M 股，来自 $400M 增发 19.05M 单位 @$21）|
+| Institutional ownership | 7.6% (very low — predominantly retail; 5 月数据，未刷新) |
+| **Lumilens deal** | $50M confirmed PO (12mo) + up to $500M/5yr framework — signed 2026-05-14，执行进度待 Q2/Q3 财报确认 |
+| **[NEW] 法律/资本事件（2026-05 那周）** | $400M 增发（$21/股）+ CFO Thomas Mika 退休 + 三起 PFIC 税务集体诉讼立案（详见 thesis.md §8/§15）|
 
 ---
 
@@ -73,15 +74,16 @@ stall out in another 2-year development cycle.
 
 ## Pivotal Investment Question
 
-> **"Will the Lumilens $500M framework scale beyond the initial $50M PO — and will
-> Malaysia's Q2 2026 light-source ramp convert into confirmed volume delivery — generating
-> $50M+ in 2026 revenue and $150M+ in 2027 — before the market's $3.14B mcap creates
-> multiple compression pressure?"**
+> **"Will the PFIC securities class actions settle at manageable cost, and will Lumilens/
+> Malaysia execution data in the Q2/Q3 2026 prints reassure the market that the operating
+> story is intact — before the $400M raise's cash runway advantage gets discounted away by
+> continued litigation overhang?"**
 
-The $50M Lumilens PO de-risks FY2026 revenue floor materially. The next major data point:
-**Q2 2026 earnings (~August 2026)** — first quarter where Lumilens delivery and Malaysia
-production volume should both be visible in results. Management fraud allegation resolution
-is the other critical watch item between now and August.
+The operating question (Lumilens scale, Malaysia yield) has NOT changed since May — what
+changed is that a parallel legal/capital-structure track (PFIC lawsuits, $400M dilutive
+raise, CFO transition) emerged in the same week as the ATH and was never captured in the
+prior thesis version. **Q2/Q3 2026 earnings** remain the operating checkpoint; **PFIC
+litigation developments** are now an equally weighted checkpoint.
 
 ---
 

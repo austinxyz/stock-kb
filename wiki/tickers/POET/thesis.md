@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: POET (Nasdaq)
 **Company**: POET Technologies Inc.
-**As of**: 2026-05-05
-**Price**: $9.21 (Yahoo Finance verified)
-**52-wk range**: $3.87 – $15.50
-**Market cap**: ~$1.41B
-**Verdict**: **Speculative — Thesis Weakened; Celestial AI orders cancelled; stock now near base-case PW EV ($11.00); May 14 Q1 earnings is critical thesis test; Stage 2 technical setup constructive**
+**As of**: 2026-07-29（refresh；§1–§10、§12 基本面细节仍为 2026-05-05 数据，未逐项重跑）
+**Price**: $6.77（较 2026-05-14 ATH $20.57 累计 −67.1%）
+**52-wk range**: $4.17 – $20.81
+**Market cap**: ~$1.16B（172.6M 股，较 5 月增发前增加约 19M 股）
+**Verdict**: Speculative — Thesis Weakened（非 Broken）。运营层面持续推进（Lumilens $50M PO、马来西亚产线里程碑、Q1 revenue +216% beat、新 COO 到任），但价格结构彻底破坏（Stage 4，低于全部均线）+ 三起 PFIC 税务集体诉讼正式立案 + $400M 增发（$21/股，现价已 −68%）。现价 $6.77 已逼近旧论点 Bear Case 目标 $6，市场定价已隐含接近最悲观情景。
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -178,8 +178,8 @@ $5–10B photonics leader within 3 years or stall in another development cycle.
 - **Suresh Venkatesan** — Chairman / CEO since 2014. Technical leader, ex-Freescale.
   Has maintained POET's direction through multiple pivots; also responsible for 5 years
   of "next-quarter commercialization" promises that only now appear to be landing.
-- **Thomas Mika** — CFO, external-facing; made the 4/21 "awaiting feedback from
-  Foxconn/Luxshare" comment that confirmed no volume PO yet.
+- **Thomas Mika** — CFO（十年任期），made the 4/21 "awaiting feedback from Foxconn/Luxshare" comment. 2026-07 更新：已宣布退休（非突发离任）。更严重的是——公开报道指认 Mika 在一次公开采访中披露了保密商业细节，涉嫌违反 NDA，直接触发 Celestial AI（经 Marvell 渠道，此前 POET 最大客户）取消全部未完成订单。这就是 4/23 那次订单取消的具体成因，旧版论点只记录了结果，未记录原因。
+- **Sandeep Kumar** — 2026-05-11 新任 COO，前 Silicon Labs 全球运营高级副总裁（18 年经验）。运营层面的正面招募，旧版论点完全未提及。
 
 ### Capital Allocation Track Record
 
@@ -225,9 +225,11 @@ If not, $430M is enough to keep trying.
 
 | Risk | Impact | Probability | Composite |
 |------|:------:|:-----------:|:---------:|
-| **Management fraud allegation (5/8) — unresolved** | Critical | Low-Medium (20%) | **High** |
+| **[2026-07 更新] NDA 违约坐实 + Celestial AI 取消成因确认** | Critical | Realized | **High（已实现，非概率）** |
+| **[NEW 2026-07] 三起 PFIC 税务集体诉讼（4/1–4/27 集体期间，首席原告截止已过 6/29）** | High | Realized（诉讼已立案，结果未定）| **High** |
+| **[NEW 2026-07] $400M 增发已完成（$21/股，2026-05 那周）** | Medium | Realized | **Medium（现价 −68% vs 发行价，稀释已发生）** |
 | **Lumilens $500M framework doesn't scale beyond initial $50M** | High | Medium (35%) | **High** |
-| **Lumilens warrant dilution (22.9M shares @$8.25)** | Medium | High (85%) | **Medium-High** |
+| **Lumilens warrant dilution (22.9M shares @$8.25)** | Medium | High (85%) | **Medium-High（深度价外，$8.25 vs 现价 $6.77，行权可能性已大幅下降）**|
 | **Foxconn/Luxshare volume POs don't materialize H2 2026** | High | Medium (35%) | **High** |
 | Celestial AI orders cancelled (CONFIRMED 4/23) — partially offset by Lumilens | Medium | Realized | Medium (mitigated) |
 | 30K engine target missed (<15K actual) | High | Medium (40%) | High |
@@ -237,11 +239,7 @@ If not, $430M is enough to keep trying.
 | Further dilutive raise before FCF+ | Medium | Low (15%) | Low |
 | Technology setback (optical interposer yield) | Critical | Low (15%) | Medium |
 
-**Most underappreciated risk (2026-05-14)**: Management fraud allegation (5/8) is unresolved
-and not publicly addressed. Lumilens deal was signed, but customers at this scale conduct
-due diligence — if fraud allegations become public or legally formalized, it could unwind
-the Lumilens relationship. Lumilens warrant dilution (+22.9M shares, ~15% dilution) is
-near-certain given deep in-the-money status ($8.25 strike vs. $20.57 price).
+**[2026-07-29 更新] 最被低估的风险已经兑现，不再是未公开的举报。** Mika 的 NDA 违约不仅触发了 Celestial AI 订单取消，还牵出三起独立的 PFIC 税务披露集体诉讼——两条线（客户关系损失、投资者诉讼）同源但各自独立发展。Lumilens 权证行权可能性大幅下降：$8.25 行权价 vs 现价 $6.77，已从深度价内近乎确定行权变为价外、行权与否取决于股价能否收复 $8.25 以上——稀释风险降低，但这是因为股价暴跌，不是因为公司变好了。
 
 **Positive update (2026-05-14)**: Celestial AI cancellation risk partially offset — Lumilens
 $50M PO is 10× larger than the Celestial AI orders (~$5M). Revenue base improved dramatically.
@@ -434,85 +432,87 @@ Net: Moderate — do not chase ATH; wait for consolidation before re-entering Wa
 
 ## 13. Bull / Bear / Base Scenarios
 
-### Bull Case (probability 25%) — Price target $37, +80%
+> 2026-07-29 情景重估。旧版三情景以 $20.57（ATH）为基准，现价 $6.77 已经低于旧版 Bear Case 目标 $6 仅一步之遥——不是熊市情景可能发生，而是市场已经在为接近熊市的结果定价。新情景以现价为基准重新校准，概率反映诉讼与稀释已成事实而非风险。
 
-- Lumilens $50M PO executes within 12 months; $500M framework begins contributing H2 2026
-- Foxconn OR Luxshare volume PO announced by Q3 2026 (Lumilens win accelerates pipeline)
-- FY2026 actual revenue $35–50M; FY2027 revenue $180–220M (Lumilens + FOIT/Luxshare + LITEON)
-- Management fraud allegation resolved or dropped with no business impact
-- Market awards 25× 2027 EV/Revenue ($180M × 25 = $4.5B; /175M diluted shares = ~$25.7; round to $37 with premium re-rate)
-- Implied ~$37 / share; ~$6.5B mcap
+### Bull Case (probability 15%) — Price target $16, +136%
 
-*Probability raised from 20% — Lumilens $50M PO confirms hyperscaler-facing customer,
-substantially de-risks FY2026 revenue floor. $500M framework is transformative if scales.*
+- Lumilens $50M PO executes on schedule; $500M framework begins contributing H2 2026
+- PFIC 集体诉讼被驳回或和解成本可控（<$20M，不影响现金跑道）
+- 马来西亚产线量产达标；Foxconn/Luxshare 至少一家转化为量产订单
+- FY2026 revenue $25–35M；FY2027 revenue $100–140M
+- 市场重新给予 15–18× 2027 EV/Revenue 溢价（诉讼阴云消退）
+- Implied ~$16 / share；~$2.8B mcap
 
-### Base Case (probability 45%) — Price target $15, –27%
+*概率由 25% 下调至 15%，旧版牛市假设「欺诈指控解决且无业务影响」已不成立，指控已发展为独立的、结果未定的证券集体诉讼。*
 
-- Lumilens $50M PO executes on schedule; $500M framework delivers ~25–30% ($125–150M) over 5 years
-- Malaysia ramp proceeds; 30K engine target partially met (20K actual)
-- Foxconn/Luxshare remain in prototype phase; no volume PO confirmed in 2026
-- FY2026 revenue $20–30M; FY2027 revenue $80–100M
-- Multiple compresses to 18–20× 2027 EV/Revenue; ($90M × 20 = $1.8B; /175M shares = $10.3)
-- Lumilens warrants exercised → dilution partially absorbed by cash inflow
-- Implied ~$15 / share (premium applied for Lumilens confirmation); ~$2.6B mcap
+### Base Case (probability 35%) — Price target $7, +3%
 
-### Bear Case (probability 30%) — Price target $6, –71%
+- Lumilens $50M PO 执行但放缓；$500M 框架进展缓慢（$60–80M 兑现，非 $125–150M）
+- 诉讼进入正式审理，产生法律费用与管理层精力分散，但无重大和解赔付
+- Foxconn/Luxshare 仍处原型阶段；无新增量产客户
+- FY2026 revenue $12–18M；FY2027 revenue $40–60M
+- 估值维持当前压缩水平（8–10× 2027 EV/Revenue）
+- Implied ~$7 / share（大致等于现价，原地不动情景）；~$1.2B mcap
 
-- Lumilens $50M PO executes but $500M framework stalls (integration delays or competing supplier)
-- Management fraud allegation escalates — governance discount, potential Lumilens relationship risk
-- Foxconn/Luxshare stall indefinitely; Celestial AI replacement never materializes at scale
-- FY2026 revenue $10–15M (Lumilens only); FY2027 revenue <$40M
-- Multiple compresses to 10–12× 2027 EV/Revenue; ($35M × 12 = $420M; /175M shares = ~$2.40)
-- Capital raise becomes necessary 2028 at dilutive price
-- Implied ~$6 / share (higher than prior $3.50 — Lumilens floor provides support); ~$1.05B mcap
+### Bear Case (probability 50%) — Price target $3, –56%
 
-*Bear probability reduced from 40% — Lumilens deal provides revenue floor even in downside scenario.
-Management fraud is the primary bear-case amplifier if formalized.*
+- PFIC 集体诉讼判决不利（和解成本 >$50M）或客户关系进一步流失
+- Lumilens $500M 框架实质性停滞或被单方面限制
+- Foxconn/Luxshare 无限期停滞；无替代大客户出现
+- FY2026 revenue <$10M；FY2027 revenue <$25M
+- 估值压缩至 5–7× 2027 EV/Revenue，或按现金价值下限定价
+- 若诉讼和解需要现金，不排除再融资，届时价格大概率低于现价
+- Implied ~$3 / share；~$520M mcap
 
-### Probability-Weighted EV
+*概率由 30% 上调至 50%，旧版熊市假设的多个条件（欺诈升级、诉讼、稀释）在过去三个月内已相继实现，不再是尾部风险，是基准路径的一部分。*
 
-**PW EV = (0.25 × $37) + (0.45 × $15) + (0.30 × $6) = $9.25 + $6.75 + $1.80 = ~$17.80**
+### Probability-Weighted EV（2026-07-29 重估）
 
-**Current price $20.57 vs. PW EV $17.80 → ~15% above fair value.**
+**PW EV = (0.15 × $16) + (0.35 × $7) + (0.50 × $3) = $2.40 + $2.45 + $1.50 = ~$6.35**
 
-Lumilens deal dramatically improved PW EV from $11.00 to $17.80 (+62%). However, stock's
-+43.15% move to ATH $20.81 means the market has priced in the full upside of the deal
-immediately. Risk/reward is less favorable at ATH; wait for consolidation into $14–17
-range (near PW EV) before considering any entry. Distribution is now less negatively
-skewed than before (bear floor raised from $3.50 to $6), but bull case is still the
-minority outcome — treat as Watch, not Buy.
+**现价 $6.77 vs PW EV $6.35 → 现价已略高于概率加权公允值（+6.6%），基本反映当前已知的负面信息。**
+
+PW EV 从旧版 $17.80（以 ATH 价格为基准的乐观框架）重估至 $6.35，跌幅 −64%，与股价实际跌幅 −67.1% 基本同步，说明这次崩盘更多是消化已实现的坏消息，而非非理性抛售。这与今日之前已发现的 GLW 情形相反：GLW 是基本面 beat 但预期水位被打掉，POET 是基本面仍在推进但风险实质化，价格与基本面同步向下。两种下跌，性质不同，不应用同一套便宜了就是机会的直觉去处理。
 
 ---
 
 ## 14. Bottom Line
 
-### 1-year view (to 2027-05-14)
-- **Base case**: $15 — Lumilens executes $50M PO; $500M framework begins but at modest pace; stock consolidates from ATH to PW EV range
-- **Upside trigger**: Foxconn OR Luxshare volume PO announced; Lumilens reorders above initial tranche; new hyperscaler customer
-- **Downside trigger**: Management fraud allegation escalates publicly; Lumilens PO delayed or cancelled; Malaysia yield issues
+### 1-year view (to 2027-07-29)
+- **Base case**: $7 — 大致原地不动；诉讼进入常规诉讼程序但无重大和解；Lumilens 执行放缓
+- **Upside trigger**: PFIC 诉讼被驳回或低成本和解；Foxconn/Luxshare 任一转化为量产订单
+- **Downside trigger**: 诉讼和解成本重大；Lumilens $500M 框架实质性停滞；再融资
 
-### 3-year view (to 2029-05-14)
-- **Bull**: $35–50 if Lumilens $500M scales + Foxconn/Luxshare volume begin ($250M+ rev by 2028)
-- **Base**: $12–18 if Lumilens executes core deal; other customer ramp delayed to 2028
-- **Bear**: $3–7 if Lumilens $500M stalls + management fraud amplifies governance discount
+### 3-year view (to 2029-07-29)
+- **Bull**: $20–30 if 诉讼低成本了结 + Lumilens 框架规模化 + 新增量产客户
+- **Base**: $8–12 if 核心 Lumilens 订单执行，诉讼常规了结，无新增大客户
+- **Bear**: $2–4 if 诉讼重大不利 + Lumilens 框架停滞 + 需要再融资
 
 ### Portfolio allocation recommendation
-- **Target %**: **Watch only — no new position at $20.57 (ATH, 15% above PW EV $17.80)**
-- **Re-entry condition**: Pullback to $14–17 (PW EV range) after ATH consolidation; no management fraud escalation; Lumilens PO execution progress confirmed
-- **Position form**: Stock only (options IV extreme at ATH; avoid)
-- **Max size**: 0.5% at PW EV entry; 1% on Foxconn/Luxshare volume PO confirmation
-- **Primary monitoring trigger**: Q2 2026 earnings (~August 2026); Lumilens PO execution pace; management fraud resolution
+- **Target %**: **Watch (Weakened) — 不建议新增正股仓位**
+- **Re-entry condition**: PFIC 诉讼结果明朗（驳回或和解金额可控）+ Q2/Q3 财报确认 Lumilens 执行节奏 + 价格结构修复（收复 MA200 $7.93）三者至少两项满足
+- **Position form**: 若重新入场，仍应用小仓位试探，不建议股票 + 期权双重敞口
+- **Max size**: 0.5%，且诉讼结果明朗前不加仓
+- **Primary monitoring trigger**: PFIC 诉讼进展（下一关键节点：lead plaintiff 确定后的诉状修订）；Q2/Q3 2026 财报；Lumilens 订单执行数据
 
 ### Verdict
-**Watch (重新观察) — thesis validated but fully priced at ATH.** Lumilens $50M PO announcement + Q1 earnings beat (+216% revenue) represent the most significant commercial validation in POET's history. PW EV jumped from $11.00 to $17.80 — but the stock's +43.15% move to ATH $20.81 priced in the full deal immediately.
+**Watch (Weakened)，论点未破但风险已从未解决的指控升级为三起正式诉讼加已完成的巨额稀释。**
 
-Management fraud allegation (5/8) remains unresolved and is the primary tail risk that prevents re-upgrading to Buy. Do not chase at ATH. Wait for consolidation to PW EV range ($14–17) before reconsidering position.
+运营叙事仍然真实：Lumilens $50M PO、马来西亚产线里程碑、Q1 revenue +216%、新 COO 招募，这些都不是虚构的。但 2026-05-14 那周同时发生的三件事（$400M 增发 @$21、CFO 退休、三起 PFIC 集体诉讼立案）在旧版论点里完全没有被记录，而现价 $6.77 已经反映了这些信息，PW EV 从 $17.80 重估至 $6.35，现价与新 PW EV 已基本收敛。
 
-POET is now the **most fundamentally improved** name in the speculative wiki — Lumilens transforms it from "Foxconn/Luxshare pending" to "confirmed Tier-1 hyperscaler-facing customer with $500M potential." The story is real; the entry is not.
+这不是一次情绪超跌、价值显现的机会，是旧论点的乐观假设逐条被证伪，价格同步跟随下修。不建议在诉讼结果明朗前新增任何正股敞口。
 
 ---
 
 ## 15. Monitoring Checklist
+
+### 2026-07-29 刷新新增
+
+- [x] Management fraud allegation 具体化 — 已坐实：Mika 在公开采访中披露保密信息，涉嫌违反 NDA，直接触发 Celestial AI 取消订单
+- [x] 新增诉讼风险 — 三起 PFIC 税务集体诉讼已立案（集体期间 4/1–4/27，lead plaintiff 截止已过 6/29），结果未定
+- [x] 资本结构变化 — $400M 增发已完成（19.05M 单位 @$21/股），股本增至 172.6M
+- [x] 管理层变动 — CFO Thomas Mika 宣布退休（非突发）；新增 COO Sandeep Kumar（5/11 到任，前 Silicon Labs），运营层面正面招募
+- [ ] Lumilens 权证行权状态 — 待确认（现价 $6.77 已低于 $8.25 行权价，行权可能性下降）
 
 ### Near-term (completed — 2026-05-14 Q1 earnings + Lumilens announcement)
 
@@ -537,13 +537,14 @@ POET is now the **most fundamentally improved** name in the speculative wiki —
 
 ### Thesis-break triggers (any ONE = immediate reassessment)
 
-- **[ACTIVE]** Management fraud allegation (5/8) formalized or expanded — unresolved; any new public disclosure = urgent reassessment
-- **[NEW]** Lumilens cancels or materially reduces $50M PO before execution
-- **[NEW]** Lumilens $500M framework formally limited or capped by either party
+- **[已实现，转为常态监控]** Management fraud allegation formalized — 已具体化为 NDA 违约指控，改为跟踪诉讼进展而非是否会发生
+- **[NEW 2026-07]** PFIC 集体诉讼和解金额超过 $50M 或判决对公司不利
+- **[NEW 2026-07]** 需要新一轮再融资（说明 $400M 增发所得现金消耗超预期）
+- Lumilens cancels or materially reduces $50M PO before execution
+- Lumilens $500M framework formally limited or capped by either party
 - Foxconn or Luxshare publicly names a competing supplier for 800G optical engines
-- Q2 2026 revenue (August) <$4M (Lumilens PO contribution below minimum run-rate)
+- Q2/Q3 2026 revenue 不及 Lumilens PO 隐含的最低季度贡献（~$4M/季）
 - Malaysia yield issues disclosed publicly (production below 10K engines by Q3 2026)
-- Additional dilutive equity raise announced below $15/share before Q3 revenue confirms ramp
 
 ### Continuing thesis-strength triggers
 
