@@ -4,8 +4,8 @@ source: austin
 
 # COHR — Coherent Corp.
 
-**Last updated**: 2026-05-11
-**Status**: ⚠️ **AT Consensus / Prefer Pullback** — Q3 FY2026 confirmed (Rev ~$1,804M, GM% ~38.5% new high); stock +13.25% to new ATH $384.85; analyst median $380 = AT current price; prefer Batch 2 pullback $350–375; thesis strengthened
+**Last updated**: 2026-08-10 (pre-earnings price-move refresh via /stock-refresh)
+**Status**: ⏳ **Watch / Pre-Earnings** — Q4 FY26 earnings 2026-08-12 (2 days out, still pending); price $325.15 (today -14.24%, sector-wide "optics vs memory" social-media narrative rotation + pre-earnings de-risking, not COHR-specific bad news); analyst median $400 unchanged (+23.0% upside, discount widened from -17.5% to -18.7%); thesis-break triggers unconfirmed; 8/12 earnings remains the sole decision point
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -22,10 +22,10 @@ Coherent Corp. is the world's #2 optical components maker — manufacturing tran
 
 | Attribute | Value |
 |-----------|-------|
-| Market Cap | $74.28B (2026-05-11) |
+| Market Cap | $64.55B (2026-08-04) |
 | Revenue (FY2025, ended June 2025) | $5,810M (+23.4% YoY) |
-| TTM Revenue (through Mar 2026) | **$6,600M** (Q3 FY26 ~$1,804M inferred) |
-| Gross Margin (TTM) | **37.0%** (Q3 FY26 GM% ~38.5% — new high) |
+| TTM Revenue (through Mar 2026) | **$6,600M** (Q3 FY26 confirmed $1,806M) |
+| Gross Margin (TTM) | **~37.4%** (Q3 FY26 GAAP 37.6%; non-GAAP ~38.5%) |
 | Operating Margin (TTM) | 13.6% |
 | FCF (FY2025) | $193M (3.3% FCF margin) |
 | Cash | $909M (Jun 2025) |
@@ -55,25 +55,16 @@ Coherent Corp. is the world's #2 optical components maker — manufacturing tran
 
 ---
 
-## Technical Summary (2026-05-11, post-ATH breakout)
+## Technical Summary (2026-08-10, pre-earnings price-move update)
 
 | Metric | Value |
 |--------|-------|
-| Current Price | **$379.69** (+13.25% today; sector-wide optical interconnect rally) |
-| 52-Week Range | $73.66 – **$384.85** (new ATH intraday 2026-05-11) |
-| % Above 52W Low | +415.6% |
-| % Below 52W High | –1.3% (AT new ATH) |
-| MA50 | $288.92 (price **+31.4%** above — extended but not parabolic) |
-| MA150 | $213.54 (price +77.8% above) |
-| MA200 | $185.73 (price +104.4% above; MA200 slope +15.5%/mo) |
-| ATR14 | $26.38 |
-| Avg Volume (50d) | 7,805K shares |
-| Today's Volume | 8,823K (1.13× avg — moderate on breakout day) |
-| Trend Template Score | **8/8** ✅ (Stage 2 — all conditions met) |
-| Pattern | ATH breakout after earnings; MA50 +31.4% extended; prefer next pullback |
-| Entry | Zone B ($315–335) superseded; Scenario A ATH breakout $385–404; Scenario B pullback $350–375 (preferred) |
-| Next Earnings | Q4 FY2026 — ~August 2026 |
-| SEPA Verdict | **Stage 2, 8/8 ✅, extended** — MA50 +31.4% caution; not parabolic (<50%). Prefer Batch 2 pullback to $350–375 over ATH chase. |
+| Current Price | **$325.15** (today -14.24%; interim high $378.80 on 8/7 before today's drop) |
+| 52-Week Range | $84.35 – $440.00 |
+| MA50 | $341.94 (price **-4.9%** below — essentially unchanged from 08-04's -5.0%, despite the volatile round trip in between) |
+| Next Earnings | Q4 FY2026 — **2026-08-12** (2 days out, still pending — today's move is NOT an earnings reaction) |
+| Cause of today's move | Sector-wide "optics vs. memory" social-media narrative debate + pre-earnings de-risking across optical names (COHR -14%, LITE -6.6%, AXTI -16.7% same day) — not COHR-specific negative news |
+| SEPA Verdict | Stage 2 weakened, materially unchanged from 08-04 — net MA50 gap barely moved despite the price round-trip ($330→$379→$325). 8/12 earnings remains the real technical catalyst. |
 
 ---
 
@@ -91,14 +82,14 @@ The entire optical networking sector is surging on AI capex. COHR is actually on
 
 ---
 
-## Social Sentiment (2026-05-06)
+## Social Sentiment (2026-08-04)
 
 | Platform | Signal | Basis |
 |----------|--------|-------|
-| X.com / Twitter | Bullish | Pre-earnings excitement; optical AI thesis widely discussed |
-| Reddit (r/stocks, r/investing) | Bullish-Neutral | AI infrastructure trade popular; COHR less known than NVDA/AMD |
-| News Sentiment | Bullish | "AI data center optical demand"; "800G upgrade cycle" narrative dominant |
-| **Overall** | **Cautiously Bullish** | Earnings event today creates event-driven risk; stock priced for perfection near ATH |
+| X.com / Twitter | Neutral-Bullish | Buzz 77.5; bullish 39%; optical AI still discussed but stock down from ATH |
+| Reddit (r/stocks, r/investing) | Neutral-Bearish | Buzz 47.9; bullish 22%, bearish 24%; net slightly negative after -25% drawdown |
+| News Sentiment | Neutral | Buzz 32.6; bullish 38%; post-ATH cooldown; 8/12 earnings starting attention |
+| **Overall** | **Neutral / Cautious** | Sentiment cooled significantly from May ATH peak; pre-earnings watch mode |
 
 ---
 

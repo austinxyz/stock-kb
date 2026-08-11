@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: COHR (NYSE)
 **Company**: Coherent Corp. (formerly II-VI Incorporated)
-**As of**: 2026-05-11 (Q3 FY2026 data confirmed; post-ATH breakout technical + estimate update)
-**Price**: $379.69 (Yahoo Finance, 2026-05-11; new 52W ATH $384.85 intraday)
-**52-wk range**: $73.66 – $384.85
-**Market cap**: $74.28B
-**Verdict**: ⚠️ **AT Analyst Consensus ($380 median)** — Q3 FY2026 confirmed: Rev ~$1,804M (+1.3% beat), GM% ~38.5% (new high), EPS $1.41; FY2027 EPS estimates +11.1% in 90d to $8.02; thesis strengthened; prefer pullback entry $350–375 over ATH chase; see /stock-entry plan
+**As of**: 2026-08-10 (pre-earnings price-move refresh; today -14.24%; 8/12 earnings still pending, 2 days out)
+**Price**: $325.15 (Yahoo Finance, 2026-08-10; interim high $378.80 on 8/7, today's drop is sector-wide rotation not COHR-specific news)
+**52-wk range**: $84.35 – $440.00
+**Market cap**: ~$63.7B
+**Verdict**: ⏳ **Watch / Pre-Earnings** — MA50 gap essentially unchanged from 08-04 (-4.9% vs -5.0%) despite the volatile $330→$379→$325 round trip; Q4 FY26 earnings 2026-08-12 still the only real catalyst (EPS consensus $1.617, Rev $1.981B +29.5% YoY unchanged); analyst median $400 unchanged (discount widened to -18.7% from -17.5%); thesis-break triggers unconfirmed; today's -14.24% attributed to a social-media "optics vs. memory" narrative rotation + pre-earnings de-risking (COHR/LITE/AXTI all fell together), not a COHR-specific negative event
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -23,9 +23,13 @@ The structural shift: AI model training and inference requires orders-of-magnitu
 
 **Pivotal Investment Question**: *Can Coherent Corp. sustain 20%+ annual revenue growth through FY2028 — converting AI data center optical demand into margin expansion to 40%+ gross margins — while deleveraging $2.5B+ in debt, before Chinese photonic IC makers erode its 800G/1.6T competitive position?*
 
-Current milestone status: Revenue acceleration confirmed (Q3 FY26: ~$1,804M, +20.4% YoY). Margin improvement ahead of schedule (GM% 30.9% → 35.2% → 36.9% → **38.5%** over 6 quarters). Debt paydown on track ($600M reduced since merger). Binary: Does the margin trajectory reach 40%+ by FY2027, or does commoditization halt it at 38-39%? At current pace (Q3 FY26 = 38.5%), thesis-strength trigger is within reach in 1-2 quarters.
+Current milestone status: Revenue acceleration confirmed (Q3 FY26: $1,806M GAAP, +20.4% YoY). Margin improvement confirmed — GAAP GM% 35.2% → 36.6% → 36.9% → **37.6%** over 4 quarters (non-GAAP reported ~38.5%); expansion trajectory intact. Debt paydown on track ($600M reduced since merger). Binary: Does the margin trajectory reach 40%+ by FY2027, or does commoditization halt it at 38-39%? Q4 FY26 (8/12) is the next confirmation point.
 
-**✅ Q3 FY2026 CONFIRMED (2026-05-11)**: Revenue ~$1,804M (+1.3% beat vs $1,780M est). EPS $1.41 (+1.1% beat). GM% ~38.5% — new quarterly record, +160bps QoQ. Q4 guidance strong: consensus raised to $1,978M (+29.4% YoY). FY2027 EPS estimates $8.02 (+11.1% in 90 days). Analyst median PT $380 = AT current price ($379.69). Stock +13.25% on 2026-05-11 in sector-wide optical interconnect rally; new ATH $384.85. Entry Zone B ($315–335) fully superseded. **Thesis strengthened.**
+**✅ Q3 FY2026 CONFIRMED (2026-05-06/11)**: Revenue $1,806M GAAP (+1.3% beat). EPS $1.41 (+1.1% beat). GAAP GM% = 37.6% ($680M GP / $1,806M rev); non-GAAP ~38.5% per press release. Q4 guidance consensus raised to $1,978M (+29.4% YoY). Stock reached intraday ATH $384.85 on 5/11, then continued to **$440.00 all-time high** post-5/11. **Thesis confirmed.**
+
+**⏳ POST-ATH UPDATE (2026-08-04)**: Stock pulled back -25% from $440 ATH to current $329.96 — entering the prior pullback target zone ($350–375 Batch 2 target from 5/11 plan, now slightly below). Today's +14.51% bounce from $288 suggests selling pressure subsiding ahead of 8/12. FY27E EPS estimates further revised to $8.29 (+9.2% vs 90d ago). Analyst median target upgraded to $400 (22 analysts), implying +21.2% upside. Q4 FY26 consensus: EPS $1.617, Revenue $1.981B. Beat deceleration trend (Q1 +11.3% → Q2 +6.8% → Q3 +1.1%) bears watching — market may be fully modeling the improvement.
+
+**⏳ PRE-EARNINGS PRICE-MOVE UPDATE (2026-08-10)**: Stock swung further — rallied to $378.80 on 8/7, then dropped -14.24% today to $325.15. Q4 FY26 earnings (8/12) has NOT yet been reported — today's move is not a fundamentals event. WebSearch confirms the cause: a social-media "optics vs. memory" narrative debate over the weekend plus broad pre-earnings de-risking across optical names (COHR -14%, Lumentum -6.6%, AXTI -16.7% same day). No COHR-specific negative news found. Net effect: MA50 gap is essentially unchanged from 08-04 (-4.9% vs -5.0%) despite the intervening volatility — the stock is right back near where the 08-04 refresh left it. Thesis-break triggers remain unconfirmed. 8/12 earnings is still the decision point.
 
 ---
 
@@ -248,18 +252,15 @@ Assumes 187.5M shares; uses net debt / pref estimates for late FY2027.
 
 | Item | Value |
 |------|-------|
-| Number of analysts | 21 |
-| Strong Buy | 4 |
-| Buy | 13 |
-| Hold | 5 |
-| Sell | 0 |
-| Mean target | $326.78 |
-| Median target | $335.00 |
-| High target | $455.44 |
-| Low target | $170.00 |
-| Current price vs. median | ABOVE by +2.2% |
+| Number of analysts | 22 (updated 2026-08-04) |
+| Recommendation | Buy (consensus) |
+| Mean target | $391.45 |
+| Median target | $400.00 |
+| High target | $465.00 |
+| Low target | $230.00 |
+| Current price vs. median | **–17.5% BELOW** ($329.96 vs $400 median) |
 
-**Notable**: Stock is trading ABOVE analyst median target as of today. Any miss or guidance disappointment tonight could trigger target-based selling. The high target ($455) from likely Citi implies the bull case is baked into at least some Wall Street models.
+**Notable (2026-08-04)**: Stock is now trading 17.5% BELOW analyst median target — significant discount vs the AT-consensus position in May. Raymond James raised to $435 on 7/2. The pullback to $330 has created a more favorable risk/reward: median target implies +21.2% upside. High target $465 = +41% from current price.
 
 ---
 
@@ -307,7 +308,7 @@ Hyperscaler CapEx commitments (AWS $104B, Google $75B, Meta $65B, Microsoft $80B
 
 ### T — Technical
 
-7/8 Stage 2. Stock is in confirmed uptrend with all major MAs below price. ATR of $21 means normal daily move is ±6% — appropriate for the position. Only flaw: severely extended above MA50 (+21.7%) which historically resolves through 3-6 weeks of consolidation or a sharp pullback. Earnings tonight are the near-term binary event. **Verdict**: Stage 2 is bullish longer-term; extended short-term. Post-earnings entry provides better risk-adjusted entry.
+**~5-6/8** Stage 2 weakened (updated 2026-08-04). Price $329.96 has breached MA50 ($347.42, price -5.0%) — the primary Stage 2 criterion now failing. However: MA150 ($309.58, price +6.6%) and MA200 ($254.95, price +29.4%) remain intact and rising strongly. ATR $30.53. The -25% drawdown from ATH $440 resolved the prior overextension concern. Today's +14.51% bounce on 1.20× volume may signal exhaustion of selling pressure. 8/12 earnings is the next binary: strong Q4 could reclaim MA50 and restore Stage 2 8/8. **Verdict**: Stage 2 temporarily weakened by MA50 breach; MA150/200 structure intact; 8/12 earnings = reclaim or breakdown catalyst.
 
 **BAIT Overall**: Among optical sector plays in the watchlist, COHR scores highest on T (Stage 2 strong) and A (large cap, reasonable valuation vs peers), moderate on I (public information is well-priced), and worst on B (crowded positioning before earnings). Compare to NVTS: higher B and A risk (smaller, less analyzed), similar T risk.
 
@@ -333,17 +334,19 @@ Hyperscaler CapEx commitments (AWS $104B, Google $75B, Meta $65B, Microsoft $80B
 PW EV = (0.30 × $540) + (0.45 × $440) + (0.25 × $215)
 = $162 + $198 + $53.75 = **$413.75**
 
-PW EV $413.75 vs current $379.69 = **+9.0% expected upside**
+PW EV $413.75 vs current $329.96 = **+25.4% expected upside** (updated 2026-08-04)
 
-Base case raised from $400 → $440 reflecting improved FY2027 EPS estimates ($7.63 → $8.02) and confirmed GM% expansion. Upside compressed vs prior analysis (+15.2%) as the stock ran to median target. Still modestly attractive for existing holders; not compelling for new entries at ATH — prefer pullback to $350–375.
+Prior reference: PW EV $413.75 vs $379.69 = +9.0% upside (2026-05-11 at ATH). Now at $329.96 (post-ATH -25% pullback), the same scenario targets yield materially better risk/reward. FY2027 EPS estimates revised further to $8.29 (+9.2% vs 90d ago, up from $8.02). Scenarios remain unchanged pending Q4 FY26 actuals on 8/12.
+
+**2026-08-10 update**: Price now $325.15 (round-tripped through $378.80 on 8/7). Scenario targets unchanged — no fundamental data to revise them on (Q4 FY26 hasn't reported). PW EV $413.75 vs $325.15 = **+27.2% expected upside**, slightly wider than 08-04's +25.4%. This is purely mechanical (price moved, scenarios didn't) and should not be read as thesis strengthening — it's noise pending the real data point on 8/12.
 
 ---
 
 ## 14. Bottom Line
 
-**1-Year View (updated 2026-05-11):**
-- Base case: $440 (+16%) on FY2027 consensus ($9.32B revenue, $8.02 EPS, ~38-39% GM). Key upside trigger: GM% reaches 40%+ in any quarter — thesis-strength trigger nearly within reach (Q3 FY26 = 38.5%). Key downside trigger: Q4 FY2026 revenue <$1,850M or GM% stalls/declines.
-- Near-term: Stock is AT analyst median target ($380). Any meaningful pullback to $350–375 represents a better entry for second tranche (Batch 2).
+**1-Year View (updated 2026-08-04):**
+- Base case: $440 (+33% from $330) on FY2027 consensus ($9.32B+ revenue, $8.29 EPS, ~38-39% GM). Key upside trigger: Q4 FY26 GM% ≥39% and revenue ≥$1.981B → MA50 reclaim likely → Stage 2 restored. Key downside trigger: Q4 FY2026 revenue <$1,850M or GM% declines below 37%.
+- Near-term: Stock at $330 is now well below analyst median target ($400, -17.5%). 8/12 earnings is the critical binary — pass → potential +15-20% recovery; fail → test MA150 ($310) or below.
 
 **3-Year View:**
 - Bull: $550-600 (8-10x EV/FY2028 $12B revenue scenario if margins reach 40%+ and 1.6T ramps)
@@ -351,12 +354,13 @@ Base case raised from $400 → $440 reflecting improved FY2027 EPS estimates ($7
 - Bear: $160-215 (EV/revenue re-rates to 6x; revenue stalls at $7B; hyperscaler capex cuts)
 
 **Portfolio Allocation (tax-advantaged bucket):**
-- Batch 1 executed @ $331.16 (5/7) — in Zone B, holding
-- Batch 2 target: Pullback to $350–375 zone (Scenario B from /stock-entry 2026-05-11 plan); stop $335
-- Stop for Batch 1: $335 (just above cost $331.16)
-- Primary monitoring: Q4 FY2026 (Aug 2026) — pass threshold GM% ≥39%, Revenue ≥$1,978M
+- Batch 1 cost basis in Zone B range; current price near or slightly below entry level
+- Stop: $335 (Batch 1 stop level — current price $329.96 is near this level)
+- Primary monitoring: Q4 FY2026 **2026-08-12** — pass threshold GM% ≥39%, Revenue ≥$1,978M
 
-**Verdict (updated 2026-05-11)**: Thesis strengthened. Q3 FY2026 confirmed the GM% expansion story — 38.5% is ahead of schedule and within one quarter of the 40% thesis-strength trigger. FY2027 EPS estimates up 11% in 90 days. The bear case risk remains (hyperscaler capex pause, Chinese competition), but the bull case is becoming more probable. PW EV $413.75 vs $379.69 = +9% upside — not a screaming buy at ATH, but existing holders should hold. Batch 2 entry on pullback to $350–375 would improve PW EV upside to ~20%+ from that level. Do not chase the ATH.
+**Verdict (updated 2026-08-04)**: Thesis intact, technical temporarily weakened. The -25% pullback from ATH $440 to $330 has occurred — exactly the zone targeted as Batch 2 entry on 5/11. PW EV $413.75 vs $329.96 = +25.4% upside, significantly better than +9% at ATH. FY27E EPS estimates upgraded to $8.29 (+9.2% vs 90d ago). Beat deceleration trend (Q3 +1.1%) is the primary fundamental concern — watch Q4 beat magnitude closely. Existing holders near stop — 8/12 earnings is a binary hold/exit decision point. New entries at current zone have improved R/R but earnings event risk is elevated.
+
+**Verdict (updated 2026-08-10)**: **Unchanged — thesis intact, no new information.** Today's -14.24% completes a round trip through $378.80 (8/7) with no fundamental data released; WebSearch attributes it to a weekend social-media "optics vs. memory" debate plus broad pre-earnings de-risking (COHR/LITE/AXTI all fell together today). None of the 6 thesis-break triggers were hit. The net MA50 gap barely moved (-4.9% vs 08-04's -5.0%) — this was volatility, not trend change. **8/12 earnings remains the sole decision point**; do not treat today's drop as new evidence in either direction.
 
 ---
 
@@ -373,14 +377,15 @@ Base case raised from $400 → $440 reflecting improved FY2027 EPS estimates ($7
 - [✅] Stock holding >$300 post-earnings: ✅ Far above at $379.69
 - [✅] Entry execution: Batch 1 executed @ $331.16 (5/7) in Zone B ✅
 - [✅] Q4 FY2026 revenue guidance ≥$1,850M: ✅ Implied YES — consensus $1,978M
-- [⚠️] Beat magnitude: +1.1% in Q3 — deceleration; Q4 FY2026 beat% is next key read
+- [⚠️] Beat magnitude deceleration: Q1 +11.3% → Q2 +6.8% → Q3 +1.1%; Q4 FY26 beat% = next key read (market may be fully pricing recovery)
 
 ### Mid-Term (3-6 months)
 
-- [ ] **Q4 FY2026 earnings (~August 2026)**
-  - Pass: Revenue ≥$1,978M (consensus), gross margin ≥39%
-  - Stretch (thesis-strength trigger): GM% ≥40% — now highly plausible given Q3 = 38.5%
-  - Fail: Revenue <$1,850M or margin expansion stalls <38% → Trim
+- [ ] **Q4 FY2026 earnings — 2026-08-12 (confirmed)**
+  - Pass: Revenue ≥$1,981M (consensus), EPS ≥$1.617, gross margin ≥39% (GAAP ≥38%)
+  - Stretch (thesis-strength trigger): GM% ≥40% non-GAAP (GAAP ≥38.5%)
+  - Fail: Revenue <$1,850M or margin expansion stalls or declines → Trim/Exit
+  - Beat magnitude: Q3 was only +1.1% — watch whether Q4 estimate reset has priced in improvement
 - [ ] Net debt trajectory: Below $2.5B by June 2026? (Confirms deleveraging)
 - [ ] Chinese optical competitive data: Any hyperscaler disclosed switching to Innolight/Accelink for 800G?
 - [ ] 1.6T transceiver customer qualification announcement (timing indicator for next upcycle)
@@ -410,15 +415,18 @@ Any ONE of the following → add to position / increase conviction:
 
 ## Sources
 
-- Yahoo Finance (yfinance): Financial statements, price data, analyst consensus (2026-05-06)
-- COHR Q3 FY2025 and Q4 FY2025 earnings releases (public)
+- Yahoo Finance (yfinance): Financial statements, price data, analyst consensus (2026-08-04)
+- COHR Q3 FY2026 earnings release (May 6, 2026; public)
 - Company segment disclosures from annual and quarterly reports (FY2024-FY2025)
 - Lightcounting / Dell'Oro optical market forecasts (industry estimates)
-- Analyst consensus from Yahoo Finance (21 analysts, 2026-05-06)
-- SEPA technical analysis via local yfinance computation (2026-05-06)
+- Analyst consensus from Yahoo Finance (22 analysts, 2026-08-04)
+- SEPA technical analysis via local yfinance computation (2026-08-04)
+- Finance-sentiment (Adanos API): X.com, Reddit, News (2026-08-04)
+- Raymond James upgrade note (7/2/2026): raised to $435 from $371
 
 **Data gaps**: 
-- Q3 FY2026 actuals not yet available (releasing tonight, May 6, 2026)
+- Q4 FY2026 actuals pending (earnings 2026-08-12)
 - Geographic revenue breakdown not cleanly disclosed
 - Customer concentration (top 3 customer revenue %) not publicly disclosed
 - Chinese competitor market share at hyperscalers — channel check data needed
+- GAAP vs non-GAAP GM% gap: Q3 FY26 GAAP = 37.6%, non-GAAP ~38.5%; thesis uses non-GAAP trajectory for 40% target

@@ -6,9 +6,9 @@ source: austin
 
 > **[English](financials.md) | [中文](financials.zh.md)**
 
-> **Last Updated**: 2026-06-26 (news refresh via /stock-refresh)
-> **Data Sources**: Yahoo Finance (yfinance), AXT Q1 2026 earnings press release, AXT 6/17/2026 supply agreement announcement
-> **Next Update Trigger**: Q2 2026 earnings — **2026-07-30 (confirmed)**
+> **Last Updated**: 2026-08-10 (Q2 2026 earnings + today's -16.67% refresh via /stock-refresh)
+> **Data Sources**: Yahoo Finance (yfinance), AXT Q2 2026 earnings call transcript (Fool/GuruFocus/TipRanks), WebSearch
+> **Next Update Trigger**: Q3 2026 earnings — ~late October 2026 (confirmed date 2026-10-29)
 
 ---
 
@@ -16,19 +16,15 @@ source: austin
 
 | Metric | Value |
 |--------|-------|
-| Price (2026-06-26) | $68.03 |
-| 52-Week Range | $1.85 – $143.16 (peaked at $143 post-5/7 analysis; now −52% from peak) |
-| % Above 52w Low | +3,577% |
-| % from 52w High | −52.5% |
-| Market Cap | ~$4.45B |
-| 3-Month Avg Volume | 11.7M shares/day (~$796M ADTV at current price) |
-| MA50 | $97.37 (stock is −30.2% below MA50 — Stage 3 territory) |
-| MA200 | $40.39 (stock is +68.4% above MA200) |
-| EPS (TTM) | ~−$0.09 (Q2-Q4 2025 + Q1 2026 rolling) |
-| P/E (trailing) | N/A (loss) |
-| P/E (FY2026E) | ~224x ($68 / $0.304E) |
-| Analyst Median Target | $94.00 (4 analysts; stock now −27.6% BELOW median target) |
+| Price (2026-08-10) | $73.81 (today -16.67%, but +8.5% since 06-26's $68.03; round-tripped $42.76 (7/28 pre-earnings) → $88.58 (8/7 peak) → $73.81 (today)) |
+| 52-Week Range | $2.05 – $143.16 |
+| Market Cap | ~$4.83B |
+| MA50 | $71.57 (stock is **+3.1% ABOVE MA50** — recovered from Stage 3 to Stage 2 territory since 06-26) |
+| Analyst Median Target | $93.00 (5 analysts, up from 4; current price still −20.6% BELOW median target) |
+| Analyst Target Range | $55 – $125 |
 | Shares Outstanding | 65.4M |
+
+**Note**: Prior "P/E FY2026E ~224x" figure is stale — post-Q2-beat FY2026E EPS consensus jumped to $0.868 (from $0.304), making forward P/E ~85x, a dramatic re-rate on fundamentals alone.
 
 ---
 
@@ -96,16 +92,17 @@ source: austin
 
 ## Quarterly Context
 
-| Quarter | Revenue | Gross Profit | GM% | Op Income | Net Income | EPS | Notes |
-|---------|---------|-------------|-----|----------|-----------|-----|-------|
-| Q1 2025 (Mar) | $19.4M | -$1.2M | neg | -$10.3M | -$8.8M | -$0.20 | Revenue trough; GM went negative |
-| Q2 2025 (Jun) | $18.0M | $1.4M | 7.8% | -$6.7M | -$7.0M | -$0.15 | Bottoming; EPS MISS -11.9% vs est |
-| Q3 2025 (Sep) | $28.0M | $6.2M | 22.2% | -$1.1M | -$1.9M | -$0.03 | Inflection! Strong recovery; BEAT +74.6% |
-| Q4 2025 (Dec) | $23.0M | $4.8M | 20.9% | -$2.5M | -$3.5M | -$0.05 | Seasonal dip; BEAT +13.8% |
-| **Q1 2026 (Mar)** | **$26.9M** | **$8.0M** | **29.6% ✅** | **-$1.6M** | **-$1.6M** | **-$0.01** | **BEAT +78.3% vs -$0.046E; GM 29.6% exceeds 25% thesis target** |
-| Q2 2026 (Jun) — Est | $34.1M | — | ~25-30%E | — | — | **$0.072E** | **First profitable quarter expected; earnings 2026-07-30** |
+| Quarter | Revenue | GM% | Non-GAAP EPS | Notes |
+|---------|---------|-----|-----|-------|
+| Q1 2025 (Mar) | $19.4M | neg | -$0.20 | Revenue trough |
+| Q2 2025 (Jun) | $18.0M | 7.8% | -$0.15 | Bottoming; MISS -11.9% |
+| Q3 2025 (Sep) | $28.0M | 22.2% | -$0.03 | Inflection; BEAT +74.6% |
+| Q4 2025 (Dec) | $23.0M | 20.9% | -$0.05 | BEAT +13.8% |
+| Q1 2026 (Mar) | $26.9M | 29.9% | -$0.01 | BEAT +78.3%; GM cleared 25% thesis target |
+| **Q2 2026 (Jun)** | **$47.6M**（+77% QoQ, +164% YoY）| **45.0%**（vs 29.9% Q1, vs 8.2% Q2'25 — huge operating-leverage jump）| **$0.19**（**BEAT +171.4%** vs $0.07E — first genuinely strong profit quarter, not just breakeven）| **InP revenue $30.7M, record high. Backlog >$100M.** |
+| Q3 2026 (Sep) — Guide | $66M | — | $0.30–$0.32 (non-GAAP guide) | Guide assumes orders with existing/no-required export permits; upside if more permits granted |
 
-*Q1 2026 actuals confirmed via yfinance (revenue $26.9M, GM 29.6% — ahead of 25% thesis target). Q2 2026 consensus EPS $0.072 would be first profitable quarter in the cycle.*
+**Long-term outlook (management, Q2 call):** InP revenue expected to **triple by end-2026** and reach **$130M/quarter by end-2027**.
 
 ---
 
@@ -125,23 +122,31 @@ source: austin
 
 ## Estimate Momentum
 
-### EPS Estimates by Period
+### EPS Estimates by Period (post Q2-beat, 2026-08-10)
 
-| Period | Current Avg | 90d Ago | Change | # Analysts | 7d Revisions |
-|--------|------------|---------|--------|-----------|-------------|
-| Q2 2026E | $0.072 | -$0.018 | +$0.090 ↑↑ | 4 | +2 up / 0 down |
-| FY2026E | $0.304 | -$0.025 | +$0.329 ↑↑ | 4 | +2 up / 0 down |
-| FY2027E | $0.752 | $0.357 | +$0.395 ↑↑ | 4 | — |
+| Period | Current Avg | Prior (06-26) | Change | # Analysts |
+|--------|------------|---------|--------|-----------|
+| Q3 2026E | $0.308 | — | — | 5 |
+| FY2026E | **$0.868** | $0.304 | **+185%** ↑↑ | 5 |
+| FY2027E | **$2.226** | $0.752 | **+196%** ↑↑ | 5 |
 
 ### Revenue Estimates by Period
 
-| Period | Avg ($M) | Low ($M) | High ($M) | YoY Growth | # Analysts |
-|--------|---------|---------|---------|-----------|-----------|
-| Q2 2026E | $34.1M | $34.0M | $34.3M | +89.6% YoY | 4 |
-| FY2026E | $143.1M | $135.8M | $147.3M | +62.0% | 4 |
-| FY2027E | $219.4M | $190.0M | $252.2M | +53.3% | 4 |
+| Period | Avg ($M) | Prior FY est (06-26) | Change |
+|--------|---------|---------|--------|
+| Q3 2026E | $66.0M | — | matches mgmt guide |
+| FY2026E | **$217.98M** | $143.1M | **+52%** ↑↑ |
+| FY2027E | **$460.55M** | $219.4M | **+110%** ↑↑ |
 
-**Overall Signal: 🟢 Strongly Bullish (estimates) / ⚠️ Technical caution** — Fundamental estimate revisions remain positive: past 7 days saw 2 upward EPS revisions, 0 downward. Q2 2026E EPS $0.072 = first profitable quarter. This diverges from price action (stock −37% since 5/7). Analyst count: 5 → 4 (one analyst dropped coverage).
+### 30-day revision counts (near-term, mild caution flag)
+
+| Period | Up (30d) | Down (30d) |
+|--------|----------|------------|
+| 0q (Q3'26) | 0 | 1 |
+| 0y (FY2026) | 0 | 1 |
+| +1y (FY2027) | 1 | 0 |
+
+**Overall Signal: 🟢 Strongly Bullish (estimates, post-beat) / ⚠️ Near-term revisions show 1 down-tick** — The headline picture is a massive raise (FY2026E EPS +185%, revenue +52%) following the Q2 beat-and-raise. The small recent down-revision count (0q/0y: 1 down, 0 up) is likely a minor trim after the initial post-earnings estimate spike, not a reversal — worth re-checking at Q3 print. Analyst coverage: 4 → 5 (one added post-earnings).
 
 ---
 
@@ -195,18 +200,15 @@ source: austin
 
 | Metric | Value |
 |--------|-------|
-| Analysts Covering | 4 (was 5 on 5/7 — one dropped coverage) |
-| Buy | 3 |
-| Hold | 2 |
-| Sell | 0 |
-| Mean Target | $96.50 |
-| Median Target | $94.00 |
-| Low Target | $73.00 |
+| Analysts Covering | 5 (recovered from 4 on 06-26; one added post-Q2-beat) |
+| Recommendation | Buy |
+| Mean Target | $91.60 |
+| Median Target | $93.00 |
+| Low Target | $55.00 |
 | High Target | $125.00 |
-| Current vs Median | −$25.97 / **−27.6% BELOW** |
-| Current vs Low Target | −$4.97 / −6.8% BELOW low target |
+| Current ($73.81) vs Median | −$19.19 / **−20.6% BELOW** median target |
 
-**Significant reversal**: Current price $68.03 is now BELOW ALL analyst price targets (including the low target of $73). In May, stock was 25% above all targets; now it's below the floor. Analyst recommendation still "buy" — no downgrades triggered by the price correction. One analyst raised their high target to $125 (was $95 in May analysis), suggesting at least some fundamental conviction increase.
+Current price sits inside the analyst range (above the $55 low, below the $93 median/$125 high) — a healthier position than 06-26 (when price was below even the low target). Needham flagged this as a "real AI networking opportunity" post-Q2. No downgrades found despite today's -16.67% pullback.
 
 ---
 
@@ -222,15 +224,25 @@ source: austin
 
 ---
 
+## Long-Term Customer Supply Agreements (new, disclosed with Q2 2026 earnings)
+
+| Customer | Terms | Significance |
+|----------|-------|-------------|
+| **Lumentum Operations** | Long-term InP supply + capacity-reservation, through **2031**, backed by **$87.5M in deposits** applied as shipment credits | This is the "major InP AI deal" driving 7/31 headlines — locks in multi-year demand from a top-tier optical OEM |
+| Coherent | Long-term supply agreement, **$25.4M prepayment** | Second major OEM lock-in |
+| Casella | Long-term supply agreement, **$22.3M prepayment** | Third lock-in; distinct from the earlier 6/17 Nanjing Casela China-market agreement |
+
+Backlog **>$100M** as of Q2 2026 print. Combined, these agreements convert AXTI from "hoped-for demand ramp" to "contractually pre-funded, multi-year visible demand" — a material de-risking of thesis-break trigger #1 (revenue ramp failing to materialize).
+
 ## Upcoming Catalysts
 
 | Date | Event | What to Watch |
 |------|-------|--------------|
-| 2026-06-17 ✅ | AXT subsidiary long-term supply agreement — Nanjing Casela Technologies | InP demand confirmed via new customer; Chinese market expansion |
-| **2026-07-30** | **Q2 2026 earnings (CONFIRMED)** | **Binary event**: EPS $0.072E (first profit!) + revenue $34.1M + Q3 guidance |
-| ~November 2026 | Q3 2026 earnings | Confirm sustained ramp; GM 25%+ consecutive |
-| Ongoing | Chinese competitor news | Vital Advanced Material OEM qualification = thesis-break |
-| Ongoing | Share count monitoring | Any new equity offering announcement = dilution risk |
+| 2026-06-17 ✅ | Nanjing Casela Technologies supply agreement | China-market InP demand |
+| **2026-07-30 ✅ DELIVERED** | **Q2 2026 earnings — blowout beat-and-raise** | Revenue $47.6M (+164% YoY), EPS $0.19 (+171% beat), GM 45.0%, Lumentum/Coherent/Casella multi-year deals disclosed |
+| **2026-10-29** | **Q3 2026 earnings (confirmed)** | Guide: revenue $66M, non-GAAP EPS $0.30–$0.32; confirm GM sustains ≥40%; watch export-permit-dependent upside |
+| Ongoing | Chinese competitor news | Vital Advanced Material OEM qualification = thesis-break (unchanged) |
+| Ongoing | Export-permit approvals | Q3 guide explicitly excludes permit-dependent orders — approvals = upside surprise |
 
 ---
 

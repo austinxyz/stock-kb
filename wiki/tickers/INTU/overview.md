@@ -4,8 +4,8 @@ source: austin
 
 # INTU — Intuit Inc.
 
-**Last updated**: 2026-05-22
-**Status**: Watch / Initiate — Q3 FY26 beat-and-raise; IRS Direct File **permanently eliminated**; thesis strengthened despite –20% reaction; entry zone $300–415; await Stage 2 reconstruction
+**Last updated**: 2026-08-07
+**Status**: Watch / Initiate — thesis intact 70+ days later; OpenAI's May 2026 personal-finance launch is the new central risk (converts AI-commoditization fear from abstract to concrete); no thesis-break triggers fired; entry zone $268–415 (rwh v3.0), current $328.43 sits mid-zone; decision gate Aug 25, 2026
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -20,16 +20,16 @@ America's largest consumer/SMB financial-software platform (TurboTax + QuickBook
 
 | Metric | Value |
 |--------|-------|
-| Market Cap | $85.4B |
-| Revenue TTM | ~$20.1B |
+| Market Cap | $89.8B |
+| Revenue TTM | ~$20.1B (FY26 guide raised to $21.34–21.37B post-Q3) |
 | Gross Margin | 79.5% |
-| Operating Margin (GAAP) | 26.2% |
+| Operating Margin (GAAP) | ≈26.8% (FY26 guide) |
 | Free Cash Flow FY25 | $6.08B |
-| FCF Yield (at $307) | 7.1% |
-| Cash | $2.88B |
-| Total Debt | $6.64B |
-| Net Debt | $3.76B |
-| Beta | 1.03 |
+| FCF Yield (at $328.43) | ≈7.3% |
+| Cash | $2.88B (pre 6/2026 $1.75B debt raise) |
+| Total Debt | ≈$8.0B post-raise |
+| Net Debt | ≈$1.1B post-raise (from net-cash to modest net debt) |
+| Beta | ≈1.2 (rwh) |
 | Shares Outstanding | 279M |
 
 ## Moat
@@ -44,9 +44,10 @@ America's largest consumer/SMB financial-software platform (TurboTax + QuickBook
 - Technology moat: core tax calculation now replicable by LLMs; the "hard part" has become easy
 - Price moat at the low end: TurboTax "lost on price" among sub-$50K DIY filers (Q3 FY26 confirmed) vs. Cash App Taxes / FreeTaxUSA
 - ~~IRS Direct File (free government alternative)~~ — **✅ permanently terminated (late 2025); not available for 2026 filing season**
+- **OpenAI direct entry (new, May 2026)**: launched a consumer personal-finance tool overlapping TurboTax + Credit Karma, while remaining a paying Intuit model partner — converts the abstract AI-commoditization fear into a named, distribution-rich (700M+ weekly users) competitor
 - Platform defensibility: QuickBooks complexity creates opening for AI-native bookkeeping tools (Bench.co, Pilot.com)
 
-**Verdict**: Narrow-to-Wide moat — switching costs and brand remain strong; IRS Direct File risk removed; value-tier price competition at the low end is the new primary consumer risk (not government competition). 3-year verification window focused on FY27 growth durability.
+**Verdict**: Wide moat (upgraded from overlay's original "Narrow-to-Wide") — switching costs and brand remain strong; IRS Direct File risk removed; the primary consumer risk has evolved twice: from government competition (resolved) to value-tier price competition, and now to OpenAI's direct entry. 3-year verification window focused on FY27 growth durability and whether OpenAI converts reach into real share.
 
 ---
 
@@ -54,22 +55,15 @@ America's largest consumer/SMB financial-software platform (TurboTax + QuickBook
 
 | Metric | Value |
 |--------|-------|
-| Price | $319.45 (2026-05-22 intraday, +4.0% recovery) |
-| MA50 | ~$404 |
-| MA150 | ~$519 |
-| MA200 | ~$559 |
-| Price vs MA50 | ~−21% |
-| Price vs MA200 | ~−43% |
-| 52-Week Range | $302.36 – $813.70 |
-| % from 52-Wk High | −60.7% |
-| % above 52-Wk Low | +5.6% |
-| Trend Template | 0 / 8 |
-| SEPA Stage | Stage 4 — Declining |
-| Pattern | None — structural breakdown; watching for base formation |
-| Attractive Accumulation Zone | $300–$415 (per rwh analysis; ≤13–17× FY26E non-GAAP EPS) |
-| Next Earnings | Q4 FY26 — Aug 2026 |
+| Price | $328.43 (2026-08-07) — up +29.9% from the June 52-wk low of $252.84 |
+| 52-Week Range | $252.84 – $762.48 (fresh low set post rwh's 6/15 snapshot, since recovered) |
+| % from 52-Wk High | −56.9% |
+| % above 52-Wk Low | +29.9% |
+| SEPA Stage / Trend Template | Not re-run this update (trigger was fundamental/rwh-merge, not technical) — rwh's 6/15 T-verdict was **Weak**: sub-200/50-day MA, no confirmed base. Re-run `/stock-entry INTU` before any technical-timed entry. |
+| Attractive Accumulation Zone | $268–$360 (rwh v3.0; ≈11.3–15× FY26E non-GAAP EPS) — current price sits in the upper half |
+| Next Earnings | **Q4 FY26 — Aug 25, 2026** (date corrected; overlay previously had Aug 20) |
 
-**SEPA Verdict**: Stage 4 — price below all moving averages, all MAs declining. No technical entry basis yet. However, $8B buyback authorization creates mechanical bid; watch for base formation post-Q3 flush. Fundamental entry zone ($300–$415) does not require Stage 2 for patient long-term accumulation.
+**Note**: This update did not re-run SEPA — the recovery from $252.84→$328.43 (+29.9%) means the Stage-4/0-8-template read from May/June is stale and should not be relied on for a technical-timing decision. Fundamental entry zone ($268–$360, rwh) does not require Stage 2 confirmation for patient long-term accumulation, but anyone trading on technicals should refresh the SEPA read first.
 
 ---
 
@@ -91,20 +85,21 @@ INTU significantly underperforms AI-infrastructure beneficiaries (MSFT, ORCL) an
 
 ## Social Sentiment
 
+*Not re-fetched this update (trigger was fundamental/rwh-merge). Directional read from rwh's news/analyst tracking as of 6/15, cross-checked against the +29.9% price recovery since:*
+
 | Source | Signal | Key Theme |
 |--------|--------|-----------|
-| X.com | 🔴 Bearish | "AI eating INTU's lunch"; 17% layoffs framed as AI replacement, not efficiency |
-| Reddit | 🟡 Mixed | Debate shifting: some "generational buying opportunity at 13x PE" vs "value trap" |
-| News | 🟡 Mixed | Analyst target cuts but most hold Buy/Outperform; Morgan Stanley "very undemanding valuation" |
-| **Overall** | **🟡 Mixed → Recovering** | Initial panic bearishness softening as IRS Direct File de-risk is digested; $8B buyback + beat-and-raise factoring in |
+| Analyst / News | 🔴→🟡 Mixed | June cluster was bearish (Goldman Sell, debt-raise −8.8% reaction, securities-fraud probe) but *zero* new operating data behind any of it; rating mix still majority Buy (5 SB/19 B/9 H/1 S/1 SS) |
+| Price action | 🟢 Recovering | Stock +29.9% off the June low without a fundamentals catalyst — consistent with rwh's "narrative/positioning-led selloff" read |
+| **Overall** | **🟡→🟢 Improving** | Fits rwh's framing: ~70% of the post-Q3 slide was sentiment/positioning against a still-rising earnings stream; the subsequent recovery is consistent with that thesis, though OpenAI's competitive entry remains a genuine unresolved risk, not sentiment |
 
 ---
 
 ## Pivotal Investment Question
 
-> **Is INTU's ~61%-from-high drawdown a generational entry into a wide-moat compounder where AI fear is overstated — or is the FY27 deceleration to 11–12% revenue growth (plus a 17% workforce cut and "we lost on price" in the DIY value tier) the first hard evidence that horizontal AI and price competition are structurally compressing long-run terminal value?**
+> **Is INTU's ≈66%-from-high drawdown a generational entry into a wide-moat compounder where AI fear is overstated — or is FY27 deceleration to 11–12% revenue growth, "we lost on price" in the DIY value tier, and now OpenAI's direct entry into personal finance (May 2026) the first hard evidence that horizontal AI and price competition are structurally compressing vertical SaaS terminal value?**
 >
-> IRS Direct File permanently terminated ✅ — the prior #1 risk is gone. Debate now: is $319 (13.4× FY26E non-GAAP EPS, 8:1 R/R, PW EV $552) a 73% re-rating opportunity, or a value trap if low-double-digit growth is the new ceiling? Key read: Q4 FY26 + first formal FY27 guide (Aug 2026).
+> IRS Direct File permanently terminated ✅ — the original #1 risk is gone, resolved in Intuit's favor. The debate has since escalated one level: OpenAI launched a competing consumer tool while remaining a *paying* Intuit model partner — the first named, well-capitalized direct AI entrant. At $328.43 (3-yr PW EV ≈$521, +58.6%), is this still a re-rating opportunity, or does OpenAI's entry cap the upside case? Key read: Q4 FY26 + first formal FY27 guide, **Aug 25, 2026**.
 
 ---
 
@@ -114,7 +109,9 @@ INTU significantly underperforms AI-infrastructure beneficiaries (MSFT, ORCL) an
 
 **2026-05-22 sync with rwh upstream**: Upstream analysis (v2.14) concludes the thesis was **strengthened**, not broken, by Q3 FY26 — IRS Direct File permanently terminated (biggest structural risk removed), beat-and-raise quarter, $8B buyback, PW EV ~$552 (+73%), R/R ~8:1. FY27 11–12% revenue guide is below Street expectations — the honest counterweight. Recommendation: **Initiate / Add** at $300–$415.
 
-**Wiki adds**: Financial baseline, SEPA stage confirmation (Stage 4), bull/base/bear framework. Full thesis: [thesis.md](thesis.md) | Upstream comprehensive analysis: [rwh INTU.md](../../../../rwh/wiki/tickers/INTU/INTU.md)
+**2026-08-07 refresh**: Thesis was 70+ days stale (last touched 5/22) when it surfaced as a `/morning-check` Watch candidate showing "✅ IN ZONE" against the entry range. Refresh merged rwh v3.0 (6/15, previously unsynced) — key changes: PW EV $552→$521, scenarios reweighted after OpenAI's May 2026 personal-finance launch, IRS Direct File confirmed resolved, price recovered to $328.43 from the June 52-wk low of $252.84. No thesis-break triggers fired. See [changelog.md](changelog.md) for the full delta.
+
+**Wiki adds**: Financial baseline, bull/base/bear framework, thesis-break trigger tracking. Full thesis: [thesis.md](thesis.md) | Upstream comprehensive analysis: [rwh INTU.md](../../../../rwh/wiki/tickers/INTU/INTU.md)
 
 → Full thesis: [thesis.md](thesis.md)
 

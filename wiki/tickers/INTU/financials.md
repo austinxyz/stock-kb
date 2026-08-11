@@ -4,9 +4,9 @@ source: austin
 
 # INTU — Key Financial Metrics
 
-**Last updated**: 2026-05-21
-**Data source**: Yahoo Finance (yfinance), Intuit Q3 FY26 earnings press release
-**Next update trigger**: Q4 FY26 earnings — 2026-08-20
+**Last updated**: 2026-08-07
+**Data source**: Yahoo Finance (yfinance) + rwh upstream v3.0 (2026-06-15)
+**Next update trigger**: Q4 FY26 earnings — **2026-08-25** (corrected; overlay previously had 08-20)
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -15,18 +15,17 @@ source: austin
 
 | Metric | Value |
 |--------|-------|
-| Price | $307.07 |
-| Today's change | -$76.37 (-19.9%) |
-| 52-wk range | $307.07 – $801.96 |
-| Position vs 52-wk | AT LOW (0.0% above) |
-| Market cap | $85.4B |
-| Average volume (3mo) | 3.62M shares |
-| ADTV | ~$1.11B |
-| Beta | 1.03 |
-| GAAP EPS (TTM) | ~$13.67 (FY25) |
-| Non-GAAP EPS FY26E | $23.31 |
-| FWD PE (non-GAAP) | 13.2x |
-| Analyst post-crash avg target | ~$437 |
+| Price | $328.43 (2026-08-07) |
+| 52-wk range | $252.84 – $762.48 (fresh low set 2026-06 post-Goldman/OpenAI/debt-raise cluster; since recovered +30%) |
+| Position vs 52-wk | +29.9% above 52-wk low |
+| Market cap | $89.8B |
+| Average volume (10d) | 3.95M shares |
+| Beta | ≈1.2 (rwh) |
+| GAAP EPS (TTM) | ~$16.35 |
+| Non-GAAP EPS FY26E | $23.83 (current consensus, up from $23.31 at overlay's 5/21 write-up) |
+| FWD PE (non-GAAP) | ≈13.8x at current price |
+| Analyst target (median) | $430 (range $250–$921; rwh's 6/15 read had median ≈$447) |
+| Analyst rating mix | 5 strong buy / 19 buy / 9 hold / 1 sell / 1 strong sell (first Sell appeared since overlay — Goldman, 6/2) |
 
 ---
 
@@ -38,9 +37,9 @@ source: austin
 | FY24 (Jul 2024) | $16.29B | +13.4% | $12.82B | 78.7% | $3.85B | 23.7% | $2.96B | $10.43 | 284M |
 | FY23 (Jul 2023) | $14.37B | +12.9% | $11.23B | 78.1% | $3.14B | 21.8% | $2.38B | $8.42 | 283M |
 | FY22 (Jul 2022) | $12.73B | — | $10.32B | 81.1% | $2.56B | 20.1% | $2.07B | $7.28 | 284M |
-| FY26E | $21.2B | +12.7% | — | — | — | — | — | $23.31 (non-GAAP) | ~278M |
+| FY26E (raised @ Q3) | $21.341–21.374B | +13–14% | — | ≈26.8% | $5.705–5.725B | ≈26.8% | — | $15.79–15.84 (GAAP guide) | ~278M |
 
-*Non-GAAP EPS differs from GAAP by ~$7/share (SBC add-back ~$1.97B + acquisition amortization)*
+*Non-GAAP EPS guide (post Q3 FY26 raise, via rwh): **$23.80–$23.85** (up from prior guide $22.98–$23.18, and up from overlay's original $23.31 estimate). Non-GAAP differs from GAAP by ~$7-8/share (SBC add-back + acquisition amortization).*
 
 ---
 
@@ -131,15 +130,15 @@ source: austin
 | FY26 (0y) | $21.2B | $21.2B | — | +12.7% |
 | FY27 (+1y) | $23.9B | $23.3B | — | +12.5% |
 
-### EPS Revision Trend (pre-today's crash)
+### EPS Revision Trend (as of 2026-08-07)
 
 | Period | 90 Days Ago | 30 Days Ago | 7 Days Ago | Current |
 |--------|------------|------------|-----------|---------|
-| FY26 non-GAAP | $23.207 | $23.224 | $23.225 | $23.310 |
-| Direction | → | → | → | Slight ↑ |
+| FY26 non-GAAP | $23.224 | $23.833 | $23.832 | $23.831 |
+| FY27 non-GAAP | $26.483 | $27.325 | $27.330 | $27.360 |
+| Direction | ↑ | → | → | Stable at higher level |
 
-**Overall signal (pre-crash)**: Neutral-to-slightly positive. Estimates were stable with a minor upward bias.
-**Post-crash outlook**: Expect ~5-10% downward revisions to FY26/FY27 estimates as analysts model AI disruption risk over next 30 days.
+**Overall signal**: The post-crash downward-revision scenario the overlay warned about (5/21) **did not materialize** — estimates actually moved *up* ~2.6% over the past 90 days (FY26 $23.22→$23.83) despite the Q3 print triggering a –20% stock reaction and a further post-print slide. Estimates and price diverged sharply: fundamentals held/improved while sentiment (Goldman Sell, OpenAI entry, debt raise, litigation headline) drove the stock to a fresh 52-wk low before the current recovery to $328.43.
 
 ---
 
@@ -154,7 +153,7 @@ source: austin
 
 *EPS figures are non-GAAP. 4 consecutive beats, but beat magnitude shrinking — and the Q3 announcement attached to the workforce reduction reset narrative entirely.*
 
-**Next earnings**: Q4 FY26 — **2026-08-20** | Consensus EPS $3.22 | Revenue $4.15B
+**Next earnings**: Q4 FY26 — **2026-08-25** (corrected from overlay's 08-20) | Consensus EPS $3.59 | First formal FY27 guide — the decisive print per rwh
 
 ---
 
@@ -203,26 +202,13 @@ source: austin
 
 ---
 
-## 13. Analyst Consensus (post-earnings 2026-05-21)
+## 13. Analyst Consensus (as of 2026-08-07; June cluster via rwh)
 
-| Firm | Action | New Target | Prior Target |
-|------|--------|-----------|-------------|
-| Freedom Broker | ⬇️ Downgrade Buy→Hold | $430 | $600 |
-| UBS | Target cut | $360 | $440 |
-| Evercore ISI | Target cut | $400 | $540 |
-| Citigroup | Target cut | $591 | $649 |
-| Truist Securities | Target cut | $410 | $500 |
-| Wells Fargo | Target cut | $360 | $425 |
-| BMO Capital | Target cut | $412 | $550 |
-| RBC Capital | Target cut | $500 | $600 |
-| Barclays | Target cut | $443 | $540 |
-| Stifel | Target cut | $375 | $500 |
-| Oppenheimer | Target cut | $406 | $558 |
-| Jefferies | Target cut | $550 | $650 |
-| KeyBanc | Target cut | $450 | $520 |
+⚠️ **[2026-06-02] Goldman Sachs — DOWNGRADE Neutral → Sell**, PT $519 → $276 (was at spot when issued). Rationale: tax-season miss/"lost on price," intensifying AI competition, Mailchimp softness. First bulge-bracket Sell in the set.
 
-**Post-crash average target**: ~$437 | **Pre-crash median (yfinance)**: $578
-**Rating distribution (0m)**: 6 strong buy / 23 buy / 5 hold / 0 sell
+Post-Q3 cut cluster (5/21–5/22, all held constructive ratings except Freedom Broker): RBC $600→$500 (OP), KeyBanc $520→$450 (OW), Barclays $540→$443 (OW), Oppenheimer $558→$406 (OP), Stifel $500→$375 (Buy), Freedom Broker →Hold ($430).
+
+**Current median target**: $430 (range $250–$921) | **Rating distribution**: 5 strong buy / 19 buy / 9 hold / 1 sell / 1 strong sell (3 months ago: 6/22/6/0/0 — deterioration is real but majority still Buy-side)
 
 ---
 
@@ -244,10 +230,10 @@ source: austin
 
 | Date | Event | What to Watch |
 |------|-------|--------------|
-| Jun–Jul 2026 | IRS data: 2026 tax season e-filing statistics | TurboTax market share vs IRS Direct File |
-| 2026-08-20 | **Q4 FY26 Earnings** | QuickBooks net subs, TurboTax users, Intuit Assist metrics, FY27 guide |
-| Aug–Sep 2026 | Post-restructuring org update | R&D headcount, product pipeline update |
-| Nov 2026 | Q1 FY27 Earnings | First quarter after full restructuring is complete; revenue trajectory confirmation |
+| **2026-08-25** | **Q4 FY26 Earnings + first formal FY27 guide** | Decisive print (rwh): is 11–12% FY27 revenue a floor or ceiling? Any OpenAI competitive-impact signal; Mailchimp + Credit Karma trajectory |
+| 2026-09-17 | Annual Investor Day | First major strategy presentation since AI pivot; IES/mid-market deep-dive |
+| Ongoing | OpenAI personal-finance tool traction | Any disclosed TurboTax/Credit Karma share loss = direct thesis-break signal |
+| Ongoing | Securities-fraud probe (TurboTax pricing) status | Headline/distraction overhang; watch formal complaint vs. quiet lapse |
 
 ---
 

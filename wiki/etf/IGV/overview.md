@@ -5,7 +5,7 @@ source: austin
 # IGV — iShares Expanded Tech-Software Sector ETF
 
 **Last updated**: 2026-07-16
-**Status**: Active — 路径B首批已建仓（2026-07-17 10.79股@$92.68）；MA200 $96 收复后升 Use 并考虑加仓
+**Status**: Active — 路径B首批已建仓（2026-07-17）；MA200 $96 收复后升 Use 并考虑加仓
 **Sector**: AI企业软件
 **Language**: English | [中文](overview.zh.md)
 

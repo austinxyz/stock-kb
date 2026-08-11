@@ -4,11 +4,18 @@ source: austin
 
 # EBAY — Financials
 
-> **Status**: Active — 🟡 Watch (Recommerce + Cohen Activism)
-> **Last Updated**: 2026-07-30 (price $112.08; –2.77% today; vol_ratio 16.25×; pre-earnings positioning / FOMC aftermath; Q2 earnings confirmed 2026-08-05)
-> **Next Update Trigger**: Q2 2026 earnings — 2026-08-05
-> **Sources**: eBay IR press releases (Q1 2026, Q4 2025, FY2025), MacroTrends, stockanalysis.com,
-> financecharts.com, gurufocus.com, yfinance (live price 2026-05-20)
+> **Status**: Active — 🟡 Watch (Recommerce + Cohen Activism); Q2 2026 beat + FY guidance raised; today's price move is takeover-premium-related (see changelog), not fundamental
+> **Last Updated**: 2026-08-10 (price $107.71, today -3.81% on 72.7x volume; underlying Q2 fundamentals unchanged since 08-06; Bloomberg reports Cohen weighing withdrawal of the $56B acquisition bid in favor of a partnership proposal — this is a price-move/news refresh, not a new earnings data point)
+> **Next Update Trigger**: Q2 2026 10-Q filing (to confirm the figures below against SEC data), then Q3 2026 earnings (~2026-10-28)
+> **Sources**: eBay IR press releases (Q2 2026, Q1 2026, Q4 2025, FY2025), MacroTrends, stockanalysis.com,
+> financecharts.com, gurufocus.com, yfinance (live price 2026-08-10), WebSearch (Bloomberg Cohen/GameStop report)
+>
+> ⚠️ **Q2 2026 数字的来源标注：** 截至 2026-08-06，yfinance 尚未收录 Q2 实际数
+> （`mostRecentQuarter` 仍为 2026-03-31，`calendar` 把 8/05 当作未来事件挂着预估值）。
+> 下方 Q2 2026 列取自**公司新闻稿与财报电话会报道**，非结构化财务接口。
+> **季度损益表 / 现金流 / 资产负债表三张年度表本次未改动** —— 那需要结构化数据，
+> 等 10-Q 或 yfinance 补录后再更新。这样标注是为了让后来的人知道哪些数字已经过二次核对、
+> 哪些还没有。
 
 ---
 
@@ -88,21 +95,31 @@ Feb 2026 on top of ~$800M remaining). Q1 2026 dividend: $0.31/share (+7% YoY).*
 
 ## Recent Quarterly Trend
 
-| Metric | Q2 2025 | Q3 2025 | Q4 2025 | **Q1 2026** | Q2 2026E (guide) |
-|--------|---------|---------|---------|---------|---------|
-| Revenue ($B) | $2.73 | — | $2.96 | **$3.10** | $2.97–$3.03 |
-| GMV ($B) | — | — | $21.2 | **$22.2** | $21.3–$21.7 |
-| GMV Growth (FX-neutral) | — | — | +8% | **+14%** | +mid-single-digit (implied) |
-| Revenue Growth (FX-neutral) | — | — | +13% | **+17%** | +8–10% |
-| Non-GAAP Op. Margin | — | — | — | **29.4%** | — |
-| Non-GAAP EPS | $1.37 | $1.36 | $1.41 | **$1.66** | $1.46–$1.51 |
-| GAAP EPS | — | — | $1.15 (diluted) | **$1.12** | $1.09–$1.14 |
-| EPS Surprise | +5.6% | +1.9% | +4.4% | **+5.1%** ($0.08 beat) | — |
+| Metric | Q2 2025 | Q3 2025 | Q4 2025 | Q1 2026 | Q2 2026 guide | **Q2 2026 actual** |
+|--------|---------|---------|---------|---------|---------|---------|
+| Revenue ($B) | $2.73 | — | $2.96 | $3.10 | $2.97–$3.03 | **$3.13** |
+| GMV ($B) | — | — | $21.2 | $22.2 | $21.3–$21.7 | **$22.4** |
+| GMV Growth | — | — | +8% | +14% | +mid-single-digit (implied) | **+15%** |
+| Revenue Growth | — | — | +13% | +17% | +8–10% | **+15% 报告 / +14% FX-neutral** |
+| Non-GAAP Op. Margin | — | — | — | 29.4% | — | *待 10-Q* |
+| Non-GAAP EPS | $1.37 | $1.36 | $1.41 | $1.66 | $1.46–$1.51 | **$1.60** |
+| GAAP EPS | — | — | $1.15 (diluted) | $1.12 | $1.09–$1.14 | **$1.21** |
+| EPS Surprise | +5.6% | +1.9% | +4.4% | +5.1% | — | **+6.1%**（vs 本文件记录共识 $1.508）|
 
-*Q1 2026 was a broad-based beat: revenue, GMV, EPS, and operating margin all above guidance.
-Q2 2026 guidance shows sequential deceleration (+14% → +mid-single-digit GMV) reflecting
-tougher comps (Q2 2025 likely lapped earlier Focus Categories momentum) but still healthy
-growth.*
+*Q2 2026（2026-08-05 发布）**三线全面超预期**：营收 $3.13B 高于自身指引上沿 $3.03B、
+也高于分析师区间上沿 $3.058B；GMV $22.4B 超指引上沿 $21.7B；Non-GAAP EPS $1.60
+超共识。**全年指引上调。** 焦点品类 +26%，战略优先级贡献七成以上增长。*
+
+*⚠️ **指引「减速」的预期没有兑现** —— 上一版本记录的判断是「Q2 指引显示环比减速
+（+14% → +mid-single-digit GMV），反映更难的同比基数」。实际 GMV 增速反而从 +14%
+**加速到 +15%**。上次的推断错了，这里留痕而不是悄悄改掉：**同比基数变难时管理层给保守
+指引，是一个反复出现的模式**，下次读到类似指引应把它当下限而非预测。*
+
+*🔴 **一份 blowout 财报，股价只涨 1.40%。** 原因不在业绩而在估值：现价 $111.15 已高于
+26 位分析师均值目标 $110.29。基本面转强与股价上行空间是两件事，本次刷新后两者方向相反。*
+
+*💰 **新增成本项：Depop。** 多家报道点名该收购为「昂贵的赌注」并指出成本上升。
+上一版分析中不存在这一项，列入 §9 风险与下次 10-Q 的核对清单。*
 
 ---
 
@@ -154,22 +171,28 @@ important growth levers via take rate expansion on private sellers.*
 
 ---
 
-## Estimate Momentum (2026-07-30)
+## Estimate Momentum (2026-08-06)
 
-| Period | Consensus EPS | Up (30d) | Down (30d) | Signal |
-|--------|--------------|---------|-----------|--------|
-| Q2 2026E (0q) | $1.508 | 8 | 3 | **↑ Positive** |
-| Q3 2026E (+1q) | $1.452 | 3 | 8 | ↓ Negative（Q3 慎） |
-| FY2026E (0y) | $6.120 | **17** | 2 | **↑↑ Strongly Positive** |
-| FY2027E (+1y) | $6.738 | **16** | 2 | **↑↑ Strongly Positive** |
+| Period | Up (30d) | Down (30d) | Up (7d) | Signal |
+|--------|---------|-----------|---------|--------|
+| Q3 2026E (0q) | 2 | 0 | 2 | **↑ Positive** |
+| Q4 2026E (+1q) | 0 | 0 | 0 | — 无变动 |
+| FY2026E (0y) | 1 | 1 | 1 | → 中性 |
+| FY2027E (+1y) | 2 | 0 | 2 | **↑ Positive** |
 
-**Revision trend (30d)**: FY2026 17↑/2↓（89% 正向），FY2027 16↑/2↓（89% 正向）；全年修正强烈正向，但 Q3 逆向（3↑/8↓）。Q2 EPS 共识 $1.508 vs Q1 实际 $1.66——预期偏保守，历史上 EBAY 多次超预期。
+**Revision trend (30d)**: 财报后修正**净正向但幅度不大** —— 无任何周期出现净下调，
+FY2027 与本季各 2 家上调、0 家下调。
 
-**Signal**: **全年强烈看涨，Q2 小幅上行，Q3 需注意逆向修正** — 分析师对 FY2026/2027 增势信心不减；Q2 8/5 财报是近期最大催化剂（共识 $1.508，历史平均超预期 +4–5%）。
+**与上一版对比（2026-07-30）**：上次 FY2026 是 17↑/2↓、FY2027 16↑/2↓ 的强烈正向；
+本次数量级明显缩小。**这不代表看法转坏 —— 而是财报落地后分析师已在此前调整过一轮，
+现在处于消化期。** 上次记录的「Q3 逆向修正（3↑/8↓）」在本次读数中已翻正（2↑/0↓）。
+
+**Signal**: **净正向、无下调，但动能弱于财报前**。真正的约束不在修正方向而在价格 ——
+均值目标 $110.29 已低于现价 $111.15。
 
 ---
 
-## Upcoming Catalysts — Updated 2026-05-13
+## Upcoming Catalysts — Updated 2026-08-06
 
 | Date | Event | Impact |
 |------|-------|--------|
@@ -179,6 +202,8 @@ important growth levers via take rate expansion on private sellers.*
 | **~2026-05-13** | **Citigroup raises PT to $127** (post-rejection standalone) | ✅ Sell-side re-rating begins |
 | **~Weeks post-5/12** | **Cohen proxy fight filing (SEC Form DFAN14A)** — "immediate next step" per Cohen | **🔴 HIGH — primary near-term catalyst; activates activism premium** |
 | **~End Q3 2026** | **Depop acquisition closing** (delayed from H1 2026) | 🟡 MEDIUM — execution credibility; further delay = risk signal |
-| **2026-08-05** | **Q2 2026 earnings**（已确认）| **🔴 HIGH — confirms or breaks Q1 GMV re-acceleration thesis；Q2 EPS 共识 $1.508，Revenue $3.02B** |
+| **✅ 2026-08-05** | **Q2 2026 earnings — 已发布** | **✅ TRIGGERED — GMV 再加速论点获确认**：营收 $3.13B / GMV $22.4B（+15%）/ Non-GAAP EPS $1.60，全部超指引上沿，**全年指引上调**。GMV 增速 +14%→+15%，未如指引暗示的那样减速 |
+| **待定** | **Q2 2026 10-Q 备案** | 🟡 MEDIUM — **本文件 Q2 数字取自新闻稿，需以 10-Q 二次核对**；同时确认 Depop 的成本影响与 Non-GAAP 营业利润率 |
+| **~2026-10-28** | Q3 2026 earnings（估计）| 🔴 HIGH — 上调后的全年指引首次接受检验 |
 | **Oct/Dec 2026** | **Cohen EBAY call options expiry** | 🔴 HIGH — forces resolution: exercise (long-term bet) or exit (removes activism premium) |
 | **TBD** | Cohen proxy fight resolution (board seat / strategic review / withdrawal) | 🟠 HIGH — defines activism premium outcome |

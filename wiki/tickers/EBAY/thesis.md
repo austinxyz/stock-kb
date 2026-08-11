@@ -4,10 +4,10 @@ source: austin
 
 # EBAY — Investment Thesis
 
-> **Status**: Active — 🟡 Watch (Recommerce + Cohen Activism)
-> **Last Updated**: 2026-06-18 (price $107.89; –2.2% vs 5/27; MA50 $107.08 (+0.8%) = at SEPA critical support; 7/7 Stage 2 intact; Cohen proxy fight still pending; Q2 7/29 approaching)
-> **Verdict**: 🟡 Watch — standalone recommerce thesis intact; PW EV ~$116.20; current price $107.89 is –7.2% BELOW fair value; IN initiation zone $104–$110; improved R/R vs 5/27
-> **Price at Analysis**: $107.89 (2026-06-17 close; 6/18 volume 7.9M elevated)
+> **Status**: Active — 🟡 Watch (Recommerce + Cohen Activism); Q2 2026 beat + FY guidance raised; **2026-08-10: Cohen reportedly weighs withdrawing $56B EBAY takeover bid in favor of a partnership/JV proposal**
+> **Last Updated**: 2026-08-10 (price $107.71, today -3.81% on 72.7x volume; Bloomberg reports Cohen considering pulling the full-acquisition bid, pivoting to a GameStop-retail-partnership + board-seat ask instead; MA50 $110.99, price now **-3.0% below — first confirmed Stage 2 breach**, not just "riding the line" as on 08-06)
+> **Verdict**: 🟡 Watch — operating fundamentals unaffected (Q2 beat/raise from 8/5 stands); today's drop is a speculative-takeover-premium unwind, not new operational bad news. Rebuilt PW EV (probability-reweighted, price anchors still stale at 05-20 levels) is ~$116.40, barely changed from $116.20 — the Bull-case downweight was offset by Base-case upweight. Technical structure genuinely weakened for the first time (MA50 breach vs. prior "riding the line")
+> **Price at Analysis**: $111.15 (2026-08-05 close, Q2 earnings day)
 > **Sources**: eBay Q1 2026 IR press release (2026-04-29), Q4 2025 IR + earnings call transcript,
 > Motley Fool Q1 2026 transcript, Stocktitan Q1 2026 summary, indexbox.io, valueaddedresource.net,
 > MacroTrends, stockanalysis.com, financecharts.com, seekingalpha.com, fastcompany.com
@@ -248,9 +248,10 @@ $200B+ globally, growing 15%+ annually) is the growth engine for the next decade
 
 | Risk | Impact | Probability | Status |
 |------|--------|-------------|--------|
-| **Ryan Cohen proxy fight / activism escalation** | High | **60% within 3 months** | Cohen holds ~22M+ EBAY call options (Oct/Dec 2026 expiry); stated "immediate next step" after rejection. Proxy fight = upside optionality (board seat → sale process or buyback acceleration) but also management distraction, strategic uncertainty for 6–12 months |
+| **Ryan Cohen proxy fight / activism escalation** | High | **60% within 3 months**（⚠️ 2026-08-10：路径转向"合作/合资+董事会席位"而非全面收购，具体路径概率需重估，见 §14）| Cohen holds ~22M+ EBAY call options (Oct/Dec 2026 expiry); stated "immediate next step" after rejection. Proxy fight = upside optionality (board seat → sale process or buyback acceleration) but also management distraction, strategic uncertainty for 6–12 months |
 | **Cohen exits EBAY options without change (Greenmail / quiet exit)** | Medium | **25%** | Cohen's EBAY position is call options, not stock — he can exit quietly if activism cost exceeds expected gain. Historical precedent: BBBY (built large stake, forced changes, exited at top). Oct/Dec 2026 options expiry creates a deadline for resolution either way. |
-| **GMV deceleration / tariff impact** | High | Medium | Q1 2026 GMV +14% FXN was unusually strong; Q2 guide = "mid-single-digit FXN." De minimis exemption removal (EU effective July 2026; U.S. policy TBD) could hit cross-border volume from Chinese sellers. If Q2 GMV misses guide, narrative inflection thesis is damaged. |
+| **GMV deceleration / tariff impact** | High | **Low ↓↓**（2026-08-06 下调） | **Q2 2026 实测证伪了减速担忧**：GMV $22.4B **+15%**，不但超指引上沿 $21.7B，增速还从 Q1 的 +14% **加速**。管理层「mid-single-digit FXN」的指引被大幅甩开。de minimis 豁免取消的跨境影响在 Q2 未体现。风险不撤销（政策仍在推进），但概率从 Medium 下调至 Low，重新升级需要看到实际的季度环比失速。 |
+| **Depop 整合与成本** | Medium | **Medium ↑**（2026-08-06 上调） | **Q2 后新增的成本项**。多家财报报道点名该收购为「昂贵的赌注」并指出成本上升 —— 这在上一版分析中不存在。$1.2B 买 $1B GMV，交割延至 2026 年 Q3 末。**待 10-Q 量化其对 Non-GAAP 营业利润率的拖累**（Q1 为 29.4%，Q2 实测值尚未取得）。 |
 | **Active buyer count structural decline** | High | Low ↓↓ | Q1 2026: 136M (+1% YoY) — first growth since 2021; prior primary bear-case data point has turned. Risk is reversal in Q2-Q3. Watch for 137M+ confirmation. |
 | **Depop integration risk** | Medium | Medium | $1.2B for $1B GMV; closing delayed to end Q3 2026 (from H1 2026). Integrating a Gen Z C2C fashion platform into a 30-year-old C2C marketplace requires cultural alignment eBay management is untested on. |
 | **Agentic-commerce / LLM disintermediation** | High | Medium-Long | AI shopping agents may disintermediate marketplace search. Multi-year risk, directionally real. |
@@ -408,29 +409,45 @@ upgrade to buy on $100–105 pullback with clearer margin of safety.
 
 *Updated 2026-05-13: Deal Arb framework closed. Standalone + Activism scenarios.*
 
-**Bull Case — Cohen proxy fight success / strategic catalyst | Target: $140 | Probability: 25%**
+> **⚠️ 2026-08-10 更新：Cohen 路径出现第三种分支，权重需重估**
+>
+> Bloomberg 2026-08-10 独家：Cohen 正考虑**撤回**$56B 全面收购要约，转而提议**合作/合资**——
+> 利用 GameStop 约1,600家美国门店在交易卡/收藏品等高毛利品类扩大份额，并寻求 EBAY 董事会席位
+> （不再是全面收购）。GME 股价自5月要约以来已跌28%（同期 EBAY 涨7.6%），收购方筹码变弱是
+> 直接背景。Cohen 仍持股9.75%（第二大股东），"活动主义"故事没有消失，但**具体路径从
+> "强制收购/proxy fight"降级为"伙伴关系+董事会席位"**——这是原 Bull/Bear 二元框架
+> 未显式建模的**第三条路**，幅度介于两者之间。
+>
+> **处理方式**：不新增第三情景（避免过度精细化一个仍在传闻阶段的事），而是把 Bull Case 的
+> 概率下修、Base Case 概率上修，反映"全面收购/proxy fight成功"的可能性正在让位给
+> "较小规模的伙伴关系"这一更温和的结果。若合资传闻被正式确认，再拆分为独立情景。
+
+**Bull Case — Cohen proxy fight success / strategic catalyst | Target: $140 | Probability: 15%（下修，原25%）**
 - Cohen files proxy fight within weeks; wins board seat(s) or forces formal sale process
 - Board opens auction → PE or strategic bidder at $130–$140+ (Citigroup $127 PT is the near-term sell-side anchor; full proxy success could push $135–145)
 - Q2–Q4 2026 GMV sustains 10%+ FXN growth, confirming Q1 inflection was structural not one-time
 - Depop closes on time; early integration signals positive (Gen Z buyer engagement metrics)
+- **降权理由（2026-08-10）**：Cohen 本人正考虑撤回全面收购要约，这条"强制收购成功"路径的前提正在弱化
 
-**Base Case — Standalone recommerce compounder | Target: $113–$120 (1yr) | Probability: 55%**
+**Base Case — Standalone recommerce compounder + 可能的合资伙伴关系 | Target: $113–$125 (1yr) | Probability: 65%（上修，原55%）**
 - Cohen reaches board compromise (observer seat, strategic committee) without full board control; activism uncertainty resolves mid-2026
+- **新增（08-10）**：若"合作/合资"传闻落地——GameStop门店渠道+EBAY收藏品品类的商业合作+Cohen获board席位——是比全面收购更可能、幅度更小但仍正面的结果，目标区间上沿从$120上调至$125反映这个可能性
 - Standalone thesis compounds: ~8–10% revenue, ~10–13% non-GAAP EPS via buybacks + GMV growth
 - Depop closes end Q3 2026; year-1 integration neutral
 - Q2 2026 GMV in-line with guide ($21.3–21.7B); growth narrative confirmed but not accelerating
 - Buyback ($2.3B+ remaining) continues compressing float; ~5% annual EPS tailwind mechanically
 
-**Bear Case — GMV decel + Cohen exit | Target: $82–$88 | Probability: 20%**
+**Bear Case — GMV decel + Cohen exit | Target: $82–$88 | Probability: 20%（不变）**
 - Q2 2026 GMV misses guide (tariff impact on cross-border + tougher comps post-Q1 +14% print)
 - Cohen publicly exits EBAY call options (Oct/Dec 2026 expiry) without proxy fight resolution
 - Multiple compression: forward P/E reverts from ~18x toward 13–15x as growth narrative loses credibility
 - Stock retraces toward $82–88 (standalone trough value, comparable to 2022–2023 12–14x P/E trough)
+- 今日消息不构成此情景的证据——Cohen撤回的是"全面收购"不是"活动主义参与"本身，与"安静退出期权"是不同的事
 
-**Probability-Weighted EV (Standalone + Activism — Updated 2026-05-20)**:
-$140×25% + $116×55% + $87×20% = $35.00 + $63.80 + $17.40 = **~$116.20**
+**Probability-Weighted EV（Standalone + Activism — 2026-08-10 重估权重，价格锚点沿用 2026-05-20 口径，待 Q2 数据正式重算）**:
+$140×15% + $120×65% + $87×20% = $21.00 + $78.00 + $17.40 = **~$116.40**
 
-*Prior PW EV (2026-05-13): $114. Updated base case $113→$116 (active-buyer inflection confirmed structurally); bear case $85→$87 (modestly lifted floor). Current price $118.96 > PW EV $116.20 — stock is MARGINALLY ABOVE fair value. Not a compelling entry at current levels. Better risk/reward at Q2 pullback to $104–$110.*
+*重估后 PW EV 与旧值 $116.20 几乎相同（$116.40 vs $116.20）——概率结构变了但加权结果几乎不变，因为下修的Bull（$140×15% vs ×25%的差额$14）恰好被上修的Base（$120×65% vs $113×55%的差额略高）对冲。这印证了今日的价格下跌更多是"投机性并购溢价"的即时定价反应，而非对公司公允价值判断的实质性改变。注意：此重算的目标价锚点（$140/$120/$87）仍是2026-05-20口径，未按Q2实际与上调后指引重算——这是遗留待办，见§15。*
 
 ---
 
@@ -445,10 +462,35 @@ $140×25% + $116×55% + $87×20% = $35.00 + $63.80 + $17.40 = **~$116.20**
 
 **7/30 Close**: $112.08 — **–3.7% BELOW PW EV $116.20**; MA50 $111.66 (+0.4% = Stage 2 intact); Q2 earnings **2026-08-05** (6 days); vol_ratio 16.25×
 
-**Verdict**: 🟡 **Watch (Recommerce + Cohen Activism) — Pre-Earnings Window**
-- **For non-holders**: ⛔ Earnings 2026-08-05 in 6 days — **do NOT initiate new position pre-earnings**. Post-earnings beat = re-enter $104–$110 on any pullback. Stage 2 intact.
-- **For current holders**: 🟡 Hold. Trim zone $120–$125 NOT triggered. MA50 holding = Stage 2 intact.
-- **Position sizing**: 3–5% max weight. Watch for Q2 EPS beat (consensus $1.508) / GMV ($21.3–21.7B guide) as confirmation catalyst.
+**8/05 Close (Q2 财报当日)**: $111.15 — **–4.3% BELOW PW EV $116.20**; MA50 $111.13（**+0.0%，贴线**）; Golden Cross; ATR $3.30
+
+**8/10 Close**: $107.71 — 今日**-3.81%**（量比72.7x极端放量）；**MA50 $110.99，价格跌破至-3.0%**（Stage 2 首次跌破，非贴线而是确认破位）；重估后 PW EV ~$116.40，折让扩大至**-7.5%**
+
+**Verdict (2026-08-10 更新)**: 🟡 **Watch — 今日下跌是并购溢价 unwind，不是经营基本面问题，但技术面首次真正破位**
+
+- **催化剂：Bloomberg 独家（8/10）**——Cohen 考虑撤回 $56B 全面收购要约，转而提议利用 GameStop
+  ~1,600家门店做交易卡/收藏品合作+寻求董事会席位。这是"强制收购"降级为"伙伴关系"，
+  不是经营层面的坏消息（8/5 Q2 财报仍是全线超预期+全年指引上调，未受影响）。
+- **本质是投机性并购溢价的即时 unwind**：部分持有者此前仍押注"重新出价/抬价"，
+  今天这部分乐观预期被明确打掉，量比72.7x的极端放量印证是真实抛售不是噪音。
+- **重估 PW EV（见§14）几乎不变**（$116.40 vs 旧值$116.20）——公允价值判断本身没有实质变化，
+  只是Bull情景的具体路径（proxy fight/强制收购）概率下修、被Base情景（合资/温和结果）上修对冲。
+- **技术面是本次刷新最值得关注的变化**：此前多次收盘"贴线"未破（8/5 +0.0%），今日**首次确认跌破MA50（-3.0%）**，
+  Stage 2 结构首次真正承压，不再只是"贴线观察"。
+- **待办不变**：PW EV 的目标价锚点（$140/$120/$87）仍是2026-05-20口径，尚未按Q2实际与上调后指引重算；
+  Depop成本待10-Q量化。
+
+- **⛔ 禁入限制解除**：`财报前禁止新建仓` 的前提事件已发生，该限制到期。
+- **基本面：Strengthened。** Q2 营收 / GMV / EPS 三线全面超预期且**全年指引上调**；
+  GMV 增速 +14%→+15%，减速担忧被实测证伪（见 §9 已下调该风险）。
+- **🔴 但估值空间已被吃掉。** 26 位分析师均值目标 **$110.29 已低于现价 $111.15**。
+  PW EV $116.20 是 2026-05-20 的口径，尚未按 Q2 与上调后的指引重算 ——
+  **在重算之前，不应把 –4.3% 的折让当作可用的安全边际**，那个分母是三个月前的。
+- **这份财报最值得记的一点，是它的股价反应：blowout 只换来 +1.40%。**
+  基本面转强与股价上行空间是两件独立的事，本次刷新后这两者方向相反。
+- **技术**：MA50 $111.13，现价 +0.0% —— 恰好贴在均线上，Stage 2 未破但无缓冲。
+- **待办**：PW EV 需按 Q2 实际 + 上调后指引重算；Depop 成本待 10-Q 量化。
+  这两件做完之前，本 §15 的结论只覆盖「论点方向」，不覆盖「当前价位是否划算」。
 
 **Key analytical updates (2026-06-18 refresh)**:
 - **Price $107.89**: –2.2% vs 5/27 $110.36; no confirmed news catalyst; Cohen proxy fight status unconfirmed from price action
@@ -471,7 +513,13 @@ $140×25% + $116×55% + $87×20% = $35.00 + $63.80 + $17.40 = **~$116.20**
 - **Cohen DFAN14A proxy fight filing**: NOT filed as of 6/18 (~5 weeks post-rejection). Cohen raised stake to ~9% (from ~7.8%, as of ~6/5); GME Q1 unrealized EBAY gain +$268M — committed. No formal proxy war yet.
 - **Deal completion odds**: Kalshi/Polymarket ~17–20% (mid-May) — market skeptical but not dismissing
 - **Cohen options expiry (Oct/Dec 2026)**: Hard deadline — must exercise or exit; forces resolution by year-end regardless of proxy fight outcome
-- **Q2 2026 earnings (2026-08-05)**: Primary near-term catalyst（已确认，6 天后）. GMV guide = $21.3–21.7B (+mid-single-digit FXN); EPS guide $1.46–1.51，共识 $1.508。Beat confirms re-acceleration; miss = bear case reassessment
+- ~~**Q2 2026 earnings (2026-08-05)**~~ ✅ **已发布 — beat，再加速论点获确认**。营收 $3.13B（指引 $2.97–3.03B）/ GMV $22.4B（指引 $21.3–21.7B，**+15% 而非 mid-single-digit**）/ Non-GAAP EPS $1.60（指引 $1.46–1.51）；**全年指引上调**。
+
+**新增监控项（2026-08-06）：**
+- 🔴 **PW EV 重算** —— $116.20 停留在 2026-05-20 口径，未含 Q2 实际与上调后的全年指引。在重算前，任何「折让 X%」的说法都不成立。
+- 🔴 **Q2 10-Q 备案** —— 本次 Q2 数字取自新闻稿而非结构化财务接口（yfinance 截至 2026-08-06 仍未收录，`mostRecentQuarter` 为 2026-03-31）。10-Q 出来后需二次核对，并补 Non-GAAP 营业利润率。
+- 🟡 **Depop 成本量化** —— 报道称成本上升、收购昂贵，但缺具体数字。10-Q 中定位其对营业利润率的影响。
+- 🟡 **股价对 blowout 的钝化反应是否延续** —— 若后续利好继续换不来上行，说明市场已把再加速计入价格，届时论点主线应从「增长再加速」切换到「估值是否已充分反映」。
 - **Depop closing (end Q3 2026)**: Further delay = integration risk signal; on-time = execution credibility
 - **Active buyer Q2 confirmation**: Watch for 137M+ to confirm Q1 inflection was structural
 - **MA50 $107.08 support**: Close below MA50 on elevated volume (>1.5×) = Stage 2 weakening signal; re-evaluate

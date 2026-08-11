@@ -4,9 +4,9 @@ source: austin
 
 # COHR — Key Financial Metrics
 
-**Last updated**: 2026-05-11
-**Data source**: Yahoo Finance (yfinance), company earnings releases
-**Next update trigger**: Q4 FY2026 earnings — ~August 2026
+**Last updated**: 2026-08-10 (pre-earnings price-move refresh, no new fundamental data — Q4 FY26 still pending 8/12)
+**Data source**: Yahoo Finance (yfinance), WebSearch (today's move attribution)
+**Next update trigger**: Q4 FY2026 earnings — 2026-08-12 (confirmed, unchanged)
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -23,25 +23,24 @@ source: austin
 
 | Metric | Value |
 |--------|-------|
-| Current Price | **$379.69** (2026-05-11) |
-| Today's Change | +$43.92 (+13.25%); sector-wide optical interconnect rally; new ATH $384.85 intraday |
-| 52-Week Range | $73.66 – **$384.85** (new ATH intraday 2026-05-11) |
-| % Above 52W Low | +415.6% |
-| % Below 52W High | –1.3% (AT new ATH) |
-| Market Cap | **$74.28B** |
-| Enterprise Value | $75.62B |
-| Avg Volume (50d) | 7,805K |
+| Current Price | **$325.15** (2026-08-10; today -14.24%, interim high $378.80 on 8/7) |
+| Today's Change | -$53.98 (-14.24%); sector-wide "optics vs. memory" narrative rotation + pre-earnings de-risking, not COHR-specific news |
+| 52-Week Range | $84.35 – $440.00 |
+| Market Cap | **~$63.7B** |
+| Enterprise Value | ~$66.0B (est.) |
+| Avg Volume (50d) | ~5,790K |
+| Today's Volume | 6,947K (1.20× avg) |
 | Beta (5Y) | 2.053 |
 | EPS TTM (non-GAAP) | ~$4.86 (trailing 4Q: $1.00+$1.16+$1.29+$1.41) |
-| Forward P/E (non-GAAP) | ~47.4× (FY2027E $8.02; $379.69 / $8.02) |
-| Analyst Median Target | **$380.00** (AT current price; upgraded from $371 post-Q3) |
-| Analyst Mean Target | $373.78 (stock now ABOVE mean) |
-| Analyst High Target | $455.44 |
+| Forward P/E (non-GAAP) | ~39.8× (FY2027E $8.29; $329.96 / $8.29) |
+| Analyst Median Target | **$400.00** (+21.2% upside; 22 analysts) |
+| Analyst Mean Target | $391.45 |
+| Analyst High Target | $465.00 (Raymond James $435, Rosenblatt $425) |
 | Analyst Low Target | $230.00 |
-| MA50 | $288.92 (price **+31.4%** above — extended) |
-| MA150 | $213.54 (price +77.8% above) |
-| MA200 | $185.73 (price +104.4% above; MA200 slope +15.5%/mo — strongly rising) |
-| ATR14 | $26.38 (expanded; reflects higher daily volatility) |
+| MA50 | $347.42 (price **-5.0%** below — Stage 2 temporarily breached) |
+| MA150 | $309.58 (price +6.6% above) |
+| MA200 | $254.95 (price +29.4% above; MA200 slope strongly rising) |
+| ATR14 | $30.53 |
 
 ---
 
@@ -80,9 +79,9 @@ source: austin
 | Q4 FY25 | $1,529M | $546M | 35.7% | Mix improvement |
 | Q1 FY26 | $1,581M | $579M | 36.6% | 800G volumes scaling |
 | Q2 FY26 | $1,686M | $622M | 36.9% | Continued mix shift to higher-margin modules |
-| **Q3 FY26** | **~$1,804M** | **~$694M** | **~38.5%** | New quarterly high; +160bps QoQ; confirmed via TTM inference |
+| **Q3 FY26** | **$1,806M** | **$680M** | **37.6% (GAAP)** | yfinance confirmed; non-GAAP ~38.5% per company press release; +160bps QoQ (non-GAAP) |
 
-**Trend**: 5 consecutive quarters of expansion from 35.2% → 38.5% (+330bps). Thesis-strength trigger (40%) now just ~150bps away. Bull case remains 40%+ by FY2027.
+**Trend**: 5 consecutive quarters of GAAP GM expansion: 35.2% → 35.7% → 36.6% → 36.9% → **37.6%** (+240bps GAAP). Non-GAAP trajectory: ~38.5% in Q3 FY26. Thesis-strength trigger (40% non-GAAP) now ~150bps away. Bull case: 40%+ non-GAAP by FY2027. Note: GAAP vs non-GAAP gap (~90bps) reflects stock-based comp and amortization excluded from non-GAAP.
 
 ---
 
@@ -127,10 +126,10 @@ Note: FCF is structurally thin due to manufacturing CapEx (~7-8% of revenue). FC
 | Q4 FY25 | Jun 2025 | $1,529M | +2.1% | 35.7% | — | $1.00 | FY2025 close |
 | Q1 FY26 | Sep 2025 | $1,581M | +3.4% | 36.6% | — | $1.16 | 800G volumes |
 | Q2 FY26 | Dec 2025 | $1,686M | +6.6% | 36.9% | — | $1.29 | Acceleration |
-| **Q3 FY26** | Mar 2026 | **~$1,804M** | **+7.0%** | **~38.5%** | ~$244M | **$1.41** | ✅ Beat: Rev +1.3%, EPS +1.1%; GM% new high; Q4 guidance → consensus $1,978M |
-| Q4 FY26e | Jun 2026 | $1,978Me | +9.6%e | ~39%e | — | $1.61e | **Next earnings ~Aug 2026** |
+| **Q3 FY26** | Mar 2026 | **$1,806M** | **+7.1%** | **37.6% GAAP** | ~$244M | **$1.41** | ✅ Beat: Rev +1.3%, EPS +1.1%; GAAP GM% 37.6% confirmed (yfinance); non-GAAP ~38.5%; Q4 guidance → consensus $1,981M |
+| Q4 FY26e | Jun 2026 | **$1,981Me** | +9.7%e | ~38%e GAAP | — | **$1.617e** | **Next earnings 2026-08-12 (confirmed)** — range EPS $1.49–$1.75, Rev $1.923B–$2.021B |
 
-Note: Q3 FY26 revenue (~$1,804M) inferred from TTM Revenue $6,600M minus prior 3 quarters ($4,796M). Q3 FY26 GM% (~38.5%) inferred from TTM gross margin 37.0%. Q4 FY26 guidance strong — consensus raised from $1,913M to $1,978M post-Q3 call.
+Note: Q3 FY26 revenue $1,806M and GAAP gross profit $680M confirmed via yfinance quarterly income data. Non-GAAP GM% ~38.5% per company press release (excludes SBC and amortization). Q4 FY26 earnings date confirmed 2026-08-12.
 
 ---
 
@@ -150,42 +149,28 @@ Total dilution from merger: ~75% increase in common share count (107M → 187.5M
 
 ## 9. Estimate Momentum
 
-### EPS Estimates (Non-GAAP, Fiscal Year) — Updated 2026-05-11
+### EPS Estimates (Non-GAAP, Fiscal Year) — Updated 2026-08-04
 
-| Period | Current Avg | 7d Ago | 30d Ago | 90d Ago | Direction | # Analysts |
-|--------|------------|--------|---------|---------|-----------|-----------|
-| Q4 FY26 (0q) | **$1.61** | $1.54 | $1.53 | $1.52 | ↑ Rising | 16 |
-| Q1 FY27 (+1q) | **$1.76** | $1.67 | $1.64 | $1.62 | ↑↑ Strong | 16 |
-| FY2026 (0y) | **$5.45** | $5.37 | $5.36 | $5.35 | ↑ Rising | 16 |
-| FY2027 (+1y) | **$8.02** | $7.59 | $7.42 | $7.22 | ↑↑ Strong (+11.1% in 90d) | 20 |
+| Period | Current Avg | 90d Ago | Direction | # Analysts |
+|--------|------------|---------|-----------|-----------|
+| Q4 FY26 (0q) | **$1.617** | $1.49 est | ↑ Rising | ~16 |
+| FY2027 (+1y) | **$8.29** | $7.59 | ↑↑ Strong (+9.2% in 90d) | ~20 |
 
-### Revenue Estimates — Updated 2026-05-11
+### Revenue Estimates — Updated 2026-08-04
 
 | Period | Avg | Low | High | Prior Year | Growth |
 |--------|-----|-----|------|------------|--------|
-| Q4 FY26 (0q) | **$1,978M** | $1,923M | $2,008M | $1,529M | **+29.4%** |
-| Q1 FY27 (+1q) | $2,110M | $1,867M | $2,272M | $1,581M | +33.4% |
-| FY2026 (0y) | $7,053M | $6,986M | $7,081M | $5,810M | +21.4% |
-| FY2027 (+1y) | **$9,324M** | $7,813M | $10,398M | $7,053M | +32.2% |
+| Q4 FY26 (0q) | **$1,981M** | $1,923M | $2,021M | $1,529M | **+29.5%** |
+| FY2027 (+1y) | ~**$9,300M+** | — | — | ~$7,100M | ~+30%+ |
 
-### EPS Revision Trend — Updated 2026-05-11
+### EPS Revision Trend — Updated 2026-08-04
 
-| Period | 90d ago | 30d ago | 7d ago | Current | Chg 90d | Direction |
-|--------|---------|---------|--------|---------|---------|-----------|
-| Q4 FY26 | $1.52 | $1.53 | $1.54 | **$1.61** | +5.9% | ↑ Rising |
-| FY2026 | $5.35 | $5.36 | $5.37 | **$5.45** | +1.9% | ↑ Rising |
-| FY2027 | $7.22 | $7.42 | $7.59 | **$8.02** | **+11.1%** | ↑↑ Rising strongly |
+| Period | 90d ago | Current | Chg 90d | Direction |
+|--------|---------|---------|---------|-----------|
+| Q4 FY26 | ~$1.49 | **$1.617** | +8.6% | ↑ Rising |
+| FY2027 | $7.59 | **$8.29** | **+9.2%** | ↑↑ Rising strongly |
 
-### EPS Revision Breadth (last 30 days)
-
-| Period | Upgrades | Downgrades | Net | Signal |
-|--------|---------|-----------|-----|--------|
-| Q4 FY26 | 4 | 0 | +4 | Bullish |
-| Q1 FY27 | 9 | 2 | +7 | Strongly Bullish |
-| FY2026 | 4 | 2 | +2 | Mildly Bullish |
-| FY2027 | 5 | 0 | +5 | Bullish |
-
-**Revision signal**: **Strongly Bullish** — FY2027 EPS estimates +11.1% in 90 days ($7.22→$8.02); Q1 FY27 had 9 upgrades vs 2 downgrades last 30 days post-Q3 report. Overall signal: **Bullish (broad-based upward revision post-Q3)**.
+**Revision signal**: **Bullish** — FY2027 EPS estimates +9.2% in 90 days ($7.59→$8.29). Q4 FY26 consensus EPS $1.617 with range $1.49–$1.75. Beat deceleration trend (Q3 +1.1%) means estimates may be better calibrated for Q4 — watch beat magnitude. Overall signal: **Bullish (continued upward revision trend)**.
 
 ---
 
@@ -199,9 +184,9 @@ Total dilution from merger: ~75% increase in common share count (107M → 187.5M
 | Q2 FY26 | Dec 2025 | $1.208 | $1.29 | +6.8% | $1,686M | Acceleration |
 | Q3 FY26 | Mar 2026 | $1.394 | **$1.41** | **+1.1%** | **~$1,804M** | ✅ Revenue beat +1.3%; GM% ~38.5% (new high); Q4 guidance consensus raised to $1,978M. Stock: ATH $364.80 on 5/6 → -6.7% on 5/7 → +13.25% on 5/11 (sector rally). |
 
-5 consecutive EPS beats. **Beat magnitude**: +6.2% → +8.7% → +11.3% → +6.8% → **+1.1%**. Deceleration reflects estimates catching up; partly offset by the revenue beat and GM% expansion. Revenue confirmed at ~$1,804M (via TTM inference; yfinance quarterly filing not yet populated).
+5 consecutive EPS beats. **Beat magnitude**: +6.2% → +8.7% → +11.3% → +6.8% → **+1.1%**. Deceleration reflects estimates catching up to the improvement trajectory. Revenue Q3 FY26 confirmed via yfinance GAAP data: $1,806M (GAAP gross profit $680M = 37.6% GM).
 
-**Next earnings date**: Q4 FY2026 ~August 2026. Q4 FY2026 guidance consensus: **$1,978M revenue (+29.4% YoY), $1.61 EPS** (revised up from $1,913M/$1.54 pre-Q3 report).
+**Next earnings date**: Q4 FY2026 — **2026-08-12 (confirmed)**. Q4 FY2026 consensus: **$1,981M revenue (+29.5% YoY), $1.617 EPS** (range $1.49–$1.75). Full-year FY2026 and initial FY2027 guidance expected on 8/12.
 
 ---
 
@@ -237,21 +222,21 @@ At current price ($342): Base case scenario (FY2027 $9B revenue, 8x EV/Rev) impl
 
 ---
 
-## 13. Analyst Consensus — Updated 2026-05-11
+## 13. Analyst Consensus — Updated 2026-08-04
 
 | Metric | Value |
 |--------|-------|
-| Number of Analysts | 21 |
+| Number of Analysts | 22 |
 | Recommendation | Buy (consensus) |
-| Average Target | **$373.78** |
-| Median Target | **$380.00** (AT current price $379.69) |
-| High Target | $455.44 |
+| Average Target | **$391.45** |
+| Median Target | **$400.00** |
+| High Target | $465.00 |
 | Low Target | $230.00 |
-| Current Price | $379.69 (2026-05-11) |
-| vs. Median Target | **–0.1%** (stock essentially AT consensus) |
-| vs. Mean Target | **+1.6% ABOVE** |
+| Current Price | $329.96 (2026-08-04) |
+| vs. Median Target | **–17.5% BELOW** ($329.96 vs $400) |
+| vs. Mean Target | **–15.7% BELOW** |
 
-Post-Q3, analyst median upgraded from $371 → $380 (+$9, +2.4%) and mean from $355.64 → $373.78. Stock has now run to the median target ($380). Any further upside requires Q4 FY2026 beats or continued estimate upgrades. The high target ($455) from more bullish analysts reflects the 1.6T ramp / 40%+ GM% scenario.
+Post-ATH pullback has created meaningful discount to analyst consensus. Raymond James raised to $435 (from $371) on 7/2/2026; Rosenblatt maintained $425 on 6/25. Median $400 implies +21.2% upside from $330. High target $465 (+41%) reflects 1.6T ramp / 40%+ GM% scenario. 8/12 earnings = next catalyst to close the gap.
 
 ---
 
@@ -274,9 +259,10 @@ COHR is the cheapest optical play by EV/Revenue, but has the lowest revenue grow
 
 | Date | Event | What to Watch |
 |------|-------|---------------|
-| ✅ May 6, 2026 (done) | Q3 FY2026 earnings | EPS $1.41 (+1.1% beat); Revenue ~$1,804M (+1.3% beat); GM% ~38.5% (new high); Q4 guidance strong → consensus $1,978M. |
-| ✅ May 11, 2026 (done) | Optical interconnect sector rally | COHR +13.25%; new intraday ATH $384.85; Zone B $315–335 fully superseded; MA50 extension +31.4% |
-| ~August 2026 | Q4 FY2026 earnings | Q4 consensus: $1,978M revenue (+29.4% YoY), $1.61 EPS. Full-year FY2026 results; FY2027 guidance. Pass: Rev ≥$1,978M, GM% ≥39%. |
+| ✅ May 6, 2026 (done) | Q3 FY2026 earnings | EPS $1.41 (+1.1% beat); Revenue $1,806M GAAP (+1.3% beat); GAAP GM% 37.6% (non-GAAP ~38.5% new high); Q4 guidance → consensus $1,981M. |
+| ✅ May 11, 2026 (done) | Optical interconnect sector rally | COHR +13.25%; new intraday ATH $384.85; continued to ATH $440.00 post-rally |
+| ✅ Post-ATH (Jun–Aug 2026) | Price pullback from $440 | -25% drawdown to $288-330 range; MA50 breached; today's +14.51% bounce from $288 |
+| **2026-08-12** | **Q4 FY2026 earnings** | **Q4 consensus: $1,981M (+29.5% YoY), EPS $1.617 (range $1.49–$1.75). Pass: Rev ≥$1,981M, GAAP GM% ≥38%, EPS ≥$1.617. FY2026 full-year + FY2027 initial guidance.** |
 | Ongoing | Hyperscaler CapEx updates (AWS/Google/Meta earnings) | Any slowdown in AI infrastructure spending |
 | Ongoing | 1.6T transceiver qualification announcements | Next product cycle; timing indicator for FY2027 growth |
 

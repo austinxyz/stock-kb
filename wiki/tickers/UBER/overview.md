@@ -4,8 +4,14 @@ source: austin
 
 # UBER — Uber Technologies, Inc.
 
-**Last updated**: 2026-07-30
-**Status**: **Active holding (rwh #4b High conviction)** — thesis intact + price $69.11 in entry zone ($65–80); 期间 52-wk low $65.41 已测试（守住）；Stage 4 维持（MA50 $71.99 未回收）；HOLD，Q2 财报 **2026-08-05** 后看 MA50 回收再加仓；⛔ 财报前禁止新建仓
+**Last updated**: 2026-08-06
+**Status**: **Active holding (rwh #4b)** — **论点 Weakened，未 Broken**。Q2 2026（2026-08-05）运营端强：
+总订单额 **$58B（+24% YoY）** 超共识、**TTM 自由现金流首破 $100 亿**、行程 +18%、月活 +16%；
+但 **Q3 指引订单额与 EPS 中值双双低于共识**，当日 **−5.29%** 至 **$68.18**。
+🔴 **上一版写下的加仓触发（财报后放量收复 MA50）已明确检验且未通过** —— 价格距 MA50 由 −3.9% 扩大至 **−4.8%**（MA50 现 $71.65）。
+30 日预期修正由全面正向（3↑/0↓）翻转为**四周期净下调**。
+Stage 4 / Death Cross 维持；距 52 周低点 $65.41 仅 4.2%，止损 **$63.00**。
+**HOLD，不加仓**；⛔ 财报前禁入限制已到期。
 **Source of promotion**: Upstream rwh analysis (`wiki/tickers/UBER/UBER.md` v3.0, As-of 2026-05-22); rwh #4b High conviction, entry $65–80
 **Language**: English | [中文](overview.zh.md)
 

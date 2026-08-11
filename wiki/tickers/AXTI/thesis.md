@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: AXTI (NASDAQ)
 **Company**: AXT, Inc.
-**As of**: 2026-06-26
-**Price**: $68.03 (Yahoo Finance verified; −37.3% from 5/7 analysis at $108.42)
-**52-wk range**: $1.85 – $143.16 (peaked at $143 after initial analysis; now −52% from peak)
-**Market cap**: $4.45B (~65.4M shares)
-**Verdict**: Speculative — Watch; price has reached prior target entry zone ($65–80) but via waterfall decline not base formation; 7/30 Q2 earnings binary (EPS $0.072E = first profit); fundamentals improving, technicals broken (−30% below MA50); now 19% below PW EV $84
+**As of**: 2026-08-10
+**Price**: $73.81 (round-tripped $42.76 pre-earnings 7/28 → $88.58 peak 8/7 → $73.81 today, -16.67% today alone)
+**52-wk range**: $2.05 – $143.16
+**Market cap**: $4.83B (~65.4M shares)
+**Verdict**: Speculative — Watch; **Q2 2026 was a genuine beat-and-raise** (revenue $47.6M +164% YoY, EPS $0.19 vs $0.07E, GM surged to 45.0%), with multi-year contractually-backed demand now disclosed (Lumentum/Coherent/Casella agreements, backlog >$100M). Thesis materially **strengthened**, not broken — today's -16.67% reads as sell-the-news after an 11-day +72% run, not new negative information. Technicals recovered from Stage 3 to Stage 2 (price now above MA50). Current price ~23% below updated PW EV $96 (see §13)
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -307,38 +307,35 @@ Stage 3 breakdown. Stock peaked at $143.16 (after the 5/7 analysis at $108) and 
 
 ---
 
-## 13. Bull / Bear / Base Scenarios
+## 13. Bull / Bear / Base Scenarios (rebuilt post-Q2-beat, 2026-08-10)
 
-| Scenario | Probability | Price Target | % from $68 | Key Assumption |
+Q2 2026 actuals ($47.6M revenue, 45.0% GM, $0.19 EPS) already exceeded the prior Bull case's implicit trajectory. Scenarios rebuilt around the new consensus base (FY2026E revenue $217.98M, EPS $0.868):
+
+| Scenario | Probability | Price Target | % from $73.81 | Key Assumption |
 |----------|------------|-------------|-----------|---------------|
-| Bull | 30% | $150 | +120% | FY2026 revenue $165M, GM 28%, Q2 earnings beat + guidance raises |
-| Base | 40% | $75 | +10% | FY2026 revenue $130-143M, GM 20-25%, meets consensus |
-| Bear | 30% | $30 | -56% | Revenue $90-110M, GM fails to recover, Chinese competitor qualifies |
+| Bull | 25% | $160 | +117% | InP demand keeps outpacing guide; GM holds ≥45%; FY2027 exits near/above $130M/quarter run-rate; re-rate on locked-in multi-year backlog |
+| Base | 45% | $95 | +29% | Tracks current consensus (FY2026E $218M/FY2027E $461M); GM settles 38-42%; roughly matches analyst median $93 |
+| Bear | 30% | $45 | -39% | Q3 guide ($66M/$0.30-32) missed, GM reverts toward 30% on pricing pressure or export-permit delays bite, Chinese competitor progress |
 
 **Probability-Weighted EV**:
-- PW EV = (0.30 × $150) + (0.40 × $75) + (0.30 × $30)
-- PW EV = $45 + $30 + $9 = **$84**
+- PW EV = (0.25 × $160) + (0.45 × $95) + (0.30 × $45)
+- PW EV = $40 + $42.75 + $13.50 = **$96**
 
-**Current price $68.03 is 19% BELOW PW EV of $84.** Risk/reward has materially improved since the 5/7 analysis (when stock was 29% ABOVE PW EV). The base case now implies only +10% upside — but the bull case implies +120%. The question is: which scenario is unfolding? Q2 2026 earnings (7/30) is the first data point to determine this.
+**Current price $73.81 is ~23% BELOW PW EV of $96.** This is a wider discount than the 06-26 reading (19% below $84) — despite the stock being up 8.5% since then, the fundamentals (revenue/EPS estimates) moved up faster than the price. The caveat: realized volatility has been extreme (round-tripped ±100% in under 2 weeks), so position sizing should account for that even with a favorable PW EV gap.
 
-**Revenue trajectories by scenario**:
-| Scenario | FY2026E Rev | FY2027E Rev | Implied EPS FY2026 |
-|----------|-----------|-----------|-------------------|
-| Bull | $165M | $230M | $0.50+ |
-| Base | $137M | $200M | $0.25 |
-| Bear | $100M | $120M | -$0.30 |
+*Note: illustrative scenario construction pending a full valuation rebuild; treat as directional, not a precision model — the underlying inputs (GM sustainability, export-permit timing) carry real uncertainty per §8/§15.*
 
 ---
 
 ## 14. Bottom Line
 
-**1-year view**: Base case $75 (+10% from $68). The base case is now barely above current price — the stock needs the bull case ($150) to generate meaningful returns. Upside trigger: Q2 2026 (7/30) EPS ≥$0.07 + revenue ≥$34M + positive Q3 guidance → potential re-rate toward $90-110. Downside trigger: Q2 2026 revenue below $28M or China competitor announcement → $30-45 range.
+**1-year view**: Base case $95 (+29% from $73.81). Upside trigger: Q3 2026 (10/29) meets/beats guide ($66M rev / $0.30-32 EPS) + GM holds ≥40% → re-rate toward $120-140. Downside trigger: Q3 miss or GM reversion below 35% → retest $45-55 range.
 
-**3-year view**: Bull $180-220 (InP dominance + margin expansion to 30%+); Base $80-100 (revenue grows, market de-rates the multiple); Bear $15-25 (Chinese substrate parity, pricing collapse).
+**3-year view**: Bull $200+ (InP demand sustains at $130M+/quarter run-rate, GM 45%+ structural); Base $110-140 (revenue grows per consensus, multiple normalizes); Bear $25-40 (Chinese substrate parity or export-permit friction structurally caps growth).
 
-**Portfolio allocation**: For new positions — 0-1% starter only post-7/30 earnings confirmation (pre-earnings risk is binary). For existing positions from lower basis — hold core (2-3% portfolio), no trailing stop adjustment needed at current level (already well off highs).
+**Portfolio allocation**: Given the round-trip volatility (+72% in 11 days, then -16.67% in one day) and that this is a speculative small-cap already up massively, position sizing discipline matters more than ever — this is not a "chase the beat" situation even though the fundamentals genuinely improved. For existing positions: hold, no new mechanical stop needed. For new positions: any entry should be sized for continued high volatility, not the current PW EV gap alone.
 
-**Verdict (updated 2026-06-26)**: The fundamental story is improving — Q1 2026 gross margin 29.6% (beat 25% thesis target), revenue +39% YoY, supply agreement signed, Q2 E = first profitable quarter. But the stock dropped from a $143 speculative peak to $68 in a waterfall — suggesting momentum crowd exit, not fundamental thesis break. Current price is 19% below PW EV $84. The prior "wait for $65-80 entry zone" has been achieved, but via waterfall not clean base. **Watch maintained**: monitor 7/30 earnings. If Q2 delivers $34M+ revenue + EPS ≥$0.06 and stock responds constructively, reassess for entry. Until then, no new position.
+**Verdict (updated 2026-08-10)**: **Thesis strengthened materially.** Q2 2026 was not just a beat — it converted the InP demand story from "hoped-for ramp" to "contractually pre-funded, multi-year backlog" via the Lumentum ($87.5M deposits, through 2031), Coherent ($25.4M prepay), and Casella ($22.3M prepay) agreements, plus backlog >$100M. Gross margin at 45.0% blew past the original 25% thesis-confirmation bar. Today's -16.67% has no corroborating negative news — it reads as profit-taking after an extreme short-term run, not a thesis-break signal. **Watch maintained, but the reason has flipped**: previously watching for fundamental confirmation (now delivered), now watching for the stock to digest its own volatility before sizing a position. Next real test: Q3 2026 earnings (10/29).
 
 ---
 
@@ -346,35 +343,35 @@ Stage 3 breakdown. Stock peaked at $143.16 (after the 5/7 analysis at $108) and 
 
 ### Near-term (Next 60 Days)
 
-- [x] ~~Q1 2026 10-Q filing~~ — Q1 actuals confirmed: revenue $26.9M, GM 29.6% (**passes thesis; exceeds 25% target**) ✅
-- [x] ~~Q1 2026 revenue >$20M~~ — $26.9M confirmed ✅ (trigger #5 in thesis-break list: **cleared**)
-- [ ] **Q2 2026 earnings 2026-07-30**: **Pass** = revenue ≥$33M, EPS ≥$0.06, GM ≥22%; **Fail** = revenue <$28M or GM <15%
-- [ ] Volume exhaustion signal pre-earnings: ADTV <5M shares/day for 3+ days (capitulation base formation)
-- [ ] Coherent/LITE/INPHI quarterly calls (July 2026): InP substrate supply commentary
+- [x] ~~Q2 2026 earnings 2026-07-30~~ — **Massive beat**: revenue $47.6M (vs $34M consensus), EPS $0.19 (vs $0.07E), GM 45.0% ✅ (thesis-strength trigger #1 and #2 both cleared, see below)
+- [ ] **Q3 2026 earnings 2026-10-29**: Pass = revenue ≥$66M + EPS $0.30-0.32 (per guide); Fail = miss guide or GM drops below 35%
+- [ ] Export-permit approval news (Q3 guide explicitly excludes permit-dependent orders — approvals = upside)
+- [ ] Coherent/LITE/INPHI quarterly calls: corroborate InP supply tightness commentary
 
 ### Mid-term
 
-- [x] ~~Gross margin Q1 2026 above 20%~~ — 29.6% achieved ✅ (ahead of plan)
-- [x] ~~Long-term supply agreement~~ — Signed 2026-06-17 with Nanjing Casela Technologies ✅
-- [ ] FY2026 revenue guidance ≥$140M confirmed at Q2 2026 report
-- [ ] Gross margin consecutive quarters above 25% (Q2 2026 confirmation)
-- [ ] Chinese competitor news: Vital Advanced Material OEM qualification at Coherent/LITE = thesis-break
-- [ ] CapEx disclosure: capacity doubling spending timeline in 10-Q
+- [x] ~~Long-term supply agreement~~ — Signed 6/17 (Nanjing Casela) **and** disclosed with Q2 earnings: Lumentum (through 2031, $87.5M deposits), Coherent ($25.4M prepay), Casella ($22.3M prepay) ✅
+- [x] ~~FY2026 revenue guidance~~ — consensus now $217.98M (was $143M target) ✅ far exceeded
+- [x] ~~Gross margin above 25%~~ — 45.0% in Q2, well ahead of plan ✅
+- [ ] InP revenue tripling by end-2026 (management target) — track quarterly
+- [ ] $130M/quarter InP run-rate by end-2027 (management target) — track quarterly
+- [ ] Chinese competitor news: Vital Advanced Material OEM qualification at Coherent/LITE = thesis-break (unchanged, still open)
 
 ### Thesis-Break Triggers (Any ONE = Reconsider)
 
-1. **Q2 2026 revenue < $28M** (miss consensus $34M by >18% — ramp not materializing) — **BINARY 7/30**
-2. Q2 2026 gross margin < 15% (operating leverage reversal after Q1's 29.6%)
-3. Chinese InP supplier (Vital Advanced Material) announces OEM qualification at Coherent or LITE
-4. Follow-on share offering announced at <$65 (serial dilution at or below current price)
-5. ~~Q1 2026 10-Q reveals revenue below $20M~~ — **CLEARED**: Q1 actual = $26.9M ✅
+1. ~~Q2 2026 revenue < $28M~~ — **CLEARED**: actual $47.6M, far above ✅
+2. ~~Q2 2026 gross margin < 15%~~ — **CLEARED**: actual 45.0% ✅
+3. Chinese InP supplier (Vital Advanced Material) announces OEM qualification at Coherent or LITE — **still open, unchanged**
+4. Follow-on share offering announced at a depressed price relative to backlog value — **still open**
+5. **New**: Q3 2026 guide ($66M/$0.30-32) missed by >15%, with no export-permit explanation
+6. **New**: Any signal the Lumentum/Coherent/Casella prepayments are refundable/at-risk (i.e., not genuinely locked-in demand)
 
-### Continuing Thesis-Strength Triggers
+### Continuing Thesis-Strength Triggers (Already Substantially Achieved 2026-08-10)
 
-1. Q2 2026 revenue ≥$36M (beat consensus by >5%) + GM ≥25% → reassess for entry post-earnings
-2. Q2 2026 guidance raised to >$35M Q3 / full-year guidance ≥$145M → bull case strengthening
-3. Coherent or LITE explicitly names AXTI as preferred InP supplier in investor call
-4. Stock recovers above MA50 ($97) on volume — Stage 2 recovery confirmation
+1. ~~Q2 2026 revenue beat~~ ✅ | ~~GM ≥25%~~ ✅ (both cleared, now tracking Q3)
+2. Q3 2026 guide met/beat + GM sustains ≥40% → further re-rate
+3. Additional named hyperscaler/OEM long-term agreement disclosed (beyond Lumentum/Coherent/Casella)
+4. Stock holds above MA50 with volume normalization (post today's -16.67%) — confirms Stage 2, not a fresh breakdown
 
 ---
 

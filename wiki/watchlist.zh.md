@@ -13,20 +13,20 @@
 | AMZN | upstream | 2026-05-01 | 🟢 **Strengthened operationally** — AWS +28% (fastest in 15 quarters), EPS +70% beat, ad +24%, Q2 guide brackets Street;… | _（无变更日志）_ | 📅 **Q2 FY26 earnings — late-July 2026 (post-close)**. Key items: AWS YoY growth (does +28% Q1 hold above +25%), capex… |
 | ASTS | austin | 2026-05-29 | _（无变更日志）_ | _（无变更日志）_ |  |
 | AVGO | austin | 2026-08-03 | _（无变更日志）_ | _（无变更日志）_ |  |
-| AXTI | austin | 2026-06-26 | _（无变更日志）_ | _（无变更日志）_ |  |
+| AXTI | austin | 2026-08-10 | _（无变更日志）_ | _（无变更日志）_ |  |
 | BB | austin | 2026-06-25 | _（无变更日志）_ | _（无变更日志）_ |  |
 | BKNG | austin | 2026-07-28 | _（无变更日志）_ | _（无变更日志）_ |  |
 | BRK.B | upstream | 2026-05-10 | 🟡 **Unchanged** — Q1 2026 confirms operational continuity (+18% operating earnings) but the GEICO deterioration (–34%)… | _（无变更日志）_ | 📅 Q2 2026 earnings (≈early August 2026) — GEICO trajectory, buyback cadence, OxyChem first full-quarter contribution,… |
 | CELH | upstream | 2026-05-10 | **Unchanged** vs. v2.8 — Q1 confirmed Alani Nu execution (bullish); CELSIUS +6% deceleration adds residual uncertainty… | _（无变更日志）_ | June 2026 shelf-reset scanner data; Q2 2026 earnings (est. August 2026). |
 | CLFD | austin | 2026-05-14 | _（无变更日志）_ | _（无变更日志）_ |  |
 | CMG | upstream | 2026-06-03 | Weakened (from prior untracked state) — traffic deterioration structural-to-cyclical TBD; CAVA risk is first material… | _（无变更日志）_ | Q2 2026 earnings (late July 2026). SSS ≥+1%; restaurant-level margin trajectory; CAVA competitive read. |
-| COHR | austin | 2026-05-11 | _（无变更日志）_ | _（无变更日志）_ |  |
+| COHR | austin | 2026-08-10 | _（无变更日志）_ | _（无变更日志）_ |  |
 | COMP | austin | 2026-06-12 | _（无变更日志）_ | _（无变更日志）_ |  |
 | CPNG | upstream | 2026-08-02 | 🔴 **Weakened.** Not because the business deteriorated — the moat, the WOW flywheel and the balance sheet are all… | _（无变更日志）_ | **Q2 2026 earnings — August 4, 2026** (after close). Watch the ≈$410M as booked, Korea Product Commerce CC growth vs.… |
 | DASH | upstream | 2026-07-01 | 🟡 **Mixed — fundamentals modestly strengthened, valuation gap widened**. The autonomous-delivery funding and gig-worker… | _（无变更日志）_ | Q2 2026 earnings, **July 30, 2026, after close** (confirmed). Watch adj EBITDA vs. $770–870M guide, H2 grocery/retail… |
 | DELL | upstream | 2026-08-02 | 🟢 **Strengthened** — Q1 FY27 was a blowout that validated the AI server growth thesis far beyond prior expectations… | _（无变更日志）_ | Q2 FY27 earnings — **September 3, 2026**. Key items: (1) Revenue vs. $44–45B guide, (2) AI backlog trend, (3) memory… |
 | DIS | upstream | 2026-07-01 | Initiated at Strengthened-leaning — clean CEO transition, compounding streaming profitability, and record Experiences… | _（无变更日志）_ | Q3 FY2026 earnings (~Aug 12, 2026 est.) — tests the guided ~14% YoY ESPN operating-income decline and whether domestic… |
-| EBAY | austin | 2026-07-30 | _（无变更日志）_ | _（无变更日志）_ |  |
+| EBAY | austin | 2026-08-10 | _（无变更日志）_ | _（无变更日志）_ |  |
 | EOSE | austin | 2026-06-17 | _（无变更日志）_ | _（无变更日志）_ |  |
 | FCEL | austin | 2026-05-14 | _（无变更日志）_ | _（无变更日志）_ |  |
 | FDX | upstream | 2026-06-24 | Initiated at Strengthened-leaning — credible de-conglomeration + cost-out + turning freight cycle; gated on FY2029… | _（无变更日志）_ | First earnings print under the new December fiscal year (~Sept 2026) — clean continuing-ops margin trajectory, Network… |
@@ -34,10 +34,10 @@
 | GLW | austin | 2026-07-28 | _（无变更日志）_ | _（无变更日志）_ |  |
 | GOOG | austin | 2026-07-22 | _（无变更日志）_ | _（无变更日志）_ |  |
 | HD | upstream | 2026-05-31 | **Strengthened** — Q1 binary resolved positively; comps +0.6%, adj EPS beat, FY2026 guidance fully reaffirmed;… | _（无变更日志）_ | 📅 **Q2 FY2026 earnings (~August 2026)** — SRS fully in comp base; first full-period read on SRS organic comps and GMS… |
-| HOOD | upstream | 2026-04-29 | 🟢 **Strengthened** (vs. earlier-today ingest baseline) — the $14 price reset at unchanged fundamentals improves R/R… | _（无变更日志）_ | 📅 **Q2 2026 earnings (late July 2026)** — crypto sequential recovery or further deterioration; Rothera JV first live… |
+| HOOD | upstream | 2026-08-07 | 🟢 **Strengthened** — Q2 decisively answered the pivotal question: non-crypto franchise absorbed a 2nd consecutive… | _（无变更日志）_ | 📅 **Q3 2026 earnings (Nov 4, 2026)** — first full quarter with Robinhood Chain; international revenue (Canada + UK +… |
 | INTC | austin | 2026-07-23 | _（无变更日志）_ | _（无变更日志）_ |  |
 | INTT | austin | 2026-06-25 | _（无变更日志）_ | _（无变更日志）_ |  |
-| INTU | austin | 2026-05-22 | _（无变更日志）_ | _（无变更日志）_ |  |
+| INTU | austin | 2026-08-07 | _（无变更日志）_ | _（无变更日志）_ |  |
 | KGS | upstream | 2026-08-02 | **Strengthened** — record Q1 EBITDA, guidance raise, Baker Hughes 1.8 GW partnership all confirm the post-DPS thesis;… | _（无变更日志）_ | 📅 Q2 2026 earnings — **August 6, 2026** — first full quarter of Power Infrastructure; de-leveraging progress; Baker… |
 | LLY | austin | 2026-07-31 | _（无变更日志）_ | _（无变更日志）_ |  |
 | LNTH | upstream | 2026-05-10 | Unchanged at pause-point. Q1 2026 print + strategic narrowing to pure radiodiagnostics already captured in the same-day… | _（无变更日志）_ | User-directed `resume LNTH` only. Friday weekly cron will skip this ticker. |
@@ -56,7 +56,7 @@
 | NVTS | austin | 2026-07-10 | _（无变更日志）_ | _（无变更日志）_ |  |
 | OCC | austin | 2026-06-17 | _（无变更日志）_ | _（无变更日志）_ |  |
 | OKLO | austin | 2026-07-27 | _（无变更日志）_ | _（无变更日志）_ |  |
-| ONON | upstream | 2026-04-26 | Unchanged — Constructive with heightened uncertainty (leadership transition adds execution risk premium) | _（无变更日志）_ | Q1 2026 earnings — **May 12, 2026**. Key items: c-c growth vs. ≥23% guide, gross margin vs. ≥63%, tariff actual vs. 20%… |
+| ONON | austin | 2026-08-11 | _（无变更日志）_ | _（无变更日志）_ |  |
 | PEP | upstream | 2026-07-01 | Unchanged (verbs, zones, recommendation) — but **strengthened analytical/informational conviction**: primary-source… | _（无变更日志）_ | Q2 FY2026 earnings, **July 9, 2026** (confirmed date). Secondary catalyst: Elliott's North America… |
 | PFE | austin | 2026-07-19 | _（无变更日志）_ | _（无变更日志）_ |  |
 | PG | upstream | 2026-05-30 | _（无变更日志）_ | _（无变更日志）_ | Q4 FY2026 earnings — late July 2026 (second Jejurikar confirmation print). |
@@ -68,7 +68,7 @@
 | RIVN | upstream | 2026-05-18 | 🟡 **Unchanged net** — Weakened on financing/dilution overhang (May-15 S-3 + DOE downsizing; share count +50% since… | _（无变更日志）_ | 📅 **Q2 2026 earnings (~early August 2026)** — R2 customer-delivery cadence, whether/how the mixed-shelf S-3 is drawn,… |
 | RKT | upstream | 2026-05-10 | **Strengthened** — Q1 2026 de-risked all three integration legs simultaneously: Cooper synergy ($400M, end-2026),… | _（无变更日志）_ | Q2 2026 earnings (~Aug 2026). Watch: adj rev vs. $2.7–2.9B guide, EBITDA margin sustain at 26%+, Redfin attach crossing… |
 | RXT | austin | 2026-06-19 | _（无变更日志）_ | _（无变更日志）_ |  |
-| SBUX | upstream | 2026-04-28 | 🟢 **Strengthened (substantively)** vs. prior 2026-04-26 baseline. Q2 confirmed transaction trend AND margin walk, both… | _（无变更日志）_ | Q3 FY2026 earnings — late July 2026. Key items: (1) U.S. transactions stay positive on tougher comp, (2) op-margin walk… |
+| SBUX | upstream | 2026-08-06 | 🟢 **Strengthened (substantively)** vs. prior 2026-04-28 baseline. Third consecutive quarter of U.S. transaction growth… | _（无变更日志）_ | Q4 FY2026 earnings — late October 2026. Key items: (1) U.S. transactions on toughest comp, (2) op-margin durability… |
 | SCHW | austin | 2026-07-17 | _（无变更日志）_ | _（无变更日志）_ |  |
 | SHOP | austin | 2026-05-23 | _（无变更日志）_ | _（无变更日志）_ |  |
 | SMCI | austin | 2026-06-19 | _（无变更日志）_ | _（无变更日志）_ |  |
@@ -80,7 +80,7 @@
 | TRT | austin | 2026-06-19 | _（无变更日志）_ | _（无变更日志）_ |  |
 | TSLA | austin | 2026-07-23 | _（无变更日志）_ | _（无变更日志）_ |  |
 | TSLL | austin | 2026-05-07 | _（无变更日志）_ | _（无变更日志）_ |  |
-| UBER | austin | 2026-07-30 | _（无变更日志）_ | _（无变更日志）_ |  |
+| UBER | austin | 2026-08-06 | _（无变更日志）_ | _（无变更日志）_ |  |
 | UNH | upstream | 2026-04-28 | **STRENGTHENED** — second material de-risk in 7 days. Q1 closed the recoverability question; the CMS rate notice closes… | _（无变更日志）_ | **Q2 2026 earnings — late July 2026** (sequential MCR; FY26 guide refresh; Optum Health quarterly trajectory; DOJ… |
 | UUUU | austin | 2026-06-17 | _（无变更日志）_ | 观察 — $15.64 不入场（Stage 3/4 结构） |  |
 | VSH | austin | 2026-06-19 | _（无变更日志）_ | _（无变更日志）_ |  |

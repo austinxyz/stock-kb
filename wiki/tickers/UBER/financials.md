@@ -4,9 +4,20 @@ source: austin
 
 # UBER — Key Financial Metrics
 
-**Last updated**: 2026-07-30
-**Data source**: Yahoo Finance via yfinance (price/technical/estimates 2026-07-30); upstream rwh analysis v3.0 (As-of 2026-05-22); Uber Q1 2026 press release
-**Next update trigger**: Q2 2026 earnings — 2026-08-05; or a Delivery Hero takeover decision
+**Last updated**: 2026-08-06
+**Data source**: Uber Q2 2026 财报报道（2026-08-05 发布）; Yahoo Finance via yfinance (price/technical/estimates 2026-08-06); upstream rwh analysis v3.0 (As-of 2026-05-22)
+**Next update trigger**: Q2 2026 10-Q 备案（核对下方数字）; Q3 2026 earnings (~2026-11-04); 或 Delivery Hero 收购决定
+
+> ⚠️ **Q2 2026 数字来源**：截至 2026-08-06，yfinance 尚未收录 Q2 实际数
+> （`mostRecentQuarter` 仍为 2026-03-31）。下方 Q2 列取自财报报道，非结构化接口，待 10-Q 核对。
+> **年度损益表 / 现金流 / 资产负债表本次未改动。**
+>
+> 🔴 **不要使用 yfinance 的 UBER EPS surprise 列。** 它把 **GAAP 摊薄 EPS** 与
+> **非 GAAP 共识**相比，而 Uber 的 GAAP 净利被权益投资（Didi / Grab / Aurora 等）
+> 的按市值重估主导，与经营表现基本无关。实证：
+> Q1 2026 营业利润 **$1.923B（近四季最高）**，GAAP 净利仅 **$0.263B**（EPS $0.13）；
+> Q3 2025 营业利润 $1.113B，GAAP 净利却是 **$6.626B**（EPS $3.11，yfinance 记 +353% surprise）。
+> 该列在 UBER 上是噪音，本文件 §10 一律使用非 GAAP 口径。
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -15,16 +26,22 @@ source: austin
 
 | Field | Value |
 |-------|-------|
-| Price (2026-07-30) | $69.11（今日 -2.98%，vol_ratio 26.62×）|
-| 52-week range | **$65.41** – $101.99（期间创新低 $65.41，新 52-wk high $101.99）|
-| Position vs 52-week | +5.6% above new low; –32.3% below high |
-| MA50 / MA150 / MA200 | **$71.99** / $74.93 / $78.69（价格低于全部；Stage 4 维持）|
-| Market cap | ~$140.7B |
+| Price (2026-08-06) | **$68.18**（Q2 财报当日 **−5.29%**；上次 7/30 为 $69.11）|
+| 52-week range | **$65.41** – $101.99 |
+| Position vs 52-week | **+4.2% above low**（7/30 为 +5.6% —— 财报后离低点更近）; −33.2% below high |
+| MA50 / MA150 / MA200 | **$71.65** / $74.66 / $78.23（价格低于全部；**Death Cross**；Stage 4 维持）|
+| 价格 vs MA50 | **−4.8%**（7/30 为 −3.9% —— **财报后离 MA50 更远，加仓触发条件反向**）|
+| Market cap | ~$138.8B |
 | ADV (dollars) | ~$1.4B/day (Grade A liquidity) |
-| ATR(14) | $2.34 (3.4%) |
+| ATR(14) | $2.05 (3.0%) |
 | Beta (5Y) | 1.16 |
-| Analyst mean / median target | $103.89 / $105.90（48 人）|
-| Implied upside to mean | +50% |
+| Analyst mean target | **$103.76**（47 人，`strong_buy`）|
+| Implied upside to mean | **+52%** |
+
+> 🔴 **本文件里最值得停下来看的一处背离：** 47 位分析师维持 `strong_buy`、均值目标
+> 比现价高 **52%**，而同期 30 日预期修正已转为**净下调**（见 §9），价格距 52 周低点
+> 仅 4.2%。目标价与卖方评级没有跟随修正方向调整。**在这两者收敛之前，
+> 「距均值目标 +52%」不应被当作上行空间读 —— 它同时也可能是目标价尚未下修的滞后。**
 
 ---
 
@@ -99,11 +116,33 @@ $27B share buyback authorization announced; $3.0B repurchased in Q1 2026 alone (
 | Q3 2025 | $13.5B | $50.6B | $2.30B | 4.5% | Uber One hits 40M members |
 | Q4 2025 | $14.3B | $52.7B | $2.43B | 4.6% | Strong; guides Q1 2026 above est. |
 | Q1 2026 | $13.2B | $53.7B | $2.52B | 4.7% | Beat: GB +25% YoY, EBITDA +33% YoY |
+| **Q2 2026** | **$14.19B** | **$58.0B** | *待 10-Q* | *待 10-Q* | **GB +24% YoY / +22% cc，超指引中值；营收 +12% 略低于共识；TTM FCF 首破 $100 亿** |
 
 **Q1 2026 guidance beat detail:**
 - Gross Bookings $53.7B vs guide $52.5–53.5B → midpoint beat
 - Adj EBITDA $2.52B vs guide $2.42B → +4.1% beat
 - Q2 2026 guidance: GB $57.5–59.5B (+14–18% YoY), Adj EBITDA $2.65–2.75B
+
+**Q2 2026 实际 vs 指引与共识（2026-08-05 发布）：**
+
+| 项目 | 指引 / 共识 | 实际 | 结果 |
+|------|-----------|------|------|
+| Gross Bookings | 指引 $57.5–59.5B；共识 $57.23B | **$58.0B（+24% YoY，+22% cc）** | ✅ 落在指引区间、高于中值，且超共识 |
+| 营收 | 共识 $14.262B | **$14.19B（+12%）** | ⚠️ 略低约 **−0.5%** |
+| Non-GAAP EPS | 共识 $0.805 | **$0.81** | ➖ 基本符合 |
+| TTM 自由现金流 | — | **>$100 亿（历史首次）** | ✅ 里程碑 |
+| 行程数 | — | 39 亿次（**+18%**）| ✅ |
+| 月活平台消费者 | — | 2.08 亿（**+16%**）| ✅ |
+
+**🔴 Q3 2026 指引低于共识（当日 −5.29% 的直接原因）：**
+
+| 项目 | 指引 | 共识 | 差 |
+|------|------|------|-----|
+| Gross Bookings | $58.25–60.25B（中值 **$59.25B**）| $59.33B | **−$0.08B** |
+| Non-GAAP EPS | $0.84–0.88（中值 **$0.86**）| $0.89 | **−$0.03** |
+
+*两项差距都很小，但方向一致向下，且发生在**运营指标全面强劲**的同一份财报里 ——
+GB +24%、行程 +18%、FCF 破百亿。市场对这份财报的定价，几乎完全押在指引那两行上。*
 
 ---
 
@@ -125,18 +164,33 @@ $27B share buyback authorization announced; $3.0B repurchased in Q1 2026 alone (
 
 ## 9. Estimate Momentum
 
-### EPS Estimates by Period (yfinance, 2026-07-30)
+### EPS Estimates by Period (yfinance, 2026-08-06)
 
-| Period | Avg Est | Up (30d) | Down (30d) | Signal |
-|--------|---------|---------|-----------|--------|
-| Current Q / Q2 2026 (0q) | $0.837 GAAP | **3** | 0 | **↑ 转正** |
-| Next Q / Q3 2026 (+1q) | $0.918 GAAP | **4** | 0 | **↑ Positive** |
-| Current Y / FY2026 (0y) | $3.043 GAAP | 3 | 1 | ↑ Mildly Positive |
-| Next Y / FY2027 (+1y) | $4.540 GAAP | **4** | 0 | **↑↑ Strongly Positive** |
+| Period | Up (30d) | Down (30d) | Up (7d) | Down (7d) | Signal |
+|--------|---------|-----------|---------|-----------|--------|
+| Current Q / Q3 2026 (0q) | 0 | **2** | 0 | **1** | **↓ Negative** |
+| Next Q / Q4 2026 (+1q) | 1 | **2** | 1 | 1 | ↓ Mildly Negative |
+| Current Y / FY2026 (0y) | 1 | **3** | 1 | 1 | **↓ Negative** |
+| Next Y / FY2027 (+1y) | 2 | **3** | 1 | 1 | ↓ Mildly Negative |
 
-FY2026 营收共识: **$58.2B**（overlay 原估 $61.6B，下修约 5.5%；反映 Q1 后保守指引重定价）
+**Overall Estimate Signal: 由全面正向翻转为净下调。**
 
-**Overall Estimate Signal: 大幅改善 → 全面正向。** 从 6/10 的 DOWN30d=29（估值正在被下修）完全逆转为今日 3↑/0↓（Q2）、4↑/0↓（Q3），体现市场预期稳定或底部形成。FY2026 营收共识从 $61.6B 下修至 $58.2B 已消化，修正方向已回正。**技术面仍 Stage 4，但估值修正方向与技术面的分歧改善 → 是等待期内最积极的信号之一。**
+**与上一版（2026-07-30）的对比是本次刷新里最该记住的一段：**
+
+| 周期 | 7/30 | 8/06 |
+|------|------|------|
+| 本季 | **3↑ / 0↓** | **0↑ / 2↓** |
+| 下季 | **4↑ / 0↓** | 1↑ / 2↓ |
+| 本年 | 3↑ / 1↓ | 1↑ / 3↓ |
+| 次年 | **4↑ / 0↓** | 2↑ / 3↓ |
+
+**四个周期全部反向。** 7/30 那版把「修正方向已回正」称作**「等待期内最积极的信号之一」**——
+那个判断在 Q2 指引公布后被推翻。**留痕的意义在于：当时的证据支持那个结论，是新信息改变了它，
+不是当时读错了。** 但它同时说明一件事：**在财报兑现之前，修正动能只是预期的预期**，
+把它当作等待期的主要依据，会在指引落地那一天整段作废。
+
+驱动很明确 —— **Q3 指引双双低于共识**（GB 中值 $59.25B vs $59.33B；EPS 中值 $0.86 vs $0.89），
+而非 Q2 本身出了问题（GB +24% 超共识、FCF 破百亿）。分析师在下调**前瞻**，不是在否定**已发生**的季度。
 
 ---
 
@@ -149,11 +203,17 @@ FY2026 营收共识: **$58.2B**（overlay 原估 $61.6B，下修约 5.5%；反�
 | Q3 2025 | $0.44 | $0.54 | +22.7% | $13.2B | $13.5B | +2.3% |
 | Q4 2025 | $0.51 | $0.61 | +19.6% | $14.1B | $14.3B | +1.4% |
 | Q1 2026 | $0.50 | $0.64 | +28.0% | $12.9B | $13.2B | +2.3% |
+| **Q2 2026** | **$0.805** | **$0.81** | **+0.7%** | **$14.26B** | **$14.19B** | **−0.5%** |
 
-Uber has beat EPS consensus in 5 consecutive quarters with an average surprise of ~18%. Revenue beats are consistent but narrower (1–2%). EPS beats are driven by EBITDA outperformance + buyback share count reduction.
+*全部为**非 GAAP** 口径（见文件头的警告：yfinance 的 GAAP surprise 列在 UBER 上是噪音）。*
 
-**Next earnings date**: **2026-08-05**（Q2 2026，6 天后）
-**Q2 2026 consensus**: EPS $0.837（GAAP），Revenue ~$14.3B，GB Q2 guide $57.5–59.5B
+**连续 6 个季度 EPS 未低于共识，但 Q2 2026 是这一串里最弱的一次** —— 此前五季平均超预期约 +18%，
+本季仅 +0.7%，实质是「符合」。**营收更是六季以来第一次低于共识**（前五季均为 +0.9%~+2.4% 的正超）。
+EPS 超预期此前由 EBITDA 超额 + 回购缩股共同驱动；本季两个来源是否仍在，需 10-Q 的 Adj EBITDA
+与回购数据确认。
+
+**Next earnings date**: ~2026-11-04（Q3 2026，估计）
+**Q3 2026 指引**: GB $58.25–60.25B（中值低于共识 $59.33B）、Non-GAAP EPS $0.84–0.88（中值低于共识 $0.89）
 
 ---
 

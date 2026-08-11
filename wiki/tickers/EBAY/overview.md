@@ -4,10 +4,10 @@ source: austin
 
 # EBAY — Overview
 
-> **Status**: Active — 🟡 Watch (Recommerce + Cohen Activism; deal arb closed 2026-05-12)
-> **Last Updated**: 2026-07-30 (price $112.08 -2.77%, vol_ratio 16.25×; MA50 $111.66 (+0.4%) = Stage 2 intact; Q2 earnings **2026-08-05**; ⛔ 财报前禁止新建仓)
+> **Status**: Active — 🟡 Watch (Recommerce + Cohen Activism; deal arb closed 2026-05-12; **2026-08-10：Cohen传闻考虑撤回$56B全面收购要约，转向合作/合资**)
+> **Last Updated**: 2026-08-10（今日-3.81%至$107.71，量比72.7x极端放量；Bloomberg独家：Cohen正考虑撤回GameStop对EBAY的$56B全面收购要约，转而提议利用GameStop约1,600家门店做交易卡/收藏品合作+寻求董事会席位；MA50 $110.99，**首次确认跌破-3.0%**，此前多次"贴线"未破）
 > **Moat**: Narrow
-> **Conviction**: Medium — standalone recommerce thesis intact + Cohen activism option value; PW EV ~$116.20 > current price $112.08; –3.7% discount to fair value; 财报前观望
+> **Conviction**: Medium — 经营基本面不受影响（8/5 Q2财报超预期+上调指引仍然有效）；今日下跌是**投机性并购溢价的即时unwind**，不是新的经营利空。重估PW EV（概率重新分配，价格锚点仍为05-20口径）约$116.40，与旧值$116.20几乎不变——Bull情景（proxy fight/强制收购）降权被Base情景（合资/温和结果）升权对冲。技术面是真实变化：首次确认破位MA50，不再是"贴线观察"
 
 ---
 
@@ -70,6 +70,9 @@ for a $1B GMV asset is expensive.
 | **Price (close 5/27)** | **$110.36** — –4.29%; –7.2% from peak; no news catalyst; back below PW EV $116.20 (–5.3% discount); AT analyst median $110; ex-div 5/28 |
 | **Price (close 6/17)** | **$107.89** — –2.2% vs 5/27; MA50 $107.08 (+0.8%); Stage 2; IN initiation zone $104–$110 |
 | **Price (7/30)** | **$112.08** ✅ — 今日 -2.77%，vol_ratio 16.25×；MA50 **$111.66**（+0.4%）；Stage 2 维持；52-wk $78.03–$119.31；分析师目标中位 **$114**；Q2 财报 **2026-08-05（6 天）**；⛔ 禁止新建仓 |
+| **Price (8/5, Q2财报当日)** | **$111.15** — 财报全线超预期+上调指引，但股价仅+1.40%；MA50 $111.13（+0.0%，贴线）；⛔ 财报前禁入解除 |
+| **Price (8/10)** | **$107.71** — 今日 **-3.81%**，vol_ratio **72.7x**（极端放量）；MA50 **$110.99（-3.0%，首次确认跌破）**；催化剂：Bloomberg独家Cohen考虑撤回$56B收购要约转向合资，见下方"新催化剂"行 |
+| **新催化剂 (8/10)** | Cohen 考虑撤回全面收购要约，转而提议 GameStop 门店渠道合作 + 董事会席位；GME股价自5月要约以来跌28%（同期EBAY涨7.6%），收购方筹码变弱 |
 | **Board Rejection (5/12)** | eBay board rejected $56B GameStop offer — "neither credible nor attractive" |
 | **Cohen Response (5/12)** | "Proxy fight is the immediate next step" — confirmed activism continues |
 | **Citigroup PT (5/13)** | **$127** — first post-rejection standalone analyst PT |

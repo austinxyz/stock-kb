@@ -6,10 +6,10 @@ source: austin
 
 > **[English](overview.md) | [中文](overview.zh.md)**
 
-> **Status**: Watch — 🔴 Stage 3 breakdown (−52% from $143 peak; −30% below MA50); fundamentals improving (GM 29.6%); price now in prior entry zone $65-80; 7/30 Q2 earnings binary
-> **Last Updated**: 2026-06-26 (news refresh via /stock-refresh)
+> **Status**: Watch — 🟢 Q2 2026 beat-and-raise confirmed thesis (rev $47.6M/+164%YoY, EPS $0.19 vs $0.07E, GM 45.0%); Lumentum/Coherent/Casella multi-year supply deals + backlog >$100M de-risk demand; today -16.67% is post-run profit-taking, not new negative info
+> **Last Updated**: 2026-08-10 (Q2 earnings + today's pullback refresh via /stock-refresh)
 > **Moat**: Narrow
-> **Conviction**: Fundamentals intact and improving; price now 19% BELOW PW EV $84; but technicals broken — wait for 7/30 confirmation or volume capitulation
+> **Conviction**: Thesis strengthened materially; price ~23% BELOW updated PW EV $96; technicals recovered to Stage 2 (above MA50); extreme realized volatility (+72%/11d then -16.67%/1d) argues for disciplined sizing over chasing
 
 ---
 
@@ -55,18 +55,12 @@ Valuation lens: EV/Revenue and price-relative-to-analyst-targets — traditional
 
 | Metric | Value |
 |--------|-------|
-| Price (2026-06-26) | $68.03 (−37.3% from 5/7 analysis at $108.42) |
-| 52-Week Range | $1.85 – $143.16 (peaked $143 after prior analysis; now −52% from peak) |
-| 50MA | $97.37 (stock is **−30.2% below MA50** — Stage 3 breakdown) |
-| 200MA | $40.39 (stock is +68.4% above MA200) |
-| % Above 52w Low | +3,577% |
-| % from 52w High | −52.5% |
-| Trend Template (8 criteria) | Failed (below MA50, below recent MA50 direction) |
-| Pattern | Waterfall decline from $143 peak; no base formed; in prior $65-80 target zone |
-| Valid Entry | Not yet — waterfall not yet exhausted; wait for volume dry-up or 7/30 post-earnings |
-| Next Earnings | Q2 2026 — **2026-07-30 (confirmed)**; consensus EPS $0.072 (first profit) |
+| Price (2026-08-10) | $73.81 (today -16.67%; round-tripped $42.76 pre-earnings → $88.58 peak 8/7 → today) |
+| 52-Week Range | $2.05 – $143.16 |
+| 50MA | $71.57 (stock is **+3.1% ABOVE MA50** — recovered to Stage 2 since 06-26's Stage 3) |
+| Next Earnings | Q3 2026 — **2026-10-29 (confirmed)**; guide $66M rev / $0.30-32 EPS |
 
-**SEPA Verdict**: Stage 3 breakdown. All 8 SEPA criteria were passing at $108; now below MA50 by 30%. Prior predicted drawdown ("40-60% from peak without breaking thesis") has materialized from $143 peak. **Watch** — wait for 7/30 earnings confirmation or volume capitulation.
+**SEPA Verdict**: Recovered to Stage 2 territory (above MA50) after the Q2 earnings pop, though extreme volatility (round-tripped nearly 2x in under 2 weeks) means the "clean base" condition from the prior Watch stance is still not met. Today's pullback is the first real test of whether the post-earnings gains hold.
 
 ## Peers and Relative Performance (Last 3 Months)
 

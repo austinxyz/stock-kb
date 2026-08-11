@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: UBER (NYSE)
 **Company**: Uber Technologies, Inc.
-**As of**: 2026-06-10
-**Price**: $70.38 (Yahoo Finance verified, 2026-06-10)
-**52-wk range**: $69.18 – $100.10
-**Market cap**: ~$143B
-**Verdict**: **Large-cap Growth Compounder — thesis intact + price in rwh entry zone ($65–80), BUT technically Stage 4 at 52-wk low; PW EV $195 (+177%); Initiate/Add <$85 but WAIT for technical stabilization (reclaim MA50 $73.63 on volume) before adding — don't catch the falling knife**
+**As of**: 2026-08-06
+**Price**: $68.18 (Q2 2026 earnings day, −5.29%, 2026-08-06)
+**52-wk range**: $65.41 – $101.99
+**Market cap**: ~$138.8B
+**Verdict**: **Large-cap Growth Compounder — thesis Weakened, not Broken. Q2 2026 (2026-08-05) beat on GB (+24% YoY), FCF milestone (TTM >$10B); Q3 guidance missed on both GB and EPS midpoints. Prior refresh's explicit add trigger (post-earnings MA50 reclaim) TESTED AND FAILED — price/MA50 gap widened from −3.9% to −4.8%. 30-day revisions flipped from all-positive to net-negative across all four periods. HOLD, do not add; stop $63.00 (only 3.7% below the 52-wk low, 4.2% below current price)**
 **Active holding**: rwh #4b High conviction (entry $65–80)
 **Language**: English | [中文](thesis.zh.md)
 **Upstream**: rwh `wiki/tickers/UBER/UBER.md` v3.0 (As-of 2026-05-22)
@@ -401,7 +401,19 @@ UBER is the cleanest BAIT triple in the current wiki — and trades at the cheap
 
 ## 14. Bottom Line
 
-**Thesis in one sentence**: Uber is a global two-sided platform that has crossed the FCF inflection ($9.8B FY2025) and trades at ~13x FY2026E EV/EBITDA / ~6.7% FCF yield — tested a new 52-wk low at $65.41 and recovered to $69.11, still inside rwh's $65–80 entry zone, with estimate revisions now fully positive (3↑/0↓ Q2), but technically Stage 4 (MA50 $71.99 not reclaimed). **Merged verdict: thesis intact; price in rwh entry zone; estimates turning; but wait for MA50 ($71.99) reclaim on volume before adding — Q2 earnings 2026-08-05 is the next inflection test.**
+**Thesis in one sentence (2026-08-06 更新)**: Uber 的运营端在 Q2 2026 交出了这份论点最想看到的东西 ——
+**总订单额 $58B（+24% YoY）超共识、TTM 自由现金流首破 $100 亿、行程 +18%、月活 +16%** ——
+但 **Q3 指引的订单额与 EPS 中值双双低于共识**，股价当日 **−5.29%** 至 $68.18，
+**上一版明确写下的加仓触发条件（财报后放量收复 MA50）不但没有兑现，价格反而离 MA50 更远
+（−3.9% → −4.8%）**，同时 30 日预期修正由 7/30 的全面正向翻转为四个周期净下调。
+**结论：论点 Weakened，未 Broken —— 已发生的季度证实了论点，前瞻指引削弱了它；
+加仓触发未满足，HOLD 不变，止损维持 $63.00。**
+
+> **上一版（2026-07-30）判断的处理：** 那版把「估值修正方向已回正（3↑/0↓）」列为
+> **「等待期内最积极的信号之一」**。该判断已被 Q3 指引推翻。保留原文而非改写，
+> 因为教训不在于当时读错 —— 当时的证据确实支持它 —— 而在于
+> **财报前的修正动能只是「对预期的预期」，指引落地那天可以整段作废**。
+> 下一次不应把它当作等待期的主要依据。
 
 **1-year view**:
 - Base: $95–110 (Mobility revenue reaccelerates to high-single to low-double-digit YoY; Zoox Vegas AV launch; DH-takeover question resolves without value destruction; analyst mean holds ~$105)
@@ -411,11 +423,16 @@ UBER is the cleanest BAIT triple in the current wiki — and trades at the cheap
 **3-year view**:
 - Bull: $200–295 | Base: $130–195 | Bear: $52–80
 
-**Position posture (active holding)**: HOLD the existing position; thesis intact and valuation cheap. To ADD: wait for technical stabilization (**MA50 $71.99 reclaim on volume**), don't average down into a Stage 4 falling knife. Form for adds: stock on confirmation, or Jan 2027 LEAPS at $75–80 strike to keep risk defined while the chart is broken.
+**Position posture (active holding, updated 2026-08-06)**: HOLD the existing position; thesis Weakened not Broken. **The add trigger this section previously named — MA50 reclaim on volume — has now been tested by an actual earnings event and failed**: post-Q2 the price/MA50 gap widened from −3.9% to −4.8% (MA50 now $71.65) instead of closing. Do NOT add. Do not average down into a Stage 4 falling knife that just got confirmation the trend hasn't turned. Stop stays $63.00 — only 3.7% below the 52-wk low $65.41, itself just 4.2% below current price, so those are effectively one line, not two. Revisit the add decision only after (a) MA50 reclaim on volume actually happens, or (b) Q3 estimate revisions stop trending net-negative.
 
 **What upstream (rwh v3.0) got right**: The PW EV $195 / R/R ~11:1 framing holds; the FCF yield ~6.7% on a 40%-growing compounder is exceptionally cheap. rwh's key new contribution this cycle is correctly elevating the **capital-allocation question** ($10B AV + DH takeover) to the dominant new monitorable — the overlay's value-add is layering the SEPA reality (Stage 4 at the 52-wk low) on top, which argues for patience on adds despite the attractive fundamentals.
 
-**What to watch next**: **Q2 2026 earnings 2026-08-05**（6 天后）AND any Delivery Hero takeover decision. Specifically: (1) Mobility revenue reacceleration from +5% Q1 trough; (2) DH takeover — does Uber proceed, at what price, how funded (buyback impact)?; (3) buyback pace — sustained at $3B+ or slowed to fund AV/DH?; (4) technical — does price reclaim MA50 ($71.99) on volume post-earnings?
+**What to watch next（2026-08-06 更新）**：Q2 已发布，焦点前移。
+(1) **Q3 指引缺口的归属** —— 分析师把共识下调到指引附近（接受管理层判断），还是维持不变（视其为保守）；
+(2) **目标价与修正方向何时收敛** —— 47 人 `strong_buy` / 均值 $103.76（+52%）对上四周期净下调，两者必然收敛；
+(3) **Q2 Adj EBITDA 与回购（待 10-Q）** —— 此前 EPS 超预期靠 EBITDA 超额 + 回购缩股，本季 EPS 仅「符合」，需确认来源是否仍在；
+(4) **Delivery Hero 收购决定** —— 仍未明朗；
+(5) **技术** —— MA50 现 $71.65，价格 −4.8%；距 52 周低点 $65.41 仅 4.2%，而止损 $63.00 就在该低点下方 3.7%。
 
 ---
 
@@ -423,7 +440,12 @@ UBER is the cleanest BAIT triple in the current wiki — and trades at the cheap
 
 ### Near-term (next 60 days)
 
-- [ ] **Q2 2026 Gross Bookings vs guide** (earnings **2026-08-05**): Management guided $57.5–59.5B. A miss here is the first warning signal (tells: GB growth decelerating below 14%)
+- [x] ~~**Q2 2026 Gross Bookings vs guide**~~ ✅ **PASSED** — 实际 **$58.0B（+24% YoY / +22% cc）**，落在指引 $57.5–59.5B 区间内且高于中值，同时超共识 $57.23B。**本文件写下的「第一个警告信号」没有出现。**
+- [x] ~~**Q2 2026 营收 / EPS**~~ ⚠️ **MIXED** — 营收 $14.19B **低于共识 $14.262B 约 −0.5%**（六季以来首次未超），Non-GAAP EPS $0.81 vs 共识 $0.805 基本符合（此前五季平均超预期 ~18%，本季实质是「符合」）。
+- [x] ~~**分析师修正方向**~~ 🔴 **FAILED，且方向反转** — 由 7/30 的 3↑/0↓（本季）翻转为 **0↑/2↓**；四个周期全部转为净下调。
+- [ ] 🔴 **新增：Q3 指引缺口是否被后续修正确认** — 指引 GB 中值 $59.25B vs 共识 $59.33B、EPS 中值 $0.86 vs $0.89。缺口本身很小，但要看下一个月分析师是把共识下调到指引附近（接受），还是维持不变（认为管理层保守）。
+- [ ] 🔴 **新增：目标价与修正方向的背离何时收敛** — 47 人维持 `strong_buy`、均值目标 $103.76（较现价 +52%），同时在净下调预期。两者必然收敛，方向决定这个仓位后面怎么走。
+- [ ] 🟡 **新增：Q2 Adj EBITDA 与回购数据（待 10-Q）** — 此前 EPS 超预期由 EBITDA 超额 + 回购缩股驱动。本季 EPS 仅「符合」，需确认这两个来源是否仍在。
 - [ ] **Zoox Las Vegas launch** (summer 2026): Confirm deployment on Uber app; any disclosed ride count / revenue signals AV thesis progressing
 - [ ] **Mobility revenue YoY Q2 2026**: Watch for reacceleration from Q1's +5% trough. +8–10% or better = thesis intact. Second consecutive quarter at +5% or below = thesis-weakening
 - [ ] **Analyst estimate revisions post-Q1**: Track whether median target moves from $105 toward $110–115 (positive) or stalls at current level
@@ -449,9 +471,14 @@ UBER is the cleanest BAIT triple in the current wiki — and trades at the cheap
 
 ### Technical Re-Add Triggers (active holding — when to add more)
 
-- 📈 Price **reclaims MA50 ($71.99) on above-average volume** — first technical confirmation the Stage 4 downtrend is pausing
-- 📈 A **base forms + price reclaims MA150 ($78.70) on volume** — SEPA-qualified add; trend turning
-- ⛔ **Decisive break below $65 on volume** — 52-wk-low breakdown; reassess thesis before adding anything
+- ❌ **2026-08-06 状态：未满足，且反向。** 上一版把「财报后放量收复 MA50 $71.99」写成加仓触发。
+  Q2 财报后价格 **$68.18 vs MA50 $71.65 = −4.8%**，比财报前的 −3.9% **更远**。
+  **触发条件被明确检验且未通过 —— 不加仓。**
+- 📈 Price **reclaims MA50 (现 $71.65) on above-average volume** — 首个技术确认；门槛随均线下移而下移，
+  但**下移的门槛不等于更接近达成**：均线在跌，价格跌得更快。
+- 📈 A **base forms + price reclaims MA150 (现 $74.66) on volume** — SEPA 合格加仓位
+- ⛔ **Decisive break below $65 on volume** — 现价距 52 周低点 $65.41 仅 **4.2%**（7/30 时为 5.6%）。
+  止损 $63.00 在该低点下方 3.7%，两者相距很近 —— 一次跌破 52 周低点的放量下杀会几乎同时触及止损。
 
 ### Continuing Thesis-Strength Triggers
 
