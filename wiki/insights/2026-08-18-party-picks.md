@@ -18,7 +18,7 @@ source: austin
 | MRVL | AI半导体 | Watch，技术性回调非基本面（财报9天后）| $213.20 | 2026-08-18 | [thesis.zh.md](../tickers/MRVL/thesis.zh.md) |
 | AXTI | 光互连/InP | Watch，Q2 beat-and-raise真实，多年期供货合同锁定需求 | $73.81 | 2026-08-10 | [thesis.zh.md](../tickers/AXTI/thesis.zh.md) |
 | CRCL | 稳定币/USDC | 🟡 Watch非Buy，毛利率32.4%→8.7%崩塌（分销成本）| $71.71 | 2026-08-18 | [thesis.zh.md](../tickers/CRCL/thesis.zh.md) |
-| LYTE (ETF) | 光互连主题ETF | Watch，刚上市9天-8.5%，无MA50，先用NVTS+COHR组合替代 | — | 2026-08-18 | [thesis.zh.md](../../etf/LYTE/thesis.zh.md) |
+| LYTE (ETF) | 光互连主题ETF | Watch，刚上市9天-8.5%，无MA50，先用NVTS+COHR组合替代 | — | 2026-08-18 | [thesis.zh.md](../etf/LYTE/thesis.zh.md) |
 
 **整体判断**：COHR/TSM/GS三只相对确信度更高（论点强化或未破+估值有折价）；PLTR/DELL已涨太多需等回调；LASR/CRCL/LYTE偏投机、刚经历重挫或太新；INTC/MRVL属技术性回调+基本面待验证。11只均无Buy级别的"现在就买"信号——多数是Watch，等更好的入场点或更多确认。
 
