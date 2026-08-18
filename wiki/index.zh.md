@@ -177,51 +177,56 @@ user-directed, Workflow C.1). Per-page schema-version history lives in git.
 | [ACN](tickers/ACN/overview.zh.md) | ⚠️ 待审核 — 宽护城河复利型公司处于历史估值低点；Q3 FY26 指引未知；FCF 收益率… | 埃森哲（Accenture plc） |  | 2026-06-19 | 埃森哲是全球最大的 IT 服务和咨询平台（营收约 $700 亿，786,000 名员工），其核心战略地位是企业 AI 转型的"编排层"——问题在于这一地位能否在 AI 工具推动自助转型浪潮下持续，还是会被 AI 本身取代。 |
 | [ADBE](tickers/ADBE/overview.zh.md) | 观望 — 历史估值洼地，优质复合增长股；AI 颠覆叙事已超出基本面恶化程度；入场触发条件：2026-06-11 财报 | Adobe Inc. |  | 2026-05-05 | Adobe 是全球内容创作的事实操作系统——从 Photoshop 到 PDF 再到企业营销分析——现正押注其 Firefly 生成式 AI 平台将扩大而非侵蚀其主导的专业用户护城河。 |
 | [AMCR](tickers/AMCR/overview.md) |  |  |  | 2026-06-15 |  |
-| [AMKR](tickers/AMKR/overview.zh.md) | Watch— AI 先进封装 OSAT 龙头，干净 Stage 2但 +314% 严重扩展；PW EV ≈… | Amkor Technology, Inc.（安靠科技） |  | 2026-06-01 | 安靠是全球第二大 OSAT（外包半导体封装测试）厂商，AI 算力时代"封装瓶颈"核心受益者——先进封装（chiplet / 2.5D / 系统级封装）是 AI 芯片从晶体管到系统的关键卡口，安靠正以亚利桑那 CHIPS Act… |
+| [AMKR](tickers/AMKR/overview.zh.md) | Watch— 原$60-64回调等待区已被击穿，扩展风险已完全消化。基本面同期走强：Q2… | Amkor Technology, Inc.（安靠科技） |  | 2026-08-12 | 安靠是全球第二大 OSAT（外包半导体封装测试）厂商，AI 算力时代"封装瓶颈"核心受益者——先进封装（chiplet / 2.5D / 系统级封装）是 AI 芯片从晶体管到系统的关键卡口，安靠正以亚利桑那 CHIPS Act… |
 | [ASTS](tickers/ASTS/overview.zh.md) | Watch— 投机性 LEO 直连卫星平台；Stage 2但高于 MA50 30%；等回调至 $90–95 后入场 | AST SpaceMobile, Inc. |  | 2026-05-29 | AST SpaceMobile 正在建设低地球轨道卫星星座，通过与 AT&T、Verizon、乐天、沃达丰等一级运营商签订批发协议，直接向普通智能手机（无需特殊硬件）提供蜂窝宽带服务。 |
 | [AVGO](tickers/AVGO/overview.zh.md) | Watch— Q2 sell-off 后 -20%，$384 = 计划入场区低沿；FY2027E P/E ~19.7×… | 博通公司 | 宽护城河 | 2026-07-31 |  |
 | [AXTI](tickers/AXTI/overview.zh.md) | 观察 — 🟢 Q2 2026 财报大超预期证实论点；Lumentum/Coherent/Casella多年期供货协议+积… |  | 窄 | 2026-08-10 | AXT, Inc. 制造化合物半导体衬底——磷化铟（InP）、砷化镓（GaAs）、锗（Ge）、砷化铟（InAs）——是 AI 数据中心光互连、5G 以及太空太阳能等应用的关键基础材料。 |
 | [BB](tickers/BB/overview.zh.md) | 观察+ — Q1 FY2027 EPS +50% 超预期；价格 $10.34；MA50 持续追赶；财报后整理入场窗口开启 | 黑莓有限公司 |  | 2026-06-25 |  |
 | [BKNG](tickers/BKNG/overview.zh.md) | Watch — 🔄 性质反转。价格 $196.48已收复 MA50/150/200 并触及 PW EV… | Booking Holdings Inc. |  | 2026-07-28 |  |
 | [CLFD](tickers/CLFD/overview.zh.md) | 观察 — 突破后的复苏行情；BEAD + NOVA 数据中心转型 | Clearfield, Inc. |  | 2026-05-14 | Clearfield 制造光纤管理、保护与配线产品 —— 面向 ISP/CLEC 的 FieldSmart/FieldShield 生态系统（BEAD 宽带）以及面向超大规模数据中心的新品 NOVA HD 面板（384 个 LC 光纤端口… |
-| [COHR](tickers/COHR/overview.zh.md) | ⏳ Watch / 财报前观察 — Q4 FY26 财报 2026-08-12；现价 $325.15；分析师中位… | Coherent Corp. | 护城河较窄，在 2026-2028 年 AI 建设周期内可防御。 | 2026-08-10 |  |
+| [COHR](tickers/COHR/overview.zh.md) | ✅ Watch → 构建性入场区间 — Q4 FY26 beat已被完整30日预期修正周期确认强化；现价… | Coherent Corp. | 护城河较窄，在 2026-2028 年 AI 建设周期内可防御。 | 2026-08-18 |  |
 | [COMP](tickers/COMP/overview.zh.md) | 观察 → 走强可操作— 被低关注的价值扭亏标的，具真实盈利拐点；站上 MA50、basing、early Stage… | Compass, Inc.（康普斯） |  | 2026-06-12 |  |
+| [CRCL](tickers/CRCL/overview.zh.md) | 🟡 观察 — 论点未破裂，但股价处于确认下行趋势；毛利率压缩是核心结构性问题，而非采用率增长问题 | Circle Internet Group, Inc. | 狭窄且正在侵蚀的护城河。 | 2026-08-18 | Circle 发行 USDC，全球第二大美元稳定币（仅次于 Tether），收入主要来自 支撑流通中 USDC 的美国国债储备利息 —— 经济属性更接近对利率敏感的货币 市场基金管理人，而非传统支付公司。 |
+| [DELL](tickers/DELL/overview.zh.md) | 🟡 关注——AI 服务器超级周期论点仍然成立，但股价已进入 rwh 自定义的 $450–500 减仓区间，且高于 PW… | Dell Technologies Inc. | 窄护城河 | 2026-08-18 | 戴尔科技是英伟达 GPU 密集型 AI 服务器基础设施的西方领先 OEM 厂商，在稳定的商用 PC 现金牛业务基础上，正搭乘 AI 服务器超级周期（Q1 FY27 营收 $16.1B，同比 +757%）快速增长。 |
 | [EBAY](tickers/EBAY/overview.zh.md) | 活跃 — 🟡 观察 | eBay Inc. | 窄 | 2026-08-10 |  |
 | [EOSE](tickers/EOSE/overview.zh.md) | Active— 2026-06-17 新产线投产公告 +16.37% 大涨，99× 均量；已新建仓；Q1 FY26… | Eos Energy Enterprises, Inc. |  | 2026-06-17 | Eos Energy 是美国唯一规模化商业化的锌基（Znyth）长效储能公司，核心产品 Z3 电池系统针对 3–12 小时电网储能，2025 年营收 +632% 至 $114M，2026 年目标 $310M+——押注锌基化学在 4h+… |
 | [FCEL](tickers/FCEL/overview.zh.md) | 回避 — 动量驱动的投机标的；当前价位结构性负毛利率 | FuelCell Energy, Inc. | MCFC 知识产权方面护城河较窄；单位经济学方面没有护城河。 | 2026-05-14 | 熔融碳酸盐燃料电池（MCFC）发电厂开发商与运营商——通过电化学反应将天然气和氢气转化为电力（无燃烧、超低 NOx、可捕碳）——主要面向公用事业、数据中心及市政机构提供固定式商业和工业电力。 |
 | [GLW](tickers/GLW/overview.zh.md) | 持有— MA50 触发线命中；止损 $163 未触及；财报 2026-07-28 二元催化剂 | Corning Incorporated（康宁） |  | 2026-07-15 |  |
 | [GOOG](tickers/GOOG/overview.zh.md) | 观望 — 基本面强劲；财报后跌破MA50；等待MA50收复或更深的MA150回测 | Alphabet Inc.（A类股） |  | 2026-07-22 |  |
-| [INTC](tickers/INTC/overview.zh.md) | 观察 — 转型拐点信号；Q2 2026财报EPS +92%超预期；SEPA Stage 3；等待重回MA50 | 英特尔公司 | x86生态系统+美国芯片法案地位形成狭窄护城河。IFS护城河今日为零——须在2027年之前靠执行力赢得。 | 2026-07-23 | 世界历史上最大的半导体公司；正从纯IDM模式转型为IDM+外部代工（IFS），经历$500亿+资本支出周期——目前呈现拐点：资本支出下降，盈利恢复。 |
+| [GS](tickers/GS/overview.zh.md) | 🟢 Active — 优质大盘金融股，回调可考虑买入。刚公布创纪录的 2026 年二季度业绩，由 AI… | 高盛集团（The Goldman Sachs Group, Inc.） |  | 2026-08-18 | 全球投资银行及金融服务集团（顾问、承销、交易、资产与财富管理），为全球最大的企业、机构、政府 —— 以及日益增长的高净值个人 —— 提供资本形成与风险转移中介服务。 |
+| [INTC](tickers/INTC/overview.zh.md) | 观察 — 转型拐点论点未变；Q2 2026营收确认同比+25%，Q3指引高于共识；但$20B增发及半导体板块普跌令股价进… | 英特尔公司 | x86生态系统+美国芯片法案地位形成狭窄护城河。IFS护城河今日为零——须在2027年之前靠执行力赢得。 | 2026-08-18 | 世界历史上最大的半导体公司；正从纯IDM模式转型为IDM+外部代工（IFS），经历$500亿+资本支出周期——目前呈现拐点：资本支出下降，盈利恢复。 |
 | [INTT](tickers/INTT/overview.zh.md) | Watch — 杯柄形态形成中；8 月 5 日 Q2 财报为关键二元事件；PW EV $18.70 ≈ 当前价格 | inTEST 公司 |  | 2026-06-25 | inTEST 公司设计和制造专业测试及工艺技术设备——热腔体、ATE 操纵器、飞针 PCB 测试仪和感应加热系统——服务于半导体、国防、电动车/汽车、工业和生命科学终端市场，同时积极推进 Vision 2030… |
 | [INTU](tickers/INTU/overview.zh.md) | 观察/建仓 — 论点 70 多天后依旧成立；OpenAI 2026年5月推出个人理财工具是新的核心风险；无论点破裂触发命… | Intuit Inc. |  | 2026-08-07 | 美国最大消费者/中小企业财税软件平台（TurboTax + QuickBooks），凭借多年用户数据锁定和会计师网络效应构筑护城河——但 AI 正在快速侵蚀这些护城河所依赖的技术壁垒。 |
+| [LASR](tickers/LASR/overview.zh.md) | 🟡 观察 — 财报暴跌后的国防激光标的；技术面破位，供应链问题未解 | nLIGHT, Inc. | 狭窄护城河。 | 2026-08-18 |  |
 | [LLY](tickers/LLY/overview.zh.md) | 活跃 |  | 宽 | 2026-07-30 |  |
 | [META](tickers/META/overview.zh.md) | Active — Q2 2026 EPS 未达预期+ Stage 4；持有现有仓位，等 Stage 2 回升后再考虑加仓 | Meta Platforms, Inc. |  | 2026-07-30 |  |
 | [MP](tickers/MP/overview.zh.md) | 观察。股价 $52.38；SEPA 趋势模板 0/8；Stage 1 深度下跌趋势；三条均线全部高于股价且 MA200… | MP Materials Corp. | 窄偏中等护城河，经政策强化中扩宽。 | 2026-07-09 | Mountain Pass（加州莫哈韦沙漠）—— 西半球唯一一体化的稀土采选与分离 综合体 —— 的所有者/运营商。MP 正在从稀土精矿出口商转型为完全一体化的 "从矿山到磁铁"（mine-to-magnet） 国内生产商，具有… |
-| [MRAM](tickers/MRAM/overview.zh.md) | 回避 — $40M 国防合同已签；股价+622% 处于抛物线阶段；触及52周高点；当前股价为最高分析师目标价的2.15倍… | Everspin Technologies, Inc. | 窄护城河 | 2026-05-11 |  |
-| [MRVL](tickers/MRVL/overview.zh.md) | 观察— Q1 FY27 财报超预期；刷新 52 周新高 $217；PW EV 更新至 ~$193；等待… | 美满电子科技公司 | 窄护城河。 | 2026-05-27 |  |
+| [MRAM](tickers/MRAM/overview.zh.md) | 观察中 — 原论文等待的回调已发生：现价$17.31，较$39.86回落-56.6%，一度跌破$18-22区间。扩展已完… | Everspin Technologies, Inc. | 窄护城河 | 2026-08-12 |  |
+| [MRVL](tickers/MRVL/overview.zh.md) | 观察— 论点未变且基本面正在转强；股价较 52 周高点 $329.88 回落 -35%；MA50… | 美满电子科技公司 | 窄护城河。 | 2026-08-18 |  |
 | [MSFT](tickers/MSFT/overview.md) |  | Microsoft Corporation |  | 2026-05-15 |  |
 | [MU](tickers/MU/overview.zh.md) | Watch — Stage 2 修复，MA50 -14.5%；HBM3e/HBM4 拉货驱动惊人利润率；待 MA50… | 美光科技股份有限公司 | 窄护城河 | 2026-07-31 |  |
-| [NKE](tickers/NKE/overview.zh.md) | 观察 — Stage 4 技术形态；PW EV ~$51 vs 当前 $46；等待 Q4 FY26 财报或 Stage… | 耐克公司 | 宽护城河 | 2026-05-27 |  |
-| [NOK](tickers/NOK/overview.zh.md) | 观察中 — Stage 2 确认，趋势模板 8/8；但较 MA50 超涨 44.9%，处于 52 周高点；概率加权… | 诺基亚（Nokia Oyj） |  | 2026-04-30 | 诺基亚设计并销售 5G/4G 移动网络、光纤/光学/IP 基础设施和云网络服务——并通过其约 2 万件专利组合（诺基亚技术部门）向苹果、三星等设备制造商收取高毛利版税。 |
+| [NKE](tickers/NKE/overview.zh.md) | 观察 — 论点较5月走弱而非改善。Q4 FY26 EPS大幅超预期，但随后遭遇大量下调；90天EPS预期下修6.5-8.… | 耐克公司 | 宽护城河 | 2026-08-12 |  |
+| [NOK](tickers/NOK/overview.zh.md) | 观察中 — 现价$10.39已回落进原入场区$10.00-11.50；Q2 2026财报交出€2.8B… | 诺基亚（Nokia Oyj） |  | 2026-08-12 | 诺基亚设计并销售 5G/4G 移动网络、光纤/光学/IP 基础设施和云网络服务——并通过其约 2 万件专利组合（诺基亚技术部门）向苹果、三星等设备制造商收取高毛利版税。 |
 | [NVDA](tickers/NVDA/overview.zh.md) | 活跃 — 🟢 等待区间已到达。$196.23落入 5/20 设定的 $195–$210 入场区下沿。趋势模板… | 英伟达 | 宽护城河，但并非无懈可击。 | 2026-07-28 | 英伟达设计和销售图形处理器（GPU）、AI 加速芯片及配套软件——AI 训练和推理基础设施的全球标准，凭借约 80% 的 AI GPU 市场份额和 20 年 CUDA 软件护城河主导市场。 |
 | [NVTS](tickers/NVTS/overview.zh.md) | Watch — Stage 3 修正；Q2 财报 7/27 临近 | Navitas Semiconductor（纳微半导体） |  | 2026-07-10 | 宽禁带（WBG）功率半导体纯种设计公司，产品线涵盖 GaN（氮化镓）和 SiC（碳化硅），正从低毛利手机充电器业务向 AI 数据中心、电网、电动汽车、工业等高功率应用转型。 |
 | [OCC](tickers/OCC/overview.zh.md) | 观察— 价格较高点回落 –29% 至目标 $14–18 入场区间；Q3 FY2026为关键确认催化剂；当前价 PW… | Optical Cable Corporation（光缆公司） | 窄护城河 | 2026-07-11 | Optical Cable Corporation 生产光纤和铜线结构化布线产品，服务企业网络、数据中心和军事/恶劣环境市场 — 一家小市值国内制造商，作为 AI 数据中心基础设施建设的二阶受益者。 |
 | [OKLO](tickers/OKLO/overview.zh.md) | 🔴 观察— 论点 Weakened。$10 亿 ATM 增发在股价距 52 周低点仅 3.6% 时提交，「稀释性增发… | Oklo Inc.（奥克洛） |  | 2026-07-27 |  |
 | [ONON](tickers/ONON/overview.zh.md) | 观察 — 🔴 Q2 2026 营收不及预期 + 全年指引下修，股价今日 -18.84%；毛利率/DTC… | On Holding AG |  | 2026-08-11 | 瑞士高端运动/生活方式品牌（CloudTec 缓震技术，Federer 参投），此前以20%+固定汇率增速+65%+顶级毛利率复合增长，今日首次遭遇真正的增速失速恐慌。 |
 | [PFE](tickers/PFE/overview.zh.md) | Watch— Stage 1 筑底；当前价 R/R ~1:1；下次财报 2026-08-04 盘前；股息率 6.87%… | 辉瑞公司（Pfizer Inc.） |  | 2026-07-19 | 辉瑞是全球最大传统制药公司之一（市值~$1,428亿），COVID 红利消退后正以 Seagen ADC 肿瘤平台重建营收基础——同时管理 $647亿收购债务，并维持一项正在压榨自由现金流的高额股息。 |
-| [PLTR](tickers/PLTR/overview.zh.md) | Watch — Stage 4 确认；基本面完好；Q2 财报 2026-08-03；52 周低点 $106 为下一支撑 | Palantir Technologies Inc. | 政府端护城河宽（深化中）；商业端护城河窄（竞争加剧）。 | 2026-07-30 |  |
-| [POET](tickers/POET/overview.zh.md) | 关注— 现价 $6.77；三起 PFIC 税务集体诉讼已立案 + $400M 增发已完成+ CFO… | POET Technologies Inc.（派特科技） | 护城河狭窄、尚待验证。 | 2026-07-29 | 无晶圆厂光子集成公司，商业化其 光学插入器™ 平台——将激光器、调制器和探测器单片集成于单一芯片，生产面向 AI 超大规模数据中心互连的 800G / 1.6T / 3.2T+ 光引擎。 |
+| [PLTR](tickers/PLTR/overview.zh.md) | Watch — Q2 2026 财报大超预期推动股价 43% 暴涨至 $172.71；技术面明显修复，但估值重估速度快于… | Palantir Technologies Inc. | 政府端护城河宽（深化中）；商业端护城河窄（竞争加剧）。 | 2026-08-18 |  |
+| [POET](tickers/POET/overview.zh.md) | 关注— 现价 $8.91；Q2 2026营收$569,925未达此论点自设的全部三条营收门槛，是本论点首次实质命中预设论… | POET Technologies Inc.（派特科技） | 护城河狭窄、尚待验证。 | 2026-08-13 | 无晶圆厂光子集成公司，商业化其 光学插入器™ 平台——将激光器、调制器和探测器单片集成于单一芯片，生产面向 AI 超大规模数据中心互连的 800G / 1.6T / 3.2T+ 光引擎。 |
 | [QSI](tickers/QSI/overview.zh.md) | Watch — 回避技术入场；监控营收反转信号；EV 约 $49M 基于 $163M 现金 | Quantum-Si Incorporated | 窄护城河 | 2026-05-07 |  |
 | [RFIL](tickers/RFIL/overview.zh.md) | 观察 — Chen 确认翻转，价格小幅回调至 $14.18，等待 $11-12 入场 | RF Industries, Ltd. |  | 2026-04-27 | RF Industries 制造电信级同轴连接器、线缆组件及小型基站解决方案，是 5G 无线基础设施的小众供应商，正从 FY2023-2024 的营收下滑中完成结构性翻转。 |
 | [RXT](tickers/RXT/overview.zh.md) | 观察 — Stage 2 Base 1 突破但过度延伸；价格远超分析师共识；等待整理 | Rackspace Technology, Inc. |  | 2026-06-19 |  |
-| [SCHW](tickers/SCHW/overview.zh.md) | Active— 论点执行中；T1 ✅已达；当前价 $101.56，Stage 2过渡确认；下次财报… | 嘉信理财集团（The Charles Schwab Corporation） |  | 2026-07-17 | 嘉信理财是美国最大零售券商（$11.8万亿客户资产，4,650万账户），主要通过扫描现金的净利差（约49%营收）以及持续扩大的顾问/ETF/交易服务货币化客户信任——凭借规模、RIA 托管主导地位和竞争对手无法复制的自营银行构建宽护城河。 |
-| [SHOP](tickers/SHOP/overview.zh.md) | 观察 / 基本面积累 — 技术面处于第4阶段；基本面入场区间 $100–120 已至；当前价 $103 已低于 rwh… | Shopify Inc. |  | 2026-05-23 |  |
+| [SCHW](tickers/SCHW/overview.zh.md) | Active— 论点强化；Q2 EPS beat +4.55%/营收beat +2.64%，黄金交叉确认，回购提速至$3… | 嘉信理财集团（The Charles Schwab Corporation） |  | 2026-08-17 | 嘉信理财是美国最大零售券商（$11.8万亿客户资产，4,650万账户），主要通过扫描现金的净利差（约49%营收）以及持续扩大的顾问/ETF/交易服务货币化客户信任——凭借规模、RIA 托管主导地位和竞争对手无法复制的自营银行构建宽护城河。 |
+| [SHOP](tickers/SHOP/overview.zh.md) | 观察 — 论点已验证，入场窗口已关闭。Q2 2026 beat-and-raise驱动Stage 4→Stage… | Shopify Inc. |  | 2026-08-12 |  |
 | [SMCI](tickers/SMCI/overview.zh.md) | 回避 — Stage 4 下跌趋势；6月10-11日灾难性破位，如3-6个月内形成Stage 2底部则考虑重新入场 | Super Micro Computer, Inc. | 护城河狭窄，正在侵蚀。 | 2026-06-19 |  |
 | [SN](tickers/SN/overview.zh.md) | 观察— 优质复利成长股，但 $128.48 处动量 extended；入场已无不对称性 | SharkNinja, Inc. |  | 2026-06-09 |  |
 | [SNPS](tickers/SNPS/overview.zh.md) | Watch— 宽护城河 EDA 双寡头；Ansys 收购消化 + 中国 EDA 禁令双重压制；PW EV ≈… | Synopsys, Inc.（新思科技） |  | 2026-06-01 | 新思科技是 EDA（电子设计自动化）双寡头之一——每家半导体公司设计和验证芯片都必用的命脉软件——通过 ~$35B 收购 Ansys 扩入仿真/多物理场，定位为 AI 算力时代的"硅到系统"设计平台。 |
 | [TRT](tickers/TRT/overview.zh.md) | 关注 — 东南亚半导体测试微型股；AI GPU 烧结需求真实，但股价受散户炒作推高；等待整固 | Trio-Tech International |  | 2026-06-19 | Trio-Tech International 在东南亚（马来西亚、新加坡、泰国、印度尼西亚）半导体供应链枢纽中运营嵌入式烧结、可靠性及环境测试实验室，目前正通过自有烧结板（BIB）制造业务捕获 AI GPU 可靠性验证需求。 |
 | [TSLA](tickers/TSLA/overview.zh.md) | 观察— 技术 Stage 4，Q2 EPS -28% 未达预期，Robotaxi 叙事待电话会确认，🏦 蓝筹仓位… | 特斯拉公司 |  | 2026-07-23 | 特斯拉是全球领先的电动汽车制造商，同时押注自动驾驶（FSD/Robotaxi）和能源存储（Megapack），以"AI + 能源"叙事支撑 $1.42T 市值，但近年汽车毛利率从 25% 降至 18%，盈利大幅压缩。 |
 | [TSLL](tickers/TSLL/overview.md) |  | Direxion Daily TSLA Bull 2X Shares |  | 2026-05-07 |  |
+| [TSM](tickers/TSM/overview.zh.md) | ✅ Watch — 宽护城河、领先制程晶圆代工绝对龙头，相对自身基本面动能持续存在估值折价；今日-4.3%，系半导体板块… | 台湾积体电路制造股份有限公司 |  | 2026-08-18 |  |
 | [UBER](tickers/UBER/overview.zh.md) | 持仓中 — 论点 Weakened，未 Broken。Q2 2026运营端强： | Uber Technologies, Inc. | 双边网络 + 美国出行业务具备宽护城河；外卖业务护城河较窄；AV 领域存在生死问题（若 OEM… | 2026-08-06 | 全球双边交通+外卖平台（覆盖 70+ 国，1.99 亿月活用户，FY2025 总预订额 $1935 亿），抽成率约 27%——已越过自由现金流拐点（FY2025 FCF $98 亿），从"自动驾驶受害者"重新定位为"AV 分发层"，借助… |
 | [UUUU](tickers/UUUU/overview.zh.md) | 观察 — Stage 3/4 下降趋势；价格 $15.64 低于 MA50 $18.95；待技术结构修复后再考虑加仓 | Energy Fuels Inc.（能源燃料公司） | 真实的战略期权价值，美国稀土-铀一体化的真正先行者， 但当前规模尚小。 | 2026-06-17 | 美国唯一同时生产铀和稀土元素（REE）的公司 —— 运营犹他州 White Mesa 磨矿厂（美国唯一常规运营的铀磨矿厂）， 处理独居石矿以生产稀土碳酸盐，同时建设稀土分离产能， 并在此基础上叠加新兴医疗同位素（镭-226）业务。 |
 | [VSH](tickers/VSH/overview.zh.md) | 观察 — 深度价值周期性复苏；价格处于52周高位，从低点大幅拉升+457%；50MA溢价+60%极度拉伸；等待整理 | Vishay Intertechnology, Inc. | 窄护城河。 | 2026-06-19 | 全球最大的分立半导体与无源电子元件制造商（MOSFET、二极管、电阻、电容、电感、光电器件）——每个电源电路的隐形支柱，从AI服务器电源到电动车逆变器到工业电机。 |

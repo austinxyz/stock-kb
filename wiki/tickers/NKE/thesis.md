@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: NKE (NYSE)
 **Company**: NIKE, Inc.
-**As of**: 2026-05-27
-**Price**: $46.16 (Yahoo Finance verified)
-**52-wk range**: $41.35 – $80.17
-**Market cap**: $68.5B
-**Verdict**: Value Recovery — Watch; PW EV ~$51 implies minimal margin of safety at $46; await Q4 FY26 earnings or Stage 2 technical confirmation
+**As of**: 2026-08-12 (via /stock-refresh — 77-day overdue refresh)
+**Price**: $40.68 (2026-08-12, -1.55% today; Yahoo Finance verified)
+**52-wk range**: $40.00 – $80.17
+**Market cap**: $60.35B
+**Verdict**: Value Recovery — Watch, thesis has WEAKENED, not strengthened, since May. Technicals deepened into Stage 4 (price now below all 3 MAs, which are themselves declining — worse than May). Q4 FY26 delivered a large EPS beat ($0.72 vs $0.127 est per yfinance's headline print) but guidance was read negatively — a wave of downgrades followed, including JPMorgan cutting to Underweight ($40 target) on 2026-08-04. 90-day EPS estimates down 6.5-8.6%. Price has broken slightly below the original $41-48 entry zone without hitting the $38 stop. Next earnings (Q1 FY27, 2026-09-29) is the next real catalyst — consensus bakes in a -10.2% YoY EPS decline
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -327,6 +327,8 @@ NKE offers the highest behavioral edge but lowest technical support among curren
 
 **PW EV = $50.10 vs current $46.16 → ~8.5% upside.** Minimal margin of safety. Stock is roughly fairly valued at current price; the 3.65% dividend adds to total return but does not substantially change the risk/reward calculus. Only buy at meaningful discount to PW EV ($41–44) or on post-catalyst confirmation.
 
+**2026-08-12 update**: Price $40.68 is now -18.8% below the stale PW EV ($50.10), a wider discount than May's 8.5% upside gap. But this discount has opened for the WRONG reason — not because the market got cheaper on stable fundamentals, but because 90-day EPS estimates have been cut 6.5-8.6% and the sell-side (JPMorgan to Underweight, 13-firm PT-cut wave on 2026-07-01) is pricing in more Bear-case weight than the original 25%. The scenario table above has not been re-run against the Q4 FY26 print or the FY27 guidance that triggered the downgrades — treat the $50.10 PW EV as stale and likely too high until reweighted.
+
 ---
 
 ## 14. Bottom Line
@@ -342,16 +344,17 @@ NKE offers the highest behavioral edge but lowest technical support among curren
 
 **Verdict**: Nike's brand is not in terminal decline. The Hill turnaround is the right medicine but it takes 2–3 years to restore wholesale partner trust, re-establish running performance leadership, and rebuild China brand health. At $46, the market is pricing in ~55% probability of turnaround failure. That seems slightly too pessimistic given Jordan Brand's durability and NKE's $9B cash position. However, the 8.5% upside to PW EV is insufficient for a new position given Stage 4 technical picture. **Watch** until Q4 FY26 earnings (June 25) or Stage 2 technical confirmation. Entry: $41–48. Stop: $38.
 
+**2026-08-12 update — thesis weakening, not resolving**: Q4 FY26 (reported ~2026-06-30) delivered a large EPS beat but the market reaction was negative, not positive — the print was followed by a wave of 13 analyst PT cuts on 2026-07-01 (Barclays $67→$52, Oppenheimer $120→$60, Goldman $52→$46, RBC downgraded to Sector Perform) and JPMorgan's downgrade to Underweight ($40 target) on 2026-08-04, the most recent and most bearish action. This pattern — beat the number, guide/comment worse, get downgraded — is consistent with the Bear case's core assumption (tariff drag + wholesale rebuild difficulty) gaining ground, not the Base case. Technically, NKE has moved FURTHER into Stage 4 (all three MAs below price in May are now above it, and declining) rather than toward the Stage 1 base the original thesis wanted to see. Price at $40.68 sits just below the original $41-48 zone without the $38 stop being hit — this is not a clean re-entry signal, it's a continuation of the downtrend the thesis was watching for signs of stabilizing.
+
 ---
 
 ## 15. Monitoring Checklist
 
 ### Near-Term (Next 60 Days)
-- [ ] **Q4 FY26 earnings — June 25, 2026 (AH)**: EPS consensus $0.12; beat = $0.16+; miss = $0.08 or below
-- [ ] **Q4 FY26 revenue**: Consensus $10.84B; pass = $11.0B+; fail = below $10.7B (accelerating decline)
-- [ ] **FY2027 guidance**: Critical. Pass = revenue guidance $47.5B+ and operating margin guidance >9%; fail = no guidance or guidance below FY2026
-- [ ] **Tariff update**: Any US-Vietnam tariff resolution or escalation announcement
-- [ ] **Technical Stage 1 base**: Does NKE hold above $41–42 for 4+ weeks and form flat/tight base?
+- [x] **Q4 FY26 earnings (reported ~2026-06-30)**: EPS beat delivered (per yfinance headline, actual $0.72 vs $0.127 est) — but read as NEGATIVE by the market; heavy PT-cut wave followed same-day-adjacent (13 firms on 7/1) rather than the positive re-rating the thesis hoped for
+- [x] **FY2027 guidance**: read as weak enough to trigger a JPMorgan downgrade to Underweight (2026-08-04) — thesis-relevant, treat as a FAIL on this checklist item
+- [ ] **Q1 FY27 earnings: 2026-09-29** — consensus EPS ~$0.45 (range $0.41-$0.50), implying -10.2% YoY decline; next real test
+- [ ] **Technical Stage 1 base**: NOT achieved — NKE has moved deeper into Stage 4 since May (all 3 MAs now above price, MAs themselves declining), the opposite of what this checklist item wanted to see
 
 ### Mid-Term (FY2027 Q1–Q2)
 - [ ] **Revenue growth turns positive**: FY2027 Q1 (Aug 2026) must show YoY growth to confirm turnaround

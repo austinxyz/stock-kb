@@ -4,9 +4,9 @@ source: austin
 
 # NOK — Key Financial Metrics
 
-**Last updated**: 2026-04-30
-**Data source**: Yahoo Finance (yfinance), Nokia IR filings
-**Next update trigger**: Q2 2026 earnings — ~Late July 2026
+**Last updated**: 2026-08-12 (via /stock-refresh)
+**Data source**: Yahoo Finance (yfinance), WebSearch (Q2 earnings + news)
+**Next update trigger**: Q3 2026 earnings — 2026-10-22
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -15,20 +15,19 @@ source: austin
 
 | Metric | Value |
 |--------|-------|
-| Price (2026-04-30) | $12.91 |
-| 52-Week Range | $4.00 – $12.92 |
-| Position vs 52-Week | -0.08% from high (virtually at high) |
-| Market Cap | $72.1B |
-| Enterprise Value | $67.3B |
-| Avg Volume (20d) | 104.6M shares / ~$1.35B/day |
+| Price (2026-08-12) | $10.39（今日+10.06%）|
+| 52-Week Range | $4.12 – $17.45 |
+| Position vs entry zone | **INSIDE** original $10.00–$11.50 entry zone (was 12% above it on 4/30) |
+| Market Cap | $58.0B |
 | Beta | 0.51 |
-| Trailing EPS | $0.16 |
-| Trailing P/E | 80.7x |
-| Forward P/E | 26.6x |
-| EV/EBITDA | 26.5x |
-| P/S (TTM) | 3.6x |
-| Analyst Median Target | $12.70 |
-| Dividend Yield | 1.31% |
+| MA50 | $11.99（现价低于-13.4%）|
+| MA150 | $10.26（现价高于+1.3%）|
+| MA200 | $9.32（现价高于+11.5%）|
+| Analyst Mean Target | $15.02 |
+| Analyst Median Target | $15.00 |
+| Analyst High/Low | $21.00 / $8.50 |
+| Rating Distribution | 4 Strong Buy / 4 Buy / 3 Hold / 0 Sell（9名分析师；较4/30少1个Sell评级）|
+| Q2 FY26 EPS Estimate 90d Δ | This-quarter estimates cut ~18%（$0.0899→$0.0736）; Next-FY estimates raised (3上/2下)——近端谨慎，远端乐观，信号分化 |
 
 ---
 
@@ -138,8 +137,11 @@ FCF consistently positive. FY2024 was peak FCF year. SBC is rising but remains m
 | Q3 2025 | $0.055 | $0.070 | **+26.0% BEAT** | $4.83B |
 | Q4 2025 | $0.166 | $0.191 | **+15.3% BEAT** | $6.13B |
 | Q1 2026 | $0.055 | $0.059 | **+7.1% BEAT** | $4.50B |
+| Q2 2026 | $0.07 | $0.08 | **+17.1% BEAT** | €4.82B（+€2.8B AI/Cloud订单，同比翻倍以上）|
 
-**Next earnings:** ~Late July 2026 (Q2 2026). Consensus: $0.069 EPS / $4.81B revenue.
+**5 consecutive beats.** Q2 2026 guidance raise: FY26 comparable operating profit €2.1B–€2.6B; capex trimmed to €800M–€900M.
+
+**Next earnings:** **2026-10-22** (Q3 2026). Consensus: $0.07 EPS.
 
 ---
 

@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: MRAM (NASDAQ)
 **Company**: Everspin Technologies, Inc.
-**As of**: 2026-05-11
-**Price**: $39.86 (Yahoo Finance verified)
-**52-wk range**: $5.52 – $39.86
-**Market cap**: $934M
-**Verdict**: **Speculative — AVOID at $39.86; trading at 2.15× highest analyst target ($18.50); parabolic +622% 1-year move far outpaces fundamentals; Wait for pullback to $18–22 before re-evaluating**
+**As of**: 2026-08-12 (via /stock-refresh — 93-day overdue refresh)
+**Price**: $17.31 (2026-08-12; Yahoo Finance verified)
+**52-wk range**: $5.86 – $51.50
+**Market cap**: ~$421.5M
+**Verdict**: **Speculative — the original "2.15× highest analyst target" overvaluation framing no longer applies.** Price has fallen -56.6% from $39.86, briefly traded below the $18-22 watch zone (low $12.93 on 7/29), and is now hugging it from below at $17.31. The 50MA extension has fully unwound (was +220%, now -13.7% below MA50). Q2 2026 beat (+22.2% EPS surprise) and the analyst low target was raised to $19.00 — price is now inside/near every analyst target rather than 2× above the highest. New risk not present in May: a shelf registration filed 2026-08-07 (dilution overhang). This IS the pullback the original thesis said to wait for — re-evaluation warranted, not an automatic AVOID anymore
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -189,13 +189,14 @@ Everspin is a **fabless-plus** model: core MRAM designs are proprietary but manu
 | Risk | Impact | Probability | Composite |
 |------|--------|-------------|-----------|
 | Defense contract execution delay/rescoping | Critical | 35% | Critical |
-| Parabolic stock reversal (-50%+) | Critical | 60% | Critical |
+| **Parabolic stock reversal (-50%+)** | Critical | **✅ MATERIALIZED (2026-08-12)** | Realized — stock fell -56.6% from $39.86 to $17.31 by 8/12, confirming this was the dominant risk |
 | Gross margin compression below 48% | High | 40% | High |
 | Samsung/TSMC enters commercial MRAM | High | 30% | High |
 | Small-float liquidity withdrawal | High | 50% | High |
 | Customer concentration — loss of top 2 industrial OEMs | High | 25% | High |
 | CapEx overrun without revenue growth | Medium | 35% | Medium |
 | Management departure | Medium | 15% | Low |
+| **NEW (2026-08-12): Dilution overhang** | Medium-High | New shelf registration filed 2026-08-07 | New — no confirmed offering yet, but the filing itself is a signal management may raise capital while price is still elevated vs pre-rally levels |
 
 **Most underappreciated risk**: The **liquidity illusion**. Current 10-day average volume of $270M is driven entirely by the defense deal news cycle. Pre-news ADTV was ~$15–20M. Float is only 15.1M shares with 61.6% institutional ownership — meaning the actual tradeable float could be 5–6M shares. When news flow fades, any institutional exit creates severe selling pressure in a thin market. This mechanism explains why MRAM could drop 60%+ with no fundamental change and little warning.
 
@@ -353,6 +354,8 @@ PW EV = (0.30 × $85) + (0.45 × $18) + (0.25 × $7)
 
 Current price $39.86 is **+13% above PW EV** — the stock is marginally overvalued even under generous bull-weighted assumptions. The distribution is highly skewed: 25% chance of -82%, 45% chance of -55%, only 30% chance of +113%. The expected value is against buying here.
 
+**2026-08-12 update**: Price has fallen to $17.31 — now **-3.8% BELOW** the original Base-case scenario price ($18), and close to the stale PW EV ($35.35 was computed at the peak, not re-run here). The Base scenario's own assumption ("defense executes as-contracted; no new major wins; valuation reverts to analyst target") has essentially played out: Q2 2026 beat +22.2% and the analyst low target was raised to $19.00, roughly matching the Base case price. This scenario table has NOT been re-run with current fundamentals — the probabilities and targets above reflect the May 11 view. A fresh scenario analysis is needed before treating $17.31 as a clean entry, given the new dilution-shelf risk flagged in §8.
+
 ---
 
 ## 14. Bottom Line
@@ -374,14 +377,17 @@ Current price $39.86 is **+13% above PW EV** — the stock is marginally overval
 
 **Verdict**: Everspin Technologies is a genuinely interesting business — the only public MRAM pure-play with a real technological moat and a newly-won landmark defense contract. The **story is credible; the valuation is not**. At $39.86, the market has already priced in multiple successful outcomes simultaneously. Analysts who know this company best (Needham, the sole active bull) have a $18.50 target. The stock is trading at 2.15× that target. This is a watch-and-wait situation: the thesis is building, but entry must wait for the parabolic speculative premium to unwind.
 
+**2026-08-12 update**: The wait-for-pullback stance called for in the original thesis has now materialized — price at $17.31 is inside/near the original $18-22 watch zone (briefly traded to $12.93 below it on 7/29) and near or below every analyst target rather than 2.15× the highest. Needham raised its target to $19.00 the day after the Q2 beat. **This has moved from "AVOID, wait" to "re-evaluate for entry"** — but a formal scenario re-run (§13) and resolution of the new dilution-shelf risk (§8) should happen before sizing a position, not a mechanical "price hit the zone, buy" trigger.
+
 ---
 
 ## 15. Monitoring Checklist
 
 ### Near-Term (Next 60 Days)
-- [ ] **Q2 2026 Earnings (~late July 2026)**: Revenue ≥ $17.0M = thesis intact; < $15.0M = thesis-break
-- [ ] **Defense contract revenue recognition**: Any press release or earnings disclosure showing $40M deal deliveries started
-- [ ] **Gross margin Q2 2026**: ≥ 52% = healthy; < 49% = pressure concern
+- [x] **Q2 2026 Earnings (2026-08-05)**: ✅ EPS $0.11 vs $0.09 est (+22.2% beat); Q3 guide $0.10-0.15
+- [ ] **Defense contract revenue recognition**: no confirmation found yet of new Mil-Aero-scale contract news since the original May 7 $40M trigger — needs direct check
+- [ ] **NEW: dilution-shelf resolution** — 2026-08-07 shelf registration filed; watch for an actual offering announcement, which would be a thesis-relevant dilution event
+- [ ] **Next earnings: 2026-11-11** (EPS est. $0.12)
 - [ ] **US manufacturing update**: Construction-in-progress converting to productive assets (management commentary)
 
 ### Mid-Term (3–12 Months)

@@ -20,6 +20,6 @@
 
 ## Coverage
 
-**85 tickers total** — 30 upstream (kgajjala) · 55 overlay (Austin)
+**89 tickers total** — 29 upstream (kgajjala) · 60 overlay (Austin)
 
-*Last build: 2026-08-11*
+*Last build: 2026-08-18*

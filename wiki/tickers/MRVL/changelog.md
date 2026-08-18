@@ -9,6 +9,13 @@ Per-ticker change log documenting thesis evolution and action triggers.
 
 ---
 
+## 2026-08-18 — Price Move / Technical Refresh, Pre-Earnings (via /stock-refresh)
+
+MRVL -9.0% today ($234.33→$213.20), part of a broad semiconductor sector selloff (SOXX -5.1%, COHR -10.4%, NVTS -7.65%, INTC -6.56% same session, rate-driven; no MRVL-specific news found). Stock had rallied from the 7/29 low of $163 to test MA50 resistance at $240 intraday on 8/17, then was rejected — a failed MA50 reclaim attempt, not a fresh breakdown. Fundamentals continue improving in the background: FY2027E/FY2028E non-GAAP EPS estimates revised up +6.4%/+15.2% over 90 days (FY2028E now $6.25 vs $5.53 at last refresh) even as price fell. Q2 FY2027 earnings land 2026-08-27 — 9 days out — now the dominant near-term catalyst.
+**前次论点状态**: Watch (Technical Correction) → **更新后**: Watch (Technical Correction — Earnings Catalyst 9 Days Out); 论点未变，基本面转强，等财报解决方向
+
+---
+
 ## 2026-07-24 — Entry Analysis
 
 **入场区间：** $175.00 — $195.00 | **止损：** $165.00（-12%）| **目标 1：** $240.00 | **目标 2：** $265.00

@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: MRVL (NASDAQ)
 **Company**: Marvell Technology, Inc.
-**As of**: 2026-05-27
-**Price**: $208.26 close / $213.58 AH (Q1 FY27 reported 2026-05-26 PM; AH +2.55% implies beat)
-**52-wk range**: $58.61 – $217.45
-**Market cap**: $182.3B
-**Verdict**: **Watch (Strengthened) — Q1 FY27 beat implied; re-rated to new ATH at $217; PW EV revised to ~$198; stock modestly above PW EV; await post-earnings consolidation $185–200 for new entry**
+**As of**: 2026-08-18
+**Price**: $213.20 close (**-9.02%**, broad semiconductor selloff — SOXX -5.1%, COHR -10.4%, no MRVL-specific news)
+**52-wk range**: $61.44 – $329.88
+**Market cap**: $191.4B
+**Verdict**: **Watch (Technical Correction — Earnings Catalyst 9 Days Out) — thesis intact and strengthening (FY2027E/FY2028E EPS estimates revised up +6.4%/+15.2% over 90 days); stock rejected at MA50 resistance ($240 intraday high 8/17) and fell -9% on macro/sector rotation on 8/18; Q2 FY27 earnings 2026-08-27 is the near-term resolution catalyst — await MA50 reclaim + beat for new entry**
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -392,17 +392,21 @@ PW EV = (25% × $265) + (50% × $200) + (25% × $105)
 
 At $208 close ($213 AH), stock trades ~8% above updated PW EV. Market is partially pricing in the bull scenario — the $208–215 range aligns with the prior thesis's "$200–220 re-rate if MSFT ASIC announced." Verdict remains **Watch (Strengthened)**: thesis executing, but entering above PW EV reduces margin of safety. Wait for consolidation at $185–200 or confirmation of MSFT win before adding.
 
+**Update 2026-08-18**: Consensus FY2028E non-GAAP EPS has since been revised up to $6.25 (from $5.53 used above, +13% over 90 days) per estimate-revision data pulled today, even as the stock corrected from its $329.88 intraday ATH (6/18) to $213.20. Directionally this pushes the Base/Bull scenario targets and PW EV above the $192.50 figure computed 5/27 — a full scenario rebuild is deferred to the 2026-08-27 earnings refresh, when actual Q2 FY27 results will validate (or reset) the estimate trajectory. At today's $213 price against a plausibly higher PW EV, the stock is arguably closer to fair value than the 5/27 snapshot suggested, not further above it — reinforcing that the 8/18 drop reads as macro/technical (rate-driven sector selloff) rather than a fundamental reassessment.
+
 ---
 
 ## 14. Bottom Line
 
 ### 1-Year View (through May 2027)
 
-*Updated 2026-05-27.*
+*Updated 2026-05-27; technical/catalyst context updated 2026-08-18.*
 
 - **Base case**: $200–225 — Q1 FY27 beat (implied) + analyst upgrade cycle underway; stock consolidates at re-rated level
 - **Upside trigger**: MSFT Azure custom ASIC confirmed (could still come) → stock re-rates to $250–270
 - **Downside trigger**: Q2 FY2027 revenue guide disappoints (<$2.35B) OR FY2027 full-year guide cut below $10B → corrects to $150–170 (MA50 zone)
+
+**2026-08-18 note**: Stock has been trading exactly within this base-case corridor since late June ($163–$234.33 range), most recently testing and failing to clear MA50 resistance ($240 intraday 8/17) before falling -9.0% on 8/18 in a broad, macro-driven (rising Treasury yields) semiconductor selloff — no MRVL-specific news identified. Q2 FY2027 earnings on 2026-08-27 (9 days out) is now the binary near-term resolution: a beat + MA50 reclaim would validate the base/bull case and could trigger entry; a miss or guide-down would trip the downside trigger above.
 
 ### 3-Year View (through May 2029)
 
@@ -431,14 +435,14 @@ The wiki adds to public knowledge by establishing entry discipline. The AI ASIC 
 - [x] **Q1 FY2027 earnings: May 27, 2026** — ✅ AH +2.55% implies beat; actuals pending official confirmation
   - Pass: Revenue ≥ $2.40B + FY2027 guide ≥ $10.86B → **implied PASS**
   - Fail: Revenue < $2.15B OR guide cut below $10B → **NOT triggered**
-- [ ] Microsoft Azure custom ASIC: still awaiting official announcement (could be disclosed on Q1 FY27 earnings call — check transcript)
-- [ ] Analyst price target upgrades post-Q1 call — watch for median target to move above $200 (was $147 pre-call)
-- [ ] Technical: stock at new ATH $217.45; watch for base formation at $195–215 over next 4–6 weeks
-- [ ] **Q2 FY2027 guidance check**: FY2027 full-year guide must be ≥$10.86B to sustain thesis; Q2 quarterly guide should be ~$2.55–2.65B
+- [ ] Microsoft Azure custom ASIC: still awaiting official announcement — no news as of 2026-08-18
+- [x] Analyst price target upgrades post-Q1 call — ✅ median target reached $242.50 (mean $256.91), well above $200 threshold (Jun–Jul 2026 upgrade wave to $300–$400 range)
+- [x] Technical: stock made new intraday ATH $329.88 (2026-06-18), then corrected -35% to $213.20 (2026-08-18); no valid base formed — choppy $163–$234 range since late June; MA50 reclaim attempt failed 8/17→8/18
+- [x] **Q2 FY2027 guidance check**: not yet reportable — pending 2026-08-27 earnings; consensus now $11.55B FY2027E (up from $10.86B), Q2 quarterly est $2.71B
 
 ### Mid-term (Next 6 Months)
 
-- [ ] **Q2 FY2027 earnings (est. August 2026)**: Revenue toward $2.60–2.80B quarterly run rate
+- [ ] **Q2 FY2027 earnings: 2026-08-27 (9 days out)**: EPS est $0.929, revenue est $2.71B — primary near-term catalyst for resolving current technical correction
 - [ ] TSMC earnings call — comments on Marvell-related advanced node capacity (N3/N2)
 - [ ] Google/Meta/Amazon capex guidance for H2 2026 — proxy for ASIC demand sustaining
 - [ ] Coherent optical DSP design win for 1.6T CPO — if announced, FY2028 revenue upside

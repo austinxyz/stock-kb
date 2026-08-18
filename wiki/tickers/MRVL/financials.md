@@ -4,7 +4,7 @@ source: austin
 
 # MRVL — Key Financial Metrics
 
-**Last updated**: 2026-07-20
+**Last updated**: 2026-08-18
 **Data source**: Yahoo Finance, stockanalysis.com, Marvell Technology IR (FY2022–FY2026)
 **Next update trigger**: Q2 FY2027 earnings — 2026-08-27
 **Language**: English | [中文](financials.zh.md)
@@ -23,30 +23,31 @@ Non-GAAP EPS (which excludes amortization, SBC, and restructuring charges) is th
 
 ---
 
-## Price & Market Data (2026-07-20)
+## Price & Market Data (2026-08-18)
 
 | Metric | Value |
 |--------|------:|
-| Price | **$194.94** (+3.32% today) |
-| 52-week range | $62.18 – **$316.35** (new ATH hit post-May; stock -38.4% from high) |
-| Position vs 52-wk high | **–38.4%** |
-| Position vs 52-wk low | +214% |
-| Market cap | $175.0B |
-| MA50 | $235.96 (price **-17.4%** below — Stage 3 transition) |
-| MA150 | $144.44 (price +35% above) |
-| MA200 | $130.33 (price +50% above) |
-| ATR (14d) | $16.54 |
+| Price | **$213.20** (**-9.02%** vs prior close $234.33; broad semiconductor selloff — SOXX -5.1%, COHR -10.4%, NVTS -7.65%, INTC -6.56% same session, no MRVL-specific news) |
+| 52-week range | $61.44 – **$329.88** (intraday ATH 6/18/2026; stock -35.4% from high) |
+| Position vs 52-wk high | **–35.4%** |
+| Position vs 52-wk low | +247% |
+| Market cap | $191.4B |
+| MA50 | $235.42 (price **-9.45%** below — failed reclaim attempt) |
+| MA150 | $161.16 (price +32.3% above) |
+| MA200 | $142.73 (price +49.4% above) |
+| ATR (14d) | $16.82 |
+| Volume | 16.25M (below 41.0M 3-mo avg — not a high-volume distribution day) |
 | Beta (5Y monthly) | 2.25 |
 | EPS GAAP TTM | $3.07 (FY2026; includes one-time tax benefit) |
-| EPS non-GAAP Q2 FY2027E | $0.927 avg ($0.88–$0.94 range) |
-| EPS non-GAAP FY2027E | $3.85 (consensus; see revision below) |
-| P/E (non-GAAP FY2027E $3.85) | 50.6x |
-| P/E (non-GAAP FY2028E $5.53, NTM) | **35.3x** |
-| P/S (FY2026) | 21.4x |
-| Analyst mean target | **$253.68** |
+| EPS non-GAAP Q2 FY2027E | $0.929 avg ($0.88–$0.94 range) |
+| EPS non-GAAP FY2027E | **$4.05** (consensus; up from $3.85 — see revision below) |
+| P/E (non-GAAP FY2027E $4.05) | 52.6x |
+| P/E (non-GAAP FY2028E $6.25, NTM) | **34.1x** |
+| P/S (FY2026) | 23.4x |
+| Analyst mean target | **$256.91** |
 | Analyst median target | $242.50 |
-| Analyst high target | $400 (Keybanc 7/14) |
-| Next earnings | **2026-08-27** (Q2 FY2027) |
+| Analyst high target | $400 |
+| Next earnings | **2026-08-27** (Q2 FY2027) — 9 days out; EPS est $0.929, revenue est $2.71B |
 
 ---
 
@@ -148,37 +149,25 @@ Cumulative dilution from FY2020 to FY2026: +6.4%, almost entirely from the Inphi
 
 ## Estimate Momentum
 
-*Updated 2026-07-20.*
+*Updated 2026-08-18.*
 
 ### EPS Estimates (Non-GAAP)
 
-| Period | Avg Est | Low | High | YoY Growth | # Analysts |
-|--------|--------:|----:|-----:|-----------|-----------|
-| Q2 FY2027E | $0.927 | $0.88 | $0.94 | — | — |
-| FY2027E | $3.85 | $3.27 | $4.28 | +36% | 41 |
-| FY2028E | **$5.53** | $4.00 | $7.12 | +44% | 41 |
+| Period | Avg Est | 30d Trend | 90d Trend |
+|--------|--------:|-----------|-----------|
+| Q2 FY2027E (0q) | $0.929 | $0.927 (30d ago) → $0.929 — flat/stable | $0.893 (90d ago) — up |
+| FY2027E (0y) | **$4.05** | $4.051 (30d ago) — flat | $3.808 (90d ago) — **up +6.4%** |
+| FY2028E (+1y) | **$6.25** | $6.199 (30d ago) — up | $5.427 (90d ago) — **up +15.2%** |
 
 ### Revenue Estimates
 
 | Period | Avg Est | YoY Growth |
 |--------|--------:|-----------|
-| Q2 FY2027E | $2.70B avg ($2.60–$2.76B range) | ~+35% |
-| FY2027E | $10.95B | +34% |
-| FY2028E | $15.09B | +38% |
+| Q2 FY2027E | $2.71B ($2.60–$2.77B range) | +34.9% |
+| FY2027E | $11.55B (up from $10.95B on 7/20) | +40.9% |
+| FY2028E | $16.77B (up from $15.09B on 7/20) | +45.2% |
 
-### Analyst Price Target Trend (Jun–Jul 2026)
-
-| Date | Firm | Action | Target |
-|------|------|--------|--------|
-| 2026-07-14 | Keybanc | Raises OW | **$400** |
-| 2026-07-07 | RBC Capital | Maintains OP | $360 |
-| 2026-06-29 | UBS | Raises Buy | $340 |
-| 2026-06-29 | Cantor Fitzgerald | Raises Neutral | $300 |
-| 2026-06-24 | Stifel | Raises Buy | $350 |
-| 2026-06-23 | BofA | Raises Buy | $365 |
-| 2026-06-18 | Keybanc | Raises OW | $385 |
-
-**Overall signal: BULLISH.** 7 analysts raised targets Jun-Jul 2026 to range $300–$400; consensus mean $253.68 / median $242.50. Current price $194.94 = 23% below analyst median target, implying meaningful upside at thesis-intact conditions. Analyst upgrades continue despite stock's -38% pullback from ATH — suggests institutional consensus is that the pullback is technical, not fundamental.
+**Overall signal: BULLISH / fundamentals accelerating.** 30–90 day estimate revision trend is upward across the board — FY2027E non-GAAP EPS revised up +5% and FY2028E EPS revised up +13% since the 2026-07-20 refresh, despite the stock trading -35% below its 52-week high. Analyst mean target ($256.91) and median target ($242.50) are essentially unchanged, implying meaningful upside (+14–21%) at thesis-intact conditions. Estimate revisions moving up while price falls on a sector-wide, non-MRVL-specific selloff supports "technical, not fundamental" framing — same conclusion as the 7/20 refresh, now reinforced by rising estimates.
 
 ---
 
@@ -186,7 +175,7 @@ Cumulative dilution from FY2020 to FY2026: +6.4%, almost entirely from the Inphi
 
 | Quarter | EPS Est (non-GAAP) | EPS Actual | Surprise | Revenue Est | Revenue Actual | Rev Surprise |
 |---------|----------------:|----------:|--------:|----------:|---------------:|------------|
-| Q2 FY2027 (Jul 2026) | $0.927 | — | — | $2.70B est | — | — |
+| Q2 FY2027 (Jul 2026) | $0.929 | — | — | $2.71B est | — | — |
 | Q1 FY2027 (Apr 2026) | $0.795 | **$0.800** | **+0.6%** | $2.41B est | — | — |
 | Q4 FY2026 (Jan 2026) | $0.695 | $0.738 | +6.2% | $2.06B | $2.16B | +4.9% |
 | Q3 FY2026 (Oct 2025) | $0.710 | $0.762 | +7.3% | $1.96B | $2.17B | +10.7% |
@@ -276,11 +265,12 @@ MRVL's valuation premium (17.6x EV/Rev) vs AMD (9x) is explained by the AI ASIC 
 
 | Date | Event | What to Watch |
 |------|-------|---------------|
-| May 27, 2026 | Q1 FY2027 Earnings | Revenue vs $2.40B, EPS vs $0.797, FY2027 guide vs $10.86B consensus; MSFT ASIC comment |
-| August 2026 (est) | Q2 FY2027 Earnings | Quarterly revenue trajectory toward $3B+; customer concentration update |
+| May 27, 2026 | Q1 FY2027 Earnings | Revenue vs $2.40B, EPS vs $0.797, FY2027 guide vs $10.86B consensus; MSFT ASIC comment — ✅ beat, resolved |
+| **2026-08-27** | **Q2 FY2027 Earnings (9 days out)** | EPS est $0.929, revenue est $2.71B; near-term catalyst that could resolve the current technical correction either direction |
 | Any time | Microsoft Azure ASIC announcement | Binary catalyst — confirmation would add $30–50/share; denial would remove $20–30 |
-| June 2026 (est) | TSMC Q2 earnings call | Advanced node capacity commentary relevant to MRVL demand |
+| Ongoing | TSMC advanced node capacity commentary | Relevant to MRVL demand |
 | Ongoing | Google/Meta/Amazon quarterly capex | AI ASIC demand proxy |
+| Ongoing | Rate/macro environment | 2026-08-18 selloff driven by rising Treasury yields pressuring high-multiple growth names sector-wide, not MRVL-specific |
 
 ---
 

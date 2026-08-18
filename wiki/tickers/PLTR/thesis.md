@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: PLTR (NASDAQ)
 **Company**: Palantir Technologies Inc.
-**As of**: 2026-05-06
-**Price**: $133.13 (Yahoo Finance verified, post Q1 2026 earnings)
-**52-wk range**: $107.00 – $207.52
-**Market cap**: $319.2B
-**Verdict**: **Growth — Watch at $133; exceptional fundamentals but Stage 3 technical correction (-36% from peak); PW EV $149 implies 12% upside; wait for base formation ~$120–130 before entering**
+**As of**: 2026-05-06 (thesis baseline); price/verdict refreshed 2026-08-18 — see dated verdict line in §14
+**Price**: $133.13 (baseline, 2026-05-06) — current price **$172.71** (2026-08-18, post Q2 2026 earnings beat)
+**52-wk range**: $106.37 – $207.52
+**Market cap**: $415.0B (2026-08-18)
+**Verdict**: **Growth — Watch at $172.71; Q2 2026 beat on both lines (rev +92.9% YoY, EPS +18.5% surprise) drove +43% rally off the 07-30 Stage-4 low; technical stage now recovering (5/7 trend template) but valuation re-rated (P/S 55x→67x) faster than estimates rose, so recalculated PW EV ~$178 implies only ~3% upside — the "cheap technical discount" that justified Watch-and-wait at $120-133 has largely closed**
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -74,6 +74,8 @@ cycle AI bubble premium?
 | Diluted Shares (M) | 2,036 | 2,061 | 2,295 | 2,447 | 2,565 |
 
 ¹FY2021 figures from public filings; some line items estimated from partial yfinance data.
+
+**Q1–Q2 2026 actuals (added 2026-08-18)**: Q1 2026 revenue $1,633M (+84.7% YoY), op margin 46.2%, EPS $0.34. Q2 2026 revenue $1,935M (+92.9% YoY — growth *accelerated*), op margin 47.1%, EPS $0.41 (+18.5% vs $0.346 estimate). See financials.md Quarterly Context for full table.
 
 **Accelerating operating leverage** is the key narrative: gross margin improving every year (77.7% → 82.4%), operating margin went from –34% in 2021 to +32% in 2025 — a 66-percentage-point swing in four years. This is rare for a company growing 56%+ annually.
 
@@ -264,7 +266,7 @@ Commercial moat: Narrow and contested — Ontology switching costs are real, but
 
 | Risk | Impact | Probability | Composite |
 |------|--------|------------|-----------|
-| Valuation compression — P/S re-rates to 20–30x on growth slowdown | Critical | High (40%) | Very High |
+| Valuation compression — P/S re-rates to 20–30x on growth slowdown | Critical | High (**45%, ↑ from 40% — 2026-08-18**: P/S has risen from 55x to 67x since 07-30 even as fundamentals improved, meaning more multiple is now at risk if growth ever decelerates) | Very High |
 | Hyperscaler competition (MSFT/AWS) takes commercial market share | High | Medium (30%) | High |
 | US government budget cuts (DOGE, CR) reduce civilian agency spend | High | Medium (35%) | High |
 | CEO concentration risk — Karp departure or governance crisis | High | Low (10%) | Medium |
@@ -441,22 +443,22 @@ Compared to other wiki names (WOLF, POET, NVTS, INTT):
 
 **Assumptions**: 2.4B diluted shares, $7–8B cash added to EV for per-share calculation, 12-month horizon.
 
-| Scenario | Probability | Key Assumption | FY2026E Rev | FY2027E Rev | Multiple | Price Target | vs Current |
+**Update 2026-08-18** — revenue assumptions rolled forward using the post-Q2 consensus (FY2026 $8.19B, FY2027 $12.18B vs prior $7.6B/$10.9B); multiples held at the same levels used in the 2026-05-06 baseline for comparability:
+
+| Scenario | Probability | Key Assumption | FY2026E Rev | FY2027E Rev | Multiple | Price Target | vs Current ($172.71) |
 |----------|----------:|----------------|----------:|----------:|------:|----------:|----------:|
-| Bull | 30% | AIP becomes enterprise OS; military demand backlog > $5B; FY2026 $8.5B+ rev; multiple holds 55x NTM | $8.5B | $13.0B | 55x FY2027 EV/Rev | **$230** | +73% |
-| Base | 40% | Hits consensus; commercial growth moderates to 40% by FY2027; multiple compresses to 30x NTM | $7.6B | $10.9B | 30x FY2027 EV/Rev | **$140** | +5% |
-| Bear | 30% | DOGE cuts civilian contracts; commercial AIP growth slows to 30%; multiple compresses to 20x NTM | $6.0B | $7.5B | 20x FY2027 EV/Rev | **$65** | –51% |
+| Bull | 30% | AIP becomes enterprise OS; military backlog > $5B; growth holds ≥85% through FY2027; multiple holds 55x NTM | $9.0B+ | $13.5B | 55x FY2027 EV/Rev | **~$282** | +63% |
+| Base | 40% | Hits consensus; commercial growth moderates toward 40-45% by FY2027; multiple compresses to 30x NTM | $8.2B | $12.2B | 30x FY2027 EV/Rev | **~$156** | –10% |
+| Bear | 30% | DOGE cuts civilian contracts; commercial AIP growth slows sharply; multiple compresses to 20x NTM | $7.5B | $10.0B | 20x FY2027 EV/Rev | **~$105** | –39% |
 
-**Probability-Weighted EV**:
+**Probability-Weighted EV (recalculated 2026-08-18)**:
 ```
-PW EV = (0.30 × $230) + (0.40 × $140) + (0.30 × $65)
-       = $69 + $56 + $19.50
-       = $144.50
+PW EV = (0.30 × $282) + (0.40 × $156) + (0.30 × $105)
+       = $84.6 + $62.4 + $31.5
+       = ~$178.5
 ```
 
-**PW EV $145 vs current $133 → 9% theoretical upside.** The distribution is fat-tailed in both directions — bull case (+73%) overwhelms base (+5%), but bear (-51%) is severe. This is classic high-multiple tech: positive skew in bull case, asymmetric drawdown in bear.
-
-The low PW EV upside (9%) does NOT mean PLTR is a bad business. It means at $133, the stock is pricing in approximately the base/bull blend correctly — you are not getting a bargain, but you are also not paying for perfection at $207.
+**PW EV ~$178.5 vs current $172.71 → only ~3% theoretical upside** — down sharply from the 9% upside calculated at $133 on 07-30/05-06 baseline data. This is the key finding of this refresh: fundamentals improved materially (revenue estimates +9-11%, 5 consecutive beats, accelerating growth), but the +43% price rally outran the estimate raises, so most of the prior "cheap relative to improving fundamentals" gap has closed. The base-case scenario is now roughly break-even to *negative* (–10%) at current price — the stock is no longer priced for a discount, it is priced close to fair-to-rich even in the base case. Bull case still offers meaningful upside (+63%), but bear-case downside (–39%) is now measured from a higher price, making the dollar loss larger in absolute terms.
 
 ---
 
@@ -477,7 +479,17 @@ The low PW EV upside (9%) does NOT mean PLTR is a bad business. It means at $133
 
 **Watch next**: US commercial customer count in Q2 2026 earnings (August 2026). If US commercial customers > 800 (up from ~500-600 in Q4 2025), the AIP Boot Camp flywheel is confirmed accelerating. If growth stalls below 700, the bull case is compromised.
 
-**Verdict**: **Watch — exceptional business at rich valuation in Stage 3 correction. Add to watch list, set price alert at $120–125 (52-wk low area + potential base zone). Enter only when Stage 2 criteria met (MA50 reclaimed + RS line positive). The business quality justifies a watchlist position; the technicals do not yet justify a portfolio position.**
+**Verdict**: **Watch — exceptional business at rich valuation in Stage 3 correction. Add to watch list, set price alert at $120–125 (52-wk low area + potential base zone). Enter only when Stage 2 criteria met (MA50 reclaimed + RS line positive). The business quality justifies a watchlist position; the technicals do not yet justify a portfolio position.** *(original 2026-05-06 verdict; superseded by dated line below)*
+
+---
+
+### Dated Verdict Update — 2026-08-18 (routine refresh, Q2 2026 earnings incorporated)
+
+**Verdict: Watch (unchanged) — but the reason for waiting has flipped.** On 07-30 the blocker was technical (Stage 4, 0/7 trend template, no base). Q2 2026 earnings (2026-08-05) beat on revenue (+92.9% YoY, accelerating) and EPS (+18.5% surprise), and the stock rallied +43% to $172.71 in two weeks — technical stage has recovered materially (trend template ~5/7; price back above MA50/150/200, within 17% of 52-wk high, +62% off the low). That blocker is largely resolved.
+
+The new blocker is valuation: P/S expanded 55x→67x, analyst price targets rose only modestly (mean +5%, median +2%) versus the +43% stock move, and the recalculated PW EV (§13) of ~$178.5 implies only ~3% theoretical upside from $172.71 — down from 9% at the $133 baseline. This is a routine, honest "no change to recommendation" outcome: no new news event beyond the already-tracked earnings date firing on schedule; the business is executing better than ever, but the price has already re-rated to capture most of that improvement.
+
+**Action**: Stay on watch list. No new entry at $172.71 given compressed PW-EV upside. Prefer either (a) a pullback toward the low-$150s (closer to the base-case $156 fair value) or (b) a fresh catalyst (Q3 2026 earnings 2026-11-02, or a guidance raise) that pushes consensus estimates up enough to re-open a discount. Do not chase the current extension.
 
 ---
 
@@ -485,12 +497,13 @@ The low PW EV upside (9%) does NOT mean PLTR is a bad business. It means at $133
 
 ### Near-Term (next 60 days)
 
-- [ ] **Q2 2026 earnings** (2026-08-03, **4 days away**): Revenue ≥ $1.81B (consensus); EPS ≥ $0.347 (est. avg); operating margin ≥ 38%
-- [ ] **US commercial customer count**: Target ≥ 750 paying US commercial customers (from ~600-650 Q4 2025)
+- [x] **Q2 2026 earnings** (reported 2026-08-05): Revenue $1.935B vs $1.81B consensus — **beat**; EPS $0.41 vs $0.347 — **beat +18.5%**; op margin 47.1% vs 38% target — **beat**
+- [ ] **US commercial customer count**: Target ≥ 750 paying US commercial customers — not disclosed in yfinance data; check Q2 2026 shareholder letter / 10-Q directly
 - [ ] **AIP Boot Camp cadence**: Any press releases or customer case studies confirming continued Boot Camp expansion
 - [ ] **Government contract news**: Maven Smart System expansion, JADC2 awards, or TITAN program updates
-- [ ] **Technical base formation**: Stock consolidates 3+ weeks in $115–140 range with declining volume on down days
-- [ ] **RS line direction**: PLTR/SPX ratio line turns up (weekly chart) — prerequisite for Stage 2 re-entry
+- [x] **Technical base formation** (superseded): Stock never based in $115-140 — it broke straight up on the earnings beat instead. New watch item: does $172-180 area now become the next base, or does it extend further?
+- [ ] **RS line direction**: PLTR/SPX ratio — likely turned up sharply post-earnings; not independently verified this refresh (needs benchmark comparison)
+- [ ] **Q3 2026 earnings** (2026-11-02): Revenue ≥ $2.18B consensus; EPS ≥ $0.415; confirm ≥85% YoY growth sustained (not a one-quarter spike)
 
 ### Mid-Term (FY2026 H2)
 

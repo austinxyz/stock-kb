@@ -4,8 +4,8 @@ source: austin
 
 # POET — POET Technologies Inc.
 
-**Last updated**: 2026-07-29
-**Status**: Watch (Weakened) — 现价 $6.77（较 ATH $20.57 −67.1%）；三起 PFIC 税务集体诉讼已立案 + $400M 增发已完成（$21/股）+ CFO 退休；运营叙事（Lumilens/马来西亚/新COO）仍在推进但价格结构 Stage 4；PW EV 重估至 $6.35（现价基本收敛）；不建议在诉讼结果明朗前新增正股敞口
+**Last updated**: 2026-08-13 (Q2 2026 earnings refresh — revenue thesis-break trigger hit)
+**Status**: Watch (Weakened) — 现价 $8.91（较 ATH $20.57 −56.7%，较 7/29 反弹 +31.6%）；**Q2 2026 营收 $569,925 未达此论点自设的全部三条营收门槛**（建仓$3M/监控$10M/论点破坏底线~$4M季），是本论点首次实质命中预设的论点破坏触发条件；现金创纪录 $796.3M，运营叙事仍推进但收入端未获验证；PW EV 重估至 $5.30，现价溢价扩大至 +68.1%（较7/29的+6.6%显著走阔）——价格因技术面修复上涨，基本面同期走弱，方向背离；不建议在诉讼结果明朗前新增正股敞口
 **Source of promotion**: `wiki/opinions/chen-yun.md` (4/3, 4/11, 4/20, 4/21, 4/24 mentions)
 **Language**: English | [中文](overview.zh.md)
 
@@ -29,12 +29,12 @@ is essentially a rounding error.
 
 | Attribute | Value |
 |-----------|-------|
-| Market cap | ~$1.16B (2026-07-29, $6.77/share) — was ~$3.14B at ATH |
-| Revenue (FY2025) | $1.07M; Q1 2026 actual ~$1.1M (+216% beat) |
+| Market cap | ~$1.54B (2026-08-13, $8.91/share) — was ~$3.14B at ATH |
+| Revenue (FY2025) | $1.07M; Q1 2026 $1.1M (+216% beat); **Q2 2026 $569,925 (+13% QoQ, missed all thesis revenue thresholds — see thesis.md §15)** |
 | Gross margin | 100% (licensing/NRE; production mix begins Q2 2026) |
 | Operating loss (FY2025) | –$42M |
 | Trailing FCF | –$33M |
-| Cash | ~$430M pre-raise + $400M 2026-05 增发净额（扣发行费用后）；Lumilens 权证已转为价外（$8.25 strike vs $6.77 现价），行权不再近乎确定 |
+| Cash | **$796.3M**（含短期投资，2026-08-13 公司披露，创纪录）；Lumilens 权证 $8.25 strike，现价$8.91略高于行权价（较7/29转回价内，但仅微幅） |
 | Total debt | $7M |
 | Beta (5Y monthly) | 0.37 (atypical — realized vol is 4–6× market) |
 | Shares outstanding | **172.6M**（较 5 月增发前增加约 19M 股，来自 $400M 增发 19.05M 单位 @$21）|

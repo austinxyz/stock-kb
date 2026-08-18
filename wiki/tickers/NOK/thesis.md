@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: NOK (NYSE)
 **Company**: Nokia Oyj
-**As of**: 2026-04-30
-**Price**: $12.91 (Yahoo Finance verified)
-**52-wk range**: $4.00 – $12.92
-**Market cap**: $72.1B
-**Verdict**: Value/Recovery — Watch; PW EV $9.75 vs current $12.91; do not chase; new entry zone $10.00–$11.50
+**As of**: 2026-08-12 (via /stock-refresh — 104-day overdue refresh, price had round-tripped from $12.91 to $10.39 and back into the original entry zone)
+**Price**: $10.39 (2026-08-12, today +10.06%; Yahoo Finance verified)
+**52-wk range**: $4.12 – $17.45
+**Market cap**: $58.0B
+**Verdict**: Value/Recovery — Watch, price now **inside** the original entry zone ($10.00–$11.50); Q2 2026 delivered a second confirmation of the AI order thesis (€2.8B AI/Cloud orders, beating the original $1B+ trigger), but PW EV $9.75 has NOT yet been re-underwritten against the raised FY26 guidance — treat $9.75 as stale pending recalculation, do not use it to size a position yet
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -23,7 +23,7 @@ The company matters now because: (1) global 5G buildout, paused by customer inve
 
 **Pivotal Investment Question:** Will Nokia successfully expand operating margins from the current ~4% toward 8–10% by FY2028, driven by 5G software/services mix-shift and IP licensing growth — while maintaining $20B+ revenue against Ericsson and Samsung? If yes: stock can sustain $12–18+. If no: 26x forward P/E on a hardware company at 4% operating margin is structurally overvalued; stock reverts to $6–8.
 
-**Current milestone status:** Revenue has bottomed (FY2024 $19.2B, FY2025 $19.9B +3.5%). Three consecutive quarterly EPS beats (Q3 2025 through Q1 2026). The pending binary: Q2 2026 results (~late July) — will the recovery continue at the margin level?
+**Current milestone status:** Revenue has bottomed (FY2024 $19.2B, FY2025 $19.9B +3.5%). Five consecutive quarterly EPS beats now (Q3 2025 through Q2 2026). **Q2 2026 (reported ~2026-07-23) delivered: EPS $0.08 vs $0.07 est (+17.1% beat), revenue €4.82B, and — critically — €2.8B in new AI & Cloud orders (segment sales more than doubled YoY), which is the second and larger confirmation of the original AI-order thesis that triggered this analysis.** FY26 comparable operating profit guidance was raised to €2.1B–€2.6B and capex plan trimmed to €800M–€900M. Despite this, the stock fell ~46% from its post-guidance peak before today's +10% bounce — a valuation reset that has now brought price back into the original $10.00–$11.50 entry zone.
 
 ---
 
@@ -302,6 +302,8 @@ PW EV = (25% × $16.50) + (50% × $9.00) + (25% × $4.50)
 
 **Current price $12.91 is 32% above PW EV ($9.75).** The market is currently pricing between the bull and base scenarios, leaving limited upside in the base case and significant downside in the bear case.
 
+**2026-08-12 update — PW EV needs recalculation, not yet done:** Current price $10.39 is now 6.6% ABOVE the stale PW EV $9.75, a much smaller gap than the 32% at $12.91. But the underlying scenario inputs are now dated — the Bull case's "US BEAD contracts + IP licensing ramp; op margin reaches 9%" assumption has partially materialized (€2.8B AI/Cloud order book, raised FY26 guidance to €2.1-2.6B op profit), which argues for shifting probability weight toward Bull/Base and lifting the Base case's assumed margin trajectory. Current analyst mean target $15.02 (median $15.00, 9 analysts) sits well above the stale PW EV — a full scenario re-run against the Q2 print and new guidance is needed before this framework can be trusted for sizing. Flagging as **PW EV STALE, not walked forward** rather than silently reusing $9.75.
+
 ---
 
 ## 14. Bottom Line
@@ -327,10 +329,11 @@ PW EV = (25% × $16.50) + (50% × $9.00) + (25% × $4.50)
 
 ### Near-term (next 60 days)
 
-- [ ] **Q2 2026 earnings (~late July):** EPS ≥ $0.069 (consensus) — pass/fail; operating margin ≥ 5% — directional improvement required
-- [ ] **Revenue Q2 2026 ≥ $4.81B:** Confirms the 5–6% growth trend; miss signals competitive share loss
-- [ ] **Operating margin guidance for FY2026:** Management must guide toward 6%+ for the bull thesis to hold
-- [ ] **Stock consolidation:** Does NOK form a base between $10–$12? A healthy base would suggest institutional accumulation; a V-shaped crash would signal speculative excess
+- [x] **Q2 2026 earnings (2026-07-23):** ✅ PASS — EPS $0.08 vs $0.07 est (+17.1% beat)
+- [x] **Revenue Q2 2026:** ✅ PASS — €4.82B, consistent with 5-6% growth trend
+- [x] **Operating margin guidance for FY2026:** ✅ PASS — raised to €2.1B–€2.6B comparable op profit, capex trimmed to €800-900M
+- [ ] **Q3 2026 earnings (2026-10-22):** consensus EPS $0.07 — next real test of whether the AI order book converts to margin
+- [ ] **Stock consolidation:** Does NOK hold the $10-11.50 zone it just re-entered, or does today's +10% bounce fail and retest the 52-wk low $4.12–52wk-low-adjacent levels seen mid-summer?
 
 ### Mid-term (60–180 days)
 

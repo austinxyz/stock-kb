@@ -4,8 +4,8 @@ source: austin
 
 # SHOP — Shopify Inc.
 
-**Last updated**: 2026-05-23
-**Status**: Watch / Fundamental Accumulation — Stage 4 technically; fundamental entry zone $100–120 reached; current price $103 already below rwh modeled Bear ($113); PW EV +93% over 3 years at spot; await Q2 2026 catalyst (Aug 2026) or Stage 2 base
+**Last updated**: 2026-08-12 (via /stock-refresh)
+**Status**: Watch — thesis validated, entry window closed. Q2 2026 beat-and-raise (revenue +34% YoY, guide-up to low-30s%) drove Stage 4→Stage 2 technical reconstruction (now above all key MAs). Price $149.10 is +44.8% above the May 23 baseline and +35.5% above the original `<$110` entry ceiling. PW EV $212 still directional but 3-yr upside compressed from +93% to +42%
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -20,7 +20,7 @@ The world's largest independent commerce-infrastructure platform — storefront 
 
 | Metric | Value |
 |--------|-------|
-| Market Cap | ~$145.2B |
+| Market Cap | ~$191.8B (2026-08-12) |
 | Revenue TTM | ~$12.3B (Q1 2026 annualized) |
 | Gross Margin | 48.2% (FY2025) |
 | Operating Margin | 12.7% (FY2025) |
@@ -47,25 +47,20 @@ The world's largest independent commerce-infrastructure platform — storefront 
 
 ---
 
-## Technical Summary
+## Technical Summary (2026-08-12)
 
 | Metric | Value |
 |--------|-------|
-| Price | $103.00 (2026-05-23) |
-| MA50 | $116.53 (–11.6% vs price) |
-| MA150 | $137.84 (–25.3% vs price) |
-| MA200 | $140.38 (–26.6% vs price) |
-| 52-wk Range | $95.40 – $179.01 |
-| % from 52-wk High | –42.5% |
-| % above 52-wk Low | +8.0% |
-| ATR(14) | $5.44 |
-| Trend Template | 1 / 8 |
-| SEPA Stage | Stage 4 — Declining |
-| Pattern | No valid pattern; bounce from 52-wk low ($95.40, May 13) |
-| Fundamental Entry Zone | $100–$120 (60–80× FY2026E P/E; per rwh analysis) |
-| Next Earnings | Q2 FY2026 — early August 2026 |
+| Price | $149.10 (2026-08-12, -2.30% today) |
+| MA50 | $120.73 (price **+23.6%** above) |
+| MA150 | $122.96 (price **+21.3%** above) |
+| MA200 | $132.53 (price **+12.5%** above) |
+| 52-wk Range | $95.40 – $182.19 |
+| % from 52-wk High | –16.7% (materially closer than -42.5% in May) |
+| SEPA Stage | **Stage 2 — confirmed reconstruction from Stage 4** |
+| Next Earnings | **2026-11-03** |
 
-**SEPA Verdict**: Stage 4 — price 26.6% below MA200; MA staircase fully inverted (MA200 > MA150 > MA50 > Price); all trend template criteria fail. No technical entry basis. For SEPA-only investors: avoid. For fundamental accumulators: $100–$120 zone is the modeled entry; the $2B buyback ($2B authorized Feb 2026, first-ever) creates mechanical bid. Stage 2 reconstruction requires minimum 4–6 months of base formation.
+**SEPA Verdict**: The Stage 4→Stage 2 reconstruction predicted by the original thesis has occurred, driven by the Q2 2026 beat-and-raise (2026-08-05). Price is now extended above all three key MAs — no longer the clean base-formation entry described in the May analysis. This is now "trend confirmed, wait for a new pullback/base" rather than "avoid, distressed."
 
 ---
 

@@ -4,9 +4,9 @@ source: austin
 
 # MRAM — Key Financial Metrics
 
-**Last updated**: 2026-05-11
-**Data source**: Yahoo Finance / yfinance (2026-05-11)
-**Next update trigger**: Q2 2026 earnings — approximately late July / early August 2026
+**Last updated**: 2026-08-12 (via /stock-refresh)
+**Data source**: Yahoo Finance / yfinance, WebSearch (news since May)
+**Next update trigger**: Q3 2026 earnings — 2026-11-11
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -27,23 +27,18 @@ Everspin reports both **GAAP** and **non-GAAP** results. The gap between them is
 
 | Metric | Value |
 |--------|-------|
-| Price (2026-05-11) | $39.86 |
-| 52W Range | $5.52 – $39.86 |
-| % Above 52W Low | +622.1% |
-| % Below 52W High | 0.0% (AT HIGH) |
-| Market Cap | $934M |
-| Enterprise Value | ~$893M (market cap + $3.3M debt – $44.5M cash) |
-| Avg Volume (10d) | 6.79M shares (~$271M/day — event-driven) |
-| Avg Volume (long-term) | 1.51M shares (~$22M/day — baseline) |
+| Price (2026-08-12) | $17.31（今日+5.3%）|
+| 52W Range | $5.86 – $51.50 |
+| Market Cap | ~$421.5M |
 | Beta | 0.94 |
-| EPS TTM (GAAP) | $0.01 |
-| P/E (GAAP) | ~3,986× (meaningless) |
-| Forward P/E (non-GAAP) | 85.7× (on $0.465 FY2027 estimate) |
-| P/S TTM | 16.9× |
-| Analyst Median Target | $18.00 |
-| MA50 | $12.46 (+219.8%) |
-| MA150 | $11.11 |
-| MA200 | $10.09 |
+| Analyst Mean Target | $25.67 |
+| Analyst Median Target | $20.00 |
+| Analyst High/Low Target | $38.00 / **$19.00**（低值已从$18.50上调，2026-08-06 Needham上调）|
+| Rating | Strong Buy（1强买/2买，3名分析师覆盖，不变）|
+| MA50 | $20.06（现价低于**-13.7%**——此前+219.8%扩展已完全消化）|
+| MA150 | $16.77（现价高于+3.2%，紧贴该均线）|
+| MA200 | $14.86（现价高于+16.5%）|
+| 新增风险 | 2026-08-07 提交新增股份注册（shelf registration）——稀释隐忧，尚无确认发行 |
 
 ---
 
@@ -183,10 +178,10 @@ Note: Despite the average estimate rising sharply (per EPS trend), revision brea
 | Q3 2025 | $0.040 | $0.060 | **+50%** ✅ | $14.1M |
 | Q4 2025 | $0.115 | $0.110 | -4.3% ⚠️ | $14.8M |
 | Q1 2026 | $0.090 | $0.110 | **+22.2%** ✅ | $14.9M |
+| Q2 2026 | $0.09 | $0.11 | **+22.2%** ✅ | — |
 
-Next earnings: **Q2 2026**, approximately late July / early August 2026.
-Consensus: Revenue $17.3M, non-GAAP EPS $0.090.
-Key watch: Will defense contract revenue contribute? Any update on manufacturing expansion.
+Q3 2026 guidance: EPS $0.10-0.15.
+Next earnings: **2026-11-11**（Q3 2026）. Consensus EPS: $0.12.
 
 ---
 

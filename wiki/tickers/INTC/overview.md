@@ -4,8 +4,8 @@ source: austin
 
 # INTC — Intel Corporation
 
-**Last updated**: 2026-07-23
-**Status**: Watch — Turnaround inflection signal; Q2 2026 EPS +92% beat; SEPA Stage 3 (below MA50 $115.83); wait for retake
+**Last updated**: 2026-08-18
+**Status**: Watch — Turnaround inflection intact; Q2 2026 revenue confirmed +25% YoY, Q3 guidance above consensus; but $20B equity offering (+5% dilution) and broad semis selloff (–7.3% today) pushed price further below MA50 ($109.17); SEPA still Stage 3, entry trigger unchanged
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -22,18 +22,19 @@ World's largest semiconductor company (by history); transitioning from pure IDM 
 
 | Attribute | Value |
 |-----------|-------|
-| Market cap | **$503.8B** |
+| Market cap | **$507.0B** |
 | Revenue (FY2025) | $52.9B (–0.4% YoY) |
-| Revenue (FY2026E) | $59.0B (+11.6%) |
+| Revenue (Q2 2026 actual) | **$16.1B (+25% YoY, fastest growth since 2011)** |
+| Revenue (FY2026E) | $63.0B (+19.2%, revised up from $59.0B) |
 | Gross margin (Q1 2026) | 39.4% |
 | Operating income (Q1 2026) | $934M |
 | Trailing FCF (FY2025) | –$4.9B (improving from –$15.7B in FY2024) |
 | Cash | $14.3B |
 | Total debt | $46.6B |
 | Beta | 2.187 |
-| Shares outstanding | 5.03B |
-| 52-wk position | $100.23 vs $142.35 high = 70.4% |
-| Non-GAAP EPS Q2 2026 | $0.42 vs $0.218 est (+92% beat) |
+| Shares outstanding | **5.29B** (was 5.03B; +$20B equity offering closed 2026-08-12) |
+| 52-wk position | $95.91 vs $142.35 high = 67.4% |
+| Non-GAAP EPS Q2 2026 | $0.42 vs $0.216 est (+94.6% beat) |
 
 ---
 
@@ -63,20 +64,19 @@ World's largest semiconductor company (by history); transitioning from pure IDM 
 
 | Metric | Value |
 |--------|-------|
-| Price | $100.23 |
-| 50 MA | $115.83 (price –13.5% below) |
-| 150 MA | $74.61 (price +34.5% above) |
-| 200 MA | $65.48 (price +53% above) |
-| 52-wk range | $18.97 – $142.35 |
-| % above 52-wk low | +428% |
-| ATR (14d) | $5.96 |
-| Trend template score | ~4/8 (below MA50 fails 3 criteria) |
-| Pattern | No base; consolidating below MA50 post-earnings gap |
-| SEPA Stage | **3** (price below MA50, but MA150/MA200 strongly rising) |
-| Vol ratio (earnings day) | 64.12× |
-| Next earnings | Q3 2026 (~Oct 2026) |
+| Price | $95.91 (–7.3% today; prior close $103.49) |
+| 50 MA | $109.17 (price –12.2% below) |
+| 150 MA | $81.52 (price +17.7% above) |
+| 200 MA | $70.73 (price +35.6% above) |
+| 52-wk range | $22.78 – $142.35 |
+| % above 52-wk low | +321% |
+| Volume | 81.85M (vs 20d avg 118.05M — below-average volume on the drop) |
+| Trend template score | 5/8 pass, 2 fail (below MA50; >25% off 52-wk high), 1 unknown (RS rating not verified) |
+| Pattern | No base; deeper below MA50 than 2026-07-23 (MA50 itself declining as price consolidates under it) |
+| SEPA Stage | **3** (price below MA50, but MA150/MA200 still rising) — unchanged |
+| Next earnings | **Oct 22, 2026** (confirmed) — guided rev $15.8–16.8B, EPS $0.38 |
 
-**SEPA verdict**: Not actionable — Stage 3. Entry trigger = sustained reclaim of MA50 ($115.83) on volume.
+**SEPA verdict**: Not actionable — Stage 3. Entry trigger = sustained reclaim of MA50 (now $109.17, down from $115.83) on volume. Today's selloff was on below-average volume — not a high-conviction breakdown, but does not change the stage.
 
 ---
 
@@ -98,10 +98,10 @@ World's largest semiconductor company (by history); transitioning from pure IDM 
 
 | Platform | Signal | Reading | Basis |
 |----------|--------|---------|-------|
-| Reddit | 🟡 Neutral-Bearish | Buzz 74.3, Bull% 26%, Mentions 1,542 | Skepticism on IFS execution |
-| X.com | 🟡 Neutral | Buzz 83, Bull% 33%, Mentions 4,326 | Earnings beat coverage, mixed |
-| News | 🟢 Slight Bullish | Buzz 62.1, Bull% 54% | Beat headlines dominate |
-| **Overall** | **🟡 Mixed/Neutral** | | Retail skeptical; news positive on beat |
+| Reddit | 🟡 Neutral, improving | Buzz 68.7 (7d), Bull% 31% (was 26%), Mentions 398 | Skepticism easing slightly |
+| X.com | 🟢 Bullish | Buzz 82.1 (7d), Bull% 53% (was 33%), Mentions 2,266 | Sentiment shifted notably bullish since Q2 beat |
+| News | 🟡 Neutral, cautious | Buzz 50.1 (7d), Bull% 23% (was 54%) | Coverage now dominated by dilution/offering, PT cuts |
+| **Overall** | **🟡 Mixed** | | Retail (Reddit/X) more constructive post-beat; news coverage turned cautious on dilution |
 
 ---
 
@@ -113,6 +113,6 @@ World's largest semiconductor company (by history); transitioning from pure IDM 
 
 ## Why It's In The Wiki
 
-Intel reported Q2 2026 earnings on 2026-07-23 with non-GAAP EPS of $0.42 vs $0.218 estimate (+92% beat) — largest beat in years and first clear signal that the CapEx-to-earnings transition may be inflecting. New CEO Lip-Bu Tan (installed 2025) brings foundry credibility. Stock in Stage 3 post large recovery from $18.97 lows; not yet actionable but thesis check warranted.
+Intel reported Q2 2026 earnings on 2026-07-23 with non-GAAP EPS of $0.42 vs $0.216 estimate (+94.6% beat) and revenue of $16.1B (+25% YoY, confirmed since initial analysis) — largest beat in years and first clear signal that the CapEx-to-earnings transition may be inflecting. New CEO Lip-Bu Tan (installed 2025) brings foundry credibility. On 2026-08-12 Intel closed an upsized $20B equity offering (210.5M shares @ $95, ~5% dilution) to fund higher 2026 capex; BofA/UBS trimmed price targets same day. On 2026-08-18 the stock fell –7.3% as part of a broad semiconductor selloff (SOXX –5.1%, COHR –10.4%, NVTS –7.65%, MRVL –7.27% same session) — no distinct new INTC-specific catalyst that day, though the dilution overhang is a contributing drag. Stock remains in Stage 3, now further below a lower MA50; not yet actionable but thesis fundamentally intact.
 
 See `thesis.md` for full 15-section analysis.

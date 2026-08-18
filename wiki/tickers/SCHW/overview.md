@@ -4,8 +4,8 @@ source: austin
 
 # SCHW — The Charles Schwab Corporation
 
-**Last updated**: 2026-07-17
-**Status**: Active — Thesis executing; T1 ($95) achieved; price $101.56, Stage 2 transition confirmed (above MA50+MA200); Q2 earnings 2026-07-21 盘前; R/R compressed to ~1:1 — Hold for existing positions
+**Last updated**: 2026-08-17
+**Status**: Active — Thesis Strengthened; Q2 beat EPS +4.55%/revenue +2.64%, Golden Cross confirmed, buyback accelerated to $3.05B; price $110.90 (new 52-wk high); stop raised $95→$100; R/R ~0.9:1 on rescaled scenarios — Hold for existing positions, Wait for new entries
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -20,17 +20,17 @@ Charles Schwab is the largest U.S. retail brokerage ($11.8T client assets, 46.5M
 
 | Metric | Value |
 |--------|-------|
-| Market Cap | ~$176.6B |
-| Revenue FY2025 | $23.9B (+22% YoY) |
+| Market Cap | ~$191.8B |
+| Revenue FY2025 | $23.9B (+22% YoY); Q2 2026 $7.07B (beat +2.64%) |
 | Gross Margin | N/M (bank holdco) |
-| Net Margin FY2025 | 35.2% |
-| EPS FY2025 | $4.65 (+55% YoY) |
-| EPS FY2026E | $6.15 (consensus, up from mgmt guide >$5.80) |
+| Net Margin FY2025 | 35.2%; Q2 2026 ~39.6% |
+| EPS FY2025 | $4.65 (+55% YoY); Q2 2026 $1.62 (beat +4.55%) |
+| EPS FY2026E | $6.49 (consensus, up from $6.15 pre-Q2 and mgmt's initial >$5.80 guide) |
 | Cash + Client Assets | $11.8T client AUM |
 | Total Debt (high-cost) | $5.1B (down from $97B 2023 peak) |
 | Beta | ~0.95 |
-| Shares Outstanding | ~1.74B diluted |
-| Dividend (annual) | $1.28 (~1.26% yield at $101.56) |
+| Shares Outstanding | ~1.73B diluted |
+| Dividend (annual) | $1.28 (~1.15% yield at $110.90) |
 
 ## Moat
 
@@ -54,21 +54,21 @@ Charles Schwab is the largest U.S. retail brokerage ($11.8T client assets, 46.5M
 
 | Metric | Value |
 |--------|-------|
-| Price | **$101.56** (2026-07-17) |
-| MA50 | **$92.62** (+9.6% below price) |
-| MA150 | ~$94.00 |
-| MA200 | **$95.08** (+6.8% below price) |
-| 52-wk Range | $83.96 – $107.50 |
-| % above 52-wk Low | +21.0% |
-| % below 52-wk High | -5.5% |
-| ATR (14d) | ~$2.40 (~2.4% of price) |
-| Trend Template | **~5/8** |
-| Stage | **Stage 1→2 transition** (price > MA50 + MA200; MA50 < MA200 = no Golden Cross yet) |
-| Pattern | Recovery from Stage 4 basing; approaching 52-wk high resistance $107.50 |
-| Stop | $95 (current; raise post-Q2 if strong) |
-| Next Earnings | **2026-07-21 盘前** |
+| Price | **$110.90** (2026-08-17) |
+| MA50 | **$99.35** (+11.6% below price) |
+| MA150 | $95.89 |
+| MA200 | **$95.70** (+15.9% below price) |
+| 52-wk Range | $83.96 – $111.64 |
+| % above 52-wk Low | +32.1% |
+| % below 52-wk High | -0.7% |
+| ATR (14d) | ~$1.81 (~1.6% of price) |
+| Trend Template | Stronger — Golden Cross now fully stacked |
+| Stage | **Stage 2 confirmed** (Golden Cross: MA50 > MA150 > MA200, price above all three) |
+| Pattern | New 52-week high post-Q2 beat; no longer basing |
+| Stop | **$100** (raised from $95 post-Q2, per pre-set checklist rule) |
+| Next Earnings | **2026-10-15** |
 
-**SEPA verdict (updated):** Stage 2 transition confirmed — price above both MA50 ($92.62) and MA200 ($95.08). Golden Cross not yet formed (MA50 $92.62 < MA200 $95.08 = MAs not stacked). Technical structure is constructively improving. For existing holders: Hold with stop $95. For new entries: wait for Q2 beat + pullback to MA50 support ($92–95) for better R/R.
+**SEPA verdict (updated 2026-08-17):** Stage 2 fully confirmed — Golden Cross completed (MA50 $99.35 > MA150 $95.89 > MA200 $95.70), price above all three. Technical structure now fully supports the fundamental thesis rather than lagging it. For existing holders: Hold with stop raised to $100. For new entries: R/R is compressed (~0.9:1) at the new high — wait for Q3 confirmation or a pullback toward the $96–99 MA50/MA150 zone.
 
 ---
 

@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: POET (Nasdaq)
 **Company**: POET Technologies Inc.
-**As of**: 2026-07-29（refresh；§1–§10、§12 基本面细节仍为 2026-05-05 数据，未逐项重跑）
-**Price**: $6.77（较 2026-05-14 ATH $20.57 累计 −67.1%）
-**52-wk range**: $4.17 – $20.81
-**Market cap**: ~$1.16B（172.6M 股，较 5 月增发前增加约 19M 股）
-**Verdict**: Speculative — Thesis Weakened（非 Broken）。运营层面持续推进（Lumilens $50M PO、马来西亚产线里程碑、Q1 revenue +216% beat、新 COO 到任），但价格结构彻底破坏（Stage 4，低于全部均线）+ 三起 PFIC 税务集体诉讼正式立案 + $400M 增发（$21/股，现价已 −68%）。现价 $6.77 已逼近旧论点 Bear Case 目标 $6，市场定价已隐含接近最悲观情景。
+**As of**: 2026-08-13（Q2 2026 财报刷新；§1–§10、§12 基本面细节仍为 2026-05-05 数据，未逐项重跑）
+**Price**: $8.91（较 2026-05-14 ATH $20.57 累计 −56.7%；较 7/29 刷新时 $6.77 反弹 +31.6%）
+**52-wk range**: $3.87 – $20.81
+**Market cap**: ~$1.54B（172.6M 股）
+**Verdict**: Speculative — **Thesis Weakened，且首次触及预设论点破坏触发线**。Q2 2026 营收实际 $569,925——同比+112%（低基数下的相对数字，绝对值仍是舍入误差级别）、环比+13%，但**未达此前论点设定的全部三条营收门槛**：§11建仓触发($3M)、§15监控目标($10M)、§15论点破坏底线(~$4M/季，来自Lumilens PO隐含最低贡献)。这是Lumilens $50M PO签署（5/14）以来第二个完整季度，PO尚未在已确认营收中体现实质性贡献。现金仍创纪录($796.3M)，运营叙事（马来西亚产线、新COO）仍在推进，但收入端——本论点最直接可验证的指标——首次实质性不及格。价格技术面反而在同期修复（收复MA150/MA200），显示市场对本季营收疲软反应温和（财报日仅+0.45%），可能已price-in，但这不改变论点本身的核心验证失败。
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -45,6 +45,8 @@ from 2021–2024?*
 If Foxconn + Luxshare (the two largest datacenter interconnect contract manufacturers
 globally) place meaningful POs by H2 2026, the thesis converts from speculative to
 credible. If not, the $2.31B market cap on $1M trailing revenue is indefensible.
+
+**✅ Q2 2026 CONFIRMED (2026-08-13)**: Revenue $569,925 (+13% QoQ, +112% YoY off a near-zero base). H1 2026 total revenue ~$1.67M ($1.1M Q1 + $0.57M Q2) — nowhere close to the $15M+ FY2026 pace implied by the pivotal question above; would require an ~12× sequential step-change in H2 to hit even the stale $13.9M full-year estimate. Foxconn and Luxshare remain silent (no upgrade from "awaiting feedback"). Lumilens PO ($50M/12mo, signed 5/14) has not yet materially shown up in recognized revenue two quarters post-signing. Cash $796.3M (record). **The pivotal question's binary has not resolved YES; H1 2026 data leans toward the "always one quarter away" pattern this question explicitly warned about, though one more quarter (Q3, ~Nov 2026) is needed before treating this as conclusive.**
 
 ---
 
@@ -474,6 +476,20 @@ Net: Moderate — do not chase ATH; wait for consolidation before re-entering Wa
 
 PW EV 从旧版 $17.80（以 ATH 价格为基准的乐观框架）重估至 $6.35，跌幅 −64%，与股价实际跌幅 −67.1% 基本同步，说明这次崩盘更多是消化已实现的坏消息，而非非理性抛售。这与今日之前已发现的 GLW 情形相反：GLW 是基本面 beat 但预期水位被打掉，POET 是基本面仍在推进但风险实质化，价格与基本面同步向下。两种下跌，性质不同，不应用同一套便宜了就是机会的直觉去处理。
 
+### 2026-08-13 更新 —— Q2实际营收不及全部情景假设，概率进一步向熊市倾斜
+
+Q2 2026营收$569,925是本次重估最重要的新数据点。对照三情景FY2026营收假设：牛市$25-35M、基准$12-18M、熊市<$10M——H1 2026实际合计仅约$1.67M（$1.1M+$0.57M）。即便按熊市假设的"<$10M"下限，H2也需要约$8.3M，是Q2单季的**约15倍**，且当前无任何已确认的加速证据（Foxconn/Luxshare仍"awaiting feedback"，Lumilens PO尚未体现实质贡献）。这一差距已经大到不能简单归为"符合基准情景"，而是**更接近甚至可能低于熊市情景的营收轨迹**。同时，诉讼结果仍未明朗（无新进展可报告）。据此下修概率权重，牛市与基准双双下调，熊市权重上调：
+
+| 情景 | 概率（7/29）| 概率（8/13）| 目标价 | 关键理由 |
+|------|------------|------------|--------|---------|
+| 牛市 | 15% | **10%** | $16 | Q2营收轨迹与"$25-35M FY26"假设的距离进一步拉大，可信度降低 |
+| 基准 | 35% | **25%** | $7 | H1仅$1.67M，距$12-18M FY26基准需H2出现数量级跃升，尚无证据支持 |
+| 熊市 | 50% | **65%** | $3 | H1营收轨迹与熊市假设"<$10M"高度吻合甚至可能更低；诉讼仍悬而未决 |
+
+**PW EV = (0.10 × $16) + (0.25 × $7) + (0.65 × $3) = $1.60 + $1.75 + $1.95 = ~$5.30**
+
+**现价 $8.91 vs PW EV $5.30 → 现价高于概率加权公允值 +68.1%**——较7/29的+6.6%大幅走阔。与COHR当日出现的情形正好相反：COHR是基本面强化、价格因情绪回落，折价扩大是买点信号；**POET是基本面（营收）实质性走弱，价格却因技术面修复而上涨，折价方向对投资者不利**——现价隐含的乐观程度比两周前更高，而支撑这种乐观的证据比两周前更少。
+
 ---
 
 ## 14. Bottom Line
@@ -489,11 +505,11 @@ PW EV 从旧版 $17.80（以 ATH 价格为基准的乐观框架）重估至 $6.3
 - **Bear**: $2–4 if 诉讼重大不利 + Lumilens 框架停滞 + 需要再融资
 
 ### Portfolio allocation recommendation
-- **Target %**: **Watch (Weakened) — 不建议新增正股仓位**
-- **Re-entry condition**: PFIC 诉讼结果明朗（驳回或和解金额可控）+ Q2/Q3 财报确认 Lumilens 执行节奏 + 价格结构修复（收复 MA200 $7.93）三者至少两项满足
+- **Target %**: **Watch (Weakened) — 不建议新增正股仓位（8/13更新：理由从"技术面破坏"转为"营收论点未验证+价格已跑到基本面前面"）**
+- **Re-entry condition**: PFIC 诉讼结果明朗（驳回或和解金额可控）+ **Q3 2026 财报确认营收出现实质性加速（非仅同比数字好看）** + 价格回落至 PW EV 合理区间（当前 $5.30 附近）——三者至少两项满足
 - **Position form**: 若重新入场，仍应用小仓位试探，不建议股票 + 期权双重敞口
 - **Max size**: 0.5%，且诉讼结果明朗前不加仓
-- **Primary monitoring trigger**: PFIC 诉讼进展（下一关键节点：lead plaintiff 确定后的诉状修订）；Q2/Q3 2026 财报；Lumilens 订单执行数据
+- **Primary monitoring trigger**: Q3 2026 财报（下个营收验证点，门槛已因Q2不及格而提高）；PFIC 诉讼进展；Lumilens 订单执行数据能否体现在营收中
 
 ### Verdict
 **Watch (Weakened)，论点未破但风险已从未解决的指控升级为三起正式诉讼加已完成的巨额稀释。**
@@ -501,6 +517,11 @@ PW EV 从旧版 $17.80（以 ATH 价格为基准的乐观框架）重估至 $6.3
 运营叙事仍然真实：Lumilens $50M PO、马来西亚产线里程碑、Q1 revenue +216%、新 COO 招募，这些都不是虚构的。但 2026-05-14 那周同时发生的三件事（$400M 增发 @$21、CFO 退休、三起 PFIC 集体诉讼立案）在旧版论点里完全没有被记录，而现价 $6.77 已经反映了这些信息，PW EV 从 $17.80 重估至 $6.35，现价与新 PW EV 已基本收敛。
 
 这不是一次情绪超跌、价值显现的机会，是旧论点的乐观假设逐条被证伪，价格同步跟随下修。不建议在诉讼结果明朗前新增任何正股敞口。
+
+### Verdict（2026-08-13 更新）
+**Watch (Weakened) → 论点首次触及预设的营收论点破坏触发线，尽管尚未升级为"Broken"。**
+
+Q2 2026营收$569,925是Lumilens交易签署以来第二个完整季度的实际数据，结果**未达此论点自己设定的全部三条营收门槛**（建仓触发$3M、监控目标$10M、论点破坏底线~$4M/季）。这不是"论点被证伪"式的Broken——运营叙事、现金储备、管理层招募仍在推进；但这是本论点最核心、唯一硬性可验证的指标首次实质性不及格。更值得警惕的是**价格与基本面出现反向背离**：过去两周价格因技术面修复上涨+31.6%，而同期基本面（营收）走弱——现价$8.91较概率加权公允值$5.30溢价+68.1%，远高于7/29的+6.6%。这种"基本面变差、溢价反而扩大"的组合，是比单纯价格下跌更值得警惕的信号，因为它说明当前买盘尚未消化这份财报的真实含义。**不建议在此价位新增任何正股敞口；诉讼结果与Q3财报（营收门槛已因本季不及格而提高）是接下来两个关键验证点。**
 
 ---
 
@@ -524,16 +545,24 @@ PW EV 从旧版 $17.80（以 ATH 价格为基准的乐观框架）重估至 $6.3
 - [x] No new dilutive equity raise — **✅ Lumilens warrants (22.9M @$8.25) are the only new dilution**
 - [x] **[NEW — COMPLETED]** Celestial AI replacement customer — **✅ Lumilens = confirmed Tier-1 replacement**
 
+### 2026-08-13 刷新新增
+
+- [❌] **Q2 2026 (~August): Revenue ≥ $10M — 未达标。实际 $569,925（约为目标的 5.7%）。Lumilens PO 尚未在已确认营收中体现实质贡献**
+- [❌] Q2 2026 revenue ≥ $3M（§11建仓触发条件）— **未达标，实际仅为目标的19%**
+- [x] Cash 创纪录 — **✅ $796.3M（含$400M增发净额）**
+- [x] 新COO到任后运营层面持续推进 — 公司披露正面
+- [ ] Lumilens 权证行权状态 — 现价$8.91略高于$8.25行权价，行权概率回升但未确认
+
 ### Mid-term (Q2 / Q3 2026)
 
-- [ ] Q2 2026 (~August): Revenue ≥ $10M — Lumilens PO beginning to contribute ($50M/12mo = ~$4M/qtr floor; aim for $10M+)
+- [x] ~~Q2 2026 (~August): Revenue ≥ $10M~~ — **已发布，未达标（见上）**
 - [ ] Lumilens reorder or upward PO revision (above initial $50M tranche)
-- [ ] Q3 2026 (~November): Revenue ≥ $20M — Malaysia volume production running at scale
+- [ ] **Q3 2026 (~November): Revenue ≥ $20M** — Malaysia volume production running at scale；鉴于Q2大幅不及格，此目标可信度进一步降低，仍作为下一验证点保留
 - [ ] Standalone press release: Foxconn OR Luxshare volume PO announced (in addition to Lumilens)
 - [ ] Management fraud allegation: official resolution, dismissal, or disclosure
-- [ ] Gross margin: first quarter with >40% as production mix overtakes NRE/licensing
+- [ ] Gross margin: first quarter with >40% as production mix overtakes NRE/licensing — **Q2确认仍为负毛利率，未达标**
 - [ ] LITEON: any update on co-developed module prototype timeline
-- [ ] Analyst upgrades and target price revisions post-Lumilens (watch for $15–25 new targets)
+- [ ] Analyst upgrades and target price revisions post-Lumilens (watch for $15–25 new targets) — **未发生；yfinance当前甚至无有效中位目标价**
 
 ### Thesis-break triggers (any ONE = immediate reassessment)
 
@@ -543,7 +572,7 @@ PW EV 从旧版 $17.80（以 ATH 价格为基准的乐观框架）重估至 $6.3
 - Lumilens cancels or materially reduces $50M PO before execution
 - Lumilens $500M framework formally limited or capped by either party
 - Foxconn or Luxshare publicly names a competing supplier for 800G optical engines
-- Q2/Q3 2026 revenue 不及 Lumilens PO 隐含的最低季度贡献（~$4M/季）
+- **[⚠️ 2026-08-13 触及]** Q2/Q3 2026 revenue 不及 Lumilens PO 隐含的最低季度贡献（~$4M/季）—— **Q2实际$569,925仅为该门槛的14%，本条触发条件已实质性命中**；因公司仍在指引H2加速、诉讼与再融资等更严重信号尚未同时出现，暂未将论点整体降级为"Broken"，但这是最接近"Broken"的一次
 - Malaysia yield issues disclosed publicly (production below 10K engines by Q3 2026)
 
 ### Continuing thesis-strength triggers
@@ -564,14 +593,16 @@ PW EV 从旧版 $17.80（以 ATH 价格为基准的乐观框架）重估至 $6.3
 - stockanalysis.com/stocks/poet/ — FY2021–FY2025 income / cash flow / balance sheet
 - POET IR press releases: Q4 2025 results (Mar 31, 2026), production order announcements
 - stocktitan.net — Q4 2025 summary + financing history
-- globenewswire — POET Mar 31, 2026 press release
+- globenewswire — POET Mar 31, 2026 press release; **Q2 2026 earnings release, 2026-08-13**
 - Seeking Alpha (Apr 2026) — "Recent Production Orders And Deepening Partnerships"
 - stocktwits / CFO Tom Mika 4/21 comment on Foxconn/Luxshare status
-- stockanalysis.com/stocks/poet/forecast/ — analyst consensus (median $8.20)
+- stockanalysis.com/stocks/poet/forecast/ — analyst consensus (median $8.20, stale)
 - `raw/analyses/chen.md` — Yun Chen 4/3, 4/11, 4/20, 4/21, 4/24 mentions
+- WebSearch: Q2 2026 results coverage (TipRanks, StockTitan, Yahoo Finance, MarketBeat) — 2026-08-13
 
 **Data gaps flagged for next update**:
 - FY2025 10-K customer concentration + segment geographic disclosure
-- Q1 2026 10-Q (due May 14, 2026)
+- **Q2 2026 EPS discrepancy**: yfinance shows $(0.10) actual vs. $(0.07) estimate (–40.4% surprise); company release states $(0.07). Not reconciled this refresh — needs 6-K review
 - Confirmed Foxconn / Luxshare PO disclosure (when/if announced)
-- Post-January 2026 raise exact share count + price terms
+- PFIC litigation status — not re-checked this refresh (no new public filings found in WebSearch); carried forward from 7/29 as unresolved
+- Full Q2 2026 6-K detail (gross margin exact %, segment/geographic breakdown)

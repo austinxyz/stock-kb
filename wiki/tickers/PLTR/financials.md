@@ -4,35 +4,37 @@ source: austin
 
 # PLTR — Key Financial Metrics
 
-**Last updated**: 2026-07-30
-**Data source**: Yahoo Finance (yfinance), PLTR Q1 2026 earnings (May 5 2026), analyst consensus
-**Next update trigger**: Q2 2026 earnings — 2026-08-03
+**Last updated**: 2026-08-18
+**Data source**: Yahoo Finance (yfinance), PLTR Q2 2026 earnings (Aug 5 2026), analyst consensus
+**Next update trigger**: Q3 2026 earnings — 2026-11-02
 **Language**: English | [中文](financials.zh.md)
 
 ---
 
-## Price & Market Data (2026-07-30)
+## Price & Market Data (2026-08-18)
 
 | Metric | Value |
 |--------|------:|
-| Price | **$120.51** |
-| Today's change | –$2.49 (–2.03%) |
+| Price | **$172.71** |
+| Today's change | +$0.16 (+0.09%) |
 | 52-week range | $106.37 – $207.52 |
-| Position vs 52-wk high | **–42.0%** from $207.52 peak |
-| Position vs 52-wk low | +13.3% above $106.37 |
-| Market cap | $288.9B |
-| Avg volume (20d) | ~42.0M shares |
-| Beta (5Y monthly) | 1.52 |
-| EPS TTM (GAAP) | $0.89 |
-| P/E trailing | ~135x |
-| P/E forward (FY2026) | ~82x ($120.51 / $1.476 consensus) |
-| P/E forward (FY2027) | ~58x ($120.51 / $2.094 consensus) |
-| P/S TTM | ~55x |
-| EV/NTM Revenue | ~36x (on $7.72B FY2026 consensus) |
-| P/FCF (TTM) | ~137x |
-| Analyst median target | **$200** (+66.0% upside) |
-| Analyst mean target | **$182.20** (+51.2% upside) |
-| Analyst target range | $70 (RBC) – $255 (Wedbush) |
+| Position vs 52-wk high | **–16.8%** from $207.52 peak |
+| Position vs 52-wk low | **+62.4%** above $106.37 |
+| Market cap | $415.0B |
+| Avg volume (20d) | ~46.4M shares (elevated; 10d avg ~57.9M post-earnings) |
+| Beta (5Y monthly) | 1.56 |
+| ATR14 | $7.16 (up from $6.12 on 07-30 — volatility expanded post-earnings) |
+| P/E trailing | ~148x |
+| P/E forward (FY2026) | ~108x ($172.71 / $1.603 consensus) |
+| P/E forward (FY2027) | ~75x ($172.71 / $2.314 consensus) |
+| P/S TTM | ~67x (up from ~55x on 07-30 — price re-rated faster than estimates rose) |
+| EV/NTM Revenue | ~50x (on $8.19B FY2026 consensus, ~$8B net cash) |
+| P/FCF (TTM) | ~163x (approx, FY2025 FCF base; update pending FY2026 10-Q cash flow) |
+| Analyst median target | **$204** (+18.1% upside) |
+| Analyst mean target | **$191.68** (+11.0% upside) |
+| Analyst target range | $80 (low) – $255 (high) |
+
+**Since 07-30 refresh**: price +43.3% ($120.51 → $172.71), driven almost entirely by the Q2 2026 earnings beat (2026-08-05) — stock gapped from ~$156 to ~$172 the next session and continued higher. Valuation multiple expanded materially alongside the estimate raises (P/S 55x → 67x), so the rally has consumed most of the prior technical-discount thesis.
 
 ---
 
@@ -102,7 +104,7 @@ Gross margin improving as AIP (near-100% incremental gross margin software) beco
 
 ---
 
-## Quarterly Context (FY2025 + Q1 2026)
+## Quarterly Context (FY2025 + H1 2026)
 
 | Quarter | Revenue | QoQ | YoY | Op Income | Op Margin | Net Income | EPS (GAAP) |
 |---------|--------:|----:|----:|----------:|----------:|----------:|----------:|
@@ -110,11 +112,10 @@ Gross margin improving as AIP (near-100% incremental gross margin software) beco
 | Q2 2025 | $1,004M | +13.5% | — | $269M | 26.8% | $327M | $0.13 |
 | Q3 2025 | $1,181M | +17.7% | — | $393M | 33.3% | $476M | $0.19 |
 | Q4 2025 | $1,407M | +19.1% | — | $575M | 40.9% | $609M | $0.24 |
-| **Q1 2026**¹ | **~$1,632M** | **+16.0%** | **+84.7%** | — | — | — | **$0.33** |
+| Q1 2026 | $1,633M | +16.0% | +84.7% | $754M | 46.2% | $871M | $0.34 |
+| **Q2 2026** | **$1,935M** | **+18.5%** | **+92.9%** | **$912M** | **47.1%** | **$1,062M** | **$0.41** |
 
-¹Q1 2026 revenue derived from TTM calculation ($5.224B TTM – $3.592B prior 3 quarters). EPS from earnings_history. Operating income and net income pending 10-Q filing.
-
-**Operating leverage acceleration**: Op margin went 19.9% → 40.9% over just 4 quarters. Q4 2025 at $575M operating income is nearly as large as FY2024's full-year $310M. This is the rare combination of high growth + rapidly improving margins.
+**Operating leverage acceleration**: Op margin went 19.9% → 47.1% over 5 quarters. Q2 2026 revenue growth actually *accelerated* YoY (84.7% → 92.9%) — an unusual pattern for a company already growing this fast off this large a base. Net income now exceeds operating income due to a growing interest-income contribution from the $7B+ cash pile.
 
 ---
 
@@ -132,51 +133,51 @@ Dilution rate is declining (11.3% → 6.7% → 4.8%). Buybacks ($75M in FY2025 v
 
 ---
 
-## Estimate Momentum (as of 2026-07-30)
+## Estimate Momentum (as of 2026-08-18)
 
 ### EPS Estimates by Period
 
 | Period | Avg EPS | # Analysts | YoY Growth |
 |--------|--------:|----------:|----------:|
-| Q2 2026 (0q) | $0.347 | 23 | +116.7% vs $0.160 |
-| Q3 2026 (+1q) | $0.373 | 23 | +77.6% vs $0.210 |
-| FY2026 (0y) | $1.476 | 28 | +96.8% vs $0.75 |
-| FY2027 (+1y) | $2.094 | 29 | +41.9% vs FY2026 |
+| Q3 2026 (0q) | $0.415 | 23 | +97.4% vs $0.210 |
+| Q4 2026 (+1q) | $0.465 | 23 | +85.8% vs $0.250 |
+| FY2026 (0y) | $1.603 | 29 | +113.7% vs $0.75 |
+| FY2027 (+1y) | $2.314 | 29 | +44.4% vs FY2026 |
 
 ### Revenue Estimates
 
 | Period | Avg Revenue | Low | High | # Analysts | YoY Growth |
 |--------|----------:|-----:|------:|----------:|----------:|
-| Q2 2026 (0q) | $1,812M | $1,790M | — | 23 | +80.5% YoY |
-| Q3 2026 (+1q) | $2,003M | $1,913M | — | 23 | +69.6% YoY |
-| FY2026 (0y) | $7,722M | $7,650M | — | 28 | +72.6% YoY |
-| FY2027 (+1y) | $11,227M | $10,318M | — | 29 | +45.4% YoY |
+| Q3 2026 (0q) | $2,177M | $2,161M | $2,263M | — | +84.3% YoY |
+| Q4 2026 (+1q) | $2,459M | $2,422M | — | — | +74.8% YoY |
+| FY2026 (0y) | $8,189M | $7,770M | — | — | +83.0% YoY |
+| FY2027 (+1y) | $12,175M | $10,842M | — | — | +48.7% YoY |
 
 ### EPS Revision Trend (last 30 days)
 
 | Period | Up 30d | Down 30d | Signal |
 |--------|-------:|--------:|--------|
-| Q2 2026 | 2 | 0 | ↑↑ |
-| Q3 2026 | 2 | 0 | ↑↑ |
-| FY2026 | 3 | 0 | ↑↑↑ |
-| FY2027 | 3 | 0 | ↑↑↑ |
+| Q3 2026 | 20 | 0 | ↑↑↑ |
+| Q4 2026 | 18 | 0 | ↑↑↑ |
+| FY2026 | 23 | 0 | ↑↑↑ |
+| FY2027 | 24 | 0 | ↑↑↑ |
 
-**Overall estimate signal: Bullish** — All periods revised upward, zero downward revisions in 30 days despite price decline. Classic fundamental vs technical divergence: estimates accelerating while stock falls into wait zone.
+**Overall estimate signal: Strongly Bullish, accelerating** — Every period revised upward with zero downward revisions in 30 days, and the FY2026 EPS consensus jumped ~9% in the last 30 days alone ($1.476 → $1.603) on the back of the Q2 beat. Unlike the 07-30 refresh (estimates rising while price fell — a divergence), the market has now largely caught up: price re-rated +43% while estimates rose ~9-11%, so the "cheap relative to fundamentals" gap that existed at $120 has mostly closed.
 
 ---
 
-## Earnings Track Record (last 4 quarters)
+## Earnings Track Record (last 5 quarters)
 
 | Quarter | EPS Est | EPS Actual | Surprise % | Notes |
 |---------|--------:|-----------:|----------:|-------|
-| Q2 2025 | $0.138 | $0.160 | **+15.6%** | AIP acceleration begins |
-| Q3 2025 | $0.167 | $0.210 | **+25.5%** | Largest beat; US commercial surge |
+| Q3 2025 | $0.167 | $0.210 | **+25.5%** | Largest beat pre-2026; US commercial surge |
 | Q4 2025 | $0.230 | $0.250 | **+8.6%** | Q4 op margin 40.9% milestone |
-| **Q1 2026** | **$0.279** | **$0.330** | **+18.1%** | Q1 2026 confirmed; guidance raised |
+| Q1 2026 | $0.279 | $0.330 | **+18.1%** | Guidance raised |
+| **Q2 2026** | **$0.346** | **$0.410** | **+18.5%** | Revenue $1.935B (+92.9% YoY, accelerating); op margin 47.1%; stock +43% since |
 
-**4 consecutive beats** — consistent outperformance on EPS. The trend: PLTR is setting estimates conservatively then delivering above.
+**5 consecutive beats**, averaging ~17% surprise — the pattern of conservative guide-then-beat continues unbroken. Q2 2026 stands out: growth *accelerated* YoY off an already-large base, which is the strongest possible signal against the "growth is decelerating" bear case.
 
-**Next earnings date**: Q2 2026 — **2026-08-03 (4 days from 2026-07-30 refresh)**.
+**Next earnings date**: Q3 2026 — **2026-11-02** (~76 days from this 2026-08-18 refresh).
 
 ---
 
@@ -224,7 +225,9 @@ Dilution rate is declining (11.3% → 6.7% → 4.8%). Buybacks ($75M in FY2025 v
 | UBS | Buy | $200 | Raised to $200 from $180 ↑ |
 | RBC Capital | Underperform | $90 | Maintained (bear case) |
 
-**Summary**: 27 analysts; 1 Strong Buy + 17 Buy + 11 Hold + 1 Sell + 1 Strong Sell. Rating distribution is mostly bullish (67% Buy or above) but 44% hold/sell is notable — significant skepticism about valuation even among holders. Median $190 vs current $133 = 43% upside priced in by consensus.
+**Summary**: 27 analysts; 1 Strong Buy + 17 Buy + 11 Hold + 1 Sell + 1 Strong Sell (table above is from 2026-05-06; individual firm-level re-ratings post-Q2 not yet re-pulled). Rating distribution is mostly bullish (67% Buy or above) but 44% hold/sell is notable — significant skepticism about valuation even among holders.
+
+**Update (2026-08-18)**: Aggregate consensus mean target $191.68, median $204 (target range $80–$255) vs current price $172.71 → median implies **+18.1%** upside, mean **+11.0%**. Both targets rose only modestly since 07-30 ($182.20→$191.68 mean, $200→$204 median) while the stock itself rallied 43% — consensus targets have not kept pace with the price move, which is consistent with the "upside has compressed" read from the PW-EV recalculation in thesis.md §13.
 
 ---
 
@@ -232,11 +235,11 @@ Dilution rate is declining (11.3% → 6.7% → 4.8%). Buybacks ($75M in FY2025 v
 
 | Date | Event | What to Watch |
 |------|-------|---------------|
-| **2026-08-03** | **Q2 2026 Earnings** | Revenue ≥ $1.81B (consensus); EPS ≥ $0.347; US commercial customers; guidance for FY2026H2 |
+| ~~2026-08-03~~ | ~~Q2 2026 Earnings~~ | **Done (08-05)**: beat on both lines (rev +92.9% YoY, EPS +18.5% surprise); stock +43% since |
+| **2026-11-02** | **Q3 2026 Earnings** | Revenue ≥ $2.18B (consensus); EPS ≥ $0.415; confirm growth held ≥85% YoY (not a one-quarter spike); US commercial customer count |
 | Ongoing | DoD / IC contract awards | Maven Smart System, TITAN program, JADC2 — any classified announcements |
 | EU AI Act implementation | Regulatory | Impact on international commercial expansion; GDPR compliance costs |
-| FY2026 Q3 (Nov 2026) | Q3 2026 Earnings | Confirm whether AIP sustains 40%+ quarterly growth beyond H1 |
-| FY2026 Full Year | Annual guidance validation | Full-year $7.6B consensus — meet/beat = multiple support; miss = -25–40% move |
+| FY2026 Full Year | Annual guidance validation | Consensus now $8.19B (up from $7.72B pre-Q2) — meet/beat = multiple support; miss after this rally = sharp downside given richer valuation |
 
 ---
 

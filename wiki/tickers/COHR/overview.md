@@ -4,8 +4,8 @@ source: austin
 
 # COHR — Coherent Corp.
 
-**Last updated**: 2026-08-10 (pre-earnings price-move refresh via /stock-refresh)
-**Status**: ⏳ **Watch / Pre-Earnings** — Q4 FY26 earnings 2026-08-12 (2 days out, still pending); price $325.15 (today -14.24%, sector-wide "optics vs memory" social-media narrative rotation + pre-earnings de-risking, not COHR-specific bad news); analyst median $400 unchanged (+23.0% upside, discount widened from -17.5% to -18.7%); thesis-break triggers unconfirmed; 8/12 earnings remains the sole decision point
+**Last updated**: 2026-08-18 (technical pullback refresh via /stock-refresh)
+**Status**: ✅ **Watch → constructive entry zone** — Q4 FY26 beat confirmed and reinforced by a clean 30-day estimate revision cycle (EPS estimates +7% to +13% across all forward periods, median target $400→$420); price $309.53 (2026-08-18, -10.4% today) on a sector-wide AI-optics valuation reset (COHR/Lumentum/AAOI all fell together, no COHR-specific news) — none of the 6 thesis-break triggers hit, volume in-line not distribution; PW EV discount now +38.9%, widest since thesis inception; next catalyst Q1 FY27 earnings ~2026-11-04
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -22,11 +22,11 @@ Coherent Corp. is the world's #2 optical components maker — manufacturing tran
 
 | Attribute | Value |
 |-----------|-------|
-| Market Cap | $64.55B (2026-08-04) |
-| Revenue (FY2025, ended June 2025) | $5,810M (+23.4% YoY) |
-| TTM Revenue (through Mar 2026) | **$6,600M** (Q3 FY26 confirmed $1,806M) |
-| Gross Margin (TTM) | **~37.4%** (Q3 FY26 GAAP 37.6%; non-GAAP ~38.5%) |
-| Operating Margin (TTM) | 13.6% |
+| Market Cap | $64.0B (2026-08-13) |
+| Revenue (FY2026, ended June 2026) | **$7,120M** (+22.5% YoY, confirmed) |
+| TTM Revenue | **$7,120M** (Q4 FY26 confirmed $2,050M, record quarter) |
+| Gross Margin (TTM) | **38.5% GAAP / 40.2% non-GAAP** (Q4 FY26 confirmed — first quarter >40% non-GAAP) |
+| Operating Margin (TTM) | 13.6% (pending Q4 update) |
 | FCF (FY2025) | $193M (3.3% FCF margin) |
 | Cash | $909M (Jun 2025) |
 | Total Debt | $3,894M (net debt $2,985M) |
@@ -55,16 +55,18 @@ Coherent Corp. is the world's #2 optical components maker — manufacturing tran
 
 ---
 
-## Technical Summary (2026-08-10, pre-earnings price-move update)
+## Technical Summary (2026-08-18, sector-wide pullback)
 
 | Metric | Value |
 |--------|-------|
-| Current Price | **$325.15** (today -14.24%; interim high $378.80 on 8/7 before today's drop) |
-| 52-Week Range | $84.35 – $440.00 |
-| MA50 | $341.94 (price **-4.9%** below — essentially unchanged from 08-04's -5.0%, despite the volatile round trip in between) |
-| Next Earnings | Q4 FY2026 — **2026-08-12** (2 days out, still pending — today's move is NOT an earnings reaction) |
-| Cause of today's move | Sector-wide "optics vs. memory" social-media narrative debate + pre-earnings de-risking across optical names (COHR -14%, LITE -6.6%, AXTI -16.7% same day) — not COHR-specific negative news |
-| SEPA Verdict | Stage 2 weakened, materially unchanged from 08-04 — net MA50 gap barely moved despite the price round-trip ($330→$379→$325). 8/12 earnings remains the real technical catalyst. |
+| Current Price | **$309.53** (today -10.4%) |
+| 52-Week Range | $86.55 – $426.89 |
+| MA50 | $334.55 (price **-7.5%** below) |
+| MA150 / MA200 | $300.83 (+2.9% above) / $267.50 (+15.7% above) — both intact |
+| Volume | 0.98× 50d avg — in-line, not distribution |
+| Next Earnings | Q1 FY2027 — expected ~2026-11-04 |
+| Cause of today's move | Sector-wide AI-optics valuation reset — Coherent, Lumentum (LITE), Applied Optoelectronics (AAOI) all fell together (-7% to -17%), no COHR-specific news found. Gives back most of 8/17's +8% round-trip bounce. Not a fundamentals event: 30-day estimate revisions are up +7% to +13% across all periods over the same window. |
+| SEPA Verdict | Stage 2 pullback — price pierced MA50 but MA150/200 structure intact and rising. Estimate momentum continues to strengthen while price weakens; divergence widened, not narrowed. |
 
 ---
 
@@ -82,14 +84,13 @@ The entire optical networking sector is surging on AI capex. COHR is actually on
 
 ---
 
-## Social Sentiment (2026-08-04)
+## Social Sentiment (2026-08-13, post-earnings)
 
 | Platform | Signal | Basis |
 |----------|--------|-------|
-| X.com / Twitter | Neutral-Bullish | Buzz 77.5; bullish 39%; optical AI still discussed but stock down from ATH |
-| Reddit (r/stocks, r/investing) | Neutral-Bearish | Buzz 47.9; bullish 22%, bearish 24%; net slightly negative after -25% drawdown |
-| News Sentiment | Neutral | Buzz 32.6; bullish 38%; post-ATH cooldown; 8/12 earnings starting attention |
-| **Overall** | **Neutral / Cautious** | Sentiment cooled significantly from May ATH peak; pre-earnings watch mode |
+| X.com / Twitter | Bullish | Buzz 83.6 (rising); bullish 48%, bearish 12% — retail/momentum crowd reads the beat positively |
+| Reddit (r/stocks, r/investing) | Neutral-Bearish | Buzz 49.7 (rising); bullish 18%, bearish 27% — net negative, likely reflects the price action (-7.99%) more than the fundamentals |
+| **Overall** | **Mixed / Diverging** | X.com and Reddit disagree on direction — fundamentals (beat) vs. price action (fade) are pulling sentiment in opposite directions; a clean read will need a few more sessions |
 
 ---
 
@@ -109,6 +110,7 @@ See [thesis.md](thesis.md) for the full 15-section analysis.
 
 ## 历史入场分析
 
+- [2026-08-14 — 入场 $310–325，止损 $265.00](../../../data/outputs/COHR/entry-2026-08-14.md)
 - [2026-05-13 — 等待回调 $375–393（情景B优先）或 $413 ATH突破+量≥1.5×（情景A）](../../../outputs/COHR/entry-2026-05-13.md)
 - [2026-05-11 — 情景B回调 $350–375，止损 $335；情景A ATH突破 $385–404，止损 $358](../../../outputs/COHR/entry-2026-05-11.md)
 - [2026-05-08 — Zone B 更新 $315–335，止损 $296，DCA批2最早5/14](../../../outputs/COHR/entry-2026-05-08.md)

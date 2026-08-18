@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: SCHW (NYSE)
 **Company**: The Charles Schwab Corporation
-**As of**: 2026-07-17 (pre-earnings refresh)
-**Price**: $101.56 (prev close)
-**52-wk range**: $83.96 – $107.50
-**Market cap**: ~$176.6B
-**Verdict**: Value Compounder — Hold (T1 reached); thesis intact; R/R compressed to ~1:1 at current price; next catalyst Q2 2026 earnings 2026-07-21 盘前
+**As of**: 2026-08-17 (post-Q2-earnings refresh)
+**Price**: $110.90
+**52-wk range**: $83.96 – $111.64 (new 52-wk high set post-Q2 beat)
+**Market cap**: ~$191.8B
+**Verdict**: Value Compounder — Hold, thesis Strengthened (Q2 beat + Golden Cross confirmed + accelerating buyback); T1/original T2 both exceeded, R/R remains compressed (~0.9:1) on rescaled scenarios; next catalyst Q3 2026 earnings 2026-10-15
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -42,16 +42,18 @@ Charles Schwab exists to democratize investing — the founding insight (1971) w
 
 ### Revenue & Earnings (FY2021–FY2025 + Q1 2026)
 
-| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q1 2026 | FY2026E |
-|--------|--------|--------|--------|--------|--------|---------|---------|
-| Total Revenue ($B) | 18.5 | 20.8 | 18.8 | 19.6 | 23.9 | 6.5 | ~26.3–26.5 |
-| YoY Revenue Growth | — | +12.1% | -9.3% | +4.1% | +22.0% | +16% | ~+9.5–10.5% |
-| Net Interest Income ($B) | 8.0 | 10.7 | 9.4 | 9.1 | 11.75 | ~3.1 | — |
-| NIM | ~2.0% | ~2.6% | 2.33% | 2.33% | **2.90%** | Tracking ↑ | 2.85–2.95% |
-| Net Income ($B) | 5.4 | 6.6 | 4.6 | 5.5 | 8.4 | ~1.97 | — |
-| Net Margin | 29.2% | 31.9% | 24.7% | 28.0% | 35.2% | ~30.3% | — |
-| EPS (Diluted) | $2.83 | $3.50 | $2.54 | $2.99 | $4.65 | $1.43 | **$6.15E** |
-| Adj Pretax Profit Margin | — | — | — | — | — | 51.4% | — |
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q1 2026 | Q2 2026 | FY2026E |
+|--------|--------|--------|--------|--------|--------|---------|---------|---------|
+| Total Revenue ($B) | 18.5 | 20.8 | 18.8 | 19.6 | 23.9 | 6.48 | **7.07** | ~27.5–28.0 |
+| YoY Revenue Growth | — | +12.1% | -9.3% | +4.1% | +22.0% | +16% | **beat +2.64% vs est** | ~+15–17% |
+| Net Interest Income ($B) | 8.0 | 10.7 | 9.4 | 9.1 | 11.75 | ~3.1 | 3.36 | — |
+| NIM | ~2.0% | ~2.6% | 2.33% | 2.33% | **2.90%** | Tracking ↑ | Tracking ↑ | 2.85–2.95% |
+| Net Income ($B) | 5.4 | 6.6 | 4.6 | 5.5 | 8.4 | ~1.97 | 2.80 | — |
+| Net Margin | 29.2% | 31.9% | 24.7% | 28.0% | 35.2% | ~30.3% | ~39.6% | — |
+| EPS (Diluted) | $2.83 | $3.50 | $2.54 | $2.99 | $4.65 | $1.43 | **$1.62** (beat +4.55%) | **$6.49E** |
+| Adj Pretax Profit Margin | — | — | — | — | — | 51.4% | — | — |
+
+*Q2 2026 (reported 2026-07-21): EPS $1.62 vs $1.55 consensus (+4.55% beat); revenue $7.07B vs $6.89B consensus (+2.64% beat). FY2026E consensus revised up from $6.15 (pre-Q2) to $6.49 — the beat flowed straight through to forward estimates rather than being a one-off.*
 
 *FY2023–FY2024 revenue decline: "cash sorting" episode — clients shifted sweep deposits into money-market funds, forcing expensive FHLB borrowings (peak ~$97B). Funding-mix repair completed by H2 2025; FY2025 record earnings confirming structural resolution.*
 
@@ -309,10 +311,10 @@ Consensus has not yet absorbed: (1) FY26 EPS *above* $5.70–$5.80 (CFO statemen
 ### I — Informational: Strong
 Primary-source disclosures that mainstream coverage hasn't synthesized: CFO's rare mid-year EPS bar raise ("tracking higher than $5.70–$5.80"); sequential +$8B sweep deposits (second consecutive quarter of organic re-sorting reversing 2023–2024 trend); Schwab Wealth Advisory $10B Q1 flows (+90% YoY) growing far below typical coverage radar; 51.4% adj. pretax margin. Five-year 10-K diff confirms the 2023 cash-sorting risk language has been materially reduced in FY2025 10-K — primary-source confirmation the fault line is structurally resolved. **Verdict: Strong.**
 
-### T — Technical: Moderate-Strong *(upgraded 2026-07-17)*
-Price $101.56 — now above both MA50 ($92.62) and MA200 ($95.08), confirming Stage 1→2 transition. MA50 ($92.62) still below MA200 ($95.08) = no Golden Cross yet, but price action is significantly more constructive than the Stage 4 basing that characterized the original thesis. Trend template: ~5/8 passing. Short interest at ~1.17% float with price recovery removes the "short-cover fuel" dynamic — now a healthy holder base. **Verdict: Moderate-Strong.** Stage 2 confirmation achieved; technical structure supports Hold/accumulate-on-weakness thesis.
+### T — Technical: Strong *(upgraded 2026-08-17)*
+Price $110.90 — Golden Cross now confirmed (MA50 $99.35 > MA150 $95.89 > MA200 $95.70, fully stacked), completing the Stage 2 transition that was only partial at the 07-17 refresh. New 52-week high ($111.64) set post-Q2. **Verdict: Strong.** Full technical confirmation now supports the fundamental thesis rather than lagging it.
 
-**BAIT Overall: Triple-Strong+ (B+A+I), Moderate-Strong T.** Conviction: **High**. PW EV $107.40 (unchanged — scenarios haven't changed). At $101.56, PW return compressed to +5.7% over 18 months; R/R ~1:1. Thesis intact; near-term asymmetry reduced. Wait for Q2 beat to establish if scenario targets require upward revision.
+**BAIT Overall: Quadruple-Strong (B+A+I+T).** Conviction: **High**. PW EV rescaled to $116.10 (from $107.40) on the updated FY2026E EPS ($6.49, +5.5% since 07-17). At $110.90, PW return is +4.7% over 18 months; R/R ~0.9:1. Thesis Strengthened — but near-term asymmetry has not improved, since the estimate revision and the price move happened together.
 
 | Name | B | A | I | T | Conviction | Setup Type |
 |------|---|---|---|---|-----------|-----------|
@@ -326,72 +328,79 @@ Price $101.56 — now above both MA50 ($92.62) and MA200 ($95.08), confirming St
 
 *18-month price targets; probabilities sum to 100%.*
 
-| Scenario | Probability | Price Target | vs Current | Key Assumption | FY2026E Rev | FY2026E EPS |
-|----------|------------|-------------|-----------|----------------|------------|------------|
-| 🐂 Bull | 30% | $130 | +49% | Fed on hold; NIM 2.95–3.05%; TDA synergies full flow; active-ETF + crypto contribute H2 | ~$27B | $6.00–6.20; 21× |
-| 📊 Base | 50% | $108 | +24% | NIM 2.85–2.95% per guide; no Fed cuts; FY26 EPS $5.90–$6.10; 18× multiple | ~$26.3B | $5.95; 18× |
-| 🐻 Bear | 20% | $72 | -18% | Fed cuts 100–150bps; NIM 2.3–2.5%; FY26 EPS $4.50–$4.80; 15× | ~$24–25B | $4.65; 15× |
+*Rescaled 2026-08-17 post-Q2-beat: Q2 EPS beat +4.55% and FY26E consensus rose from $6.15 to $6.49 (+5.5%) — the same magnitude increase that moved the price from $101.56 to $110.90. Base/Bull targets are scaled proportionally to the updated EPS base (holding multiples constant); Bear is nudged up modestly to reflect the higher revenue floor even under a stress scenario, since the multiple compression driver (NIM shock) is a rate scenario, not an EPS-estimate one.*
+
+| Scenario | Probability | Price Target | vs Current | Key Assumption | FY2026E EPS × Multiple |
+|----------|------------|-------------|-----------|----------------|------------|
+| 🐂 Bull | 30% | $142 | +28% | Fed on hold; NIM 2.95–3.05%; active-ETF + crypto contribute; buyback pace ≥$3B/qtr sustained | ~$6.75–6.90E; 21× |
+| 📊 Base | 50% | $117 | +5.5% | NIM 2.85–2.95% per guide continues; FY26 EPS tracks consensus $6.49; 18× multiple | $6.49; 18× |
+| 🐻 Bear | 20% | $75 | -32% | Fed cuts 100–150bps; NIM 2.3–2.5%; FY26 EPS reverts toward $4.80–5.00; 15× | ~$4.90; 15× |
 
 **Probability-Weighted EV:**
 
 | Scenario | Price | Probability | PW Contribution |
 |----------|-------|-------------|-----------------|
-| Bull | $130 | 30% | $39.00 |
-| Base | $108 | 50% | $54.00 |
-| Bear | $72 | 20% | $14.40 |
-| **PW EV (18-mo)** | | | **$107.40** |
+| Bull | $142 | 30% | $42.60 |
+| Base | $117 | 50% | $58.50 |
+| Bear | $75 | 20% | $15.00 |
+| **PW EV (18-mo)** | | | **$116.10** |
 
 | Current Price | PW EV | Return (18-mo) | Annualized |
 |--------------|-------|----------------|-----------|
 | $87.35 *(original analysis)* | $107.40 | +23% | ~+15%/yr |
-| **$101.56** *(2026-07-17)* | **$107.40** | **+5.7%** | ~+3.8%/yr |
+| $101.56 *(2026-07-17)* | $107.40 | +5.7% | ~+3.8%/yr |
+| **$110.90** *(2026-08-17)* | **$116.10** | **+4.7%** | ~+3.1%/yr |
 
-**R/R (from $101.56): ~1:1** (Bull +28% / Bear -29%). Note: scenarios ($72/$108/$130) unchanged — if Q2 confirms bull-case trend, upward scenario revision warranted.
+**R/R (from $110.90): ~0.9:1** (Bull +28% / Bear -32%). The Q2 beat did not create fresh asymmetry — the market re-rated the stock concurrently with the estimate revisions, so R/R is essentially unchanged from the 07-17 refresh despite genuinely stronger fundamentals underneath.
 
-**Interpretation**: Price has recovered +16.3% from May 2026 lows. T1 ($95) ✅ achieved. T2 ($107) = PW EV = only +5.4% above current price. Core thesis (NIM recovery + earnings rerating) is playing out on track. At $101.56, this is a Hold for existing positions — not a new-entry setup. New position buyers should wait for either (1) a Q2 beat that catalyzes upward scenario revision, or (2) a pullback toward $92–95 (MA50 support) to restore R/R.
+**Interpretation**: Price has now moved past the *original* T2/PW EV ($107.40) to a new 52-week high. Both fundamental signals (EPS beat, revenue beat, accelerating buyback) and technical signals (Golden Cross now confirmed) point the same direction — strengthened, not just "intact." But the rescaled PW EV ($116.10) offers only +4.7% from here, so this remains a **Hold for existing positions, not a new-entry setup**. New position buyers should wait for either (1) Q3 2026 (2026-10-15) confirming the estimate-revision trend continues, or (2) a pullback toward the now-much-higher MA50/MA150 support ($96–99) to restore R/R.
 
 ---
 
 ## 14. Bottom Line
 
-**1-Year View:** *(updated 2026-07-17, price $101.56)*
-- Base case price: $108 (18× FY2026E $5.95) — only +6.3% from current
-- Upside trigger: Q2 2026 earnings (2026-07-21 盘前) — beat + FY26 guide raised above $6.20; scenario targets revised upward
-- Downside trigger: Fed cuts 100bps+ AND NIM compression to <2.50% confirmed in sequential data
+**1-Year View:** *(updated 2026-08-17, price $110.90)*
+- Base case price: $117 (18× rescaled FY2026E $6.49) — +5.5% from current
+- Upside trigger: Q3 2026 earnings (2026-10-15) — beat + continued estimate-revision momentum; scenario targets revised upward again
+- Downside trigger: Fed cuts 100bps+ AND NIM compression to <2.50% confirmed in sequential data (unchanged — not yet triggered)
 
 **3-Year View:**
-- Bull: $165–180 (FY2027E $7.22 × 22–25× as monetization layers flow + buyback compounding)
-- Base: $120–135 (FY2027E $7.22 × 17–18× normalized P/E)
-- Bear: $65–75 (deep rate-cut scenario + NIM structural compression)
+- Bull: $175–195 (FY2027E $7.80 × 22–25× as monetization layers flow + buyback compounding, updated for higher EPS base)
+- Base: $130–145 (FY2027E $7.80 × 17–18× normalized P/E)
+- Bear: $70–80 (deep rate-cut scenario + NIM structural compression, updated for higher revenue floor)
 
-**Portfolio Recommendation:** *(updated 2026-07-17)*
-- Existing positions: **Hold** — thesis intact, T1 achieved, T2 in sight. Maintain stop at $95 pre-earnings; adjust post-Q2 per §15 checklist.
-- New positions: **Wait** — R/R ~1:1 at current price; wait for Q2 beat + upward scenario revision, or pullback to $92–95 range.
-- Primary monitoring trigger: Q2 2026 earnings 2026-07-21 盘前
+**Portfolio Recommendation:** *(updated 2026-08-17)*
+- Existing positions: **Hold** — thesis Strengthened, Q2 beat on both lines, Golden Cross confirmed. **Raise stop from $95 to $100** per the pre-set §15 checklist rule ("strong result → raise stop $95→$98–100").
+- New positions: **Wait** — R/R ~0.9:1 at current price, essentially unchanged from 07-17 despite the beat (price and estimates moved together); wait for Q3 confirmation or a pullback toward $96–99 (new MA50/MA150 zone).
+- Primary monitoring trigger: Q3 2026 earnings 2026-10-15
 
-**Verdict (updated 2026-07-17, $101.56):** The original thesis is executing — NIM recovery, earnings rerating, and price action are all on track. T1 ($95) was reached; T2 ($107 ≈ PW EV) is within 5.4%. At $101.56, the position is a **Hold** for existing holders. The 2023 cash-sorting episode is structurally resolved ($92B high-cost debt eliminated), the balance sheet is clean, and capital return is at record pace ($2.4B Q1 buyback + 19% dividend raise). Near-term asymmetry has compressed: PW return +5.7%, R/R ~1:1 at current price. For the thesis to remain compelling *from here*, Q2 2026 (2026-07-21) must confirm continued NIM strength and prompt an upward revision to the $108 base / $130 bull scenario targets. Until then: Hold, maintain stop $95, watch for Q2 catalyst.
+**Verdict (updated 2026-08-17, $110.90):** The thesis has moved from "executing" to **Strengthened**. Q2 2026 delivered a clean beat on both EPS (+4.55%) and revenue (+2.64%), the buyback pace *accelerated* ($2.4B→$3.05B q/q) rather than merely holding, and the technical structure completed its Golden Cross (MA50 > MA150 > MA200) — all four signals point the same direction. T1 ($95) and the original T2/PW EV ($107.40) are both now behind the price. The 2023 cash-sorting episode remains structurally resolved. What has NOT improved is near-term asymmetry: the rescaled PW EV ($116.10) is only +4.7% above the current price, because the market re-rated the stock in step with the estimate revisions rather than lagging them. This is a **Hold** for existing holders with the stop raised to $100 per the pre-set checklist rule, and a **Wait** for new entries — the fundamental story is better, but it is not currently mispriced.
 
 ---
 
 ## 15. Monitoring Checklist
 
-### Near-Term (Status Update — 2026-07-17)
+### Near-Term (Status Update — 2026-08-17)
 - [x] **Federal Reserve FOMC June/July meetings**: Fed on hold → NIM tailwind intact ✅
-- [x] **Investor AI Assistant launch (June 2026)**: Launched ✅ — early adoption metrics await Q2 disclosure
-- [x] **Price above MA50 ($92.62)**: ✅ Achieved — price $101.56, +9.6% above MA50
+- [x] **Investor AI Assistant launch (June 2026)**: Launched ✅
+- [x] **Price above MA50 ($92.62 at time of check)**: ✅ Achieved, now Golden Cross confirmed (MA50>MA150>MA200)
 - [x] **T1 price target $95**: ✅ Achieved
-- [ ] **Weekly sweep balance trends**: Monitor Q2 disclosure for sequential direction
+- [x] **Q2 EPS vs consensus $1.55**: ✅ Beat +4.55% ($1.62 actual) — clears the "≥+3% = strength" bar
+- [x] **FY2026 estimate trajectory**: ✅ $6.49 consensus, above the $6.20 "bull-trigger" threshold set at 07-17
+- [x] **1H26 cumulative buyback**: ✅ $2.4B (Q1) + $3.05B (Q2) = $5.45B, above the ">$4.5B = strong" bar
+- [x] **Post-Q2 stop adjustment**: ✅ Strong result confirmed → **stop raised $95 → $100**
+- [ ] **Weekly sweep balance trends**: Still monitor Q3 disclosure for sequential direction (not separately broken out in Q2 release)
+- [ ] **Active-ETF platform progress**: On track for YE2026 target — no incremental disclosure this quarter
+- [ ] **Crypto rollout update**: No incremental disclosure this quarter
 - ~~[ ] **Price alert $80**~~: Not triggered; moot at current price — removed from active watch
 
-### Mid-Term (Q2 2026 Earnings — **2026-07-21 盘前**) ← IMMINENT
-- [ ] **Q2 EPS vs consensus $1.55**: Beat ≥+3% = strength; in-line = neutral; miss >-5% = yellow
-- [ ] **FY2026 formal EPS guidance**: ≥$6.20 = bull (triggers scenario upward revision); $5.90–$6.20 = base (Hold confirmed); <$5.80 = thesis-weakened
-- [ ] **NIM trajectory guidance**: ≥2.90% FY2026 confirmed = thesis strength; <2.80% = yellow
-- [ ] **Sequential sweep/deposit balance**: Continuing organic growth = thesis strength; reversal = warning
-- [ ] **1H26 cumulative buyback**: >$4.5B (pace maintained) = strong; <$3B = reduced capital flexibility
-- [ ] **Active-ETF platform progress**: On track for YE2026 = incremental positive
-- [ ] **Crypto rollout update**: Economics and early adoption metrics
-- [ ] **Post-Q2 stop adjustment**: Strong result → raise stop $95→$98–100; weak → hold $95
+### Mid-Term (Q3 2026 Earnings — **2026-10-15**)
+- [ ] **Q3 EPS vs consensus $1.67**: Beat ≥+3% = strength continues; in-line = neutral; miss >-5% = yellow
+- [ ] **FY2026 formal guidance (if refreshed)**: Further upward revision = bull confirmed; hold at $6.49 = base intact; cut = thesis-weakened
+- [ ] **NIM trajectory**: ≥2.90% confirmed = thesis strength; <2.80% = yellow
+- [ ] **Q3 buyback pace**: ≥$3B (matching or exceeding Q2's $3.05B) = strong; <$2B = reduced capital flexibility
+- [ ] **Active-ETF platform progress**: Concrete YE2026 timeline confirmation
+- [ ] **Post-Q3 stop adjustment**: Strong result → raise stop $100→$103–105; weak → hold $100
 
 ### Thesis-Break Triggers (Any ONE = Immediately Reassess)
 1. **NIM <2.50% for 2 consecutive quarters** — signals structural compression, not cyclical noise

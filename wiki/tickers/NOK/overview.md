@@ -4,8 +4,8 @@ source: austin
 
 # NOK — Nokia Oyj
 
-**Last updated**: 2026-04-30
-**Status**: Watch — Stage 2 confirmed, 8/8 trend template; but extended 44.9% above MA50 at 52-week high; PW EV $9.75 vs current $12.91
+**Last updated**: 2026-08-12 (via /stock-refresh)
+**Status**: Watch — price $10.39 has round-tripped back into the original $10.00-11.50 entry zone; Q2 2026 delivered €2.8B AI/Cloud orders (second confirmation of the AI-order thesis) + raised FY26 guidance; PW EV $9.75 is stale, needs recalculation before sizing any entry
 **Source of promotion**: Chen Yun WeChat group (首次提及 2026-04-03; 🔥🔥🔥 强推 2026-04-29; validated 2026-04-30)
 **Language**: English | [中文](overview.zh.md)
 
@@ -23,10 +23,10 @@ Nokia designs and sells 5G/4G mobile networks, fiber/optical/IP infrastructure, 
 
 | Metric | Value |
 |--------|-------|
-| Market Cap | $72.1B |
+| Market Cap | $58.0B (2026-08-12) |
 | Revenue TTM | ~$20.0B |
 | Gross Margin | 43.5% |
-| Operating Margin | 3.9% (depressed by $4.86B R&D) |
+| Operating Margin | FY26 guided to €2.1-2.6B comp. op profit (raised, up from prior ~3.9% baseline) |
 | Free Cash Flow (FY2025) | $1.47B |
 | Cash + Investments | $6.76B |
 | Total Debt | $4.41B |

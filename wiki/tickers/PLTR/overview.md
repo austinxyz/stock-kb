@@ -4,8 +4,8 @@ source: austin
 
 # PLTR — Palantir Technologies Inc.
 
-**Last updated**: 2026-07-30
-**Status**: Watch — Stage 4 confirmed ($120.51, –42% from peak); fundamentals intact (est. 3↑/0↓); earnings 2026-08-03 in 4 days; 52-wk low $106 is next support
+**Last updated**: 2026-08-18
+**Status**: Watch — Q2 2026 beat (rev +92.9% YoY, EPS +18.5% surprise) drove +43% rally to $172.71; technical stage recovering (~5/7 trend template, was 0/7) but valuation re-rated (P/S 55x→67x) faster than estimates, so recalculated PW EV (~$178.5) implies only ~3% upside — blocker shifted from technical to valuation
 **Source of promotion**: Direct research (triggered by Q1 2026 earnings beat + guidance raise, May 5 2026)
 **Language**: English | [中文](overview.zh.md)
 
@@ -23,18 +23,18 @@ Palantir builds the data and AI operating system for governments and enterprises
 
 | Attribute | Value |
 |-----------|-------|
-| Market cap | $319.2B (2026-05-06) |
+| Market cap | $415.0B (2026-08-18) |
 | Revenue (FY2025) | $4,475M (+56% YoY) |
-| Revenue TTM (to Q1 2026) | $5,224M (+84.7% YoY) |
+| Revenue TTM (to Q2 2026) | ~$6,156M (+~89% YoY) |
 | Gross margin (FY2025) | 82.4% |
-| Operating margin (FY2025) | 31.6% |
-| FCF (FY2025) | $2,101M (47% FCF margin) |
-| Cash + ST Investments | $7,177M (Dec 2025); ~$8B+ current |
+| Operating margin (Q2 2026) | 47.1% (up from FY2025's 31.6%) |
+| FCF (FY2025) | $2,101M (47% FCF margin); FY2026 update pending 10-Q |
+| Cash + ST Investments | $7,177M (Dec 2025); growing with $1B+/quarter net income |
 | Total debt | $229M (capital leases only; no financial debt) |
-| Beta (5Y) | 1.52 |
-| Shares outstanding | 2,391M |
+| Beta (5Y) | 1.56 |
+| Shares outstanding | 2,301M |
 | SBC (FY2025) | $684M (15.3% of revenue, declining trend) |
-| Q1 2026 EPS | $0.33 actual (+18.1% beat vs $0.279 estimate) |
+| Q2 2026 EPS | $0.41 actual (+18.5% beat vs $0.346 estimate); revenue $1,935M (+92.9% YoY) |
 
 ---
 
@@ -56,24 +56,24 @@ Palantir builds the data and AI operating system for governments and enterprises
 
 ---
 
-## Technical Summary (2026-07-30)
+## Technical Summary (2026-08-18)
 
 | Metric | Value |
 |--------|-------|
-| Price | **$120.51** |
+| Price | **$172.71** |
 | 52-wk range | $106.37 – $207.52 |
-| vs 52-wk low | +13.3% |
-| vs 52-wk high | **–42.0%** |
-| MA50 | **$130.93** (–8.0% above current) |
-| MA150 | $144.10 (–19.6% above current) |
-| MA200 | $153.15 (–27.1% above current) |
-| ATR14 | $6.12 |
-| Avg Volume (20d) | ~42.0M shares |
-| Trend Template Score | **~0/7** (Stage 4 — all criteria failing) |
-| Pattern | Stage 4 acceleration; bottom of prior $120–130 wait zone; no base formation; 52-wk low $106 next support |
-| Nearest valid entry | Not applicable — earnings in 4 days; wait for Q2 print + base formation |
-| Next earnings | **Q2 2026 — 2026-08-03 (4 days)** |
-| SEPA verdict | **Avoid** (Stage 4, below all MAs, 0/7 trend template) |
+| vs 52-wk low | **+62.4%** |
+| vs 52-wk high | **–16.8%** |
+| MA50 | $136.35 (price is +26.7% above — reclaimed) |
+| MA150 | $142.52 (price is +21.2% above — reclaimed) |
+| MA200 | $151.88 (price is +13.7% above — reclaimed; but MA200 itself still trending down, –2.3% vs 1 month ago) |
+| ATR14 | $7.16 (up from $6.12 — volatility expanded post-earnings) |
+| Avg Volume (20d) | ~46.4M shares (10d avg ~57.9M, elevated post-earnings) |
+| Trend Template Score | **~5/7** (up sharply from 0/7 on 07-30) — passes: price>50/150/200MA, >30% above low, within 25% of high; fails: 150MA still < 200MA, 200MA not yet trending up |
+| Pattern | Stage 4→Stage 1/2 transition: gap-and-run off the Q2 2026 earnings beat (2026-08-05), not a classic base breakout. MA alignment not yet bullish (150MA<200MA) so this is not a confirmed Stage 2 by strict SEPA rules |
+| Nearest valid entry | Not clean — stock is extended off the earnings gap, not in a fresh base. Wait for consolidation/pullback (ideally toward $150s) before treating as an entry |
+| Next earnings | **Q3 2026 — 2026-11-02** |
+| SEPA verdict | **Watch, not Buy** — technical damage has healed faster than a proper base could form; chasing the extension is not a SEPA-compliant entry even though the fundamental trigger (earnings beat) was genuine |
 
 ---
 
@@ -91,14 +91,15 @@ PLTR underperforming large-cap peers in this correction — typical for highest-
 
 ---
 
-## Social Sentiment (2026-05-06)
+## Social Sentiment (2026-08-18)
 
 | Platform | Signal | Basis |
 |---------|--------|-------|
-| X.com / Twitter | Bullish | Wedbush ($230), Rosenblatt ($225) post-earnings upgrades driving positive flow |
-| Reddit (r/PLTR, r/stocks) | Bullish–Neutral | Strong Q1 beat being discussed; retail holders holding, some selling relief rally |
-| News sentiment | Bullish | "Revenue surges," "cannot meet demand," Karp boot camp narrative dominant |
-| **Overall** | **Cautiously Bullish** | Post-earnings positivity offset by -36% from peak technical damage |
+| Reddit (r/PLTR, r/stocks, 7-day) | Neutral | Buzz score 73.3 (elevated, stable trend), 563 mentions across 37 subreddits; bullish 25% / bearish 21% / sentiment score ~0.02 — chatter is high but not lopsidedly bullish despite the +43% rally, consistent with debate over "did the stock already price in the beat" |
+| News sentiment | Bullish (qualitative, not re-verified this refresh) | Earnings beat headlines dominant early August; not independently re-checked |
+| **Overall** | **Neutral-to-mildly-bullish** | Notably more balanced than the 2026-05-06 "Cautiously Bullish" reading — retail sentiment has not chased the rally as hard as the price move itself, which is a mild positive (less froth) but also confirms no fresh bullish catalyst beyond the earnings print itself |
+
+*(Prior 2026-05-06 reading: X.com/Twitter Bullish on post-earnings analyst upgrades, Reddit Bullish-Neutral, News Bullish, Overall Cautiously Bullish — not re-pulled this cycle; only Reddit re-checked via Adanos.)*
 
 ---
 

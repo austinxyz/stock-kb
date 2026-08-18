@@ -9,6 +9,15 @@ Per-ticker change log documenting thesis evolution and action triggers.
 
 ---
 
+## 2026-08-18 — Exit Analysis
+
+**Price:** $381.17 | **Lot 1 stop:** $380 (unchanged, close-basis) | **Lot 2:** thesis stop replaced with **hard stop $364** (executed, supersedes $330 catastrophic floor)
+**Exit mode:** 🔴 Defensive (plus ⚠️ single-stock signal: 5d AVGO -8.4% vs SOXX -1.16%, notably underperforming semis peers) | SOXX vs MA50 -5.4%, sector heat 0/3
+**Full exit triggers:** Lot 1 close <$380 / Lot 2 close <$364 / Q3 AI XPU <$14B / Google in-house XPU / ByteDance export controls / Samsung ITC certification
+**File:** [exit-2026-08-18.md](../../../data/outputs/AVGO/exit-2026-08-18.md)
+
+---
+
 ## 2026-08-03 — Exit Analysis
 
 **当前价：** $390.09 | **保守止损：** $364 → **上调至 $380**（MA50 - 1×ATR）| **论文止损：** $330

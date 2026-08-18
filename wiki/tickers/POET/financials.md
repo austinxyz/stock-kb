@@ -4,37 +4,34 @@ source: austin
 
 # POET — Key Financial Metrics
 
-**Last updated**: 2026-05-14
-**Data source**: yfinance / Yahoo Finance (2026-05-14), stockanalysis.com (FY2021–FY2025), POET IR, GlobeNewswire (Lumilens PR)
-**Next update trigger**: Q2 2026 earnings — ~August 2026
+**Last updated**: 2026-08-13 (Q2 2026 earnings refresh — revenue thesis-break trigger hit)
+**Data source**: yfinance / Yahoo Finance, GlobeNewswire (Q2 2026 press release, 2026-08-13), WebSearch
+**Next update trigger**: Q3 2026 earnings — ~November 2026; or PFIC litigation development (whichever comes first)
 **Language**: English | [中文](financials.zh.md)
 
 ---
 
-## Price & Market Data (2026-05-14)
+## Price & Market Data (2026-08-13)
 
 | Metric | Value |
 |--------|------:|
-| Price | **$20.57** |
-| Change from prev close ($14.37) | +$6.20 (+43.15%) |
-| Intraday high (ATH) | $20.81 |
-| 52-week range | $3.87 – **$20.81** (new ATH) |
-| Market cap | ~$3.14B |
-| MA50 | $7.79 (price +164% above) |
-| MA150 | $6.98 (price +195% above) |
-| MA200 | $6.59 (price +212% above) |
-| ATR(14) | ~$2.10 |
-| Vol ratio (today) | 4.31× |
+| Price | **$8.91** (today +0.45%) |
+| 52-week range | $3.87 – $20.81 (–56.8% from ATH) |
+| Market cap | ~$1.54B |
+| MA50 | $9.49 (price **–6.1%** below — not yet reclaimed) |
+| MA150 | $8.61 (price +3.5% above — reclaimed) |
+| MA200 | $7.95 (price +12.1% above — reclaimed) |
+| ATR(14) | ~$0.63 |
+| Vol ratio (today) | ~97% (5-min metric; elevated) |
 | Beta (5Y monthly) | 0.37¹ |
-| EPS TTM | ~–$0.65 (Q1 2026 update) |
+| Shares Outstanding | ~172.6M |
 | P / E | N/A (negative) |
-| P / S (TTM) | ~1,300× (revenue still small) |
-| Analyst median target | **$8.20** (stale; pre-Lumilens; expect upward revisions) |
-| Short % of float | 8.2% (pre-deal; short squeeze risk elevated) |
-| Institutional ownership | 7.6% |
-| Lumilens warrant shares (potential) | 22.9M @$8.25 (deep in-the-money; dilution risk) |
+| Analyst median target | N/A (no active price target per yfinance as of this refresh) |
+| Lumilens warrant shares (potential) | 22.9M @$8.25 (out-of-the-money at $8.91 close to strike; exercise no longer near-certain) |
 
 ¹Beta 0.37 reflects historical thin trading; realized volatility is 4–6× broader market.
+
+**Since prior refresh (2026-07-29, $6.77)**: price +31.6% over two weeks, largely a technical recovery (MA150/MA200 reclaimed) ahead of today's earnings — not driven by new fundamental information until today's print.
 
 ---
 
@@ -89,11 +86,9 @@ burn expected to be $35–40M as Malaysia facility production costs layer in.
 | Total Assets | 27.2 | 15.4 | 8.8 | 69.7 | 328.6 | — |
 | Shares Outstanding (M) | 36.7 | 36.5 | 48.2 | 78.1 | 132.0 | **~152.7** |
 
-**Post Jan 2026 raise**: Cash ~$430M (confirmed via POET IR disclosures).
-Shares ~152.7M (confirmed via yfinance 2026-04-26).
+**Post May 2026 $400M raise + Q2 2026 update**: Cash + ST investments **$796.3M** (company-reported, 2026-08-13). Shares ~172.6M.
 
-**Cash runway**: ~$430M / ~$35M annual burn ≈ **12–13 years.** By far the longest runway
-among speculative photonic peers. No near-term survival risk.
+**Cash runway**: at Q2's quarterly operating cash burn of $(12.2)M (~$49M annualized), $796.3M ≈ **16+ years.** Survival risk remains a non-issue — the balance sheet is not the concern; revenue execution is.
 
 ---
 
@@ -106,6 +101,7 @@ among speculative photonic peers. No near-term survival risk.
 | Q3 2025 (Sep) | $298K | –$7.7M | –$9.4M | Sequential revenue growth |
 | Q4 2025 (Dec) | $341K | –$9.6M | –$42.7M | Large net loss from capital raise FX/warrant effects |
 | **Q1 2026 (Mar)** | **~$1.1M** | — | — | **+216% vs. $348K estimate; Lumilens deal announced same day** |
+| **Q2 2026 (Jun)** | **$569,925** | — | **–$11.3M** (co. reported) | ⚠️ +13% QoQ, +112% YoY (vs. tiny $418K prior-year base) — but **misses all three pre-set revenue thresholds**: §11 build-trigger ($3M), §15 monitoring target ($10M), and §15 thesis-break floor (~$4M/qtr from Lumilens PO pacing). Lumilens PO not yet materially contributing to recognized revenue. |
 
 **Q4 2025 net loss anomaly**: $42.7M net loss vs. $9.6M operating loss — the $33M
 gap reflects non-cash financing-related items from the large Q4 2025/January 2026
@@ -114,6 +110,8 @@ capital raises. Revenue itself continued to grow sequentially.
 **Q1 2026 actual**: Revenue ~$1.1M smashed the $348K consensus estimate (+216%). EPS –$0.03
 vs. –$0.04 estimate (beat). Malaysia light-source facility confirmed on track for Q2 2026
 production start. Lumilens supply agreement announced on the same day, driving +43.15% stock move.
+
+**Q2 2026 actual (2026-08-13)**: Revenue $569,925 — company press release frames this as "+112% YoY, sixth consecutive quarter of sequential growth," which is accurate but the YoY comparison is against a near-zero base ($418K). In absolute dollar terms this is a clear miss against every revenue threshold this thesis previously set as proof the Malaysia/Lumilens ramp was materializing (see §15 thesis-break trigger). Net loss $11.3M / $(0.07) per share per company release (narrowed from Q1's $12.3M); yfinance's cached earnings-calendar entry instead shows actual EPS $(0.10) vs. estimate $(0.07) (–40.43% surprise) — the two figures disagree, likely a GAAP/adjusted or basic/diluted difference; both are presented here pending reconciliation. Operating cash flow worsened to $(12.2)M (from prior quarter). Cash + ST investments: **$796.3M** (record, post the $400M raise). Gross margin remains negative — production mix has not yet turned the company profitable at the gross-margin line.
 
 ---
 
@@ -136,22 +134,20 @@ Q4 2025/Jan 2026), which reduced future dilution risk vs. a distressed-price rai
 
 ## Estimate Momentum
 
-**Coverage**: 1 analyst (Craig-Hallum). Extremely thin — any "consensus" is a single view. **All pre-Lumilens estimates are now stale — expect significant upward revisions in coming weeks.**
+**Coverage**: still extremely thin (1 analyst per yfinance current tables). **Post-Q2 actuals below all thresholds — the "post-Lumilens upward revision" expected as of 5/14 and 7/29 has not materialized in the revenue print itself.**
 
-### Revenue Estimates by Period (pre-Lumilens; stale as of 2026-05-14)
+### Revenue Estimates by Period (updated 2026-08-13)
 
-| Period | Revenue Est. (stale) | Q1 2026 Actual | Notes |
-|--------|--------------------:|---------------:|-------|
-| Q1 2026 | $348K | **~$1.1M** (+216%) | ✅ Reported; massive beat |
-| Q2 2026 | $1.32M | — | ⚠️ Stale — Lumilens ramp not included |
-| FY2026 | $13.9M | — | ⚠️ Stale — $50M Lumilens PO not included |
-| FY2027 | $111.4M | — | ⚠️ Stale — $500M framework not included |
+| Period | Estimate (yfinance) | Actual | Notes |
+|--------|--------------------:|-------:|-------|
+| Q1 2026 | $348K | $1.1M (+216%) | ✅ Reported; massive beat |
+| Q2 2026 | ~$3.25M (per yfinance "0q" snapshot pre-print) | **$569,925** | ❌ Miss of ~82% vs. that estimate if the comparison is apples-to-apples (period labeling ambiguous post-print; flagged, not asserted with full confidence) |
+| FY2026 | $13.9M (stale pre-Lumilens estimate) | H1 2026 actual ~$1.07M (Q1 $1.1M + Q2 $0.57M) | Company would need ~$12.8M in H2 to hit the stale $13.9M full-year estimate — a >12× sequential jump from Q2's pace, with no confirmed order flow yet visible in revenue |
+| FY2027 | $138.3M (stale) | — | Increasingly detached from H1 2026 trajectory unless H2 shows a step-change |
 
-**Expected estimate trajectory (post-Lumilens)**: FY2026 upside to $30–50M+ (if $50M PO executes within 12 months); FY2027 upside to $150–200M+ (if $500M framework begins ramping). Analyst upgrades and coverage expansion likely in coming weeks.
+**Share dilution from Lumilens warrants**: 22.9M warrants @$8.25; at $8.91 current price these are only modestly in-the-money (vs. deep ITM at $20.57 in May) — exercise is no longer near-certain, reducing expected cash inflow from that source.
 
-**Share dilution from Lumilens warrants**: 22.9M warrants @$8.25; at $20.57 current price, these are deep in-the-money and will likely be exercised, adding ~15% to share count (152.7M → ~175.6M). Cash inflow from exercise: ~$189M.
-
-**Overall signal: Bullish (major catalyst).** Lumilens deal fundamentally changes FY2026–FY2027 revenue picture. Prior bearish/neutral estimate signal fully invalidated. New risk = warrant dilution + management fraud overhang.
+**Overall signal: Weakened.** The Lumilens deal's revenue contribution has not yet shown up in reported numbers two quarters after signing (5/14 deal, Q1 and Q2 both reported since). This doesn't invalidate the deal (12-month PO, revenue recognition timing can lag order timing), but the thesis explicitly used Q2 revenue as the first hard checkpoint, and that checkpoint was missed.
 
 ---
 
@@ -166,19 +162,21 @@ Q4 2025/Jan 2026), which reduced future dilution risk vs. a distressed-price rai
 | Q3 2025 (Sep) | –$0.08 | –$0.10 | **–20%** | $298K |
 | Q4 2025 (Dec) | –$0.06 | **–$0.25** | **–323%** | $341K |
 | **Q1 2026 (Mar)** | –$0.04 | **–$0.03** | **+25%** | **~$1.1M** |
+| **Q2 2026 (Jun)** | –$0.07 | **–$0.10** (yfinance) / **–$0.07** (co. release) | **–40.4%** (yfinance) / in-line (co.) | **$569,925** |
 
 **Q4 2025 miss context**: –323% EPS miss driven by large net loss ($42.7M) vs. operating loss ($9.6M) — non-cash financing/warrant items, NOT operating deterioration. Revenue grew sequentially.
 
 **Q1 2026 beat**: Revenue $1.1M smashed $348K estimate (+216%). First EPS beat since inception. Lumilens $50M PO announced on same day. Malaysia Q2 ramp confirmed on track.
 
-### Next Earnings: ~August 2026 (Q2 2026)
+**Q2 2026 (2026-08-13)**: Revenue $569,925 — missed the $3M+ "strong validation" bar this section previously flagged, and missed the ~$1.32M pre-Lumilens stale estimate too. EPS figures disagree by source (see Quarterly Context above); market reaction was muted (+0.45% on report day), suggesting the miss was largely anticipated/already priced given the stock's -67% drawdown from ATH before today.
+
+### Next Earnings: ~November 2026 (Q3 2026)
 
 | Metric | Value |
 |--------|------:|
-| Revenue estimate (pre-Lumilens) | $1.32M (stale; expect significant upward revision) |
-| Key read | Lumilens $50M PO execution pace; Malaysia engine shipment volume; Foxconn/Luxshare status update |
+| Key read | Whether H2 2026 shows the Lumilens PO stepping up in recognized revenue — Q2's near-flat print raises the bar for what "on track" means; Malaysia engine shipment volume; Foxconn/Luxshare status update; PFIC litigation developments |
 
-**First earnings where production revenue should appear at scale.** Malaysia light-source ramp begins Q2 2026. Revenue $3M+ in Q2 would be a strong validation signal.
+**Q2 2026 was supposed to be the first quarter production revenue appeared at scale. It did not.** Q3 2026 is now the next real checkpoint — and the bar is higher after Q2's miss (thesis-break trigger explicitly ties Q2/Q3 combined pace to the ~$4M/quarter Lumilens floor).
 
 ---
 
@@ -295,12 +293,13 @@ capitulation, not analysts raising targets.
 
 | Date | Event | What to Watch |
 |------|-------|---------------|
-| **May 14, 2026** | Q1 2026 earnings | Revenue sequential trend; Malaysia Q2 ramp reaffirmation; Foxconn/Luxshare color |
-| Q2 2026 (Aug) | Q2 2026 earnings | Malaysia light-source revenue contribution — **key thesis test** |
-| Q3 2026 (Nov) | Q3 2026 earnings | 800G engine production begins |
-| Any time | Foxconn OR Luxshare volume PO announcement | Binary thesis-confirming event |
-| Late 2026 | LITEON prototype shipments | Volume production path confirmation |
-| 2030 | N/A — no debt maturity wall | POET is effectively debt-free ($7M); no refinancing pressure |
+| ✅ May 14, 2026 | Q1 2026 earnings | Revenue $1.1M (+216% beat); Lumilens deal announced same day |
+| ✅ 2026-08-13 | **Q2 2026 earnings — CONFIRMED** | Revenue $569,925 — **missed the "key thesis test" bar this row previously flagged**; cash $796.3M (record); net loss narrowed per co. release but EPS figures disagree by source (see §Earnings Track Record) |
+| **~Nov 2026** | **Q3 2026 earnings (next)** | Whether H2 shows Lumilens PO stepping up in recognized revenue — bar is higher after Q2's miss |
+| Any time | Foxconn OR Luxshare volume PO announcement | Binary thesis-confirming event — still absent |
+| Any time | PFIC class-action litigation development | Lead plaintiff / settlement / dismissal news |
+| Late 2026 | Company guidance: "further announcements in September" + "substantial production shipments by end of 2026" | Per Q2 press release; watch for specificity |
+| N/A | No debt maturity wall | POET is effectively debt-free ($7M); no refinancing pressure |
 
 ---
 
@@ -316,8 +315,11 @@ capitulation, not analysts raising targets.
 - stockanalysis.com/stocks/poet/forecast/ — analyst consensus targets
 - `raw/analyses/chen.md` — Yun Chen mentions (4/3, 4/11, 4/20, 4/21, 4/24)
 
+- POET Technologies Q2 2026 earnings press release (GlobeNewswire, 2026-08-13)
+- WebSearch: Q2 2026 results coverage (TipRanks, StockTitan, Yahoo Finance)
+
 **Data gaps**:
 - FY2025 10-K customer concentration + geographic revenue segment
-- Q1 2026 10-Q (due May 14, 2026)
-- January 2026 raise: exact share count + offering price
+- EPS discrepancy between yfinance ($(0.10)) and company release ($(0.07)) for Q2 2026 — not reconciled in this refresh, needs 6-K detail review
 - Foxconn / Luxshare PO disclosure (if/when announced)
+- PFIC litigation status (lead plaintiff, next filing deadline) — not re-checked this refresh; carry forward from 7/29

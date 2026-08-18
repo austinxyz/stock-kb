@@ -4,9 +4,9 @@ source: austin
 
 # NKE — Key Financial Metrics
 
-**Last updated**: 2026-05-27
-**Data source**: Yahoo Finance (yfinance), Nike IR
-**Next update trigger**: Q4 FY2026 earnings — June 25, 2026 (AH); FY2027 guidance
+**Last updated**: 2026-08-12 (via /stock-refresh)
+**Data source**: Yahoo Finance (yfinance), WebSearch (news since May)
+**Next update trigger**: Q1 FY2027 earnings — 2026-09-29
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -15,18 +15,19 @@ source: austin
 
 | Metric | Value |
 |--------|-------|
-| Price | $46.16 |
-| Today's Change | +2.72% |
-| 52-wk Range | $41.35 – $80.17 |
-| Position vs 52-wk | +11.6% above low; -42.4% below high |
-| Market Cap | $68.5B |
-| Avg Volume (50d) | 22.1M shares |
+| Price | $40.68 |
+| Today's Change | -1.55% |
+| 52-wk Range | $40.00 – $80.17（新低已刷新）|
+| Market Cap | $60.35B |
 | Beta | 1.12 |
-| EPS TTM | $1.52 |
-| P/E (Trailing) | 30.4x |
-| P/E (Fwd FY26E) | ~30.8x |
-| Dividend Yield | 3.65% ($1.69/share annualized) |
-| Analyst Median Target | $55.80 |
+| Analyst Mean Target | $50.66 |
+| Analyst Median Target | $47.00 |
+| Analyst High/Low | $94.00 / $23.00 |
+| Rating Distribution | 1强买/11买/24持有/1卖/2强卖（39名分析师，明显偏Hold）|
+| MA50 | $43.06（现价低于-5.3%，5月时高于+0.3%，已转弱）|
+| MA150 | $49.67（现价低于-18.1%）|
+| MA200 | $52.90（现价低于-23.1%）|
+| 90天EPS预期变化 | 本财年-6.5%，下财年-8.6%（30天内5上7下，全年4上17下，明年1上16下——净下修）|
 
 ---
 
@@ -141,11 +142,11 @@ Q4 is seasonally weak. Consensus estimates flat-to-slightly-declining. Critical:
 | Q1 FY26 (Aug 2025) | $0.27 | $0.49 | +84.5% ⭐ | $11.72B |
 | Q2 FY26 (Nov 2025) | $0.37 | $0.53 | +41.9% | $12.43B |
 | Q3 FY26 (Feb 2026) | $0.28 | $0.35 | +24.3% | $11.28B |
-| **Q4 FY26 (Jun 2026)** | **$0.12** | **—** | — | **$10.84B est** |
+| **Q4 FY26 (~Jun 2026)** | $0.127 | $0.72 | **+466%** (per yfinance headline) | — |
 
-4 consecutive beats. Beat magnitude has been shrinking (84% → 41% → 24% → next?), suggesting the low bar is being normalized. The real test is whether beats continue AND revenue guidance accelerates.
+Despite the large headline beat, the stock did NOT rally — a wave of 13 analyst PT cuts began the very next trading session (2026-07-01), followed by JPMorgan's downgrade to Underweight ($40 target) on 2026-08-04. This is consistent with weak forward (FY27) guidance overshadowing the backward-looking beat.
 
-**Next earnings: Q4 FY2026 — June 25, 2026 (After Hours)**
+**Next earnings: 2026-09-29** (Q1 FY27). Consensus EPS ~$0.45 (range $0.41-$0.50), implying -10.2% YoY decline.
 
 ---
 

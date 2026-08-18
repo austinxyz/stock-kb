@@ -9,6 +9,13 @@ Per-ticker change log documenting thesis evolution and action triggers.
 
 ---
 
+## 2026-08-17 — Q2 Earnings + Post-Earnings Price Action (via /stock-refresh)
+
+Q2 2026 (reported 2026-07-21): EPS $1.62 beat consensus $1.55 by +4.55%; revenue $7.07B beat $6.89B by +2.64%. Buyback accelerated $2.4B(Q1)→$3.05B(Q2). FY2026E consensus revised up $6.15→$6.49 (+5.5%), FY2027E $7.22→$7.80 (+8.1%) — estimate momentum continued straight through the beat rather than pausing. Technical: Golden Cross now confirmed (MA50>MA150>MA200), price set new 52-wk high $111.64. T1($95) and original T2/PW EV($107.40) both now behind price ($110.90). Rescaled scenarios (same methodology, updated EPS inputs): Bull $142/Base $117/Bear $75 → new PW EV $116.10, R/R ~0.9:1 (essentially unchanged from 07-17 — price and estimates moved together, no fresh asymmetry created). Stop raised $95→$100 per pre-set checklist rule. No thesis-break triggers hit.
+**前次论点状态**: Hold (T1 achieved; PW EV approaching) → **更新后**: Hold, thesis **Strengthened** (verdict language upgraded; recommendation unchanged — Hold existing / Wait new entries)
+
+---
+
 ## 2026-07-17 — Pre-Earnings Refresh (via /stock-refresh)
 
 Price $101.56 (+16.3% from entry basis $87.35). T1 ($95) ✅ achieved. Stage 2 transition confirmed (price above MA50 $92.62 + MA200 $95.08; no Golden Cross yet). Consensus Q2 EPS revised up to $1.55 (from $1.51 30d ago). R/R compressed from original 2.7:1 → ~1:1 at current price (PW EV $107.40 = only +5.7% upside). Verdict: **Hold** for existing positions; new-entry asymmetry reduced — wait for Q2 beat or pullback to $92–95. BAIT T upgraded Moderate → Moderate-Strong.

@@ -4,8 +4,8 @@ source: austin
 
 # MRVL — Marvell Technology, Inc.
 
-**Last updated**: 2026-07-20
-**Status**: Watch (Technical Correction) — thesis intact; stock -38% from ATH $316; price -17.4% below MA50; re-entry requires MA50 reclaim + Q2 FY27 beat (2026-08-27)
+**Last updated**: 2026-08-18
+**Status**: Watch (Technical Correction — Earnings Catalyst 9 Days Out) — thesis intact and strengthening (estimates revised up); stock -35% from ATH $329.88; failed MA50 reclaim attempt (rejected at $240 on 8/17, -9.0% sector-wide selloff on 8/18); re-entry requires MA50 reclaim + Q2 FY27 beat (2026-08-27)
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -24,7 +24,7 @@ Note: MRVL reports on a January 31 fiscal year end (FY2026 = Feb 2025–Jan 2026
 
 | Attribute | Value |
 |-----------|-------|
-| Market cap | $175.0B |
+| Market cap | $191.4B |
 | Revenue (FY2026) | $8.19B (+42% YoY) |
 | Gross margin (GAAP FY2026) | 51.0% |
 | Operating margin (GAAP FY2026) | 16.3% |
@@ -62,22 +62,20 @@ Note: MRVL reports on a January 31 fiscal year end (FY2026 = Feb 2025–Jan 2026
 
 | Metric | Value |
 |--------|-------|
-| Price | **$194.94** (+3.32% 2026-07-20) |
-| 50-day MA | **$235.96** (price **-17.4%** below) |
-| 150-day MA | $144.44 (price +35% above) |
-| 200-day MA | $130.33 (price +50% above) |
-| ATR (14d) | $16.54 |
-| 52-wk range | $62.18 – $316.35 |
-| % from 52-wk high | **–38.4%** (ATH $316.35 hit post-May) |
-| Trend template score | **~5/8** (fails: price<MA50, price>52wH-25%) |
-| Stage | **3 transition** (topping/corrective from Stage 2) |
-| Pattern | No valid base — corrective phase; 10/11 call sweep may signal accumulation |
+| Price | **$213.20** (**-9.02%** 2026-08-18) |
+| 50-day MA | **$235.42** (price **-9.45%** below — failed reclaim) |
+| 150-day MA | $161.16 (price +32.3% above) |
+| 200-day MA | $142.73 (price +49.4% above) |
+| ATR (14d) | $16.82 |
+| 52-wk range | $61.44 – $329.88 |
+| % from 52-wk high | **–35.4%** (intraday ATH $329.88, 2026-06-18) |
+| Trend template score | **~6/8** (fails: price<MA50, price>52wH-25%) |
+| Stage | **3 correction, continuing** (failed MA50 breakout attempt) |
+| Pattern | No valid base — choppy corrective range $163–$240 since late June |
 | Re-entry trigger | MA50 ($235) reclaim + volume × 1.5× + Q2 FY27 beat (2026-08-27) |
-| Next earnings | **2026-08-27** (Q2 FY2027); EPS est $0.927 |
+| Next earnings | **2026-08-27** (Q2 FY2027, 9 days out); EPS est $0.929, revenue est $2.71B |
 
-**SEPA verdict**: Stage 3 transition. Stock ran from $208 (May 27) to ATH $316, then corrected -38% to $194. Price now -17.4% below MA50 — fails Stage 2 criterion. Thesis intact (analysts raised targets to $340–400; multiple upgrades Jun–Jul); but technical structure requires repair before new entry. Watch for MA50 reclaim pre-earnings. Today's $717K call sweep at $252.5 (7/31) = institutional positioning for near-term bounce/reclaim.
-
-**Today's signal (2026-07-20):** MRVL call $252.5 7/31 — vol 4,455, OI 46, Vol/OI 96.8×, notional $717K. Strike $252.5 ≈ analyst median target $242; implies expectation of MA50 reclaim within ~2 weeks. F&G 37 恐慌 = macro fear creating entry opportunity for patient buyers.
+**SEPA verdict**: Stage 3 correction continues. Stock rallied from the 7/29 low of $163 to $234.33 on 8/17 — a direct test of MA50 resistance ($235, intraday high $240.18) — then reversed hard, closing -9.0% at $213.20 on 8/18 as part of a broad semiconductor selloff (SOXX -5.1%, COHR -10.4%, NVTS -7.65%, INTC -6.56% same session; rising Treasury yields pressuring high-multiple growth names). No MRVL-specific news identified. Today's volume (16.25M) was below the 41.0M 3-month average — not a high-volume distribution day, i.e. this reads as sector rotation rather than institutional MRVL-specific selling. Fundamentals continue to strengthen in the background: 30–90 day EPS estimate revisions are up across FY2027E (+6.4%) and FY2028E (+15.2%) even as price fell. Q2 FY2027 earnings in 9 days (2026-08-27) is now the dominant near-term catalyst — a beat with a MA50 reclaim would resolve the correction; a miss or guide-down would confirm the Stage 3 thesis-break watch.
 
 ---
 
@@ -100,10 +98,10 @@ MRVL and AMD are the standout performers in the semiconductor space over the las
 
 | Platform | Signal | Basis |
 |----------|--------|-------|
-| Reddit | Bullish | Frequent discussion on r/semiconductors, r/stocks; AI ASIC thesis well understood by retail |
+| Reddit | Mildly bullish | 7-day buzz score 62.7 (rising trend), 212 mentions/61 posts across 13 subreddits; 32% bullish vs 8% bearish (2026-08-18, Adanos) |
 | X.com | Bullish | Regular mentions in #AI and #semiconductor threads; custom ASIC narrative gaining traction |
-| News | Bullish | Consistent positive coverage on hyperscaler design wins and AI capex spend |
-| **Overall** | **Bullish** | High institutional ownership (87.8%), low short interest (3.9%) — broadly owned and respected |
+| News | Bullish | Consistent positive coverage on hyperscaler design wins and AI capex spend; today's coverage frames the drop as sector-wide/macro, not company-specific |
+| **Overall** | **Bullish** | High institutional ownership, low short interest (3.9%) — broadly owned and respected; retail sentiment remains net-bullish through today's selloff |
 
 ---
 

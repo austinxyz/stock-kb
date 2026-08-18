@@ -127,6 +127,7 @@ See [thesis.md](thesis.md) for the full 15-section analysis.
 
 ## 历史出场分析
 
+- [2026-08-18 — Exit plan: Lot 1 stop $380 held, Lot 2 switched to hard stop $364 (defensive + single-stock signal)](../../../data/outputs/AVGO/exit-2026-08-18.md)
 - [2026-08-03 — 出场计划 保守止损$380，论文止损$330（防御模式）](../../../data/outputs/AVGO/exit-2026-08-03.md)
 
 ## 历史入场分析
