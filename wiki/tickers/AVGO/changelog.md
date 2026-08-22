@@ -9,6 +9,15 @@ Per-ticker change log documenting thesis evolution and action triggers.
 
 ---
 
+## 2026-08-19 — Exit Analysis (Full Exit)
+
+**Price:** $358.61 | **Lot 1 stop:** $364 hard stop — triggered, sell now (not close-gated) | **Lot 2 stop:** $380 close-basis — triggered, price well through
+**Exit mode:** 🔴 Defensive (plus ⚠️ single-stock signal: 5d AVGO -14.0% vs SOXX -5.5%, MRVL actually +6.0% same period) | Price broke below MA150/MA200 (not just MA50) — Stage 3 confirmed | SOXX vs MA50 -7.6%, sector heat 0/3, third consecutive weak day
+**Full exit triggers:** Both lot stops hit today — full exit, not a trim decision
+**File:** [exit-2026-08-19.md](../../../data/outputs/AVGO/exit-2026-08-19.md)
+
+---
+
 ## 2026-08-18 — Exit Analysis
 
 **Price:** $381.17 | **Lot 1 stop:** $380 (unchanged, close-basis) | **Lot 2:** thesis stop replaced with **hard stop $364** (executed, supersedes $330 catastrophic floor)

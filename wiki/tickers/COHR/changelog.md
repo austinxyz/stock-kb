@@ -4,6 +4,14 @@ source: austin
 
 # COHR — Changelog
 
+## 2026-08-18 — Entry Analysis
+
+**入场区间：** $295.00 — $315.00 | **止损：** $243.00（20.3%）| **目标 1：** $379.13 | **目标 2：** $440.00
+**Setup：** Stage 2（回调），MA150支撑测试，无pattern
+**File：** [entry-2026-08-18.md](../../../data/outputs/COHR/entry-2026-08-18.md)
+
+---
+
 ## 2026-08-18 — Technical Pullback Refresh (via /stock-refresh)
 
 Price -10.4% to $309.53 in a sector-wide AI-optics valuation reset (Coherent/Lumentum/AAOI all fell together, -7% to -17%; no COHR-specific news), giving back most of 8/17's +8% round-trip bounce. Meanwhile the full 30-day post-Q4 estimate revision cycle came in clean and strong: EPS estimates up +7% to +13% across all forward periods, analyst median target $400→$420. Zero estimate cuts accompany today's drop; volume 0.98× (in-line, not distribution). None of the 6 thesis-break triggers hit. PW EV $430 vs $309.53 = +38.9% upside, widest discount since thesis inception.

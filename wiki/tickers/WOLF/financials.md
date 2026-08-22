@@ -4,9 +4,9 @@ source: austin
 
 # WOLF — Key Financial Metrics
 
-**Last updated**: 2026-07-27
-**Data source**: stockanalysis.com (FY2021–FY2025 pre-bankruptcy), Wolfspeed IR, restructuring filings, yfinance (live 2026-07-27, Q3 FY2026 actuals)
-**Next update trigger**: 🔴 Q4 FY2026 earnings **2026-08-27** — revenue vs $130M break-floor
+**Last updated**: 2026-08-20
+**Data source**: stockanalysis.com (FY2021–FY2025 pre-bankruptcy), Wolfspeed IR, restructuring filings, yfinance (live 2026-08-20), Q4 FY2026 earnings release (SEC 8-K, 2026-08-19)
+**Next update trigger**: Q1 FY2027 earnings **2026-11-04** — revenue stabilization confirmation + GM/operating-loss trend resolution
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -23,27 +23,21 @@ source: austin
 
 ---
 
-## Price & Market Data (2026-07-27)
+## Price & Market Data (2026-08-20)
 
-| Metric | Value | vs 2026-05-27 |
+| Metric | Value | vs 2026-07-27 |
 |--------|------:|--------------|
-| Price | **$22.56** | **–64.3%** (from $63.26) |
-| Today's change | **–13.11%** | — |
+| Price | **$26.24** | +16.3% (from $22.56; still down sharply post-earnings from the $29.09 pre-earnings close, –9.8%) |
 | 52-week range | $8.05 – $80.82 | unchanged |
-| Position vs 52-wk | **27.9% of high** (+180% from low $8.05) | was 78% of high |
-| Market cap | **$1.24B** | from $3.06B |
-| **Post-emergence share count** | **51.97M** | from ~48.3M |
-| Float | 28.2M (54% of shares out) | — |
-| Book value / share | **$21.14** → price = **1.07× book** | — |
-| EPS TTM | **–$13.28** | — |
-| P / E | N/A (negative) | — |
-| Analyst target | **$30** (1 analyst, rec **Hold**) | was $40 — same lone analyst, target cut |
-| MA50 | **$48.23** — price **–53.2% below** | was +87.2% *above* → full reversal |
-| MA150 | $30.33 (–25.6% below) | — |
-| MA200 | $28.69 (–21.4% below) | — |
-| ATR (14d) | $2.85 (12.6% of price) | was $10.24 |
+| Market cap | **$1.36B** | from $1.24B |
+| **Post-emergence share count** | **51.97M** | **unchanged** — resolves the prior "financing-related share registration" concern as a resale registration, not new dilution |
+| Book value / share | **$21.14** → price = **1.24× book** | was 1.07× |
+| Cash & ST investments | **$1.089B** | from $1.16B — continued burn |
+| Total debt | ~$1.83B (unchanged, no new financing) | — |
+| Analyst target | $30 (thin coverage, Hold consensus, unchanged) | — |
+| Next earnings | **2026-11-04** (Q1 FY2027) | was 2026-08-27 (now reported) |
 
-**Technical reversal**: on 2026-05-27 the stock sat **+87.2% above** MA50 in parabolic extension. It is now **–53.2% below** MA50 — a complete round trip through Stage 3 into Stage 4 in nine weeks.
+**Note**: pre-earnings close was $29.09 (2026-08-19); stock fell to ~$26.36 in the after-hours/pre-market reaction to the Q4 miss vs. Street consensus, before settling at $26.24 on the next full session captured here.
 
 ---
 
@@ -56,25 +50,28 @@ source: austin
 | 2025-09 | $196.8M | — | –$77.1M | –39.2% | –$149.6M |
 | 2025-12 | $168.5M | **–14.4%** | –$78.3M | –46.5% | –$137.1M |
 | **2026-03** | **$150.2M** | **–10.9%** | **–$40.0M** | **–26.6%** | **–$108.1M** |
-| 2026-06E | ~$150M | flat | — | — | est. EPS –$1.465 |
+| **2026-06 (Q4 FY26 actual)** | **$149.6M** | **–0.4%** | **–$36.8M** | **–25.0%** | **–$115.4M** |
 
-**Two opposing signals, both real:**
-- 🔴 **Top line contracting** — $196.8M → $150.2M = **–24% over two quarters**, approaching the documented **$130M thesis-break floor**
-- 🟢 **Unit economics improving** — GM –46.5% → –26.6% (+20pts); operating loss –$137.1M → –$108.1M (–21%)
+**Q4 FY2026 actuals (reported 2026-08-19)**: Revenue $149.6M missed Street consensus ($223.55M) badly but landed inside the documented $130–150M decision band; Adj EPS –$2.26 vs. est. –$0.52. Non-GAAP gross margin –19.9%; operating cash flow –$54M. Power revenue ~$106M (+6% QoQ); AI datacenter revenue >2× YoY, +20% QoQ — the one clearly positive line item.
 
-The turnaround thesis rests on the second column. The break-trigger keys off the first.
+**Three signals, mixed for the first time**:
+- 🟢 **Revenue decline is stabilizing** — QoQ decline collapsed from –10.9% to **–0.4%**, the first quarter close to flat since the post-emergence decline began. Consistent with the Base Case's "$150–160M/quarter stabilization."
+- 🟡 **Gross margin still improving, but the pace collapsed** — –26.6% → –25.0% is only **+1.6pt**, versus +20pt the prior quarter.
+- 🔴 **Operating loss reversed its improving trend** — –$108.1M → **–$115.4M**, the first quarter-over-quarter widening since fresh-start accounting began. New data point, not previously visible.
+
+Neither the GM deceleration nor the operating-loss reversal is a single documented thesis-break trigger on its own (the break-trigger requires ≥2 consecutive quarters of GM stall/reversal). But this is the first quarter since the turnaround began where the improving-fundamentals column showed genuine friction rather than clean progress.
 
 ---
 
-## Balance Sheet & Runway (2026-07-27)
+## Balance Sheet & Runway (2026-08-20)
 
 | Metric | Value |
 |--------|------:|
-| Cash & equivalents | **$1.16B** |
-| Total debt | **$1.83B** (maturities extended to 2030 post-Ch.11) |
-| **Net debt** | **–$665M** |
-| Annualized burn (op loss run-rate) | ~$430M |
-| **Implied runway** | **~2.5 years** before refinancing becomes the binding question |
+| Cash & ST investments | **$1.089B** (from $1.16B) |
+| Total debt | **~$1.83B** (unchanged; maturities extended to 2030 post-Ch.11) |
+| **Net debt** | **–$741M** (widened from –$665M) |
+| Q4 operating cash flow | **–$54M** |
+| **Implied runway** | **~2 years** at current burn — shorter than the 07-27 estimate, driven by Q4's OCF and the operating-loss widening noted above |
 
 Not a near-term solvency issue. But unlike OKLO (net cash $2.2B), WOLF does not have the option to be patient indefinitely — the turnaround has a clock on it.
 
@@ -189,20 +186,37 @@ forgave $4.6B of this through Chapter 11.
 - Gross margin improvement is **the most important data point** — Mohawk Valley yield gains beginning to flow through
 - Three consecutive quarters of GM improvement post-emergence confirms operational progress
 
-### Q4 FY2026 Guidance (Apr–Jun 2026)
-- **Revenue estimate**: ~$150M (consensus flat; 0q est = $150M)
-- Gross margin: expected to continue improving toward 0
-- Earnings date: ~2026-08-XX (not yet set)
+### Q4 FY2026 ACTUALS (Jun 2026 quarter — reported 2026-08-19)
+
+| Metric | Value | vs Prior Quarter |
+|--------|------:|-----------------|
+| Revenue | **$149.6M** | –0.4% QoQ (from $150.2M) — sharp deceleration in the rate of decline |
+| Revenue YoY | –23.9% (approx., consistent with Q3) | vs Street consensus $223.55M — large miss |
+| GAAP Gross Loss | **–$36.8M** | Improving slightly from –$40.0M |
+| **GAAP Gross Margin** | **–25.0%** | Improving, but only +1.6pt vs. +20pt the prior quarter |
+| GAAP Operating Loss | **–$115.4M** | **Widened** from –$108.1M — reverses two straight quarters of narrowing |
+| Adj EPS | **–$2.26** | Missed consensus –$0.52 badly |
+| Non-GAAP gross margin | –19.9% | new metric this quarter, not previously tracked |
+| Operating cash flow | –$54M | — |
+
+**Key signals:** revenue near-stabilization is the one clean positive; gross margin improvement pace and operating loss both show friction for the first time since the turnaround began. Power revenue ~$106M (+6% QoQ); AI datacenter revenue >2× YoY, +20% QoQ — the standout growth line.
+
+### Q1 FY2027 Guidance (Jul–Sep 2026)
+- **Revenue estimate**: $140–160M
+- Non-GAAP gross margin: expected to remain negative
+- Non-GAAP opex: $62–66M
+- Earnings date: **2026-11-04**
 
 ### Post-Emergence Quarterly Progression
 
-| Quarter | Revenue | Gross Margin | Operating Loss |
+| Quarter | Revenue | Gross Margin (GAAP) | Operating Loss |
 |---------|--------:|-------------:|---------------:|
 | Q1 FY26 (Sep 2025) | $196.8M | –39.2% | –$149.6M |
 | Q2 FY26 (Dec 2025) | $168.5M | –46.5% | –$137.1M |
-| **Q3 FY26 (Mar 2026)** | **$150.2M** | **–26.6%** | **–$108.1M** |
+| Q3 FY26 (Mar 2026) | $150.2M | –26.6% | –$108.1M |
+| **Q4 FY26 (Jun 2026)** | **$149.6M** | **–25.0%** | **–$115.4M** |
 
-*Revenue declining as inventory digestion continues; margins improving as Mohawk Valley ramps.*
+*Revenue decline nearly halted this quarter; GM improvement pace collapsed and operating loss reversed — first quarter of mixed rather than clean progress.*
 
 ### Full-year FY2026 Estimate
 - Revenue: ~$758M (consensus flat vs FY2025 $757.6M; 0y est $757.75M)
@@ -321,8 +335,9 @@ operating businesses; WOLF is an operational recovery bet.
 
 | Date | Event | What to Watch |
 |------|-------|---------------|
-| **~Early May 2026** | Q3 FY2026 earnings | Revenue $140–160M guide, gross margin trend |
-| Q4 FY2026 (Aug 2026) | Q4 FY2026 earnings | FY2026 full-year reconciliation, FY2027 guidance |
+| ~Early May 2026 | Q3 FY2026 earnings — REPORTED | Revenue $150.2M, GM –26.6% |
+| ~2026-08-19 | Q4 FY2026 earnings — REPORTED | Revenue $149.6M, GM –25.0%, op loss widened to –$115.4M |
+| **2026-11-04** | **Q1 FY2027 earnings** | Does revenue stabilization hold ($140–160M guide)? Does GM resume faster improvement or operating loss narrow again? |
 | Anytime | New CEO announcement | Post-emergence leadership clarity |
 | 2026 H2 | Mohawk Valley utilization disclosure | Operational turnaround evidence |
 | 2027 | First positive gross margin quarter (target) | Binary thesis validation |

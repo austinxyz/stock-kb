@@ -4,8 +4,8 @@ source: austin
 
 # WOLF — Wolfspeed, Inc.
 
-**Last updated**: 2026-07-27
-**Status**: 🟡 Active — **论点 Weakened（弱化，未破裂）**。价格 $22.56（自 5/27 刷新 –64.3%）；营收连续 3 季下滑 $196.8M→$150.2M（–24%）逼近 $130M 破裂底线，但毛利率 –39.2%→–26.6% 与经营亏损 –$149.6M→–$108.1M **双双改善**，Mohawk Valley 周转论点仍成立；7 条破裂触发器**无一正式击发**；PW EV $33 → $25，现价低于公允约 10%（与 5/27 的 1.9× PW EV 完全反转）。⚠️ 5/13 出场计划的 trailing stop $51 被击穿 –56% 未执行 —— 流程失效，非论点失效。决策点：Q4 FY2026 财报 **2026-08-27**
+**Last updated**: 2026-08-20
+**Status**: 🟡 Active — **论点 Weakened（不变，Q4财报按预设决策树判定Hold）**。价格 $26.24；Q4 FY2026 营收 $149.6M 落在 $130-150M 决策区间，毛利率 –25.0% 优于 –26.6% 基准（虽改善幅度从+20pt骤降至+1.6pt）→ 按07-27预设规则未破裂。**新出现的张力**：经营亏损扭转两季收窄趋势转为扩大（–$108.1M→–$115.4M），但营收环比降幅大幅收窄（–10.9%→–0.4%，首次接近企稳）。7条破裂触发器仍无一正式击发；稀释疑虑已解除（股数无变化）。PW EV维持~$25不变，现价略高于公允（~+5%，反转自07-27的-10%，源于财报后反弹非基本面上修）。决策点：Q1 FY2027 财报 **2026-11-04**
 **Source of promotion**: `wiki/opinions/chen-yun.md` (3/29 and 4/16 mentions as "全球碳化硅半导体龙头")
 **Language**: English | [中文](overview.zh.md)
 
@@ -33,17 +33,16 @@ Chinese SiC entrants.
 
 | Attribute | Value |
 |-----------|-------|
-| Market cap | **~$3.06B** (2026-05-27; was $1.34B on 2026-04-23) |
+| Market cap | **~$1.36B** (2026-08-20) |
 | Revenue (FY2025) | $757.6M (–6% YoY) |
-| Q3 FY2026 actual revenue | **$150.2M** (–23.9% YoY; above $130M thesis-break threshold ✓) |
-| Gross margin (FY2025) | –16%; **Q3 FY2026: –26.6%** (improving: –46.5%→–39.2%→–26.6%) |
-| Operating loss (Q3 FY2026) | –$108.1M (improving from –$137.1M Dec 2025) |
+| Q4 FY2026 actual revenue | **$149.6M** (–0.4% QoQ, near-stabilization; inside $130-150M decision band) |
+| Gross margin (FY2025) | –16%; **Q4 FY2026: –25.0%** (trend: –46.5%→–39.2%→–26.6%→–25.0%, improvement pace slowing) |
+| Operating loss (Q4 FY2026) | **–$115.4M** (widened from –$108.1M Mar 2026 — reverses 2Q of narrowing) |
 | Trailing FCF (FY2025) | –$2.0B |
-| Cash post-emergence | ~$1.5B (incl $700M CHIPS Act tax refund) |
-| Total debt post-restructure | ~$2.0B (from $6.7B pre-bankruptcy) |
-| Shares outstanding (post-emergence) | **48.3M** (confirmed; down from 155M pre-bankruptcy) |
-| 52-wk position | **$63.26 vs $80.82 high = 78%** (MA50 +87.2% = parabolic; ATR $10.24) |
-| Trailing stop (per exit plan) | **$51** (May 13 exit plan; current price $63.26 above stop ✓) |
+| Cash & ST investments | **$1.089B** (from $1.16B) |
+| Total debt post-restructure | ~$1.83B (unchanged, no new financing) |
+| Shares outstanding (post-emergence) | **51.97M** (unchanged since 07-27 — dilution concern resolved) |
+| Trailing stop | **废止（2026-07-28）**，现改用财报决策树（见 thesis.md §15）|
 
 ---
 

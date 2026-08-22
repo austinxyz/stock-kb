@@ -95,6 +95,10 @@ AXTI entered research after reporting a strong Q1 2026 earnings beat (EPS -$0.01
 
 See [thesis.md](thesis.md) for full 15-section analysis.
 
+## 历史入场分析
+
+- [2026-08-18 — 入场 $63.26–$74.46，止损 $46.47](../../../data/outputs/AXTI/entry-2026-08-18.md)
+
 ## Backlinks
 
 - [Thesis](thesis.md) | [Financials](financials.md) | [Changelog](changelog.md)

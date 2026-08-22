@@ -101,6 +101,10 @@ AXTI 进入研究视野的契机是 Q1 2026 强劲业绩超预期（EPS -$0.01 v
 
 详细 15 项分析见 [thesis.zh.md](thesis.zh.md)。
 
+## 历史入场分析
+
+- [2026-08-18 — 入场 $63.26–$74.46，止损 $46.47](../../../data/outputs/AXTI/entry-2026-08-18.md)
+
 ## 关联链接
 
 - [论文](thesis.zh.md) | [财务数据](financials.zh.md) | [变更日志](changelog.zh.md)

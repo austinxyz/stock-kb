@@ -10,10 +10,10 @@
 | ADBE | austin | 2026-05-05 | _（无变更日志）_ | _（无变更日志）_ |  |
 | AMCR | austin | 2026-06-15 | _（无变更日志）_ | _（无变更日志）_ |  |
 | AMKR | austin | 2026-08-12 | _（无变更日志）_ | _（无变更日志）_ |  |
-| AMZN | upstream | 2026-05-01 | 🟢 **Strengthened operationally** — AWS +28% (fastest in 15 quarters), EPS +70% beat, ad +24%, Q2 guide brackets Street;… | _（无变更日志）_ | 📅 **Q2 FY26 earnings — late-July 2026 (post-close)**. Key items: AWS YoY growth (does +28% Q1 hold above +25%), capex… |
+| AMZN | upstream | 2026-08-19 | 🟡 **Operationally strengthened, financially more complex — net Unchanged.** The operating business had its best quarter… | _（无变更日志）_ | **Q3 FY2026 earnings — October 29, 2026**. In priority order: (1) **free cash flow — troughing or still… |
 | ASTS | austin | 2026-05-29 | _（无变更日志）_ | _（无变更日志）_ |  |
-| AVGO | austin | 2026-08-18 | _（无变更日志）_ | _（无变更日志）_ |  |
-| AXTI | austin | 2026-08-10 | _（无变更日志）_ | _（无变更日志）_ |  |
+| AVGO | austin | 2026-08-19 | _（无变更日志）_ | _（无变更日志）_ |  |
+| AXTI | austin | 2026-08-18 | _（无变更日志）_ | _（无变更日志）_ |  |
 | BB | austin | 2026-06-25 | _（无变更日志）_ | _（无变更日志）_ |  |
 | BKNG | austin | 2026-07-28 | _（无变更日志）_ | _（无变更日志）_ |  |
 | BRK.B | upstream | 2026-05-10 | 🟡 **Unchanged** — Q1 2026 confirms operational continuity (+18% operating earnings) but the GEICO deterioration (–34%)… | _（无变更日志）_ | 📅 Q2 2026 earnings (≈early August 2026) — GEICO trajectory, buyback cadence, OxyChem first full-quarter contribution,… |
@@ -52,7 +52,7 @@
 | MRVL | austin | 2026-08-18 | _（无变更日志）_ | _（无变更日志）_ |  |
 | MSFT | austin | 2026-05-15 | _（无变更日志）_ | _（无变更日志）_ |  |
 | MU | austin | 2026-07-31 | _（无变更日志）_ | _（无变更日志）_ |  |
-| NFLX | upstream | 2026-07-13 | **Weakened** — real new risk evidence emerged (engagement, confirmed not fabricated) and the WBD M&A optionality lever… | _（无变更日志）_ | Q2 2026 earnings — July 16, 2026 (confirmed) |
+| NFLX | austin | 2026-08-20 | _（无变更日志）_ | _（无变更日志）_ |  |
 | NKE | austin | 2026-08-12 | _（无变更日志）_ | _（无变更日志）_ |  |
 | NOK | austin | 2026-08-12 | _（无变更日志）_ | _（无变更日志）_ |  |
 | NVDA | austin | 2026-07-28 | _（无变更日志）_ | _（无变更日志）_ |  |
@@ -67,7 +67,7 @@
 | POET | austin | 2026-08-13 | _（无变更日志）_ | _（无变更日志）_ |  |
 | QSI | austin | 2026-05-07 | _（无变更日志）_ | _（无变更日志）_ |  |
 | RFIL | austin | 2026-04-27 | _（无变更日志）_ | _（无变更日志）_ |  |
-| RH | upstream | 2026-04-26 | Strengthened slightly on primary-source review — FY2025 actual adj EBITDA of 17.3% was better than old wiki's ~14%… | _（无变更日志）_ | Q1 FY2026 earnings (~June 2026) |
+| RH | upstream | 2026-08-06 | Strengthened on execution (gallery openings, RH Estates, Q1 beat), but the +37% price rally has captured the… | _（无变更日志）_ | Q2 FY2026 earnings (~September 2026) |
 | RIVN | upstream | 2026-05-18 | 🟡 **Unchanged net** — Weakened on financing/dilution overhang (May-15 S-3 + DOE downsizing; share count +50% since… | _（无变更日志）_ | 📅 **Q2 2026 earnings (~early August 2026)** — R2 customer-delivery cadence, whether/how the mixed-shelf S-3 is drawn,… |
 | RKT | upstream | 2026-05-10 | **Strengthened** — Q1 2026 de-risked all three integration legs simultaneously: Cooper synergy ($400M, end-2026),… | _（无变更日志）_ | Q2 2026 earnings (~Aug 2026). Watch: adj rev vs. $2.7–2.9B guide, EBITDA margin sustain at 26%+, Redfin attach crossing… |
 | RXT | austin | 2026-06-19 | _（无变更日志）_ | _（无变更日志）_ |  |
@@ -85,11 +85,11 @@
 | TSLL | austin | 2026-05-07 | _（无变更日志）_ | _（无变更日志）_ |  |
 | TSM | austin | 2026-08-18 | _（无变更日志）_ | _（无变更日志）_ |  |
 | UBER | austin | 2026-08-06 | _（无变更日志）_ | _（无变更日志）_ |  |
-| UNH | upstream | 2026-04-28 | **STRENGTHENED** — second material de-risk in 7 days. Q1 closed the recoverability question; the CMS rate notice closes… | _（无变更日志）_ | **Q2 2026 earnings — late July 2026** (sequential MCR; FY26 guide refresh; Optum Health quarterly trajectory; DOJ… |
+| UNH | upstream | 2026-08-06 | **Strengthened on fundamentals, compressed on asymmetry.** Q2 confirms durable MCR recovery (second consecutive… | _（无变更日志）_ | **Q3 2026 earnings — ~late Oct 2026** (H2 MCR trajectory vs. 88.1% guide; Optum Health Q3; commercial margin progress;… |
 | UUUU | austin | 2026-06-17 | _（无变更日志）_ | 观察 — $15.64 不入场（Stage 3/4 结构） |  |
 | VSH | austin | 2026-06-19 | _（无变更日志）_ | _（无变更日志）_ |  |
 | WING | upstream | 2026-05-01 | 🟡 **Unchanged** — already Weakened on 2026-04-29; the analyst cluster *confirms* the page's read. Consensus reset *to*… | _（无变更日志）_ | **Q2 2026 earnings — late July 2026 (estimated)**. Cluster reset means Q2 sequential SSS print is now the dominant… |
-| WOLF | austin | 2026-07-27 | _（无变更日志）_ | _（无变更日志）_ |  |
+| WOLF | austin | 2026-08-20 | _（无变更日志）_ | _（无变更日志）_ |  |
 | XRX | austin | 2026-05-03 | _（无变更日志）_ | _（无变更日志）_ |  |
 | ZETA | austin | 2026-05-22 | _（无变更日志）_ | _（无变更日志）_ |  |
 | ZG | upstream | 2026-05-10 | **Weakened slightly** vs. 2026-04-26 — operating data (Q1 beat: Showcase 4.3%, Mortgages +96%) strengthens the… | _（无变更日志）_ | Q2 2026 earnings (~Aug 2026); FTC trial developments (accelerated timeline = potential H2 2026 resolution). |
