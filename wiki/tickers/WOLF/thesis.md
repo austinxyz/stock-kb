@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: WOLF (NYSE)
 **Company**: Wolfspeed, Inc. (formerly Cree)
-**As of**: 2026-04-23
-**Price**: $27.75 (Yahoo Finance verified)
-**52-wk range**: $8.05 – $36.60 (recovered +245% from Chapter 11 low)
-**Market cap**: $1.34B (post-emergence share count ~48M)
-**Verdict**: **Speculative — 🟡 Thesis WEAKENED at $22.56 (–64.3% since 5/27 refresh). Revenue declining 3 straight quarters ($196.8M→$150.2M, –24%) toward the $130M break-floor — but gross margin (–39.2%→–26.6%) and operating loss (–$149.6M→–$108.1M) both improving, so the Mohawk Valley turnaround thesis is intact. No documented break-trigger has formally fired. PW EV cut $33 → $25; price now ~10% below fair value (inverse of 5/27, when it was 1.9× PW EV). Decision point: Q4 FY2026 earnings 2026-08-27.**
+**As of**: 2026-08-20
+**Price**: $26.24 (Yahoo Finance, post Q4 FY2026 earnings reaction)
+**52-wk range**: $8.05 – $80.82
+**Market cap**: $1.36B (post-emergence share count 51.97M, unchanged since 07-27)
+**Verdict**: **Speculative — 🟡 Thesis WEAKENED (unchanged verdict, resolved by decision tree at Q4 earnings). Q4 FY2026 revenue $149.6M landed inside the documented $130–150M decision band; GAAP gross margin –25.0% beat the –26.6% comparison threshold, so the pre-committed decision tree resolves to Hold — no break-trigger formally fired. But the quarter showed the first friction since the turnaround began: GM improvement pace collapsed from +20pt to +1.6pt, and GAAP operating loss widened (–$108.1M→–$115.4M) after two quarters of narrowing. Revenue decline itself nearly stabilized (–10.9%→–0.4% QoQ) — the one clean positive. Decision point: Q1 FY2027 earnings 2026-11-04.**
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -544,18 +544,26 @@ The 2026-05-27 scenario set assumed FY2027 revenue of $950M+ in the bull case. T
 
 *(Revised down from $33. Driver is the bull-case cut, not a change in the turnaround thesis.)*
 
-**Current price $22.56 vs. PW EV ~$25 → ~10% below fair value.**
+**Current price $22.56 vs. PW EV ~$25 → ~10% below fair value** *(as of 07-27; see 08-20 update below)*.
 
 This is the **inverse** of the 2026-05-27 situation, when the stock traded at 1.9× PW EV and required bull-case execution to avoid loss. The stock is no longer expensive. It is roughly fairly priced against a materially reduced set of outcomes.
+
+### Q4 FY2026 update (2026-08-20) — scenario weights unchanged, watch item flagged
+
+Q4 actuals ($149.6M revenue, GM –25.0%, operating loss –$115.4M) land almost exactly on the Base Case's own description ("revenue stabilizes $150–160M/quarter, slow GM recovery"). Revenue's near-stabilization (–0.4% QoQ vs –10.9% prior) is a genuine Base Case confirmation. But the operating-loss reversal and GM-improvement deceleration are new frictions not present when the $25 PW EV was set on 07-27.
+
+**Not reweighting on one mixed quarter** — the framework requires a documented trigger (≥2 consecutive quarters of GM stall/reversal) before cutting the Bull case further, and that has not fired. PW EV stays at **~$25** pending Q1 FY2027 (2026-11-04). If Q1 FY2027 shows GM improvement still stalled *and* operating loss widens again, that is the trigger to re-run this section with Bull cut further and Bear raised — the same move made on 07-27 when the analogous pattern first appeared in the revenue line.
+
+At $26.24, price is now **~5% above** the unchanged $25 PW EV — a small reversal from the 07-27 read (10% below), driven by the post-earnings bounce off the pre-earnings low, not by an upgrade to fair value.
 
 ---
 
 ## 14. Bottom Line
 
-### 1-year view (to 2027-04-23)
-- **Base case**: $30 — GM slowly approaches 0; market awaits first positive GM quarter before re-rating
-- **Upside trigger**: Q4 FY2026 gross margin >–10% (confirmed yield gains) + Mohawk Valley utilization >50%
-- **Downside trigger**: Q4 FY2026 GM stalls OR revenue <$130M OR customer loss disclosure
+### 1-year view (to 2027-08-20)
+- **Base case**: $30 — GM slowly approaches 0; market awaits first positive GM quarter before re-rating. Q4 FY2026 actuals track this case almost exactly.
+- **Upside trigger**: Q1 FY2027 gross margin resumes faster improvement (back toward +10–20pt/quarter pace) + operating loss resumes narrowing
+- **Downside trigger**: Q1 FY2027 GM stalls a second consecutive quarter (formal break-trigger) OR revenue falls back below $130M OR customer loss disclosure
 
 ### 3-year view (to 2029-05-27)
 - **Bull**: $100–120 if true turnaround (FCF+, $1B+ revenue, AI datacenter wins, Chinese pressure eases)
@@ -616,6 +624,21 @@ Cash $1.16B vs total debt $1.83B → **net debt $665M**. Post-Chapter-11 maturit
 
 **Next decision point: Q4 FY2026 earnings, 2026-08-27.** Revenue <$130M formally breaks the thesis. Revenue ≥$150M with GM >–10% restores it.
 
+### Verdict update (2026-08-20) — Q4 FY2026 earnings resolved
+
+Q4 FY2026 revenue landed at $149.6M — inside the $130–150M band, not above the clean $150M "restores it" bar written above, so the pre-committed decision tree's fallback rule applied: **compare GM to the –26.6% Q3 benchmark**. GAAP GM –25.0% is better than –26.6% (barely — +1.6pt vs. the prior quarter's +20pt), so per the rule set on 07-27, the thesis is **not broken; it holds at Weakened**.
+
+**What's new since 07-27, not previously visible:**
+- Revenue's rate of decline nearly stopped (–10.9% → –0.4% QoQ) — the strongest positive data point this quarter, and the first real evidence the Base Case's "$150–160M/quarter stabilization" assumption is playing out rather than just being hoped for.
+- GAAP operating loss **widened** for the first time since fresh-start accounting began (–$108.1M → –$115.4M), reversing two straight quarters of improvement.
+- The market's own read was hostile: shares fell as much as –9.8% in the immediate reaction (versus the $223.55M Street consensus that this company's actual guide never supported), even though the print matched the pre-committed decision tree's own expectations.
+
+**Net effect**: the turnaround thesis has not broken, but its two supporting legs (GM improvement, operating-loss narrowing) are no longer moving in lockstep — one held, one reversed. This is not yet a documented break-trigger (that needs 2 consecutive quarters of GM stall/reversal), but it is the first quarter where "both signals improving" stopped being true. Q1 FY2027 (2026-11-04) is now the real test: a second quarter of operating-loss widening alongside stalled GM improvement would be the first genuine trigger since this thesis was written.
+
+**For existing holders**: unchanged from 07-27 — position is small (87% of capital already recovered via May trims), remaining downside economically minor. No action required from this refresh.
+
+**For new capital**: still No. Price ($26.24) is now modestly above the unchanged PW EV (~$25), a reversal from being below it on 07-27 — driven by the post-earnings bounce, not by improved fundamentals. Wait for Q1 FY2027 to show whether Q4's friction was noise or the start of a real reversal.
+
 ---
 
 ## 15. Monitoring Checklist
@@ -631,31 +654,43 @@ Cash $1.16B vs total debt $1.83B → **net debt $665M**. Post-Chapter-11 maturit
 - [ ] Cash position ≥ $1.3B → not confirmed post-Q3
 - [x] Revenue above thesis-break $130M threshold ✅
 
-### 🔴 Mid-term — Q4 FY2026 earnings **2026-08-27** (THE decision point)
+### ✅ Q4 FY2026 earnings — REPORTED 2026-08-19
 
-Consensus: revenue **$150M**, EPS **–$1.465**.
+Consensus was revenue $223.55M / EPS –$0.52 (Street); actual landed inside the thesis's own decision band, not Street's.
 
-- [ ] 🔴 **Revenue ≥$130M** — the thesis-break floor. Trend ($196.8M → $168.5M → $150.2M) is heading toward it.
-- [ ] **Revenue stabilizes vs. declines again** — a 4th consecutive decline is more informative than the absolute level
-- [ ] Gross margin >–10% (next milestone toward breakeven; last print –26.6%)
-- [ ] First quarter of positive gross margin (critical turnaround signal)
-- [ ] Mohawk Valley at >50% utilization
-- [ ] ⚠️ **Confirm whether the "financing-related share registration" was a new raise or a resale registration** — determines whether the dilution break-trigger fired
-- [ ] Cash position vs. $1.16B; burn vs. ~$430M annualized
-- [ ] Durham fab transition fully executed (no stranded costs)
-- [ ] Siler City expansion decision
+- [x] Revenue ≥$130M → **Actual $149.6M** ✅ (inside $130–150M decision band, not the clean ≥$150M bar)
+- [x] Revenue stabilizes vs. declines again → **Actual: –0.4% QoQ, nearly flat** — strongest stabilization signal yet ✅
+- [ ] Gross margin >–10% → **Actual –25.0%** — still short of this milestone
+- [ ] First quarter of positive gross margin → not reached
+- [ ] Mohawk Valley utilization disclosure → not confirmed in Q4 release
+- [x] ⚠️ Confirm "financing-related share registration" → **Resolved**: shares outstanding unchanged (51.97M) since 07-27 — confirmed resale registration, not new dilution ✅
+- [x] Cash position → **$1.089B** (vs $1.16B prior) — burn continues, runway narrowed to ~2yr
+- [ ] Durham fab transition fully executed → not disclosed
+- [ ] Siler City expansion decision → not disclosed
+- [x] **NEW (not anticipated in prior checklist)**: GAAP operating loss widened –$108.1M→–$115.4M, reversing 2 quarters of improvement — flagged as a watch item, not a trigger
+
+### 🔴 Next — Q1 FY2027 earnings **2026-11-04** (real test of Q4's mixed signal)
+
+Guidance: revenue $140–160M, non-GAAP GM still negative, non-GAAP opex $62–66M.
+
+- [ ] 🔴 **GM stall/reversal for a 2nd consecutive quarter** — this would be the first formally-fired break-trigger since the thesis began (Q4's +1.6pt vs Q3's +20pt is friction, not yet a stall)
+- [ ] Operating loss resumes narrowing (vs. Q4's widening to –$115.4M) — key confirmation that Q4 was noise, not a trend break
+- [ ] Revenue holds near $140–160M guide (confirms stabilization is real, not a one-quarter fluke)
+- [ ] Gross margin >–10%
+- [ ] Mohawk Valley utilization disclosure (still pending, 3 quarters running)
 
 ### Thesis-break triggers (any ONE = immediate reassessment)
 
-*Audited 2026-07-27 — none formally fired.*
+*Audited 2026-08-20 — none formally fired.*
 
-- [ ] ⚠️ **Q4 FY2026 revenue <$130M** (back below critical floor) — **not fired, but trend is converging on it**; reports 8/27
-- [ ] ✅ Gross margin stalls or reverses (≥2 consecutive quarters) — **not fired**; GM improving (–39.2% → –46.5% → –26.6%)
-- [ ] ✅ Customer loss disclosure (major automotive OEM) — no evidence
-- [ ] ⚠️ **Additional dilutive capital raise** — **unverified**; press cites a "financing-related share registration". Likely resale registration of restructuring equity, not a new raise. Confirm at Q4.
+- [x] ✅ Q4 FY2026 revenue <$130M — **did not fire**; actual $149.6M
+- [ ] ⚠️ Gross margin stalls or reverses (≥2 consecutive quarters) — **not yet fired** (GM still improved this quarter, –26.6%→–25.0%), but the pace collapse is a genuine watch item for Q1 FY2027
+- [x] ✅ Customer loss disclosure (major automotive OEM) — no evidence
+- [x] ✅ Additional dilutive capital raise — **resolved as not fired**; share count unchanged, confirmed resale registration
 - [ ] ❓ Chinese substrate price decline >20% in H2 2026 — no data available
-- [ ] ✅ Second restructuring conversation begins — no evidence
-- [ ] ✅ CEO instability — no evidence
+- [x] ✅ Second restructuring conversation begins — no evidence
+- [x] ✅ CEO instability — no evidence
+- [ ] **NEW watch item (added 2026-08-20)**: GAAP operating loss widens for a 2nd consecutive quarter in Q1 FY2027 — not a documented break-trigger from the original 7, but tracked going forward given Q4's reversal
 
 ### ⚠️ Process failure logged (2026-07-27)
 

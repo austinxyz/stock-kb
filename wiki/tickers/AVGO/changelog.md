@@ -9,6 +9,24 @@ Per-ticker change log documenting thesis evolution and action triggers.
 
 ---
 
+## 2026-08-19 — Exit Analysis (Full Exit)
+
+**Price:** $358.61 | **Lot 1 stop:** $364 hard stop — triggered, sell now (not close-gated) | **Lot 2 stop:** $380 close-basis — triggered, price well through
+**Exit mode:** 🔴 Defensive (plus ⚠️ single-stock signal: 5d AVGO -14.0% vs SOXX -5.5%, MRVL actually +6.0% same period) | Price broke below MA150/MA200 (not just MA50) — Stage 3 confirmed | SOXX vs MA50 -7.6%, sector heat 0/3, third consecutive weak day
+**Full exit triggers:** Both lot stops hit today — full exit, not a trim decision
+**File:** [exit-2026-08-19.md](../../../data/outputs/AVGO/exit-2026-08-19.md)
+
+---
+
+## 2026-08-18 — Exit Analysis
+
+**Price:** $381.17 | **Lot 1 stop:** $380 (unchanged, close-basis) | **Lot 2:** thesis stop replaced with **hard stop $364** (executed, supersedes $330 catastrophic floor)
+**Exit mode:** 🔴 Defensive (plus ⚠️ single-stock signal: 5d AVGO -8.4% vs SOXX -1.16%, notably underperforming semis peers) | SOXX vs MA50 -5.4%, sector heat 0/3
+**Full exit triggers:** Lot 1 close <$380 / Lot 2 close <$364 / Q3 AI XPU <$14B / Google in-house XPU / ByteDance export controls / Samsung ITC certification
+**File:** [exit-2026-08-18.md](../../../data/outputs/AVGO/exit-2026-08-18.md)
+
+---
+
 ## 2026-08-03 — Exit Analysis
 
 **当前价：** $390.09 | **保守止损：** $364 → **上调至 $380**（MA50 - 1×ATR）| **论文止损：** $330

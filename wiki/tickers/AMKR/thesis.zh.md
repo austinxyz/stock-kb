@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: AMKR (NASDAQ)
 **Company**: Amkor Technology, Inc.
-**As of**: 2026-06-01
-**Price**: $72.75 (Yahoo Finance verified)
-**52-wk range**: $17.58 – $79.23
-**Market cap**: $18.0B
-**Verdict**: Cyclical Growth — Watch；AI 封装 OSAT 龙头，干净 Stage 2 但 +314% 严重扩展，PW EV ~$77 ≈ 现价；等回调 MA50 ~$60–64
+**As of**: 2026-08-12（通过 /stock-refresh 刷新——72天逾期）
+**Price**: $56.66（2026-08-12，今日+4.34%；Yahoo Finance verified）
+**52-wk range**: $22.80 – $93.55
+**Market cap**: $140.4亿
+**Verdict**: Cyclical Growth — Watch；原$60-64回调等待区已被击穿（现价$56.66），扩展已从+314%完全消化为MA50下方-17.5%；Q2 2026 beat+45.4%，EPS预期逆势上修23-25%，同期宣布NVDA $1.5B封装大单+TSMC亚利桑那10年合作——基本面走强与股价回落形成罕见背离，PW EV~$77缺口从6%扩大至36%；但赛道仍标记🔴弱，且中国业务潜在出售消息带来不确定性
 **语言**: 中文 | [English](thesis.md)
 
 ---

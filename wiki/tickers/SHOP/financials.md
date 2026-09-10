@@ -4,9 +4,9 @@ source: austin
 
 # SHOP — Key Financial Metrics
 
-**Last updated**: 2026-05-23
-**Data source**: rwh upstream v2.14 (2026-05-10) + Yahoo Finance + Adanos API (2026-05-23)
-**Next update trigger**: Q2 FY2026 earnings — early August 2026 (date TBC)
+**Last updated**: 2026-08-12 (via /stock-refresh)
+**Data source**: Yahoo Finance (yfinance), WebSearch (Q2 2026 earnings coverage)
+**Next update trigger**: Q3 FY2026 earnings — 2026-11-03
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -15,17 +15,16 @@ source: austin
 
 | Metric | Value |
 |--------|-------|
-| Price | $103.00 (2026-05-23) |
-| 52-wk Range | $95.40 – $179.01 |
-| % from 52-wk High | –42.5% |
-| % above 52-wk Low | +8.0% (low set May 13, 2026) |
-| Market Cap | ~$145.2B |
-| 30d Avg Dollar Volume | $1,217.6M/day |
+| Price | $149.10 (2026-08-12, -2.30% today) |
+| 52-wk Range | $95.40 – $182.19 |
+| % from 52-wk High | –16.7% |
+| Market Cap | ~$191.8B |
 | Beta | 3.23 |
-| EPS TTM | ~$1.22 |
-| P/E (TTM) | ~84× |
-| FY2026E P/E | ~72× (consensus EPS ~$1.43) |
-| Analyst Median Target | ~$162–$165 (pre-Q2; likely revising lower) |
+| Analyst Mean Target | $167.89 |
+| Analyst Median Target | $175.00 |
+| Analyst High/Low | $220.00 / $110.00 |
+| Rating Distribution | 10 Strong Buy / 30 Buy / 11 Hold / 1 Sell（46名分析师，较3个月前10/28/12/1更乐观）|
+| Post-earnings target raises | 13家机构在财报后数日内上调目标价（Goldman $170→$194, DA Davidson $140→$200, Wells Fargo $144→$180 等）|
 
 ---
 
@@ -157,10 +156,11 @@ Post-Q1 2026 earnings (May 5), estimate revisions have been mixed: Q2 EPS estima
 | Q3 2025 | $0.17 | $0.20 | +17.6% beat | $2.84B | |
 | Q4 2025 | $0.52 | $0.57 | +9.6% beat | $3.67B | First $2B buyback |
 | **Q1 2026** | **~$0.27** | **~$0.27** | **~flat** | **$3.17B (beat)** | Q2 guide miss (high-20s%) drove –7.9% |
+| **Q2 2026** | **$0.40** | **$0.42** | **+5.05% beat** | **$3.58B (+34% YoY, beat)** | GMV $115.57B(+32%)、毛利$1.71B(+31%)、Q3指引低-30%%区间（高于街头预期26.3%），股价财报后大涨~26% |
 
-Beat rate: 4 of 5 quarters on EPS; consistent revenue beats (5 of 5). Q1 2026 was technically an EPS inline print but the Q2 guidance miss dominated market reaction.
+Beat rate: 5 of 6 quarters on EPS; revenue beats accelerated in Q2. This reversed the deceleration narrative from Q1's guidance miss.
 
-**Next earnings**: Q2 FY2026 — early August 2026 (exact date TBC)
+**Next earnings**: **2026-11-03**
 
 ---
 

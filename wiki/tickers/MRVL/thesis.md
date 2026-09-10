@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: MRVL (NASDAQ)
 **Company**: Marvell Technology, Inc.
-**As of**: 2026-05-27
-**Price**: $208.26 close / $213.58 AH (Q1 FY27 reported 2026-05-26 PM; AH +2.55% implies beat)
-**52-wk range**: $58.61 – $217.45
-**Market cap**: $182.3B
-**Verdict**: **Watch (Strengthened) — Q1 FY27 beat implied; re-rated to new ATH at $217; PW EV revised to ~$198; stock modestly above PW EV; await post-earnings consolidation $185–200 for new entry**
+**As of**: 2026-08-27
+**Price**: $241.45 close (+13.3% from 07-18, reclaimed MA50) / **$222.62 AH (-7.79%, sell-the-news)** after Q2 FY2027 beat-and-raise
+**52-wk range**: $61.44 – $329.88
+**Market cap**: ~$217.0B close / ~$200B AH
+**Verdict**: **Watch (Beat & Raise, Strengthened — but Sell-the-News) — Q2 FY2027 revenue $2.739B (+1.1% beat, +37% YoY), Data Center +46% YoY (accelerating), Non-GAAP EPS $0.94 (+1% beat), Q3 guide $3.15B (+4% above consensus); none of the 6 thesis-break triggers hit. Yet stock fell -7.79% AH despite the beat — valuation/expectations reset, not a fundamental miss. Thesis intact and arguably strengthened by DC acceleration; awaiting AH price to settle before reassessing entry.**
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -207,12 +207,14 @@ Marvell is **fully fabless**: 100% outsourced manufacturing via TSMC (primary) a
 | Risk | Impact | Probability | Composite |
 |------|--------|------------|-----------|
 | AVGO wins Microsoft custom ASIC design | High | 35% | HIGH |
-| Hyperscaler AI capex slowdown (2026–2027 cycle break) | Critical | 20% | HIGH |
-| Valuation compression from extended MA50 position | High | 45% | HIGH |
+| Hyperscaler AI capex slowdown (2026–2027 cycle break) | Critical | 15% | MEDIUM |
+| Sell-the-news / valuation reset despite fundamental beats | High | 40% | HIGH |
 | Customer concentration (3 hyperscalers = >50% ASIC revenue) | High | 20% | MEDIUM |
 | TSMC capacity squeeze / advanced node allocation | Medium | 20% | MEDIUM |
 | Non-GAAP vs GAAP reconciliation complexity misleads investors | Low | 15% | LOW |
 | China semiconductor restriction expands to MRVL | Medium | 15% | LOW |
+
+**2026-08-27 update**: "Valuation compression from extended MA50 position" relabeled to "Sell-the-news / valuation reset despite fundamental beats" — Q2 FY2027 beat-and-raise on every headline metric (revenue +1.1%, EPS +1%, DC +46% YoY, Q3 guide +4% above consensus) still produced a -7.79% AH decline. Probability raised 45%→40% is not a typo-level nudge but reflects this materializing as the dominant near-term risk pattern rather than a hypothetical; hyperscaler-capex-slowdown probability trimmed 20%→15% given Google/Meta/Amazon capex commentary continues to run ahead of MRVL's own guide.
 
 **Most underappreciated risk — hyperscaler internal ASIC teams**: Google, Meta, and Amazon all have large in-house chip design teams (Google has TPU, Meta has MTIA, Amazon has Trainium/Inferentia). These teams are growing. If any of them decide to build the SerDes interconnect layer in-house — as they have moved in-house on compute — Marvell's core moat disappears. This is a 3–5 year risk, not a 12-month risk, but it is real. Tell: watch Google/Meta/Amazon job postings for "SerDes design engineer" roles and any IR comments about "IP independence."
 
@@ -392,17 +394,38 @@ PW EV = (25% × $265) + (50% × $200) + (25% × $105)
 
 At $208 close ($213 AH), stock trades ~8% above updated PW EV. Market is partially pricing in the bull scenario — the $208–215 range aligns with the prior thesis's "$200–220 re-rate if MSFT ASIC announced." Verdict remains **Watch (Strengthened)**: thesis executing, but entering above PW EV reduces margin of safety. Wait for consolidation at $185–200 or confirmation of MSFT win before adding.
 
+**Update 2026-08-18**: Consensus FY2028E non-GAAP EPS has since been revised up to $6.25 (from $5.53 used above, +13% over 90 days) per estimate-revision data pulled today, even as the stock corrected from its $329.88 intraday ATH (6/18) to $213.20. Directionally this pushes the Base/Bull scenario targets and PW EV above the $192.50 figure computed 5/27 — a full scenario rebuild is deferred to the 2026-08-27 earnings refresh, when actual Q2 FY27 results will validate (or reset) the estimate trajectory. At today's $213 price against a plausibly higher PW EV, the stock is arguably closer to fair value than the 5/27 snapshot suggested, not further above it — reinforcing that the 8/18 drop reads as macro/technical (rate-driven sector selloff) rather than a fundamental reassessment.
+
+**Update 2026-08-27 (Q2 FY2027 results)**: Rebuild scenario table using confirmed actuals — DC revenue +46% YoY (accelerating vs Q1's implied pace), Q3 guide $3.15B (+4% above consensus), FY2027 full-year trajectory tracking to ~$11.5B (see financials.md §Quarterly Context). This is direct company disclosure, not just estimate drift, so both probabilities and targets move:
+
+| Scenario | Probability | Price Target | Key Assumption |
+|---------|------------:|-------------:|---------------|
+| **Bull** | 30% (was 25%) | $270 (was $265) | MSFT ASIC confirmed + FY2028 $18B+ sustained by confirmed DC acceleration; ~44x FY2028E $6.25 blended with upside |
+| **Base** | 55% (was 50%) | $215 (was $200) | FY2027 lands ~$11.5B per Q2 trajectory (already ahead of prior $10.9B consensus); 34x FY2028E $6.25 |
+| **Bear** | 15% (was 25%) | $110 (was $105) | AVGO wins MSFT ASIC (only unresolved bear driver left — capex/margin risks did not materialize this quarter) |
+
+**Probability-Weighted Expected Value**:
+PW EV = (30% × $270) + (55% × $215) + (15% × $110)
+= $81.00 + $118.25 + $16.50
+= **$215.75**
+
+Bear probability cut from 25%→15% because the two capex/margin risks embedded in the original bear case (hyperscaler slowdown, GM compression) were directly refuted by this quarter's DC +46% YoY and raised guide — the remaining bear case narrows almost entirely to a single binary (AVGO wins Microsoft). Base and Bull targets raised on the confirmed FY2028E EPS estimate ($6.25, unchanged from the 8/18 pull, now corroborated by actuals rather than just analyst drift). At $241.45 close, price sits ~12% above updated PW EV; at $222.62 AH, price sits ~3% above — the AH sell-off has moved the stock *closer* to fair value, not further from it, which argues against chasing the dip as "value" but also against reading the AH drop as a thesis break.
+
 ---
 
 ## 14. Bottom Line
 
 ### 1-Year View (through May 2027)
 
-*Updated 2026-05-27.*
+*Updated 2026-05-27; technical/catalyst context updated 2026-08-18.*
 
 - **Base case**: $200–225 — Q1 FY27 beat (implied) + analyst upgrade cycle underway; stock consolidates at re-rated level
 - **Upside trigger**: MSFT Azure custom ASIC confirmed (could still come) → stock re-rates to $250–270
 - **Downside trigger**: Q2 FY2027 revenue guide disappoints (<$2.35B) OR FY2027 full-year guide cut below $10B → corrects to $150–170 (MA50 zone)
+
+**2026-08-18 note**: Stock has been trading exactly within this base-case corridor since late June ($163–$234.33 range), most recently testing and failing to clear MA50 resistance ($240 intraday 8/17) before falling -9.0% on 8/18 in a broad, macro-driven (rising Treasury yields) semiconductor selloff — no MRVL-specific news identified. Q2 FY2027 earnings on 2026-08-27 (9 days out) is now the binary near-term resolution: a beat + MA50 reclaim would validate the base/bull case and could trigger entry; a miss or guide-down would trip the downside trigger above.
+
+**2026-08-27 note**: Both halves of the binary resolved bullishly on fundamentals — Q2 beat (+1.1% rev, +1% EPS), Q3 guide raised +4%, DC accelerated to +46% YoY, and the close ($241.45) reclaimed MA50 (+5.0%). None of the downside trigger conditions (revenue guide <$2.35B, full-year guide cut below $10B) were hit. However the AH print ($222.62, -7.79%) would put the stock back below MA50 (-3.2%) if it holds into the next session — a sell-the-news reaction on genuinely good numbers, not a fundamental miss. Base case corridor should be read as intact-to-improving; the near-term technical question is whether the AH price holds (re-triggers the "watch for base" posture) or the regular session reasserts (validates reclaim).
 
 ### 3-Year View (through May 2029)
 
@@ -431,14 +454,14 @@ The wiki adds to public knowledge by establishing entry discipline. The AI ASIC 
 - [x] **Q1 FY2027 earnings: May 27, 2026** — ✅ AH +2.55% implies beat; actuals pending official confirmation
   - Pass: Revenue ≥ $2.40B + FY2027 guide ≥ $10.86B → **implied PASS**
   - Fail: Revenue < $2.15B OR guide cut below $10B → **NOT triggered**
-- [ ] Microsoft Azure custom ASIC: still awaiting official announcement (could be disclosed on Q1 FY27 earnings call — check transcript)
-- [ ] Analyst price target upgrades post-Q1 call — watch for median target to move above $200 (was $147 pre-call)
-- [ ] Technical: stock at new ATH $217.45; watch for base formation at $195–215 over next 4–6 weeks
-- [ ] **Q2 FY2027 guidance check**: FY2027 full-year guide must be ≥$10.86B to sustain thesis; Q2 quarterly guide should be ~$2.55–2.65B
+- [ ] Microsoft Azure custom ASIC: still awaiting official announcement — no news as of 2026-08-27
+- [x] Analyst price target upgrades post-Q1 call — ✅ median target reached $242.50 (mean $256.91), well above $200 threshold (Jun–Jul 2026 upgrade wave to $300–$400 range)
+- [x] Technical: stock made new intraday ATH $329.88 (2026-06-18), then corrected -35% to $213.20 (2026-08-18), then reclaimed MA50 on Q2 earnings beat to close $241.45 (2026-08-27); AH print ($222.62) would retest below MA50 if it holds
+- [x] **Q2 FY2027 earnings: 2026-08-27** — ✅ beat & raise: revenue $2.739B (+1.1%), Non-GAAP EPS $0.94 (+1%), DC +46% YoY, Q3 guide $3.15B (+4% above consensus); AH -7.79% sell-the-news despite beat
 
 ### Mid-term (Next 6 Months)
 
-- [ ] **Q2 FY2027 earnings (est. August 2026)**: Revenue toward $2.60–2.80B quarterly run rate
+- [ ] **Q3 FY2027 earnings: ~2026年11月**: guide $3.15B revenue — watch whether the 08-27 AH sell-the-news reaction was noise or an early sign of valuation ceiling forming
 - [ ] TSMC earnings call — comments on Marvell-related advanced node capacity (N3/N2)
 - [ ] Google/Meta/Amazon capex guidance for H2 2026 — proxy for ASIC demand sustaining
 - [ ] Coherent optical DSP design win for 1.6T CPO — if announced, FY2028 revenue upside
@@ -446,8 +469,8 @@ The wiki adds to public knowledge by establishing entry discipline. The AI ASIC 
 
 ### Thesis-Break Triggers (Any ONE = Reassess)
 
-1. **Q1 FY2027 revenue confirmed < $2.15B** (pending actuals — currently assumed beat)
-2. **FY2027 full-year guide < $9.5B** (12% below consensus) — implied NOT triggered (AH positive)
+1. **Q3 FY2027 revenue confirmed < $2.85B** (below Q2's $2.739B, i.e. sequential decline) — not applicable this refresh; Q2 actual $2.739B beat
+2. **FY2027 full-year trajectory falls below $10.5B** (Q1+Q2+Q3 guide sum currently implies ~$11.5B) — NOT triggered
 3. **AVGO announces Microsoft Azure custom ASIC partnership** — major market share loss; do NOT chase
 4. **Gross margin (GAAP) drops below 45%** in any FY2027 quarter — pricing or mix deterioration
 5. **Any hyperscaler pauses or reduces ASIC orders** — customer concentration risk materializes

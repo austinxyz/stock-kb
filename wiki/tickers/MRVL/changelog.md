@@ -9,6 +9,20 @@ Per-ticker change log documenting thesis evolution and action triggers.
 
 ---
 
+## 2026-08-27 — Q2 FY2027 Earnings Refresh (via /stock-refresh)
+
+Beat and raise across every headline metric: revenue $2.739B (+1.1% vs est, +37% YoY), Data Center $2.17B (+46% YoY, accelerating, 79% of revenue), Non-GAAP EPS $0.94 (+1% beat), GAAP EPS $0.33 (net income $308M, back to normal run-rate after last quarter's one-time $1.9B tax benefit), Q3 FY2027 guide $3.15B (+4% above consensus, +15% QoQ). FY2027 full-year trajectory (Q1+Q2 actual + Q3 guide = $8.307B) implies ~$11.5B, ahead of prior $11.55B consensus and far above the $9.5B thesis-break line. Regular-session close $241.45 reclaimed MA50 (+5.0%, resolving the 8/18 failed-reclaim correction), but the stock gave it all back after hours (-7.79% to $222.62) — a sell-the-news reaction on genuinely strong numbers, not a fundamental miss. None of the 6 thesis-break triggers hit. Rebuilt PW EV scenario table: Bull 30%/$270, Base 55%/$215, Bear 15%/$110 → PW EV $215.75 (up from $192.50 on 5/27), with bear probability cut from 25%→15% since the two capex/margin risks in the original bear case were directly refuted this quarter, leaving AVGO-wins-Microsoft as the primary remaining bear driver.
+**前次论点状态**: Watch (Technical Correction — Earnings Catalyst 9 Days Out) → **更新后**: Watch (Beat & Raise, Strengthened — but Sell-the-News)；论点未破，基本面加速，但AH抛售显示估值/预期已消化大部分利好，短线仍需等盘中确认MA50是否守住
+
+---
+
+## 2026-08-18 — Price Move / Technical Refresh, Pre-Earnings (via /stock-refresh)
+
+MRVL -9.0% today ($234.33→$213.20), part of a broad semiconductor sector selloff (SOXX -5.1%, COHR -10.4%, NVTS -7.65%, INTC -6.56% same session, rate-driven; no MRVL-specific news found). Stock had rallied from the 7/29 low of $163 to test MA50 resistance at $240 intraday on 8/17, then was rejected — a failed MA50 reclaim attempt, not a fresh breakdown. Fundamentals continue improving in the background: FY2027E/FY2028E non-GAAP EPS estimates revised up +6.4%/+15.2% over 90 days (FY2028E now $6.25 vs $5.53 at last refresh) even as price fell. Q2 FY2027 earnings land 2026-08-27 — 9 days out — now the dominant near-term catalyst.
+**前次论点状态**: Watch (Technical Correction) → **更新后**: Watch (Technical Correction — Earnings Catalyst 9 Days Out); 论点未变，基本面转强，等财报解决方向
+
+---
+
 ## 2026-07-24 — Entry Analysis
 
 **入场区间：** $175.00 — $195.00 | **止损：** $165.00（-12%）| **目标 1：** $240.00 | **目标 2：** $265.00

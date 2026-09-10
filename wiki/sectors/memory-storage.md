@@ -4,13 +4,13 @@ source: austin
 
 # Memory & Storage Chips — Sector Thesis
 
-**Last updated**: 2026-07-16
+**Last updated**: 2026-08-26
 **可投性**: Go
-**信念**: Medium-High *(downgraded from High — 路径A technical trigger hit)*
+**信念**: High *(2026-08-26 由 Medium-High 上调——技术结构修复 + NVDA财报HBM成本评论正面验证定价权)*
 **生命周期**: 成长
 **Language**: English | [中文](memory-storage.zh.md)
 
-> 📌 **Stress check 2026-07-16**（QQQ -1.36%，广谱科技抛售，momentum因子瓦解）：SOXX MA50 -6.2%（路径A触发阈值），MU -5.2% 当日，NVTS -11.3%、GSIT -11.2% 高 beta 重挫。**无 HBM ASP 崩塌/供给端坏消息**；MU MA200 +78.7% 显示机构长线支撑完好。论点未破 → **§9 Go 维持，但信念降至 Medium-High；建议等待1-2日稳定后再新建仓位**。MU Q3财报（2026年8月下旬）= 下一催化剂。
+> 📌 **刷新 2026-08-26**：MU $938.4，MA50 -2.1%（07-16时为-7.8%，结构明显修复），MA200 +61.4%——长线支撑持续完好。**关键新证据**：NVDA同日发布Q2 FY2027财报，管理层明确将Q4毛利率指引下修至71-72%，**归因HBM/内存成本超预期上涨**——这是买方（NVDA）证词，直接验证本赛道核心论点"HBM ASP溢价"正在兑现，且定价权在向memory厂商（MU等）转移。此外查证MU 2026年6月Q3 FY2026财报（此前未纳入本ledger）：HBM3E/HBM4已订满至2027年，需求延伸至2028年，$220亿战略客户协议含$180亿现金定金，Q3创纪录自由现金流，Q4指引FCF超$300亿。**MU 下次财报纠正为 2026-09-29（Q4 FY2026），非此前记录的"8月下旬"**（Micron财年与日历年错位所致的旧记录错误）。SOXX路径A仍触发（-6.8%，较07-16的-6.2%基本持平，尚未脱离阈值）。综合：技术+基本面+同业验证三线均正面 → **信念上调至High，§9 Go维持**。
 
 ---
 
@@ -92,15 +92,18 @@ China/competition: US-listed names (MU, SNDK, STX, WDC) are the investable surfa
 
 ## 9. 可投性判定
 
-**判定**: Go · **信念**: Medium-High *(was High; downgraded 2026-07-16 on 路径A technical trigger)* · **持有期**: speculative / hot-sector-playbook with cycle-top discipline (由 §4 成长 决定)
+**判定**: Go · **信念**: High *(2026-08-26 由 Medium-High 上调)* · **持有期**: speculative / hot-sector-playbook with cycle-top discipline (由 §4 成长 决定)
 
-**Stress check 2026-07-16**: SOXX vs MA50 = -6.2% (路径A threshold hit). MU vs MA50 = -7.8%, vs MA200 = +78.7%. NVTS vs MA50 = -43.2% (Stage 4, satellite only). GSIT vs MA50 = -34.2%. Broad tech selloff (QQQ -1.36%), momentum factor unwind.
+**Stress check 2026-08-26**: SOXX vs MA50 = -6.8%（路径A阈值持续触发，较07-16的-6.2%基本持平——半导体板块整体仍处技术性回调）。MU vs MA50 = -2.1%（较07-16的-7.8%大幅修复），vs MA200 = +61.4%（长线机构支撑持续完好）。GSIT vs MA50 = -9.1%，vs MA200 = -18.6%（**已破MA200，卫星仓位继续观察，不建议入场**）。QMCO vs MA50 = **+63.6%**（07-16为-12.5%，短期内剧烈拉升，已过度扩展，非入场时机）。
 
-This sector still clears as **Go**: the structural case (HBM + nearline HDD) is **intact**. The key distinction from a thesis break: MU MA200 = +$479 with current price ~$857 means institutional conviction at the long-term level is real — this is Stage 3 correction, not Stage 4 structural breakdown. HBM demand fundamentals unchanged: SK Hynix/Micron HBM allocation sold out through 2026, AI training memory requirement doubling every ~6 months.
+**本次上调的三条独立证据**：
+1. **技术结构修复**：MU从-7.8%低于MA50修复至-2.1%，接近收复，Stage 3回调正在向Stage 2过渡，而非继续恶化。
+2. **NVDA财报交叉验证（2026-08-26同日）**：NVIDIA Q2 FY2027财报将Q4毛利率指引下修至71-72%，管理层明确归因为**HBM/内存成本超预期上涨**。这是买方巨头的直接证词——本赛道§2核心问题（"HBM ASP溢价能否支撑多年盈利超级周期"）正在被NVDA自己的财报数据证实，且定价权正流向内存厂商，与本赛道§5驱动力①的论点方向完全一致。
+3. **MU基本面补录**（2026年6月Q3 FY2026财报，此前未纳入本ledger）：HBM3E/HBM4已订满至2027年，需求已延伸至2028年；$220亿战略客户协议含$180亿现金定金；Q3创纪录自由现金流，Q4 FCF指引超$300亿。这些是此前刷新遗漏的正面基本面数据点，非本次新发生事件，但应补入判定依据。
 
-**Conviction downgrade rationale**: SOXX -6.2% vs MA50 crosses the technical trigger threshold (路径A). Waiting for 1–2 day stabilization before new entries is warranted. Technical condition ≠ thesis break; do NOT cut existing positions based on this trigger alone.
+**技术触发状态**：SOXX路径A仍触发（-6.8%），但这是半导体板块整体技术性回调（08-24重挫后逐步修复中），而非本赛道特有的坏消息——上述三条证据均指向HBM结构性需求未受影响甚至在强化。
 
-**Next verification gate**: MU Q3 earnings (late August 2026) — ASP, HBM allocation update, and forward guidance are the primary thesis checkpoints.
+**更正**：此前记录的"MU Q3财报（2026年8月下旬）"下一催化剂日期有误（Micron财年与日历年错位导致）。**MU下一次财报正确日期为2026-09-29（Q4 FY2026）**，届时ASP实际数据、HBM分配份额更新、以及FY2027首次指引是核心验证点。
 
 The discipline caveat remains: it is commodity-cyclical underneath — manage with NAND/DRAM price-index exit signals, not buy-and-hold. Cleared → proceeds to §10.
 
@@ -117,14 +120,17 @@ The discipline caveat remains: it is commodity-cyclical underneath — manage wi
 
 > 📌 **Chen 权威点名对齐（2026-06-12，来源：Chen 课程截图）**：本赛道 Chen 亲点 MU, MRVL, QMCO, GSIT, MRAM, DRAM(ETF)。
 >
-> **当前技术读数（2026-07-16 盘中快照）：**
-> - **MU** $857.13 — MA50 -7.8%，MA200 +78.7%；Stage 3 回调，长线结构完好
-> - **MRVL** $188.46 — MA50 -19.8%，MA200 +45.8%；已从极扩展大幅回落
-> - **QMCO** $9.68 — MA50 -12.5%（从 $13.74 的 MA50 +55% 大幅回调）
-> - **GSIT** $5.45 — MA50 -34.2%（从 $7.89 的 -3.4% 进一步深跌）；**⚠️ 已破 MA200，需重新评估**
+> **当前技术读数（2026-08-26 盘中快照）：**
+> - **MU** $938.40 — MA50 -2.1%（07-16: -7.8%，大幅修复），MA200 +61.4%；Stage 3→2 过渡中，长线结构完好
+> - **MRVL** $245.11 — MA50 +6.2%（已收复，07-16: -19.8%），MA200 +66.5%；结构显著转强
+> - **SNDK** $1,499.37 — MA50 -7.7%，MA200 +56.4%；仍在回调但长线支撑完好
+> - **STX** $846.37 — MA50 -4.3%，MA200 +47.6%；接近收复
+> - **WDC** $468.88 — MA50 -13.3%，MA200 +29.4%；回调幅度较大，为四只核心卫星中最弱
+> - **QMCO** $23.21 — MA50 **+63.6%**（07-16: -12.5%，短期剧烈拉升）；**已过度扩展，非入场时机，等待回调**
+> - **GSIT** $5.83 — MA50 -9.1%，**MA200 -18.6%（已破位，07-16已破，持续恶化）**；⚠️ 仍不建议入场
 > - **DRAM** — Roundhill DRAM ETF（存储主题 ETF，可作打底替代）
 >
-> ⚠️ **2026-07-16 技术状态**：板块整体回调，MU 是唯一保持 MA200 结构完好的核心仓位。GSIT/NVTS 已进入 Stage 4 区间（MA50 -30%+），等待企稳信号再重评入场。路径A已触发 → 新建仓位等待1-2日稳定。
+> ✅ **2026-08-26 技术状态更新**：MU/MRVL/STX 三只核心名字均较07-16明显修复，MRVL已收复MA50。GSIT/QMCO两极分化（GSIT破位加深，QMCO短期过热），均非当前入场时机。SOXX路径A仍触发（-6.8%），板块级回调尚未完全解除，但个股结构已领先板块修复。
 
 ### 卫星个股候选（1–2 只高信念）
 | Ticker | 价值链层 | 信念 | 喂 /stock-analyze? |
@@ -159,6 +165,8 @@ The discipline caveat remains: it is commodity-cyclical underneath — manage wi
 - NAND/DRAM contract price indices (DRAMeXchange) continuing up
 - Hyperscaler nearline HDD orders expanding (STX/WDC volume)
 - NVIDIA GB300 / next-gen GPU launch lifting HBM spec & volume
+- ✅ **2026-08-26 已确认**：NVDA Q2 FY2027财报毛利率指引下修至71-72%，管理层归因HBM/内存成本上涨——买方证词直接确认HBM定价权正向memory厂商转移
+- ✅ **2026-08-26 补录**：MU 2026年6月Q3 FY2026财报确认HBM3E/HBM4订单已排至2027年、需求延伸至2028年、$220亿战略客户协议
 
 **破坏信号（任一 → 降级复审）：**
 - HBM supply catching demand → ASP rollover (2027 watch; SK Hynix/Samsung capacity)
@@ -167,9 +175,13 @@ The discipline caveat remains: it is commodity-cyclical underneath — manage wi
 - PC/smartphone demand collapse not offset by AI
 - MU losing HBM design-win allocation to SK Hynix/Samsung
 
+**下一验证关口（更正）**：MU **2026-09-29** 公布 Q4 FY2026 财报（此前记录的"8月下旬"有误，已更正）——重点看ASP实际数据、HBM分配份额、FY2027首次指引。
+
 ---
 
 ## 数据来源
-- Yahoo Finance / morning_scan.py (price/MA data, 2026-07-16 snapshot)
+- Yahoo Finance / morning_scan.py (price/MA data, 2026-08-26 snapshot; 前次 2026-07-16)
+- NVDA Q2 FY2027 earnings release/coverage (2026-08-26) — HBM cost commentary
+- MU Q3 FY2026 earnings release/coverage (2026-06-24) — HBM booking status, retroactively incorporated 2026-08-26
 - Company IR; DRAMeXchange pricing-data context
 - TAM figures marked [估算] — industry-consensus ranges, not single hard citations

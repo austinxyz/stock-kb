@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: AXTI (NASDAQ)
 **Company**: AXT, Inc.
-**As of**: 2026-08-10
-**Price**: $73.81 (round-tripped $42.76 pre-earnings 7/28 → $88.58 peak 8/7 → $73.81 today, -16.67% today alone)
+**As of**: 2026-08-27
+**Price**: $66.92 (-9.3% since 08-10's $73.81; continued round-trip volatility — 8/17 rally then -18.1% pullback the following week)
 **52-wk range**: $2.05 – $143.16
-**Market cap**: $4.83B (~65.4M shares)
-**Verdict**: Speculative — Watch; **Q2 2026 was a genuine beat-and-raise** (revenue $47.6M +164% YoY, EPS $0.19 vs $0.07E, GM surged to 45.0%), with multi-year contractually-backed demand now disclosed (Lumentum/Coherent/Casella agreements, backlog >$100M). Thesis materially **strengthened**, not broken — today's -16.67% reads as sell-the-news after an 11-day +72% run, not new negative information. Technicals recovered from Stage 3 to Stage 2 (price now above MA50). Current price ~23% below updated PW EV $96 (see §13)
+**Market cap**: ~$4.38B (~65.4M shares)
+**Verdict**: Speculative — Watch; thesis **unchanged from 08-10** — no new fundamental catalyst this refresh, this is a price/technical update only. Q2 2026 beat-and-raise (revenue $47.6M +164% YoY, EPS $0.19 vs $0.07E, GM 45.0%) and the Lumentum/Coherent/Casella multi-year contracts remain the operative facts. Price continues to be extremely volatile post-earnings; technicals have weakened slightly (price now only +2.0% above MA50, down from +3.1% at 08-10) but Stage 2 posture holds. Current price further below the $96 PW EV computed 08-10 (now ~30% below, up from ~23%) — discount has widened on price alone, not on new negative information
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -323,6 +323,8 @@ Q2 2026 actuals ($47.6M revenue, 45.0% GM, $0.19 EPS) already exceeded the prior
 
 **Current price $73.81 is ~23% BELOW PW EV of $96.** This is a wider discount than the 06-26 reading (19% below $84) — despite the stock being up 8.5% since then, the fundamentals (revenue/EPS estimates) moved up faster than the price. The caveat: realized volatility has been extreme (round-tripped ±100% in under 2 weeks), so position sizing should account for that even with a favorable PW EV gap.
 
+**Update 2026-08-27**: Price has fallen further to $66.92 (-9.3% since 08-10) with no new fundamental information — a straight technical/sentiment move on top of the already-extreme volatility noted above. Against the unchanged $96 PW EV (no fundamental rebuild triggered — see financials.md, no new earnings or contract data this refresh), the discount has widened to ~30% below fair value. This reads as continued digestion of the +72%/-16.67% round-trip rather than a new signal; treat the wider discount with caution given how much of this stock's recent moves have been volatility/momentum-driven rather than information-driven.
+
 *Note: illustrative scenario construction pending a full valuation rebuild; treat as directional, not a precision model — the underlying inputs (GM sustainability, export-permit timing) carry real uncertainty per §8/§15.*
 
 ---
@@ -336,6 +338,8 @@ Q2 2026 actuals ($47.6M revenue, 45.0% GM, $0.19 EPS) already exceeded the prior
 **Portfolio allocation**: Given the round-trip volatility (+72% in 11 days, then -16.67% in one day) and that this is a speculative small-cap already up massively, position sizing discipline matters more than ever — this is not a "chase the beat" situation even though the fundamentals genuinely improved. For existing positions: hold, no new mechanical stop needed. For new positions: any entry should be sized for continued high volatility, not the current PW EV gap alone.
 
 **Verdict (updated 2026-08-10)**: **Thesis strengthened materially.** Q2 2026 was not just a beat — it converted the InP demand story from "hoped-for ramp" to "contractually pre-funded, multi-year backlog" via the Lumentum ($87.5M deposits, through 2031), Coherent ($25.4M prepay), and Casella ($22.3M prepay) agreements, plus backlog >$100M. Gross margin at 45.0% blew past the original 25% thesis-confirmation bar. Today's -16.67% has no corroborating negative news — it reads as profit-taking after an extreme short-term run, not a thesis-break signal. **Watch maintained, but the reason has flipped**: previously watching for fundamental confirmation (now delivered), now watching for the stock to digest its own volatility before sizing a position. Next real test: Q3 2026 earnings (10/29).
+
+**Verdict (updated 2026-08-27)**: **Unchanged — Watch.** No new fundamental information this refresh; price fell a further -9.3% to $66.92 purely on continued post-earnings volatility digestion (round-tripped again: 8/17 rally then -18.1% pullback). None of the thesis-break triggers below were hit. This is a pure price/technical mark, not a reassessment — the Lumentum/Coherent/Casella-backed thesis from 08-10 stands. Next real test remains Q3 2026 earnings (2026-10-29).
 
 ---
 

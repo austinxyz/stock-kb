@@ -4,9 +4,9 @@ source: austin
 
 # MU — Key Financial Metrics
 
-**Last updated**: 2026-07-31
-**Data source**: Yahoo Finance, Micron IR quarterly financials
-**Next update trigger**: Q4 FY2026 earnings — 2026-09-23
+**Last updated**: 2026-08-26
+**Data source**: Yahoo Finance, Micron IR quarterly financials, NVDA Q2 FY2027 earnings coverage (HBM cost context)
+**Next update trigger**: Q4 FY2026 earnings — **2026-09-29**（更正：此前记录"2026-09-23"有误）
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -15,20 +15,16 @@ source: austin
 
 | Metric | Value |
 |--------|-------|
-| Price (2026-07-31) | $824.81 (−5.66% today, vol 56.93×) |
-| 52-wk range | $103.38 – $1,255.00 |
-| % from 52-wk high | −34.3% |
-| Market cap | $931.5B |
-| Enterprise value | $968.2B |
-| Average volume (30d) | ~30M shares |
-| Beta (5yr) | 2.14 |
-| EPS TTM | $44.26 |
-| Trailing P/E | 18.6× |
-| Forward P/E (FY2026E) | 11.2× |
-| Forward P/E (FY2027E) | 5.4× |
-| Analyst median target | $1,550 (+87.9%) |
-| Short interest | 3.2% of float |
-| Short ratio | 0.69 days |
+| Price (2026-08-26) | $938.40（07-31: $824.81，+13.8%）|
+| 52-wk range | $117.56 – $1,213.37 |
+| % from 52-wk high | −22.7%（07-31: −34.3%）|
+| Market cap | ~$1.06T |
+| Average volume (30d) | ~37.0M shares |
+| Beta (5yr) | 2.21 |
+| Trailing P/E | 21.2× |
+| Forward P/E (FY2026E, EPS $73.40) | 12.8× |
+| Forward P/E (FY2027E, EPS $155.03) | 6.1× |
+| Analyst median target | $1,545（+64.7%，07-31: $1,550，基本未变）|
 
 ---
 
@@ -120,16 +116,25 @@ Shares DECREASED from 1.27B to 1.129B — Micron has been buying back shares agg
 
 ## 9. Estimate Momentum
 
-### EPS Estimates
+### EPS Estimates（2026-08-26）
 
-| Period | Current Est | 7d Ago | 30d Ago | 60d Ago | 90d Ago | Trend |
-|--------|------------|--------|---------|---------|---------|-------|
-| Q4 FY26 (0q) | $31.33 | $31.29 | $24.18 | $22.66 | $22.26 | ⬆️ Strong upward |
-| Q1 FY27 (+1q) | $34.87 | $34.80 | $27.63 | $25.15 | $24.92 | ⬆️ Strong upward |
-| FY2026 (0y) | $73.44 | $73.37 | $61.00 | $58.31 | $57.84 | ⬆️ Strong upward |
-| FY2027 (+1y) | $153.74 | $150.47 | $117.95 | $102.72 | $100.53 | ⬆️ Very strong |
+| Period | Current Est | 07-31 Est | 变化 |
+|--------|------------|---------|------|
+| Q4 FY26 (0q) | $31.28 | $31.33 | 基本持平 |
+| Q1 FY27 (+1q) | $34.81 | $34.87 | 基本持平 |
+| FY2026 (0y) | $73.40 | $73.44 | 基本持平 |
+| FY2027 (+1y) | $155.03 | $153.74 | +0.8% |
 
-Estimate revisions have been sharply upward over 90 days. FY2027E went from $100 → $153 (+53%) in 90 days — massive acceleration in analyst confidence. **Signal: Bullish** on estimate momentum.
+### 30日预期修正（2026-08-26 实测）
+
+| 期间 | 上调 | 下调 | 净 |
+|------|-----:|-----:|---:|
+| 当季 (0q) | 26 | 0 | +26 |
+| 下季 (+1q) | 23 | 0 | +23 |
+| 本年 (0y) | 29 | 1 | +28 |
+| 明年 (+1y) | 5 | 1 | +4 |
+
+**压倒性净上调，且0下调（当季/下季）**——较07-31时的绝对数字基本持平，但方向性零下调本身就是强信号。**Signal: Bullish**——估值层面数字未变，但分析师用真实模型修正持续背书，非仅嘴上乐观。
 
 ### Revenue Estimates
 
@@ -157,9 +162,9 @@ Earnings history data not fully available via automated fetch. Based on quarterl
 
 MU has been consistently beating estimates as HBM ramp exceeded analyst models.
 
-**Next earnings: 2026-09-23** (Q4 FY2026)
-- EPS consensus: $31.33 (range $28.04–$37.44)
-- Revenue consensus: $50.8B (range $46.9B–$59.8B)
+**Next earnings: 2026-09-29**（Q4 FY2026，更正：此前误记为"2026-09-23"）
+- EPS consensus: $31.28 (range $28.04–$37.44)
+- Revenue consensus: $50.78B (range $46.9B–$59.8B)
 
 ---
 
@@ -167,14 +172,11 @@ MU has been consistently beating estimates as HBM ramp exceeded analyst models.
 
 | Metric | Value |
 |--------|-------|
-| ADTV (30d avg) | ~$25B/day (estimated at $825 × ~30M shares) |
-| Short interest | 3.2% of float |
-| Short ratio | 0.69 days |
-| Today's vol ratio | 56.93× (extreme) |
-| ATR (14d) | $72.28 |
-| $50K position impact | Negligible (micro-cap liquidity is ample) |
+| ADTV (30d avg) | **~$32.8B/day**（实测，07-31估算约$25B）|
+| ATR (14d) | $41.88（07-31: $72.28，波动率明显收敛）|
+| $50K position impact | Negligible |
 
-**Liquidity grade: A** — Mega-cap, massive daily dollar volume, zero liquidity concern for any retail position.
+**Liquidity grade: A+** — 超巨型流动性，任意零售/机构仓位规模无执行障碍。07-31的极端量比事件已过去，当前量比已回归正常区间。
 
 ---
 
@@ -226,12 +228,13 @@ MU's FY2026E P/E 11.2× is cheapest in semiconductor peer group — reflects cyc
 
 | Date | Event | What to Watch |
 |------|-------|--------------|
-| 2026-07-31 | **Today's -5.66% on 56× vol** | Identify catalyst immediately — thesis integrity depends on knowing why |
+| 2026-07-31 | -5.66% on 56× vol | ✅ 已判定为技术性/轮动性事件，非结构损伤（价格后续修复+13.8%）|
+| 2026-08-26 | **NVDA Q2 FY2027财报** | ✅ 毛利率指引下修归因HBM成本上涨——正面交叉验证MU定价权论点 |
+| **2026-09-29** | **Q4 FY2026 Earnings**（更正日期）| Revenue ≥$46B, GM ≥70%, Q1 FY27 guide ≥$55B = pass |
 | ~Aug 2026 | Samsung HBM4 certification | Any Samsung Nvidia B400 HBM4 confirmation = competitive threat |
-| 2026-09-23 | **Q4 FY2026 Earnings** | Revenue ≥$46B, GM ≥70%, Q1 FY27 guide ≥$55B = pass |
 | ~2026 H2 | Idaho fab Phase 1 milestone | DRAM production ramp confirmation |
 | ~2027 H1 | HBM4 mass production start | First HBM4 revenue = thesis acceleration |
 
 ---
 
-*Sources: Yahoo Finance API (financials, estimates, analyst targets), Micron quarterly press releases (quarterly actuals). Data as of 2026-07-31.*
+*Sources: Yahoo Finance API (financials, estimates, analyst targets), Micron quarterly press releases (quarterly actuals), NVDA Q2 FY2027 earnings coverage (2026-08-26, HBM cost context). Data as of 2026-08-26（前次 2026-07-31）。*

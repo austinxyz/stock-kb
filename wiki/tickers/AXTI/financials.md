@@ -6,9 +6,9 @@ source: austin
 
 > **[English](financials.md) | [中文](financials.zh.md)**
 
-> **Last Updated**: 2026-08-10 (Q2 2026 earnings + today's -16.67% refresh via /stock-refresh)
+> **Last Updated**: 2026-08-27 (price/technical refresh via /stock-refresh — no new fundamentals since 08-10; Lumentum/Coherent/Casella details unchanged)
 > **Data Sources**: Yahoo Finance (yfinance), AXT Q2 2026 earnings call transcript (Fool/GuruFocus/TipRanks), WebSearch
-> **Next Update Trigger**: Q3 2026 earnings — ~late October 2026 (confirmed date 2026-10-29)
+> **Next Update Trigger**: Q3 2026 earnings — 2026-10-29
 
 ---
 
@@ -16,13 +16,16 @@ source: austin
 
 | Metric | Value |
 |--------|-------|
-| Price (2026-08-10) | $73.81 (today -16.67%, but +8.5% since 06-26's $68.03; round-tripped $42.76 (7/28 pre-earnings) → $88.58 (8/7 peak) → $73.81 (today)) |
+| Price (2026-08-27) | $66.92 (-9.3% since 08-10's $73.81; round-tripped further: $73.81 (08-10) → 8/17 rally → -18.1% pullback the following week → $66.92 today) |
 | 52-Week Range | $2.05 – $143.16 |
-| Market Cap | ~$4.83B |
-| MA50 | $71.57 (stock is **+3.1% ABOVE MA50** — recovered from Stage 3 to Stage 2 territory since 06-26) |
-| Analyst Median Target | $93.00 (5 analysts, up from 4; current price still −20.6% BELOW median target) |
+| Market Cap | ~$4.38B (at $66.92, down from $4.83B at 08-10) |
+| MA50 | $65.63 (stock is **+2.0% above MA50** — barely holding Stage 2, down from +3.1% at 08-10) |
+| MA150 / MA200 | $65.92 / $53.18 (price essentially at MA150, well above MA200) |
+| Analyst Median Target | $93.00 (5 analysts, unchanged — no new coverage since 08-10) |
 | Analyst Target Range | $55 – $125 |
 | Shares Outstanding | 65.4M |
+
+**No new fundamental catalyst this refresh** — this is a price/technical update only. The Lumentum ($87.5M deposits, through 2031), Coherent ($25.4M prepay), and Casella ($22.3M prepay) agreements disclosed at Q2 earnings (08-10) remain the operative fundamental facts; nothing new confirmed via WebSearch as of 2026-08-27.
 
 **Note**: Prior "P/E FY2026E ~224x" figure is stale — post-Q2-beat FY2026E EPS consensus jumped to $0.868 (from $0.304), making forward P/E ~85x, a dramatic re-rate on fundamentals alone.
 

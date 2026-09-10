@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: INTC (NASDAQ)
 **Company**: Intel Corporation
-**As of**: 2026-07-23
-**Price**: $100.23 (Yahoo Finance verified; AH $102.58 +2.35%)
-**52-wk range**: $18.97 – $142.35
-**Market cap**: $503.8B
-**Verdict**: **Deep-Value Turnaround — Watch at $100.23; Stage 3 not actionable; entry trigger = reclaim MA50 $115.83 on volume; Q2 2026 EPS +92% beat is first credible inflection signal**
+**As of**: 2026-08-18
+**Price**: $95.91 (Yahoo Finance verified; –7.3% today, broad semis selloff)
+**52-wk range**: $22.78 – $142.35
+**Market cap**: $507.0B (5.29B shares, +5.1% post $20B equity offering)
+**Verdict**: **Deep-Value Turnaround — Watch at $95.91; Stage 3 not actionable; entry trigger = reclaim MA50 (now $109.17) on volume; Q2 2026 revenue/EPS beat confirmed, thesis intact; $20B dilutive equity raise + sector-wide selloff pushed price lower without breaking the fundamental inflection story** (unchanged since 2026-07-23; see §15 for 2026-08-18 update)
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -25,12 +25,13 @@ source: austin
 3. CHIPS Act leverage: $8.5B direct + $11B loan guarantees — US government "must-succeed" mandate
 4. CapEx rationalization: $24-26B/yr peak CapEx declining to $14.6B (FY2025) and further through 2027
 
-**Current milestone status as of 2026-07-23:**
-- Intel 18A: in customer qualification; risk production yield uncertain; volume production est. H2 2026–2027
-- IFS external customers: rumored Microsoft Azure, Broadcom; no public flagship customer commitment
-- Q2 2026: EPS $0.42 vs $0.218 est (+92% beat) = first major inflection signal; revenue tbd (not in yfinance yet)
+**Current milestone status as of 2026-08-18 (updated from 2026-07-23):**
+- Intel 18A: in customer qualification; risk production yield uncertain; volume production est. H2 2026–2027 (no update since last review)
+- IFS external customers: rumored Microsoft Azure, Broadcom; no public flagship customer commitment (unchanged)
+- Q2 2026: EPS $0.42 vs $0.216 est (+94.6% beat) confirmed; **revenue confirmed at $16.1B (+25% YoY, fastest growth since 2011)**, beating $14.42B consensus. Data Center & AI +59% YoY to $6.3B; Client Computing +13% to $8.9B. Q3 2026 guidance ($15.8–16.8B rev, $0.38 EPS) also above consensus ($15.1B/$0.27)
+- **New (2026-08-12): Intel closed an upsized $20B common stock offering** (210.5M shares @ $95, ~4.2% dilution) to fund FY2026 capex, raised >21% YoY to $20B+, for AI compute/custom silicon/advanced packaging/outsourced wafer capacity. BofA cut PT $160→$145, UBS cut PT $121→$112 same day, both citing ~4-5% EPS dilution
 - CEO: Lip-Bu Tan (installed ~Mar 2025); deep foundry expertise from 16 years as Cadence CEO
-- FCF: –$4.9B in FY2025, declining from –$15.7B peak in FY2024; positive FCF target ~2027
+- FCF: –$4.9B in FY2025, declining from –$15.7B peak in FY2024; positive FCF target ~2027 (unchanged)
 
 **Pivotal Question**: Will Intel 18A process node achieve sufficient yield and external IFS customer wins by 2027 to validate IFS as a real foundry business — justifying $50B+ cumulative CapEx — or will TSMC's 2-year process lead make IFS a structural drag that prevents Intel from recovering its historical FCF profile?
 
@@ -180,6 +181,7 @@ Intel reports two main business units (post-2024 restructuring):
 | FCF remains negative through 2028 (CapEx re-acceleration) | High | 25% | Medium |
 | Management execution failure under Lip-Bu Tan | Critical | 20% | Medium |
 | ARM disruption in data center accelerates beyond 20% share | Medium | 30% | Medium |
+| **Further dilutive capital raises** (new, added 2026-08-18): $20B equity offering (Aug 12) already cut ~4-5% EPS; if 2027+ capex needs exceed current guidance, additional raises could compound dilution | Medium | 25% | Medium |
 
 **Most underappreciated risk**: Intel 18A process yield. TSMC has publicly declined to license N2 tech. Intel's backside power delivery + RibbonFET are new implementations with no prior production history. A yield failure at Fab 52 would invalidate the entire IFS thesis and require re-evaluation of the $19.5B CHIPS Act spend.
 
@@ -232,7 +234,7 @@ Intel reports two main business units (post-2024 restructuring):
 | Bull (IFS wins) | $63B | $72B | 12× | ~$150 |
 | Super Bull (TSMC rival) | $70B | $85B | 15× | ~$220 |
 
-**Analyst consensus (2026-07-23):** ~20-25 analysts; median target $102.5 (~flat to current); mean $108.6; consensus Hold. Notable: GS Sell→Neutral with $150 target, BofA Buy $160, KeyBanc Overweight $155 — multiple upgrades post-Q2 beat.
+**Analyst consensus (2026-08-18):** ~20-25 analysts; median target $110.0; mean $114.9; consensus Hold/Neutral. Post-Q2-beat upgrade cluster (GS $150, BofA $160, KeyBanc $155) has since been partially trimmed by dilution-driven cuts: BofA $160→$145, UBS $121→$112 (both 2026-08-12). Net effect: targets still well above current $95.91, but the dilution has capped the upgrade momentum.
 
 ---
 
@@ -287,9 +289,11 @@ Stage 3 (below MA50). Price $100.23, MA50 $115.83 (–13.5%), MA150 $74.61 (+34.
 - Bear: 30% × $65 = $19.50
 - Base: 45% × $110 = $49.50
 - Bull: 25% × $180 = $45.00
-- **PW EV = $114.00** (+13.7% vs current $100.23)
+- Raw PW EV = $114.00
+- **Dilution-adjusted PW EV ≈ $108–109** (updated 2026-08-18: ~5% haircut applied for the $20B equity offering's EPS dilution; per-share targets above were set pre-offering and have not yet been re-derived bottom-up)
+- vs current price $95.91: **+13–14% upside** (little changed from the 07-23 read of +13.7%, since price fell roughly in proportion to the dilution-adjusted target)
 
-*PW EV modestly above current price suggests mild undervaluation in base+bull scenarios. Wide bear scenario at –35% reflects real IFS execution risk.*
+*PW EV remains modestly above current price, suggesting mild undervaluation persists in base+bull scenarios even after dilution. Wide bear scenario at –35% still reflects the core IFS execution risk; the equity raise itself is a valuation headwind, not a new existential risk (it reduces near-term cash burn risk while diluting per-share upside).*
 
 ---
 
@@ -301,18 +305,22 @@ Stage 3 (below MA50). Price $100.23, MA50 $115.83 (–13.5%), MA150 $74.61 (+34.
 
 **Portfolio allocation**: None at current Stage 3. If Stage 2 reclaim occurs (MA50 $115.83 on volume), consider 1–2% position, starter only. Intel is a stock that could be +100% or –40% from here depending on Intel 18A yield — appropriate for speculative allocation only.
 
-**Verdict**: The Q2 2026 EPS beat (+92%) is the first credible inflection signal after 4 years of destruction. Lip-Bu Tan brings real foundry credibility. The financial math (CapEx declining, FCF inflecting) is sound. The IFS execution uncertainty is real but binary — if 18A yields, this story works. Watch the Stage 3 → Stage 2 transition. Target entry: MA50 reclaim with volume. Do not chase Stage 3.
+**Verdict**: The Q2 2026 beat (revenue +25% YoY confirmed, EPS +94.6% beat) is the first credible inflection signal after 4 years of destruction, and Q3 guidance above consensus extends it to a second data point. Lip-Bu Tan brings real foundry credibility. The financial math (CapEx declining, FCF inflecting) is sound. The $20B equity offering (Aug 12) dilutes per-share upside by ~5% but de-risks the capex funding plan — a trade-off, not a thesis break. The IFS execution uncertainty is real but binary — if 18A yields, this story works. Watch the Stage 3 → Stage 2 transition. Target entry: MA50 reclaim (now $109.17) with volume. Do not chase Stage 3.
+
+**Update, 2026-08-18**: Verdict unchanged (Watch). Fundamentals strengthened (revenue confirmed, estimates still revising up); price fell further due to the $20B dilutive offering (Aug 12) and a broad semiconductor sector selloff (Aug 18, SOXX –5.1%) rather than any company-specific negative surprise. No thesis-break trigger hit.
 
 ---
 
 ## 15. Monitoring Checklist
 
 ### Near-term (next 60 days)
-- [ ] Q2 2026 earnings call review: exact revenue, gross margin, IFS revenue, guidance for Q3 2026 (call happened 2026-07-23; details TBD)
-- [ ] Q3 2026 guidance range: Bull if rev guidance >$14.5B; Bear if <$13.5B
-- [ ] Intel 18A yield update: any press release or analyst channel check on risk production yield (>60% = positive)
-- [ ] Named IFS external customer announcement (Microsoft Azure, Broadcom, or other)
-- [ ] MA50 ($115.83) reclaim on volume >100M shares/day for 2+ consecutive closes → entry trigger
+- [x] Q2 2026 earnings call review: revenue **$16.1B (+25% YoY)** confirmed; gross margin TBD; IFS revenue not yet broken out; Q3 guidance $15.8–16.8B rev / $0.38 EPS (resolved 2026-08-18)
+- [x] Q3 2026 guidance range: guided $15.8–16.8B — **Bull threshold (>$14.5B) met** (resolved 2026-08-18)
+- [ ] Intel 18A yield update: any press release or analyst channel check on risk production yield (>60% = positive) — no update
+- [ ] Named IFS external customer announcement (Microsoft Azure, Broadcom, or other) — no update
+- [ ] MA50 reclaim on volume >100M shares/day for 2+ consecutive closes → entry trigger (MA50 now **$109.17**, down from $115.83; price $95.91, further away than before)
+- [ ] **New (2026-08-18): Confirm $20B equity offering proceeds are deployed to capex as stated** (not used to paper over an unexpected cash shortfall) — check Q3 10-Q cash flow statement
+- [ ] **New (2026-08-18): Watch for further capital raises** (debt or equity) that would compound the ~5% dilution already taken
 
 ### Mid-term (Q3 2026 earnings — Oct 2026)
 - [ ] Q3 non-GAAP EPS: must be ≥$0.35 to confirm recovery trend (not a one-quarter anomaly)
@@ -339,14 +347,16 @@ Stage 3 (below MA50). Price $100.23, MA50 $115.83 (–13.5%), MA150 $74.61 (+34.
 
 ## Sources
 
-- Yahoo Finance: price data, income statement, cash flow, balance sheet, analyst targets (accessed 2026-07-23)
-- Intel Q2 2026 earnings press release (2026-07-23; revenue exact figure pending yfinance update)
-- Adanos Finance API: Reddit, X.com, news sentiment (accessed 2026-07-23)
+- Yahoo Finance / yfinance: price data, income statement, cash flow, balance sheet, analyst targets, estimate trend/revisions (accessed 2026-08-18)
+- Intel Q2 2026 earnings press release + 8-K (2026-07-23; revenue now confirmed $16.1B)
+- Intel $20B common stock offering press release / 8-K (2026-08-12)
+- Adanos Finance API: Reddit, X.com, news sentiment (accessed 2026-08-18)
 - Intel CHIPS Act filings: $8.5B direct grant + $11B loans (US DoC CHIPS Program Office)
-- Analyst upgrades: GS ($150), BofA ($160), KeyBanc ($155) — post Q2 2026 earnings
+- Analyst actions: GS $150, BofA $160→$145, KeyBanc $155, UBS $121→$112 (BofA/UBS cuts 2026-08-12 post-offering)
+- WebSearch: sector-selloff context for 2026-08-18 (SOXX –5.1%, COHR –10.4%, NVTS –7.65%, MRVL –7.27%)
 
 **Data gaps:**
-- Q2 2026 revenue actual (not yet in yfinance; just reported today — update at next refresh)
-- Q3 2026 guidance (earnings call details TBD)
+- Q2 2026 gross margin, operating income (not yet in yfinance)
 - IFS revenue breakdown by internal vs external customers
 - Intel 18A yield data (proprietary; inferred from analyst checks)
+- RS (relative strength) rating not independently verified for trend-template condition 8

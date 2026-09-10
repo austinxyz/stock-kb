@@ -6,10 +6,10 @@ source: austin
 
 > **[English](overview.md) | [中文](overview.zh.md)**
 
-> **Status**: Watch — 🟢 Q2 2026 beat-and-raise confirmed thesis (rev $47.6M/+164%YoY, EPS $0.19 vs $0.07E, GM 45.0%); Lumentum/Coherent/Casella multi-year supply deals + backlog >$100M de-risk demand; today -16.67% is post-run profit-taking, not new negative info
-> **Last Updated**: 2026-08-10 (Q2 earnings + today's pullback refresh via /stock-refresh)
+> **Status**: Watch — 🟢 thesis unchanged since 08-10 (Q2 2026 beat-and-raise: rev $47.6M/+164%YoY, EPS $0.19 vs $0.07E, GM 45.0%; Lumentum/Coherent/Casella multi-year supply deals + backlog >$100M de-risk demand). This refresh is price/technical only — no new fundamentals; stock -9.3% since 08-10 on continued post-earnings volatility digestion, no corroborating negative news
+> **Last Updated**: 2026-08-27 (price/technical-only refresh via /stock-refresh)
 > **Moat**: Narrow
-> **Conviction**: Thesis strengthened materially; price ~23% BELOW updated PW EV $96; technicals recovered to Stage 2 (above MA50); extreme realized volatility (+72%/11d then -16.67%/1d) argues for disciplined sizing over chasing
+> **Conviction**: Thesis unchanged, strengthened materially at 08-10; price now ~30% BELOW the (unchanged) PW EV $96 — discount widened on price alone; technicals softening slightly (+2.0% above MA50, down from +3.1%) but still Stage 2; extreme realized volatility continues — disciplined sizing over chasing still applies
 
 ---
 
@@ -25,7 +25,7 @@ Valuation lens: EV/Revenue and price-relative-to-analyst-targets — traditional
 
 | Metric | Value |
 |--------|-------|
-| Market Cap | ~$4.45B (was $7.09B at $108; −37%) |
+| Market Cap | ~$4.38B (at $66.92, 2026-08-27) |
 | Revenue (FY2025) | $88.3M |
 | Revenue (Q1 2026 actual) | $26.9M (+39% YoY vs Q1 2025 $19.4M) |
 | Gross Margin (Q1 2026) | **29.6%** (FY2025 trough was 12.7% — thesis target of 25% exceeded) |
@@ -55,12 +55,13 @@ Valuation lens: EV/Revenue and price-relative-to-analyst-targets — traditional
 
 | Metric | Value |
 |--------|-------|
-| Price (2026-08-10) | $73.81 (today -16.67%; round-tripped $42.76 pre-earnings → $88.58 peak 8/7 → today) |
+| Price (2026-08-27) | $66.92 (-9.3% since 08-10's $73.81; continued round-trip: 8/17 rally then -18.1% pullback the following week) |
 | 52-Week Range | $2.05 – $143.16 |
-| 50MA | $71.57 (stock is **+3.1% ABOVE MA50** — recovered to Stage 2 since 06-26's Stage 3) |
+| 50MA | $65.63 (stock is **+2.0% above MA50** — barely holding Stage 2, down from +3.1% at 08-10) |
+| 150MA / 200MA | $65.92 / $53.18 (price essentially at MA150, well above MA200) |
 | Next Earnings | Q3 2026 — **2026-10-29 (confirmed)**; guide $66M rev / $0.30-32 EPS |
 
-**SEPA Verdict**: Recovered to Stage 2 territory (above MA50) after the Q2 earnings pop, though extreme volatility (round-tripped nearly 2x in under 2 weeks) means the "clean base" condition from the prior Watch stance is still not met. Today's pullback is the first real test of whether the post-earnings gains hold.
+**SEPA Verdict**: Still Stage 2 but the margin above MA50 has compressed to near-zero (+2.0%, down from +3.1% at 08-10) — the "clean base" condition remains unmet, and this week's further volatility (round-tripping again) means the stock has not yet found equilibrium post-earnings. No new fundamental data this refresh; watch whether MA50 holds as support or the stock slips back to Stage 3.
 
 ## Peers and Relative Performance (Last 3 Months)
 
@@ -94,6 +95,10 @@ AXTI is the undisputed leader of the optical connectivity/AI photonics peer grou
 AXTI entered research after reporting a strong Q1 2026 earnings beat (EPS -$0.01 vs -$0.046 est., +78.3%) and announcing it doubled InP manufacturing capacity to serve AI data center 800G/1.6T optical interconnect demand (May 2026). The company is the most direct pure-play on InP substrate supply, which sits at the base of the AI photonics supply chain. The wiki exists to track whether the revenue ramp materializes versus the parabolic stock move getting ahead of fundamentals.
 
 See [thesis.md](thesis.md) for full 15-section analysis.
+
+## 历史入场分析
+
+- [2026-08-18 — 入场 $63.26–$74.46，止损 $46.47](../../../data/outputs/AXTI/entry-2026-08-18.md)
 
 ## Backlinks
 

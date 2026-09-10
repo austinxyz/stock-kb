@@ -4,6 +4,21 @@ source: austin
 
 # AXTI — Changelog
 
+## 2026-08-27 — Price/Technical-Only Refresh (via /stock-refresh)
+
+No new fundamental catalyst — this refresh was triggered by data staleness (17 days since 08-10, past the file's own 2-week threshold) plus continued price volatility, not a new event. WebSearch turned up no material news beyond what's already captured (Lumentum/Coherent/Casella deals, Q2 beat, Q3 guide). Price fell -9.3% to $66.92 since 08-10, continuing the round-trip pattern (8/17 rally, then -18.1% pullback the following week). MA50 cushion compressed to +2.0% (from +3.1%), still Stage 2 but barely. PW EV unchanged at $96 (no fundamental rebuild triggered); discount to fair value widened to ~30% (from ~23%) on price movement alone, not new information.
+**前次论点状态**: Speculative Watch（论点已被7/30财报证实并强化）→ **更新后**: 不变，仍为 Speculative Watch；本次仅价格/技术面刷新，无新基本面信息，PW EV折价因股价下跌被动扩大至~30%
+
+---
+
+## 2026-08-18 — Entry Analysis
+
+**入场区间：** $63.26 — $74.46 | **止损：** $46.47（32.5%）| **目标 1：** $95.97 | **目标 2：** $140.83
+**Setup：** Stage 2，无干净整理形态（无pattern）
+**File：** [entry-2026-08-18.md](../../../data/outputs/AXTI/entry-2026-08-18.md)
+
+---
+
 ## 2026-08-10 — Q2 2026 Beat-and-Raise + Today's Pullback (via /stock-refresh)
 
 Q2 2026 (reported 7/30): revenue $47.6M (+164% YoY, +77% QoQ) vs $34.1M consensus; non-GAAP EPS $0.19 vs $0.07E (+171.4% beat); gross margin surged to 45.0% (vs 29.9% Q1, vs 8.2% Q2'25) — far exceeding the 25% thesis-confirmation bar. InP revenue $30.7M, record high, backlog >$100M. Disclosed multi-year supply agreements: **Lumentum** (through 2031, $87.5M in deposits as shipment credits — the "major InP AI deal" behind 7/31 headlines), **Coherent** ($25.4M prepayment), **Casella** ($22.3M prepayment). Management guided Q3 2026 revenue $66M / non-GAAP EPS $0.30-0.32, and set a long-term target of InP revenue tripling by end-2026 and reaching $130M/quarter by end-2027. Stock round-tripped from $42.76 (pre-earnings) to $88.58 (8/7 peak) to **$73.81 today (-16.67%)** — no negative news found for today's drop; reads as profit-taking after an 11-day +72% run, not a thesis-break signal. FY2026E consensus jumped to $217.98M revenue / $0.868 EPS (from $143.1M/$0.304 on 06-26). Rebuilt scenarios: PW EV $84 → **$96**; current price now ~23% below PW EV (was 19% on 06-26). Analyst coverage 4→5, median target $93 (current price now inside the analyst range, not below the floor).

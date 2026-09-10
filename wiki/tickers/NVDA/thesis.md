@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: NVDA (NASDAQ)
 **Company**: NVIDIA Corporation
-**As of**: 2026-07-28
-**Price**: $196.23 （2026-05-20: $223.47，**-12.2%**）
+**As of**: 2026-08-26
+**Price**: $209.66（收盘）／盘后 $218.77（+4%，财报后）（2026-07-28: $196.23）
 **52-wk range**: $164.07 – $236.54
-**Market cap**: ~$4.75T
-**Verdict**: Growth — 🟢 **论点 Intact，等待区间已到达**。5/20 设定的「回调至 $195–$210 再入场」条件今日兑现（$196.23，区间下沿）。6 条破裂触发器**全部未击发**；毛利率 74.1%（触发线 65%）；30 日预期修正净 **+40**；营收 **+85.2% YoY** 而 forward P/E 压至 **15.25x**。PW EV 维持 $263.90，折价自 +18.1% 扩至 **+34.5%** —— 风险回报改善**完全来自价格下跌，非论点变化**。⚠️ 两点保留：8/26 财报（29 天）临近，且价格在 MA50 下方 -5.4% 尚未确认止跌。
+**Market cap**: ~$5.10T（收盘）／~$5.32T（盘后）
+**Verdict**: Growth — 🟢 **论点 Strengthened（需求侧）**。Q2 FY2027 全面 beat：营收 $96.2B（预期 $92.38B，+4.51%，YoY +106%）、Adj EPS $2.22（预期 $2.09，+6.29%，连续第5季超预期）、Data Center $89.0B（YoY +117%）；Q3 指引 $108B（预期 $103.9-104.2B，上调）；管理层给出 FY28 营收增速 ~70% 框架 + NVDA-AWS 扩大合作。6 条破裂触发器全部未击发。⚠️ **新风险信号**：毛利率指引下修——Q3 74.0%（Q2 实际 75.0%），Q4 指引骤降至 71-72%，FY28 维持 72-73%，管理层归因 HBM/内存成本超预期上涨（非原风险框架预期的 CoWoS 成本改善方向）。PW EV 上调至 $285.25（原 $263.90），折价 +26.5%（收盘价）／+23.3%（盘后价）。⚠️ $195–$210 入场区已被财报跳空突破，原"等待区间已到达"的低风险入场窗口大概率已关闭。
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -197,9 +197,11 @@ Fabless: TSMC N3/N4 for latest GPU dies; TSMC CoWoS packaging for HBM integratio
 | AMD ROCm maturation + MI400 competitive ramp | Medium | 40% | Medium |
 | US export control tightening (allies targeted) | High | 15% | Medium |
 | FTC/DoJ antitrust action on CUDA ecosystem | Medium | 10% | Low |
-| Margin compression from Blackwell CoWoS cost overruns | Medium | 25% | Medium |
+| Margin compression from rising HBM/memory input costs（原"Blackwell CoWoS cost overruns"，2026-08-26 更新归因）| Medium | 45% | Medium |
 
 **Most underappreciated risk**: Hyperscaler vertical integration is not a "future risk" — it's happening now. Amazon Trainium 2 is already handling significant AWS training workloads at lower cost than H100. The question is speed: if custom ASICs go from 15% to 30% of training silicon in 3 years (vs. 6 years), NVDA's revenue growth trajectory changes materially. The market is pricing in NVDA dominance for 5–7 years; the actual window may be 3–4 years before real competition emerges.
+
+**2026-08-26 更新**：毛利率压缩风险从"推测性"升级为"管理层已量化确认"——Q2 FY2027 实际 75.0%，但 Q3 指引 74.0%、**Q4 指引骤降至 71-72%**、FY28 维持 72-73%，管理层明确归因为 HBM/内存成本超预期上涨，而非原先关注的 Blackwell CoWoS 封装成本方向。概率由 25% 上调至 45%（已由公司指引确认，不再是推测），但 Impact 维持 Medium——71-72% 仍远高于 65% 的论点破裂触发线，是压缩而非崩溃。
 
 ---
 
@@ -333,51 +335,45 @@ Stage 2, 7/7 trend template — as technically clean as any large-cap stock can 
 
 | Scenario | Probability | Price Target (12mo) | Key Assumption | FY2027E Rev | FY2028E Rev | Multiple |
 |----------|------------|-------------------|--------------|------------|------------|---------|
-| **Bull** | 35% | $350 | B200 margins recover to 73%+; inference TAM doubles; Rubin announced FY2027 | $420B+ | $580B+ | 22x EV/Rev |
-| **Base** | 45% | $245–$260 | FY2027 revenue $350–380B; margins ~68–70%; ASIC competition contained | $365B | $470B | 18x EV/Rev |
-| **Bear** | 20% | $130–$150 | AI capex pause; ASIC substitution accelerates; margins compress to 60%; multiple de-rates | $230B | $260B | 13x EV/Rev |
+| **Bull** | 35% | $365 | Demand/AWS momentum sustains；Q4 毛利率企稳于71-72%指引不再下修；Rubin 如期announced | $440B+ | $600B+ | 22x EV/Rev |
+| **Base** | 50% | $270 | 三季度已知（Q1实际$81.6B+Q2实际$96.2B+Q3指引$108B）已使FY2027轨迹上修至~$400B；FY28 GM 72-73%指引兑现 | $400B | $500B | 18x EV/Rev |
+| **Bear** | 15% | $150 | HBM成本压力超指引进一步恶化；ASIC替代提速；但即便如此收入基数已远高于原Bear假设 | $260B | $290B | 14x EV/Rev |
 
-**Probability-Weighted EV:**
+**Probability-Weighted EV（2026-08-26 更新）：**
 ```
-PW EV = (0.35 × $350) + (0.45 × $252) + (0.20 × $140)
-      = $122.50 + $113.40 + $28.00
-      = $263.90
+PW EV = (0.35 × $365) + (0.50 × $270) + (0.15 × $150)
+      = $127.75 + $135.00 + $22.50
+      = $285.25
 ```
 
-**Current price $196.23 vs. PW EV $263.90 = +34.5% expected upside** （2026-05-20: $223.47 → +18.1%）
+**当前价 $209.66（收盘）vs. PW EV $285.25 = +36.1%**；盘后价 $218.77 vs. PW EV = **+30.4%** （2026-07-28: $196.23 → +34.5% vs 旧PW EV $263.90）
 
-**情景概率与目标价未调整。** 期间无新财报（Q1 FY2027 就是 5/20 分析所用），
-不应在无硬数据的情况下移动概率。30 日预期修正净 +40 支持 Base/Bull 一侧，
-但那是分析师预期而非公司实绩，记录为佐证不作为调整依据。
+**本次调整依据（2026-08-26）：** 三项独立证据同时指向营收轨迹上修——Q1实际$81.6B、Q2实际$96.2B、Q3指引$108B，三季度合计$285.8B，即便Q4零增长FY2027全年也将逼近$394B，远超旧Base假设$350-380B区间上沿。据此：Base目标价$252.5→$270（+7%），概率45%→50%（三个季度的实绩比一个季度更能确认轨迹）；Bull目标$350→$365，收入假设同步上调；Bear概率20%→15%（HBM成本风险已被公司量化指引，不再是纯推测性尾部风险，且即便Bear情景收入基数也已抬高）。**这是基于三个季度硬数据（非预测）的调整，不是情绪化追涨**——毛利率下修风险已在Bear/Base情景的收入假设降速中体现，未被忽略。
 
-**折价扩大完全来自价格下跌** —— 这是最干净的一种风险回报改善：
-分子（PW EV）没动，分母（价格）跌了 12.2%。5/20 写的「setup rewards patience:
-wait for a better entry」正是为此，而那个更好的入场点现已出现。
+**折价收窄的构成：** 分子（PW EV）从$263.90升至$285.25（+8.1%，营收轨迹确认驱动），分母（价格）从$196.23升至$209.66/$218.77（+6.8%/+11.5%，财报beat驱动）——两者同向变动，折价从+34.5%略收窄至+30-36%区间，**主要是论点被验证增强，而非估值被追高消耗**。
 
-Bear 情景补充：该情景假设「multiple de-rates」。forward P/E 已从 19.3x 压至
-**15.25x**，即倍数下修在很大程度上**已经发生**，这在机械层面收窄了 Bear 的剩余下行空间。
-未据此上调 Bull/Base 概率，仅作记录。
+Bear 情景补充：forward P/E 在旧模型已从19.3x压至15.25x（2026-07-28价），本次未重新计算forward P/E（需§10完整重算，未在本次刷新范围内），仅记录该背景。
 
 ---
 
 ## 14. Bottom Line
 
-**1-year view (through May 2027):**
-- Base case price: $245–$260 (+10–16% from $223.47)
-- Upside trigger: Q2 FY2027 earnings (Aug 2026) showing gross margin recovery to 73%+ → consensus upgrade cycle → $300+
-- Downside trigger: Any hyperscaler publicly disclosing >25% ASIC substitution rate or AI capex cut guidance → $150–$180
+**1-year view (through August 2027)（2026-08-26 更新）：**
+- Base case price: $270（原$245-260，参见§13更新说明）
+- Upside trigger: Q3/Q4 FY2027 毛利率企稳于指引区间（71-74%）不再进一步下修 → consensus upgrade cycle → $320+
+- Downside trigger: Q3/Q4 实际毛利率跌破指引下限，或任一超大厂公开披露 >25% ASIC 替代率 → $160-$180
 
 **3-year view (through 2028–2029):**
-- Bull: $380–$450 (inference TAM expands faster than consensus; software layer monetized)
-- Base: $280–$320 (steady growth, multiple compression as growth rate normalizes to 20–30%)
-- Bear: $110–$150 (ASIC substitution accelerates; NVDA loses training dominance by FY2029)
+- Bull: $400–$470（inference TAM expands faster than consensus；software layer monetized；上调反映 FY28 ~70% 增速框架）
+- Base: $290–$330（steady growth，multiple compression as growth rate normalizes）
+- Bear: $130–$160（HBM 成本压力持续侵蚀毛利率；ASIC 替代提速；上调反映即便悲观情景收入基数也已抬高）
 
-**Portfolio allocation recommendation:**
-- Target: 3–5% of portfolio at $195–$210 entry (pullback zone)
+**Portfolio allocation recommendation（2026-08-26 更新）：**
+- Target: 3–5% of portfolio；**原 $195-210 低风险入场区已被财报跳空突破**（盘后$218.77），原设定的"回调至MA50区间"入场窗口大概率已关闭——若要新建/加仓，等待下一次真实回调而非追高盘后跳空
 - Form: Stock primary; Jan 2027 $200C LEAPS acceptable for leverage
-- Primary monitoring trigger: Gross margin trajectory in Q2 FY2027 earnings (August 2026)
+- Primary monitoring trigger：Q3 FY2027 实际毛利率是否兑现74%指引（下次财报，~2026年11月）
 
-**Verdict**: NVDA's thesis is not in question — the AI infrastructure buildout is real, accelerating, and CUDA lock-in remains intact. The question is purely valuation and entry timing. At $223.47, post-earnings pop, risk/reward is fair but not compelling. At $195–$210 (pullback to MA50 support), risk/reward improves to 3:1+. Analyst median target of $275 is achievable within 12 months if FY2027 revenue tracks to $350–$380B. No position changes warranted today; add the $195–$210 pullback zone to watch list with price alert.
+**Verdict（2026-08-26 更新）**：NVDA 论点在需求侧被本季数据显著验证强化——营收/EPS/Data Center 三线全面beat，Q3指引上调，FY28 ~70%增速框架+ AWS扩大合作。核心论点（AI基建建设仍在早期、CUDA锁定持续）未受损。**新出现且需持续跟踪的变量**：毛利率指引下修至Q4 71-72%，管理层归因HBM成本超预期上涨——这是压缩而非崩溃（远高于65%破裂线），但方向与幅度值得下季验证。价格已因财报跳空突破原入场区（$195-210→盘后$218.77），原"等待回调入场"的可执行窗口大概率已关闭；PW EV上调至$285.25，折价收窄至+30-36%区间。**无仓位变动建议**；等待下一次真实技术性回调或Q3财报（~2026年11月）验证毛利率企稳后再评估加仓时机。
 
 ---
 
@@ -389,11 +385,13 @@ Bear 情景补充：该情景假设「multiple de-rates」。forward P/E 已从 
 - [ ] **Blackwell gross margin commentary**: Did Jensen mention margin recovery timeline on the earnings call? 72%+ by Q3 FY2027 = thesis strengthening
 - [ ] **AMD MI400 launch timing**: Any new product announcement at COMPUTEX (May 2026) that threatens H200/B200 customers
 - [ ] **Price action**: Does NVDA form an orderly consolidation below $236 high over 3–6 weeks? Watch for volume dry-up (VDU) as setup indicator
-- [ ] **Pullback entry trigger**: Alert at $210 (entry zone top), $202 (MA50 +3%), $195 (MA50)
+- [x] **Pullback entry trigger**: $195-210区间 2026-07-28触及后未能保持——2026-08-26财报跳空至盘后$218.77，突破区间上沿，窗口大概率已关闭。**新增**：下一次回调至$207-215（新MA50±1ATR附近）再评估入场。
 
 ### Mid-term (FY2027 through January 2027):
 
-- [ ] **Q2 FY2027 earnings (~August 2026)**: Revenue vs $85–95B estimate; gross margin vs 72–73% estimate; Q3 guidance
+- [x] **Q2 FY2027 earnings (2026-08-26 已发布)**：营收$96.2B（beat预期$92.38B +4.51%）；毛利率75.0%（Q2实际，高于72-73%预期）；Q3指引$108B（上调，超预期$103.9-104.2B）——**全面beat，已解决**
+- [ ] **Q3 FY2027 毛利率实绩验证**（下次财报，~2026年11月）：是否兑现74.0%±50bp指引？跌破指引下限则升级为独立监控警报
+- [ ] **Q4 FY2027 毛利率指引**（Q3财报电话会上给出）：管理层是否维持"71-72%触底"的表述，还是进一步下修？
 - [ ] **Rubin architecture announcement** (expected late 2026): Any preview of next-gen specs; TSMC N2 allocation confirmation
 - [ ] **Hyperscaler capex guidance** (AWS/Azure/Google Q2 2026 earnings in July): Are they raising or lowering AI infrastructure spend?
 - [ ] **Amazon Trainium 2 customer adoption**: If AWS reports >30% of training on Trainium vs. H100, market share thesis weakens
@@ -424,7 +422,7 @@ Bear 情景补充：该情景假设「multiple de-rates」。forward P/E 已从 
 
 ### Thesis-strength triggers (increases conviction → consider adding faster):
 
-- [ ] Q2 FY2027 gross margin guides above 73% — confirms Blackwell CoWoS cost normalization
+- [x] Q2 FY2027 gross margin guides above 73%（2026-08-26：Q2实际75.0%，Q3指引74.0%，均>73%）——**部分达成但性质不同**：不是原设想的"Blackwell CoWoS成本正常化"，而是HBM成本上涨背景下的相对韧性；Q4指引骤降至71-72%意味着"73%+"能否延续到FY28仍待验证，不作为无条件的强化确认
 - [ ] Any major hyperscaler announces multi-year $50B+ NVDA contract (sovereign AI equivalents for US hyperscalers)
 - [ ] Rubin architecture demo shows >10x B200 performance improvement (extends competitive lead to 2028+)
 - [ ] AMD/Intel announce NVDA partnership for CUDA compatibility layer (effectively acknowledges defeat in training GPU market)

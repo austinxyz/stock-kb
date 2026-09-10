@@ -4,9 +4,9 @@ source: austin
 
 # MRVL — Key Financial Metrics
 
-**Last updated**: 2026-07-20
-**Data source**: Yahoo Finance, stockanalysis.com, Marvell Technology IR (FY2022–FY2026)
-**Next update trigger**: Q2 FY2027 earnings — 2026-08-27
+**Last updated**: 2026-08-27
+**Data source**: Yahoo Finance, stockanalysis.com, Marvell Technology IR (FY2022–FY2026), Q2 FY2027 earnings release/coverage (2026-08-27)
+**Next update trigger**: Q3 FY2027 earnings — 预计 ~2026年11月
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -23,30 +23,29 @@ Non-GAAP EPS (which excludes amortization, SBC, and restructuring charges) is th
 
 ---
 
-## Price & Market Data (2026-07-20)
+## Price & Market Data (2026-08-27)
 
 | Metric | Value |
 |--------|------:|
-| Price | **$194.94** (+3.32% today) |
-| 52-week range | $62.18 – **$316.35** (new ATH hit post-May; stock -38.4% from high) |
-| Position vs 52-wk high | **–38.4%** |
-| Position vs 52-wk low | +214% |
-| Market cap | $175.0B |
-| MA50 | $235.96 (price **-17.4%** below — Stage 3 transition) |
-| MA150 | $144.44 (price +35% above) |
-| MA200 | $130.33 (price +50% above) |
-| ATR (14d) | $16.54 |
+| Price | **$241.45**（收盘，07-18: $213.20，+13.3%）／**盘后 $222.62（-7.79%，sell-the-news）** |
+| 52-week range | $61.44 – **$329.88**（intraday ATH 6/18/2026）|
+| Position vs 52-wk high | -26.8%（收盘）／-32.5%（盘后）|
+| Market cap | ~$217.0B（收盘）／~$200B（盘后）|
+| MA50 | $229.99（收盘价+5.0%已收复；若盘后价$222.62结算则-3.2%，重新跌破）|
+| MA150 | $168.59（收盘价+43.2%）|
+| MA200 | $147.97（收盘价+63.2%）|
+| ATR (14d) | $13.15 |
 | Beta (5Y monthly) | 2.25 |
-| EPS GAAP TTM | $3.07 (FY2026; includes one-time tax benefit) |
-| EPS non-GAAP Q2 FY2027E | $0.927 avg ($0.88–$0.94 range) |
-| EPS non-GAAP FY2027E | $3.85 (consensus; see revision below) |
-| P/E (non-GAAP FY2027E $3.85) | 50.6x |
-| P/E (non-GAAP FY2028E $5.53, NTM) | **35.3x** |
-| P/S (FY2026) | 21.4x |
-| Analyst mean target | **$253.68** |
-| Analyst median target | $242.50 |
-| Analyst high target | $400 (Keybanc 7/14) |
-| Next earnings | **2026-08-27** (Q2 FY2027) |
+| Q2 FY2027 营收 | **$2.739B**（管理层指引中值+$39M；一致预期~$2.71B，beat +1.1%；YoY +37%）|
+| Data Center 营收 | $2.17B，YoY **+46%**（加速，占营收79%）|
+| Non-GAAP EPS | $0.94（一致预期~$0.93，beat约+1%）|
+| GAAP EPS | $0.33（净利润$308.0M，回归正常，上季度$1.9B为一次性递延税资产）|
+| 经营现金流 | $605.5M |
+| Q3 FY2027 指引 | **$3.15B**（一致预期~$3.03B，上调+4%；环比+15%）|
+| 分析师中位目标价 | 待更新（尚未收录财报后修正）|
+| Next earnings | **~2026年11月**（Q3 FY2027）|
+
+> **数据缺口说明**：yfinance 尚未收录 Q2 FY2027（截至2026年7月）完整季度损益表/毛利率细项（财报刚发布），下方年度/季度表格的最新一行仍为 Q1 FY2027（2026-04-30 数据），待下次刷新或数据源更新后补齐 Q2 实际值。
 
 ---
 
@@ -115,18 +114,19 @@ Debt maturities are staggered; no material debt comes due before 2028. With $1.4
 
 ---
 
-## Quarterly Context (FY2026 + Q1 FY2027)
+## Quarterly Context (FY2026 + FY2027 to date)
 
-| Quarter | Revenue | QoQ | Op Margin | Net Income | Note |
+| Quarter | Revenue | QoQ | Data Center YoY | Net Income | Note |
 |---------|--------:|----:|----------:|-----------:|------|
-| Q1 FY2027 (Apr 2026) | ~$2.41B est* | ~+12% | — | — | *AH +2.55%; actuals pending |
-| Q4 FY2026 (Jan 2026) | $2,158M | –1% | ~17% | ~$177M | Seasonally flat |
-| Q3 FY2026 (Oct 2025) | $2,174M | +9% | ~17% | **$1,904M¹** | ¹Tax benefit quarter |
-| Q2 FY2026 (Jul 2025) | $1,987M | +6% | ~14% | $413M | Upside vs est |
-| Q1 FY2026 (Apr 2025) | $1,875M | — | ~13% | $177M | Ramp begins |
+| **Q2 FY2027 (Jul 2026)** | **$2,739M** | **+13%** | **+46%** | GAAP $308M / Non-GAAP $866M | Beat guide midpoint +$39M；盘后-7.79%（sell-the-news）|
+| Q1 FY2027 (Apr 2026) | $2,418M | +12% | — | — | 实际值（此前记为估算，现已确认）|
+| Q4 FY2026 (Jan 2026) | $2,158M | –1% | ~17%（营业利润率）| ~$177M | Seasonally flat |
+| Q3 FY2026 (Oct 2025) | $2,174M | +9% | ~17%（营业利润率）| **$1,904M¹** | ¹Tax benefit quarter |
+| Q2 FY2026 (Jul 2025) | $1,987M | +6% | ~14%（营业利润率）| $413M | Upside vs est |
+| Q1 FY2026 (Apr 2025) | $1,875M | — | ~13%（营业利润率）| $177M | Ramp begins |
 | **FY2026 Total** | **$8,194M** | — | **16.3%** | **$2,671M** | |
 
-Next quarter guide (Q2 FY2027): Revenue ~$2.60B consensus, EPS (non-GAAP) ~$0.900
+Q3 FY2027 指引（下季）：营收 $3.15B（一致预期~$3.03B，上调+4%；环比+15%）。三季度合计（Q1$2.418B+Q2$2.739B+Q3指引$3.15B）= $8.307B，即便Q4零增长FY2027全年也将逼近**$11.5B**，仍高于此前一致预期$11.55B区间，远超$9.5B破裂线。
 
 ---
 
@@ -148,37 +148,25 @@ Cumulative dilution from FY2020 to FY2026: +6.4%, almost entirely from the Inphi
 
 ## Estimate Momentum
 
-*Updated 2026-07-20.*
+*Updated 2026-08-18（财报前快照，尚未反映08-27 Q2 FY2027实际公布结果——本表revision数据落后于本次刷新的Price & Market Data区块，下次刷新需重新拉取）。*
 
 ### EPS Estimates (Non-GAAP)
 
-| Period | Avg Est | Low | High | YoY Growth | # Analysts |
-|--------|--------:|----:|-----:|-----------|-----------|
-| Q2 FY2027E | $0.927 | $0.88 | $0.94 | — | — |
-| FY2027E | $3.85 | $3.27 | $4.28 | +36% | 41 |
-| FY2028E | **$5.53** | $4.00 | $7.12 | +44% | 41 |
+| Period | Avg Est | 30d Trend | 90d Trend |
+|--------|--------:|-----------|-----------|
+| Q2 FY2027E (0q) | $0.929 | $0.927 (30d ago) → $0.929 — flat/stable | $0.893 (90d ago) — up |
+| FY2027E (0y) | **$4.05** | $4.051 (30d ago) — flat | $3.808 (90d ago) — **up +6.4%** |
+| FY2028E (+1y) | **$6.25** | $6.199 (30d ago) — up | $5.427 (90d ago) — **up +15.2%** |
 
 ### Revenue Estimates
 
 | Period | Avg Est | YoY Growth |
 |--------|--------:|-----------|
-| Q2 FY2027E | $2.70B avg ($2.60–$2.76B range) | ~+35% |
-| FY2027E | $10.95B | +34% |
-| FY2028E | $15.09B | +38% |
+| Q2 FY2027E | $2.71B ($2.60–$2.77B range) | +34.9% |
+| FY2027E | $11.55B (up from $10.95B on 7/20) | +40.9% |
+| FY2028E | $16.77B (up from $15.09B on 7/20) | +45.2% |
 
-### Analyst Price Target Trend (Jun–Jul 2026)
-
-| Date | Firm | Action | Target |
-|------|------|--------|--------|
-| 2026-07-14 | Keybanc | Raises OW | **$400** |
-| 2026-07-07 | RBC Capital | Maintains OP | $360 |
-| 2026-06-29 | UBS | Raises Buy | $340 |
-| 2026-06-29 | Cantor Fitzgerald | Raises Neutral | $300 |
-| 2026-06-24 | Stifel | Raises Buy | $350 |
-| 2026-06-23 | BofA | Raises Buy | $365 |
-| 2026-06-18 | Keybanc | Raises OW | $385 |
-
-**Overall signal: BULLISH.** 7 analysts raised targets Jun-Jul 2026 to range $300–$400; consensus mean $253.68 / median $242.50. Current price $194.94 = 23% below analyst median target, implying meaningful upside at thesis-intact conditions. Analyst upgrades continue despite stock's -38% pullback from ATH — suggests institutional consensus is that the pullback is technical, not fundamental.
+**Overall signal: BULLISH / fundamentals accelerating.** 30–90 day estimate revision trend is upward across the board — FY2027E non-GAAP EPS revised up +5% and FY2028E EPS revised up +13% since the 2026-07-20 refresh, despite the stock trading -35% below its 52-week high. Analyst mean target ($256.91) and median target ($242.50) are essentially unchanged, implying meaningful upside (+14–21%) at thesis-intact conditions. Estimate revisions moving up while price falls on a sector-wide, non-MRVL-specific selloff supports "technical, not fundamental" framing — same conclusion as the 7/20 refresh, now reinforced by rising estimates.
 
 ---
 
@@ -186,16 +174,16 @@ Cumulative dilution from FY2020 to FY2026: +6.4%, almost entirely from the Inphi
 
 | Quarter | EPS Est (non-GAAP) | EPS Actual | Surprise | Revenue Est | Revenue Actual | Rev Surprise |
 |---------|----------------:|----------:|--------:|----------:|---------------:|------------|
-| Q2 FY2027 (Jul 2026) | $0.927 | — | — | $2.70B est | — | — |
-| Q1 FY2027 (Apr 2026) | $0.795 | **$0.800** | **+0.6%** | $2.41B est | — | — |
+| **Q2 FY2027 (Jul 2026)** | **$0.93** | **$0.94** | **+1%** | **$2.71B** | **$2.739B** | **+1.1%** |
+| Q1 FY2027 (Apr 2026) | $0.795 | **$0.800** | **+0.6%** | $2.41B est | $2.418B | +0.3% |
 | Q4 FY2026 (Jan 2026) | $0.695 | $0.738 | +6.2% | $2.06B | $2.16B | +4.9% |
 | Q3 FY2026 (Oct 2025) | $0.710 | $0.762 | +7.3% | $1.96B | $2.17B | +10.7% |
 | Q2 FY2026 (Jul 2025) | $0.650 | $0.691 | +6.3% | $1.90B | $1.99B | +4.7% |
 | Q1 FY2026 (Apr 2025) | $0.558 | $0.598 | +7.2% | $1.77B | $1.88B | +6.2% |
 
-Q1 FY2027 actuals confirmed (yfinance 2026-07-20): EPS $0.800 vs est $0.795 (+0.6%). Prior 4Q avg EPS surprise +6.8% — Q1 FY27 was a softer beat. **Next earnings: 2026-08-27** (Q2 FY2027); Q2 consensus EPS $0.927 (+16% QoQ).
+Q2 FY2027 beat again (EPS $0.94 vs est $0.93, +1%; revenue $2.739B vs est $2.71B, +1.1%) — seventh consecutive beat, though surprise magnitude (+1%) is the smallest of the streak (prior avg ~+5.8%). Beat-but-shrinking-margin-of-beat pattern, consistent with sell-the-news reaction (-7.79% AH) despite the raise. **Next earnings: ~2026年11月** (Q3 FY2027).
 
-**Six prior quarters: all beat on EPS.** Average EPS surprise: ~+5.8% (including softer Q1 FY27). Next earnings: **2026-08-27** (Q2 FY2027).
+**Seven prior quarters: all beat on EPS.** Average EPS surprise now ~+5.1% (pulled down by Q1 FY27's +0.6% and Q2 FY27's +1%). Next earnings: **~2026年11月** (Q3 FY2027).
 
 ---
 
@@ -276,11 +264,13 @@ MRVL's valuation premium (17.6x EV/Rev) vs AMD (9x) is explained by the AI ASIC 
 
 | Date | Event | What to Watch |
 |------|-------|---------------|
-| May 27, 2026 | Q1 FY2027 Earnings | Revenue vs $2.40B, EPS vs $0.797, FY2027 guide vs $10.86B consensus; MSFT ASIC comment |
-| August 2026 (est) | Q2 FY2027 Earnings | Quarterly revenue trajectory toward $3B+; customer concentration update |
+| May 27, 2026 | Q1 FY2027 Earnings | Revenue vs $2.40B, EPS vs $0.797, FY2027 guide vs $10.86B consensus; MSFT ASIC comment — ✅ beat, resolved |
+| 2026-08-27 | Q2 FY2027 Earnings | Revenue $2.739B (beat +1.1%), Non-GAAP EPS $0.94 (beat +1%), Data Center +46% YoY, Q3 guide $3.15B (+4% vs est) — ✅ beat & raise, resolved. AH -7.79% sell-the-news despite beat. |
+| **~2026年11月** | **Q3 FY2027 Earnings** | Guide $3.15B revenue; watch whether AH sell-the-news reaction (08-27) was noise or signals valuation ceiling forming |
 | Any time | Microsoft Azure ASIC announcement | Binary catalyst — confirmation would add $30–50/share; denial would remove $20–30 |
-| June 2026 (est) | TSMC Q2 earnings call | Advanced node capacity commentary relevant to MRVL demand |
+| Ongoing | TSMC advanced node capacity commentary | Relevant to MRVL demand |
 | Ongoing | Google/Meta/Amazon quarterly capex | AI ASIC demand proxy |
+| Ongoing | Rate/macro environment | 2026-08-18 selloff driven by rising Treasury yields pressuring high-multiple growth names sector-wide, not MRVL-specific |
 
 ---
 
@@ -289,5 +279,6 @@ MRVL's valuation premium (17.6x EV/Rev) vs AMD (9x) is explained by the AI ASIC 
 - Yahoo Finance (price, volume, estimates, earnings track record — 2026-05-10)
 - stockanalysis.com (historical financials FY2022–FY2026)
 - Marvell Technology IR filings and earnings releases
-- Estimate consensus: estimate-analysis skill (2026-05-10)
+- Q2 FY2027 earnings release/coverage — WebSearch headline actuals (2026-08-27; yfinance quarterly statements not yet updated as of this refresh)
+- Estimate consensus: estimate-analysis skill (2026-05-10, pre-earnings snapshot)
 - Earnings history: earnings-recap skill (2026-05-10)

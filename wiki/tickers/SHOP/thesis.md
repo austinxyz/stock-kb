@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: SHOP (NYSE / TSX)
 **Company**: Shopify Inc.
-**As of**: 2026-05-23
-**Price**: $103.00 (Yahoo Finance verified; –6.8% below rwh analysis price of $110.51 on 2026-05-10)
-**52-wk range**: $95.40 – $179.01
-**Market cap**: ~$145.2B
-**Verdict**: Growth — Wide-moat commerce infrastructure at Stage 4 technical distress; fundamental accumulation zone $100–120; PW EV +93% at $103 spot (3-year)
+**As of**: 2026-08-12 (via /stock-refresh — 81-day overdue refresh)
+**Price**: $149.10 (2026-08-12, -2.30% today; Yahoo Finance verified)
+**52-wk range**: $95.40 – $182.19
+**Market cap**: ~$191.8B
+**Verdict**: Growth — thesis has validated: Stage 4 → Stage 2 technical reconstruction confirmed (price now above 50/150/200-day MAs), driven by a Q2 2026 beat-and-raise (revenue $3.58B +34% YoY beat, GMV $115.57B +32%, Q3 guided low-30s% growth, above Street). **But the original `<$110` entry window has closed** — price is +44.8% above the May 23 baseline and +35.5% above the entry ceiling. PW EV $212 (3-year) still directionally intact but remaining upside has compressed from +93% to +42% from current price. This is now a "thesis working, entry gone" situation, not a fresh accumulation opportunity
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -292,6 +292,8 @@ Minimum timeline: 3–4 months under a favorable scenario. Next hard catalyst: Q
 
 **Options context**: IV has been elevated since the May 5 earnings gap-down. Protective puts are expensive. Better option structure: long LEAPS (Jan 2027 or Jan 2028 call at $120–$130 strike) — leverages the 3-year thesis without requiring Stage 2 timing precision. Buy when IV drops post-earnings (historically IV compresses 30–40% in the week after earnings).
 
+**2026-08-12 update**: Both scenarios above are now stale. Scenario A's Tranche 1 ($103-110) and Tranche 2 ($95-103) zones no longer exist — price is $149.10. Scenario B's technical wait condition has been satisfied ahead of schedule: Q2 2026 earnings (reported 2026-08-05, ~2 weeks ahead of the "early August" estimate) delivered the beat-and-raise that drove the Stage 4→Stage 2 reconstruction directly, without the slow multi-month base-formation process originally described. **Net effect: the thesis validated faster than the position-building plan assumed, and there is no clean re-entry framework left in this section — a fresh entry/sizing plan would need to be built from current levels, not from these stale tranches.**
+
 ---
 
 ## 12. BAIT Framework (Mauboussin)
@@ -330,6 +332,8 @@ Key underweighted primary-source data:
 - MA50 at $116.53 is first resistance for any recovery attempt
 
 **Verdict**: Weak — no constructive technical pattern; mechanical buyback support is the only positive technical signal.
+
+**2026-08-12 update**: This T-layer verdict has flipped. Price is now above all three key MAs (50MA $120.73 +23.6%, 150MA $122.96 +21.3%, 200MA $132.53 +12.5%) following the Q2 beat-and-raise and subsequent surge. The Stage 4 AVOID condition no longer holds — but the stock is now extended short-term, not in a fresh base. **New T-layer verdict: Moderate-Strong trend confirmed, but not a low-risk entry point** — the SEPA-clean entry (pullback to a new base near the reclaimed MAs) has not yet formed.
 
 ### BAIT Overall
 
@@ -389,6 +393,8 @@ Triple overlap (B + A + I) with Technical drag. Overall conviction: **Moderate**
 
 **Interpretation**: At $103, PW EV implies +106% over 3 years (~27% annually). The Bear case ($113) is already above current price — the stock is being priced for an outcome worse than the worst modeled scenario. This is the structural asymmetry that makes $100–$120 a fundamental accumulation zone.
 
+**2026-08-12 update**: At $149.10, the asymmetry described above has resolved — the Bear case ($113) is now BELOW current price rather than above it (the situation has fully flipped). Using the stale PW EV $212 unmodified: (212-149.10)/149.10 = **+42% over 3 years (~12.4%/yr)**, materially lower than the +106%/~27% at $103. The Q2 print (revenue +34% YoY, guide-up to low-30s%) argues the Base/Bull probability weights should shift up from the original 45%/40%, which would raise PW EV further — but this has not been re-run. Treat +42% as a floor estimate pending a full scenario refresh.
+
 ---
 
 ## 14. Bottom Line
@@ -404,19 +410,18 @@ Triple overlap (B + A + I) with Technical drag. Overall conviction: **Moderate**
 
 **Verdict**: At $103 — below the modeled Bear case — SHOP represents one of the more unusual setups in the US large-cap universe: a wide-moat, 25–30% revenue growth compounder with proven FCF generation, founder alignment, first-ever buyback, and AI commerce tailwinds, trading at a price below its own pessimistic scenario. The risk is that Q2 2026 data confirms structural deceleration and the scenario set must be rebuilt. That would move probabilities from current (Base 45%, Bear 15%) to something like (Base 30%, Bear 30%) — which might imply a PW EV of $150–$160, still above $103. The entry is fundamentally justified; the question is timing and patience through Stage 4.
 
+**2026-08-12 update — thesis validated, entry window closed**: Q2 2026 (reported 2026-08-05) resolved the "structural deceleration vs. FX noise" question decisively in favor of the bull case: revenue $3.58B (+34% YoY, beat consensus $3.45B), GMV $115.57B (+32%), gross profit $1.71B (+31%), and Q3 guidance of low-30s% growth — ABOVE the Street's 26.3% estimate. 13 analyst firms raised price targets within days (Goldman $170→$194, DA Davidson $140→$200, Wells Fargo $144→$180, among others); rating distribution improved to 10 Strong Buy/30 Buy/11 Hold/1 Sell (was 10/28/12/1 three months prior). The stock has done exactly what the original thesis predicted — but it did so by moving 45% before this refresh caught up, so the original `<$110`/`$100-120` entry framework is no longer actionable. This is now a name to track for continued validation, not a fresh accumulation opportunity at the original risk/reward.
+
 ---
 
 ## 15. Monitoring Checklist
 
-### Near-term (next 60 days: by late July 2026)
+### Near-term (next 60 days)
 
-- [ ] **Q2 2026 earnings (early August 2026 — date not yet confirmed)**: Revenue growth vs. high-20s% guide
-  - Pass: ≥28% growth (thesis intact; FX explains most of step-down)
-  - Watch: 25–27% growth (deceleration but manageable; maintain position)
-  - Fail: <24% growth (structural deceleration; re-evaluate scenarios)
-- [ ] **Buyback execution pace**: Look for 10-Q disclosure; $100M+ deployed at $103–$110 = strong signal
-- [ ] **52-wk low hold**: $95.40 (May 13) must hold; any new 52-wk low below $93 = add to thesis risk
-- [ ] **Operating expense vs Q2 guide**: 35–36% of revenue; any beat (coming in at 33–34%) is a positive surprise
+- [x] **Q2 2026 earnings (2026-08-05)**: ✅ PASS — revenue +34% YoY (beat), GMV +32%, Q3 guided low-30s% (above Street's 26.3%)
+- [x] **52-wk low hold**: ✅ held — no new low below $95.40 was tested; stock instead surged to $149.10
+- [ ] **Next earnings: 2026-11-03** — first real test of whether the low-30s% Q3 guide holds
+- [ ] **Post-surge consolidation**: does SHOP form a new base near the reclaimed 50/150/200MAs, or does it extend further/give back the move?
 
 ### Mid-term (FY2026 second half, by end of 2026)
 

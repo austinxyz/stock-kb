@@ -4,9 +4,9 @@ source: austin
 
 # SCHW — Key Financial Metrics
 
-**Last updated**: 2026-07-17
-**Data source**: rwh upstream analysis (v2.9, 2026-05-28) + yfinance/web — 2026-07-17 pre-earnings refresh
-**Next update trigger**: Q2 2026 earnings — **2026-07-21 盘前**
+**Last updated**: 2026-08-17
+**Data source**: rwh upstream analysis (v2.9, 2026-05-28) + yfinance — 2026-08-17 post-Q2-earnings refresh
+**Next update trigger**: Q3 2026 earnings — **2026-10-15**
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -27,18 +27,18 @@ SCHW is a bank holding company / brokerage. Traditional industrial metrics (CapE
 
 | Metric | Value |
 |--------|-------|
-| Price | **$101.56** (2026-07-17) |
-| Today's Change | -1.88% (-$1.94) |
-| 52-Week Range | $83.96 – $107.50 |
-| % from 52-wk High | -5.5% |
-| % above 52-wk Low | +21.0% |
-| Market Cap | **~$176.6B** |
-| Avg Volume (50d) | ~11.0M shares (~$1.12B/day ADTV) |
+| Price | **$110.90** (2026-08-17) |
+| Today's Change | -0.17% |
+| 52-Week Range | $83.96 – $111.64 (new 52-wk high set post-Q2) |
+| % from 52-wk High | -0.7% |
+| % above 52-wk Low | +32.1% |
+| Market Cap | **~$191.8B** |
+| Avg Volume (50d) | ~10.1M shares |
 | Beta | ~0.95 |
-| EPS FY2025 (TTM) | $4.65 |
-| P/E TTM | ~21.8× |
-| P/E FY2026E | **~16.5×** |
-| Analyst Median Target | $115.85 (+14% vs current) |
+| EPS FY2025 (TTM) | $5.49 |
+| P/E TTM | ~20.2× |
+| P/E FY2026E | **~14.2×** (on updated $6.49 FY26E) |
+| Analyst Median Target | $126.50 (+14% vs current) |
 
 ---
 
@@ -78,7 +78,7 @@ SCHW is a bank holding company / brokerage. Traditional industrial metrics (CapE
 
 **$92B of expensive funding eliminated.** The 2023 vulnerability was a *funding* problem, not a business problem. With $5.1B high-cost debt remaining (vs. $97B peak), the structural NIM floor is materially higher for the next down-cycle.
 
-**Capital return capacity restored:** Q1 2026 $2.4B buyback (annualizing ~$10B = 6.6% of market cap) + 19% dividend raise = decisive confirmation that capital flexibility is real.
+**Capital return capacity restored and accelerating:** Q1 2026 $2.4B buyback → **Q2 2026 $3.05B buyback** (+27% q/q, annualizing ~$12B ≈ 6.3% of the now-larger market cap) + $643M dividend paid in Q2. The pace increased, not merely held — a stronger capital-return signal than the pre-Q2 refresh anticipated.
 
 ---
 
@@ -86,11 +86,12 @@ SCHW is a bank holding company / brokerage. Traditional industrial metrics (CapE
 
 | Quarter | Revenue ($B) | NIM | EPS | Key Notes |
 |---------|-------------|-----|-----|-----------|
-| Q4 2025 | ~5.9 | 2.85–2.90% | ~$1.10 | Integration complete; sweep stabilizing |
-| Q1 2026 | **6.5** | Tracking ↑ | **$1.43** (+38%) | All-time records across revenue/NNA/trades; FY26 EPS bar raised |
-| Q2 2026E | ~6.89 | 2.87–2.95% | **$1.55** (consensus) | Hard catalyst — FY26 formal guide refresh expected; report 2026-07-21 盘前 |
+| Q4 2025 | ~6.34 | 2.85–2.90% | ~$1.10 | Integration complete; sweep stabilizing |
+| Q1 2026 | 6.48 | Tracking ↑ | $1.43 (+38%) | All-time records across revenue/NNA/trades; FY26 EPS bar raised |
+| **Q2 2026** | **7.07** | Tracking ↑ | **$1.62** (**beat +4.55%** vs $1.55 est) | Revenue beat +2.64% vs $6.89B est; buyback accelerated to $3.05B (vs $2.38B Q1) |
+| Q3 2026E | ~7.22 (implied) | — | **$1.67** (consensus) | Reports 2026-10-15; next hard catalyst |
 
-**Q2 2026 consensus** (as of 2026-07-17): Revenue $6.89B (range $6.69B–$6.97B); EPS $1.55 (range $1.43–$1.62, 30d revision +2.6% from $1.51). Key items to watch: NIM guidance, FY26 EPS formal range, active-ETF/crypto update.
+**Q2 2026 actual** (reported 2026-07-21): Revenue $7.072B (beat +2.64% vs $6.89B est); EPS $1.62 (beat +4.55% vs $1.55 est). Q3 2026 consensus EPS $1.67, reporting 2026-10-15.
 
 ---
 
@@ -100,12 +101,12 @@ SCHW is a bank holding company / brokerage. Traditional industrial metrics (CapE
 
 | Period | Current | 7d Ago | 30d Ago | 60d Ago | 90d Ago | Trend |
 |--------|---------|--------|---------|---------|---------|-------|
-| Q2 2026 (0q) | **$1.55** | $1.51 | $1.507 | $1.466 | $1.453 | ↑ **+6.8%** (90d) |
-| Q3 2026 (+1q) | $1.569 | $1.569 | $1.529 | $1.500 | $1.498 | ↑ +4.7% (90d) |
-| FY2026 (0y) | **$6.154** | $6.145 | $6.023 | $5.863 | $5.855 | ↑ **+5.1%** (90d) |
-| FY2027 (+1y) | **$7.219** | $7.208 | $6.988 | $6.789 | $6.793 | ↑ **+6.3%** (90d) |
+| Q3 2026 (0q) | **$1.670** | $1.670 | $1.618 | $1.569 | $1.564 | ↑ **+6.8%** (90d) |
+| Q4 2026 (+1q) | $1.785 | $1.785 | $1.713 | $1.655 | $1.648 | ↑ +8.3% (90d) |
+| FY2026 (0y) | **$6.489** | $6.489 | $6.291 | $6.146 | $6.129 | ↑ **+5.9%** (90d) |
+| FY2027 (+1y) | **$7.803** | $7.803 | $7.505 | $7.244 | $7.167 | ↑ **+8.9%** (90d) |
 
-**Overall Estimate Signal: Strongly Bullish** — ALL periods revised UP over all horizons (7d, 30d, 60d, 90d). FY2026 consensus $6.154 is now significantly above management's initial $5.70–$5.80 guide. FY2027 $7.219 implies +17% EPS growth from the already-raised FY2026 base.
+**Overall Estimate Signal: Strongly Bullish, accelerating** — ALL periods revised UP over all horizons, and the upward trend continued straight through the Q2 beat (+4.55%) rather than pausing. FY2026 consensus $6.489 is now +5.5% above the $6.154 recorded at the 2026-07-17 pre-earnings refresh. FY2027 $7.803 implies +20% EPS growth from the already-raised FY2026 base — the growth trajectory is steepening, not just the absolute level.
 
 ### Revenue Estimates
 
@@ -120,15 +121,15 @@ SCHW is a bank holding company / brokerage. Traditional industrial metrics (CapE
 
 | Quarter | EPS Estimate | EPS Actual | Surprise% | Revenue |
 |---------|-------------|-----------|----------|---------|
-| Q1 2025 | ~$0.99 | ~$1.00 | ~+1% | ~$4.8B |
-| Q2 2025 | ~$1.00 | ~$1.05 | ~+5% | ~$5.1B |
 | Q3 2025 | ~$1.08 | ~$1.14 | ~+6% | ~$5.8B |
-| Q1 2026 | $1.42 | **$1.43** | **+0.7%** | $6.5B (record) |
-| Q2 2026E | $1.55 | — (reporting 2026-07-21) | — | ~$6.89B |
+| Q4 2025 | ~$1.06 | ~$1.10 | ~+4% | ~$6.34B |
+| Q1 2026 | $1.42 | $1.43 | +0.7% | $6.48B (record) |
+| **Q2 2026** | **$1.55** | **$1.62** | **+4.55%** | **$7.07B (record, beat +2.64%)** |
+| Q3 2026E | $1.67 | — (reporting 2026-10-15) | — | ~$7.22B |
 
-*Note: Detailed prior-quarter beat/miss percentages estimated; Q1 2026 is primary data point. SCHW has been a consistent beater through the NIM recovery cycle.*
+*SCHW has beaten EPS consensus in every quarter shown — Q2 2026's +4.55% surprise is the largest beat of the past four quarters, alongside an accelerating revenue beat.*
 
-**Next earnings: 2026-07-21 盘前** | Consensus EPS: $1.55 | Consensus Revenue: $6.89B
+**Next earnings: 2026-10-15** | Consensus EPS: $1.67 | Consensus Revenue: ~$7.22B
 
 ---
 
@@ -154,10 +155,10 @@ At current ~$176.6B market cap, forward EPS × P/E implied prices:
 
 | EPS | P/E = 15× | P/E = 17× | P/E = 18× | P/E = 20× | P/E = 22× |
 |-----|---------|---------|---------|---------|---------|
-| FY2026E $6.15 | $92.25 | $104.55 | $110.70 | $123.00 | $135.30 |
-| FY2027E $7.22 | $108.30 | $122.74 | $129.96 | $144.40 | $158.84 |
+| FY2026E $6.49 | $97.35 | $110.33 | $116.82 | $129.80 | $142.78 |
+| FY2027E $7.80 | $117.00 | $132.60 | $140.40 | $156.00 | $171.60 |
 
-*Historical SCHW P/E band: 17–20×. Current 16.5× is entering the lower historical range. Price ($101.56) approaching base case PW EV ($107.40) — R/R compressed from original 2.7:1 to ~1:1. Thesis intact, upside asymmetry reduced.*
+*Historical SCHW P/E band: 17–20×. Current ~14.2× (on updated FY26E) is still below the historical range despite the price rally, because estimate revisions have kept pace with the price move. Price ($110.90) has now moved PAST the pre-Q2 PW EV ($107.40) — see §13 in thesis.md for the rescaled Bull/Base/Bear scenarios (new PW EV ~$116.0). R/R remains compressed (~0.9:1) — the EPS beat did not create fresh asymmetry because the market priced it in concurrently.*
 
 ---
 
@@ -169,7 +170,7 @@ At current ~$176.6B market cap, forward EPS × P/E implied prices:
 | Neutral / Hold | Minority | $105 |
 | Sell | — | — |
 
-**Median target: $115.85** (Yahoo Finance) | **Mean: ~$120+ estimated** | 4 upgrades on May 15, 2026.
+**Median target: $126.50** (Yahoo Finance, 2026-08-17) | **Mean: $125.00** | up from $115.85 median at the 2026-07-17 refresh — targets moved up with the Q2 beat.
 
 Recent notable actions:
 | Date | Firm | Action | Target |
@@ -201,10 +202,10 @@ Recent notable actions:
 
 | Date | Event | Key Metric to Watch |
 |------|-------|-------------------|
-| June 2026 | Investor AI Assistant launch | Early user adoption + advisory conversion signal |
-| **2026-07-21** | **Q2 2026 earnings + FY26 formal guide refresh** (盘前) | FY26 EPS range; NIM guidance; deposit trends; buyback pace |
+| ~~2026-07-21~~ ✅ | ~~Q2 2026 earnings~~ | **Delivered**: EPS $1.62 beat +4.55%, revenue $7.07B beat +2.64%, buyback accelerated to $3.05B |
 | 2H 2026 | Crypto platform full rollout | Revenue line at ~75bps/trade; user adoption |
 | YE 2026 | Active-ETF monetization "live" | 400+ asset-manager partnerships activated; fee contribution |
+| **2026-10-15** | **Q3 2026 earnings** | Consensus EPS $1.67; watch for continued estimate-revision momentum and buyback pace vs $3.05B Q2 |
 | Ongoing | Fed FOMC dot-plot | Each "no cuts" confirmation = direct NIM tailwind |
 
 ---

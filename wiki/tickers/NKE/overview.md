@@ -4,8 +4,8 @@ source: austin
 
 # NKE — NIKE, Inc.
 
-**Last updated**: 2026-05-27
-**Status**: Watch — Stage 4 technical; PW EV ~$51 vs current $46; await Q4 FY26 earnings June 25 or Stage 1 base confirmation
+**Last updated**: 2026-08-12 (via /stock-refresh)
+**Status**: Watch — thesis has weakened since May, not strengthened. Q4 FY26 EPS beat was followed by a heavy downgrade wave (JPMorgan → Underweight, $40 target, 2026-08-04); 90-day EPS estimates cut 6.5-8.6%; technicals deepened further into Stage 4 rather than forming the Stage 1 base the thesis was watching for. Price $40.68 sits just below the original $41-48 entry zone without the $38 stop being hit
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -22,7 +22,7 @@ Nike designs, markets, and sells athletic footwear, apparel, and equipment acros
 
 | Metric | Value |
 |--------|-------|
-| Market Cap | $68.5B |
+| Market Cap | $60.35B (2026-08-12) |
 | Revenue (FY2025) | $46.31B (-9.8% YoY) |
 | Gross Margin (FY2025) | 42.7% |
 | Operating Margin (FY2025) | 8.0% |
@@ -54,25 +54,19 @@ Nike designs, markets, and sells athletic footwear, apparel, and equipment acros
 
 ---
 
-## Technical Summary
+## Technical Summary (2026-08-12)
 
 | Metric | Value |
 |--------|-------|
-| Price | $46.16 |
-| 50MA | $46.02 (+0.3%) |
-| 150MA | $57.15 (price -19.3% below) |
-| 200MA | $60.82 (price -24.1% below) |
-| ATR (14d) | $1.10 |
+| Price | $40.68 (-1.55% today) |
+| 50MA | $43.06 (price **-5.3%** below — was +0.3% above in May, has since dropped below) |
+| 150MA | $49.67 (price **-18.1%** below) |
+| 200MA | $52.90 (price **-23.1%** below) |
 | 52wk High | $80.17 |
-| 52wk Low | $41.35 |
-| % Above 52wk Low | +11.6% |
-| % Below 52wk High | -42.4% |
-| Trend Template Score | 1/8 |
-| Pattern | Potential Stage 1 base near 52wk lows |
-| Valid Entry | $41–$48 (52wk low support zone) |
-| Next Earnings | Q4 FY2026 — June 25, 2026 (AH) |
+| 52wk Low | $40.00 (price is only +1.7% above this — near a fresh low) |
+| Next Earnings | **2026-09-29** (Q1 FY27) |
 
-**SEPA Verdict**: Stage 4 / early Stage 1 transition candidate. Only passing criterion: price barely above MA50. All other trend template criteria fail. Do NOT buy until Stage 2 breakout with volume confirmation above MA50 by meaningful margin. Q4 FY26 earnings (June 25) is the near-term binary.
+**SEPA Verdict**: Deteriorated, not improved, since May. The tentative Stage 1 base candidacy (price barely above MA50) has failed — price is now below all three MAs in a deepening downtrend, closer to a fresh 52-week low than to a base. This is the opposite technical direction the original thesis was watching for.
 
 ---
 

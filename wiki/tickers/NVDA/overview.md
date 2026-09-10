@@ -4,8 +4,8 @@ source: austin
 
 # NVDA — NVIDIA Corporation
 
-**Last updated**: 2026-07-28
-**Status**: Active — 🟢 **等待区间已到达**。$196.23（自 $223.47，-12.2%）落入 5/20 设定的 $195–$210 入场区下沿。趋势模板 6/8（唯一实质变化：跌破 MA50 -5.4%；仍在 MA150/MA200 之上）。6 条破裂触发器全未击发，毛利率 74.1%，30 日预期修正净 +40，forward P/E 15.25x。PW EV $263.90 不变，折价扩至 +34.5%。⚠️ 8/26 财报临近 + 尚未确认止跌
+**Last updated**: 2026-08-26
+**Status**: Active — 🟢 **Q2 FY2027财报全面beat，论点强化**。营收$96.2B（预期$92.38B，+4.51%）、EPS $2.22（预期$2.09，+6.29%）、Data Center $89.0B（YoY+117%）；Q3指引$108B上调。盘后$218.77（+4%），已突破原$195-210入场区上沿，低风险入场窗口大概率关闭。⚠️ 新风险：毛利率指引下修至Q4 71-72%（HBM成本上涨），远高于65%破裂线但值得跟踪。PW EV上调至$285.25，折价+30-36%
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -22,16 +22,14 @@ NVIDIA designs and sells graphics processing units (GPUs), AI accelerator chips,
 
 | Attribute | Value |
 |-----------|-------|
-| Market cap | ~$4.75T (2026-07-28; from $5.41T) |
-| Revenue (FY2026, ending Jan 2026) | $215.9B (+65% YoY) |
-| Gross margin (FY2026) | 71.1% |
-| Operating margin (FY2026) | 60.4% |
-| Trailing FCF (FY2026) | ~$96.7B |
-| Cash + ST Investments | ~$62.6B |
-| Total debt | ~$11.4B |
+| Market cap | ~$5.10T（收盘）/ ~$5.32T（盘后）(2026-08-26; from $4.75T) |
+| Revenue (Q2 FY2027, ending Jul 2026) | $96.2B（YoY +106%，beat预期$92.38B +4.51%）|
+| Gross margin (Q2 FY2027 actual) | 75.0%（Q3指引74.0%，Q4指引71-72%）|
+| Operating margin (Q2 FY2027, GAAP) | ~66% ($63.7B / $96.2B) |
+| Net income (Q2 FY2027, GAAP) | $59.7B (YoY +126%) |
+| Cash + ST Investments | 待Q2完整数据更新（yfinance尚未收录）|
 | Shares outstanding | 24.30B (declining — buybacks > SBC) |
-| SBC (FY2026) | $6.4B (0.12% of market cap — minimal) |
-| 52-wk position | $223.47 vs $236.54 high = 94.5% of 52-wk high |
+| 52-wk position | $209.66（收盘）/ $218.77（盘后）vs $236.54 high = 88.6% / 92.5% of 52-wk high |
 
 ---
 
@@ -62,19 +60,17 @@ NVIDIA designs and sells graphics processing units (GPUs), AI accelerator chips,
 
 | Attribute | Value |
 |-----------|-------|
-| Price (2026-07-28) | **$196.23** (from $223.47, -12.2%) |
-| 50MA | **$207.75** — price **-5.4% below** |
-| 150MA | $195.20 — price above ✅ |
-| 200MA | $192.81 — price above ✅, MA200 rising |
-| % above 52-wk low | **+20%** (52w low $164.07) — below the 30% criterion |
-| Trend template | **6/8** (fails: price<MA50, low-distance) |
-| Stage | Stage 2 — structure intact, pullback not breakdown |
-| Pattern | Pullback to MA150 zone; MA50 not yet reclaimed |
-| Valid entry zone | ~$195–$210 — 🟢 **reached 2026-07-28 at the lower bound** |
-| Next earnings | Q2 FY2027 ~August 2026 |
-| ADTV | ~$33.9B |
+| Price (2026-08-26 收盘) | **$209.66**（盘后 $218.77，+4%）(from $196.23) |
+| 50MA | **$207.75** — price **+0.9% above**（已收复）|
+| 150MA | $199.20 — price above ✅ |
+| 200MA | $195.37 — price above ✅, MA200 rising |
+| Trend template | 结构转强（价格重回50/150/200MA之上，较07-28的6/8有所修复）|
+| Stage | Stage 2 — 结构完好，且已从回调中确认企稳 |
+| Pattern | 财报跳空——价格从MA150/MA150区间直接突破50MA，未经历"orderly consolidation" |
+| Valid entry zone | 原 ~$195–$210，**已被财报跳空突破**（盘后$218.77）——低风险入场窗口大概率关闭，等待下一次回调 |
+| Next earnings | Q3 FY2027 ~November 2026 |
 
-**SEPA verdict**: Stage 2, 7/7 trend template — technically the strongest possible profile. However, price is +14.3% above MA50 as of today, after a post-earnings pop. The setup is Watch, not Actionable: wait for a pullback to the $195–$210 zone (MA50 ± 1 ATR) for a lower-risk entry with defined risk to stop.
+**SEPA verdict**: Stage 2，价格重新站上全部三条均线，结构较07-28明显转强。但本次是财报跳空式突破，非教科书式的量能萎缩后放量突破——追高盘后跳空不符合SEPA低风险入场原则，等待下一次真实回调（$207-215附近，新MA50±1ATR）再评估入场时机。
 
 ---
 

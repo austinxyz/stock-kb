@@ -6,11 +6,11 @@ source: austin
 
 **Ticker**: COHR (NYSE)
 **Company**: Coherent Corp. (formerly II-VI Incorporated)
-**As of**: 2026-08-10 (pre-earnings price-move refresh; today -14.24%; 8/12 earnings still pending, 2 days out)
-**Price**: $325.15 (Yahoo Finance, 2026-08-10; interim high $378.80 on 8/7, today's drop is sector-wide rotation not COHR-specific news)
+**As of**: 2026-08-13 (Q4 FY2026 earnings refresh — actuals confirmed 2026-08-12 after close, sell-the-news reaction 2026-08-13)
+**Price**: $327.23 (2026-08-13, -7.99% day-after reaction to Q4 print)
 **52-wk range**: $84.35 – $440.00
-**Market cap**: ~$63.7B
-**Verdict**: ⏳ **Watch / Pre-Earnings** — MA50 gap essentially unchanged from 08-04 (-4.9% vs -5.0%) despite the volatile $330→$379→$325 round trip; Q4 FY26 earnings 2026-08-12 still the only real catalyst (EPS consensus $1.617, Rev $1.981B +29.5% YoY unchanged); analyst median $400 unchanged (discount widened to -18.7% from -17.5%); thesis-break triggers unconfirmed; today's -14.24% attributed to a social-media "optics vs. memory" narrative rotation + pre-earnings de-risking (COHR/LITE/AXTI all fell together), not a COHR-specific negative event
+**Market cap**: ~$64.0B
+**Verdict**: ✅ **Watch → constructive entry zone** — Q4 FY26 beat on all three headline metrics (revenue $2,050M +34% YoY/+3.5% beat; non-GAAP EPS $1.74/+7.6% beat; non-GAAP GM 40.2%, first quarter clearing the 40% thesis-strength trigger). Full 30-day post-earnings estimate revision cycle confirms the beat: EPS estimates up +7% to +13% across all forward periods, median target raised $400→$420. 2026-08-18: a sector-wide AI-optics valuation reset (COHR/Lumentum/AAOI all fell together, -7% to -17%, no COHR-specific news) pushed price to $309.53 — deepest discount to PW EV in this thesis's history, none of the 6 thesis-break triggers hit, volume in-line (0.98×) not distribution
 **Language**: English | [中文](thesis.zh.md)
 
 ---
@@ -30,6 +30,8 @@ Current milestone status: Revenue acceleration confirmed (Q3 FY26: $1,806M GAAP,
 **⏳ POST-ATH UPDATE (2026-08-04)**: Stock pulled back -25% from $440 ATH to current $329.96 — entering the prior pullback target zone ($350–375 Batch 2 target from 5/11 plan, now slightly below). Today's +14.51% bounce from $288 suggests selling pressure subsiding ahead of 8/12. FY27E EPS estimates further revised to $8.29 (+9.2% vs 90d ago). Analyst median target upgraded to $400 (22 analysts), implying +21.2% upside. Q4 FY26 consensus: EPS $1.617, Revenue $1.981B. Beat deceleration trend (Q1 +11.3% → Q2 +6.8% → Q3 +1.1%) bears watching — market may be fully modeling the improvement.
 
 **⏳ PRE-EARNINGS PRICE-MOVE UPDATE (2026-08-10)**: Stock swung further — rallied to $378.80 on 8/7, then dropped -14.24% today to $325.15. Q4 FY26 earnings (8/12) has NOT yet been reported — today's move is not a fundamentals event. WebSearch confirms the cause: a social-media "optics vs. memory" narrative debate over the weekend plus broad pre-earnings de-risking across optical names (COHR -14%, Lumentum -6.6%, AXTI -16.7% same day). No COHR-specific negative news found. Net effect: MA50 gap is essentially unchanged from 08-04 (-4.9% vs -5.0%) despite the intervening volatility — the stock is right back near where the 08-04 refresh left it. Thesis-break triggers remain unconfirmed. 8/12 earnings is still the decision point.
+
+**✅ Q4 FY2026 CONFIRMED (2026-08-12/13)**: Revenue $2,050M (+34% YoY, +13% QoQ, record quarter, beat consensus $1,981M by +3.5%). Non-GAAP EPS $1.74 (beat $1.617 by +7.6%, 6th consecutive beat, magnitude re-accelerated after Q3's weak +1.1%). GAAP GM 38.5% (+277bps YoY); non-GAAP GM **40.2%** (+215bps YoY) — **first quarter to clear the 40% non-GAAP thesis-strength trigger**. Full-year FY2026 revenue $7.12B (+22.5%). Q1 FY27 guidance: revenue $2.2-2.4B, non-GAAP GM 39.5-41.5%, non-GAAP EPS $1.85-2.05 — all above prior Street consensus levels. **Stock reaction: -7.99% on 8/13** despite the beat — WebSearch confirms this is (1) sell-the-news profit-taking after the stock had already priced in strong results, (2) analyst concern that Q1 FY27 GM guidance midpoint (40.5%) implies a slowing *rate* of margin expansion relative to the accelerating revenue ramp (volume-driven margin dilution), and (3) investor concern about the scale of CapEx required to expand 800G/1.6T capacity. **None of the 6 thesis-break triggers were hit; this is a valuation/positioning event, not a fundamentals event.** Thesis confirmed and strengthened on fundamentals; price/sentiment diverged from fundamentals as flagged as a risk in §12-B (crowded positioning).
 
 ---
 
@@ -184,6 +186,7 @@ Vertically integrated manufacturer: COHR designs, fabricates, packages, and test
 |------|--------|------------|-----------|
 | Hyperscaler AI capex pause / CapEx slowdown | Critical | 25% | High |
 | Chinese photonic module market share gain at hyperscalers | High | 40% | High |
+| *(2026-08-13 update)* Margin-expansion rate decelerates from here (Q1 FY27 guide midpoint only +30bps above Q4 actual) | Medium | 35% | Medium — this is the specific concern behind the 8/13 sell-the-news reaction; not a reversal, but bears watching at Q1 FY27 print |
 | Co-packaged optics disrupts standalone transceiver TAM | High | 30% | Medium-High |
 | Preferred stock conversion creates dilution pressure | Medium | 60% | Medium |
 | Balance sheet stress if FCF remains thin (~$200M) | Medium | 25% | Medium |
@@ -340,6 +343,21 @@ Prior reference: PW EV $413.75 vs $379.69 = +9.0% upside (2026-05-11 at ATH). No
 
 **2026-08-10 update**: Price now $325.15 (round-tripped through $378.80 on 8/7). Scenario targets unchanged — no fundamental data to revise them on (Q4 FY26 hasn't reported). PW EV $413.75 vs $325.15 = **+27.2% expected upside**, slightly wider than 08-04's +25.4%. This is purely mechanical (price moved, scenarios didn't) and should not be read as thesis strengthening — it's noise pending the real data point on 8/12.
 
+**2026-08-13 update — Q4 FY26 actuals in hand, scenario probabilities shift toward Bull:**
+Q4 confirmed the Bull-case assumption ("GM reaches 40%+") one quarter into FY2027 territory ahead of the original 18-month scenario horizon, and FY2027 consensus EPS ($8.37) now sits above the original Base-case revenue trajectory. Probabilities re-weighted modestly toward Bull given confirmed margin breakthrough and reaccelerated beat magnitude; Bear probability trimmed given the clean beat removes near-term "guide-down" tail risk (though CapEx/margin-rate-of-change concern from today's reaction keeps Bear non-trivial):
+
+| Scenario | Probability (was) | Probability (now) | Price Target (18m) | Key Assumption |
+|----------|-------------------|--------------------|--------------------|--------------------------------|
+| Bull | 30% | **35%** | $540 | 40%+ GM confirmed one quarter early; 1.6T ramp on schedule; debt below $2B |
+| Base | 45% | **45%** | $440 | Unchanged — FY27 consensus revenue/margin trajectory intact |
+| Bear | 25% | **20%** | $215 | Reduced — near-term guide-down risk lowered by clean Q4 beat; CapEx/margin-deceleration remains the residual bear case |
+
+PW EV = (0.35 × $540) + (0.45 × $440) + (0.20 × $215) = $189 + $198 + $43 = **$430**
+
+PW EV $430 vs current $327.23 = **+31.4% expected upside** — widest gap since the thesis was opened, driven by both price (post-earnings pullback) and fundamentals (confirmed 40% GM breakthrough, upgraded Bull-scenario confidence).
+
+**2026-08-18 update**: Price $309.53 (sector-wide optics reset, -10.4%; no fundamental change). PW EV $430 vs $309.53 = **+38.9% expected upside** — new widest gap since thesis inception, purely mechanical (price moved further down, scenario inputs unchanged; estimates if anything moved up over the same 30 days).
+
 ---
 
 ## 14. Bottom Line
@@ -362,6 +380,10 @@ Prior reference: PW EV $413.75 vs $379.69 = +9.0% upside (2026-05-11 at ATH). No
 
 **Verdict (updated 2026-08-10)**: **Unchanged — thesis intact, no new information.** Today's -14.24% completes a round trip through $378.80 (8/7) with no fundamental data released; WebSearch attributes it to a weekend social-media "optics vs. memory" debate plus broad pre-earnings de-risking (COHR/LITE/AXTI all fell together today). None of the 6 thesis-break triggers were hit. The net MA50 gap barely moved (-4.9% vs 08-04's -5.0%) — this was volatility, not trend change. **8/12 earnings remains the sole decision point**; do not treat today's drop as new evidence in either direction.
 
+**Verdict (updated 2026-08-13)**: **Thesis strengthened on fundamentals; entry window opened by price action.** Q4 FY26 beat on revenue (+3.5%), EPS (+7.6%), and non-GAAP GM (40.2%, clearing the 40% thesis-strength trigger for the first time) — the binary question posed in §1 ("does GM reach 40%+?") resolved YES, one quarter ahead of the FY2027 target horizon. Beat magnitude re-accelerated (+7.6% vs Q3's weak +1.1%), addressing the deceleration concern flagged in the prior two refreshes. Despite this, the stock fell -7.99% the next day on sell-the-news dynamics and a narrower concern about the *rate* of margin expansion implied by Q1 FY27 guidance (39.5-41.5%, midpoint only +30bps above Q4's actual 40.2%) plus CapEx-scale questions for capacity expansion. **None of the 6 thesis-break triggers were hit; the reaction is a valuation/positioning event, not a fundamentals event.** Price $327.23 now sits within the Scenario B §11 "in-line/beat-then-fade" entry zone ($310-330) — PW EV $430 vs $327.23 implies +31.4% upside, the widest gap in this thesis's history. Primary remaining watch item: whether Q1 FY27 (report ~11/4) confirms the GM expansion *rate* is merely decelerating (still healthy) vs. genuinely stalling (would be a concern).
+
+**Verdict (updated 2026-08-18)**: **Unchanged — thesis intact, technical pullback with no fundamental counterpart.** Price fell -10.4% to $309.53 in a sector-wide AI-optics reset (Coherent, Lumentum, Applied Optoelectronics all fell together -7% to -17%; no COHR-specific news identified via WebSearch), giving back most of 8/17's +8% round-trip bounce. Meanwhile the full 30-day post-Q4 estimate revision cycle turned in clean, confirming the beat: EPS estimates rose +7% to +13% across every forward period (current quarter through FY2027), and the analyst median target rose $400→$420 in the same window. Zero estimate cuts accompany today's drop. Volume 0.98× (in-line, not distribution). **None of the 6 thesis-break triggers were hit.** PW EV $430 vs $309.53 = +38.9% upside, the widest discount since this thesis opened — price and fundamentals have diverged further, not converged. Q1 FY27 (~11/4) remains the sole hard decision point on whether the GM-expansion-rate concern (raised 8/13) materializes.
+
 ---
 
 ## 15. Monitoring Checklist
@@ -381,12 +403,15 @@ Prior reference: PW EV $413.75 vs $379.69 = +9.0% upside (2026-05-11 at ATH). No
 
 ### Mid-Term (3-6 months)
 
-- [ ] **Q4 FY2026 earnings — 2026-08-12 (confirmed)**
-  - Pass: Revenue ≥$1,981M (consensus), EPS ≥$1.617, gross margin ≥39% (GAAP ≥38%)
-  - Stretch (thesis-strength trigger): GM% ≥40% non-GAAP (GAAP ≥38.5%)
-  - Fail: Revenue <$1,850M or margin expansion stalls or declines → Trim/Exit
-  - Beat magnitude: Q3 was only +1.1% — watch whether Q4 estimate reset has priced in improvement
-- [ ] Net debt trajectory: Below $2.5B by June 2026? (Confirms deleveraging)
+- [✅] **Q4 FY2026 earnings — 2026-08-12 (CONFIRMED, released)**
+  - Pass: Revenue ≥$1,981M (consensus), EPS ≥$1.617, gross margin ≥39% (GAAP ≥38%) — ✅ Revenue $2,050M, EPS $1.74, GAAP GM 38.5%
+  - Stretch (thesis-strength trigger): GM% ≥40% non-GAAP (GAAP ≥38.5%) — ✅ **HIT: non-GAAP GM 40.2%**
+  - Fail: Revenue <$1,850M or margin expansion stalls or declines → Trim/Exit — not triggered
+  - Beat magnitude: Q3 was only +1.1% — Q4 re-accelerated to +7.6% ✅
+- [ ] **Q1 FY2027 earnings — ~2026-11-04 (next)**
+  - Pass: Revenue within/above guided $2.2-2.4B, non-GAAP GM ≥39.5% (guided low end), non-GAAP EPS ≥$1.85
+  - Watch item: does non-GAAP GM confirm ≥40.5% (guided midpoint) or slip toward 39.5% (guided low end) — this is the "rate of margin expansion" question the market is pricing in post-Q4
+- [ ] Net debt trajectory: Q4 FY26 actual balance sheet pending yfinance update (Q3 was ~$1.83B net debt, down from FY25 $2.985B) — confirm continued decline
 - [ ] Chinese optical competitive data: Any hyperscaler disclosed switching to Innolight/Accelink for 800G?
 - [ ] 1.6T transceiver customer qualification announcement (timing indicator for next upcycle)
 - [ ] Preferred stock retirement or conversion update from management
@@ -406,8 +431,8 @@ Any ONE of the following → immediate reassessment (sell or avoid):
 
 Any ONE of the following → add to position / increase conviction:
 
-- [ ] Gross margin ≥40% in any fiscal quarter
-- [ ] Net debt below $2.0B (2024 balance sheet healed)
+- [✅] **Gross margin ≥40% in any fiscal quarter — HIT (Q4 FY26: non-GAAP 40.2%)**
+- [ ] Net debt below $2.0B (2024 balance sheet healed) — pending Q4 balance sheet confirmation (Q3 trajectory ~$1.83B was already close)
 - [ ] 1.6T production ramp announcement with named hyperscaler
 - [ ] Preferred stock retirement announcement (removes $130M annual dividend drag)
 
@@ -424,9 +449,13 @@ Any ONE of the following → add to position / increase conviction:
 - Finance-sentiment (Adanos API): X.com, Reddit, News (2026-08-04)
 - Raymond James upgrade note (7/2/2026): raised to $435 from $371
 
+- Coherent Corp. Q4 & Full Year FY2026 earnings press release (GlobeNewswire, 2026-08-12)
+- WebSearch: post-earnings reaction attribution (2026-08-13) — sell-the-news, margin-guidance-rate, CapEx-scale concerns
+
 **Data gaps**: 
-- Q4 FY2026 actuals pending (earnings 2026-08-12)
+- ✅ Q4 FY2026 actuals now confirmed (2026-08-12) — resolved
+- Q4 FY2026 balance sheet (net debt, cash) not yet reflected in yfinance as of 2026-08-13 refresh; company press release net debt figure not captured in this pass — confirm at next refresh
 - Geographic revenue breakdown not cleanly disclosed
 - Customer concentration (top 3 customer revenue %) not publicly disclosed
 - Chinese competitor market share at hyperscalers — channel check data needed
-- GAAP vs non-GAAP GM% gap: Q3 FY26 GAAP = 37.6%, non-GAAP ~38.5%; thesis uses non-GAAP trajectory for 40% target
+- GAAP vs non-GAAP GM% gap: Q4 FY26 GAAP = 38.5%, non-GAAP = 40.2%; thesis uses non-GAAP trajectory for 40% target — target now achieved

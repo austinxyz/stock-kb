@@ -4,8 +4,8 @@ source: austin
 
 # MRAM — Everspin Technologies, Inc.
 
-**Last updated**: 2026-05-11
-**Status**: Avoid — $40M defense deal signed; stock +622% YTD in parabolic phase; AT 52W high; trading at 2.15× highest analyst target ($18.50); Wait for pullback to $18–22 before re-evaluating
+**Last updated**: 2026-08-12 (via /stock-refresh)
+**Status**: Watch — the pullback the original thesis waited for has happened: price $17.31, down -56.6% from $39.86, briefly traded below the $18-22 zone (low $12.93 on 7/29). Extension fully unwound (was +220% above MA50, now -13.7% below). Q2 2026 beat +22.2%, Needham raised its low target to $19.00 the next day. New risk: 2026-08-07 dilution-shelf filing, unresolved. No longer a mechanical AVOID — needs fresh scenario work before entry
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -22,7 +22,7 @@ Everspin Technologies is the world's only high-volume public MRAM manufacturer �
 
 | Attribute | Value |
 |-----------|-------|
-| Market Cap | **$934M** (2026-05-11) |
+| Market Cap | **~$421.5M** (2026-08-12) |
 | Revenue (FY2025) | $55.2M (+9.5% YoY) |
 | TTM Revenue (Q1 2026 LTM) | ~$57.0M |
 | Gross Margin (FY2025) | 51.2% (Q1 2026: 52.7%) |
@@ -54,25 +54,20 @@ Everspin Technologies is the world's only high-volume public MRAM manufacturer �
 
 ---
 
-## Technical Summary (2026-05-11)
+## Technical Summary (2026-08-12)
 
 | Metric | Value |
 |--------|-------|
-| Current Price | **$39.86** (AT 52W high) |
-| 52W Range | $5.52 – $39.86 |
-| % Above 52W Low | +622.1% |
-| % Below 52W High | 0.0% |
-| MA50 | $12.46 (+219.8% extension — parabolic) |
-| MA150 | $11.11 (+258.7%) |
-| MA200 | $10.09 (+295.0%) |
-| ATR(14d) | $3.72 |
-| Trend Template | **8/8** ✅ |
-| MA200 Slope | +11.4%/month (steep) |
-| Pattern | Parabolic spike — no valid VCP/base |
-| Nearest Valid Entry | Wait for consolidation at $18–22 |
-| Next Earnings | Q2 2026 ~late July/Aug 2026 |
+| Current Price | **$17.31** (+5.3% today) |
+| 52W Range | $5.86 – $51.50 |
+| MA50 | $20.06 (price **-13.7%** below — extension fully unwound) |
+| MA150 | $16.77 (price +3.2% above — hugging this MA) |
+| MA200 | $14.86 (price +16.5% above) |
+| Pattern | Parabolic blow-off has fully reversed; price now consolidating near 150MA, well above 200MA |
+| Watch Zone | INSIDE/near original $18-22 pullback zone (briefly traded below it, low $12.93 on 7/29) |
+| Next Earnings | **2026-11-11** (EPS est. $0.12) |
 
-**SEPA Verdict**: Technically 8/8 but MA50 extension +220% is a parabolic blow-off. No valid SEPA entry pattern. **AVOID** at current price.
+**SEPA Verdict**: The parabolic extension has fully unwound — this is a materially healthier, non-extended technical setup vs. May. Re-evaluate for entry (subject to §8/§13 refresh of the dilution risk and scenario table), not an automatic AVOID.
 
 ---
 

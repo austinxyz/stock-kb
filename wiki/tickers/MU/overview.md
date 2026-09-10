@@ -4,8 +4,8 @@ source: austin
 
 # MU — Micron Technology, Inc.
 
-**Last updated**: 2026-07-31
-**Status**: Watch — Stage 2 corrective, -14.5% below MA50; HBM3e/HBM4 ramp driving extraordinary margins (84.6% GM in Q3 FY26); await MA50 reclaim + Q4 FY26 beat (Sep 23) before entry
+**Last updated**: 2026-08-26
+**Status**: Watch, approaching Actionable — 仅-2.1%低于MA50（07-31: -14.5%），趋势模板7/8（07-31: 6/8）；今日NVDA Q2 FY2027财报HBM成本评论正面验证MU的HBM定价权论点；等待MA50收复或Q4 FY2026财报（**更正：2026-09-29**，非此前"Sep 23"）确认后入场
 **Language**: English | [中文](overview.zh.md)
 
 ---
@@ -22,17 +22,15 @@ Micron is the only U.S. manufacturer of DRAM and NAND flash memory, increasingly
 
 | Attribute | Value |
 |-----------|-------|
-| Market cap | $931.5B |
-| Revenue TTM | $90.3B |
+| Market cap | ~$1.06T（07-31: $931.5B）|
 | Gross margin TTM | 72.6% |
 | Operating margin TTM | 80.4% |
-| Trailing FCF | $7.6B (constrained by CapEx; free cash surged in recent quarters) |
 | Cash & ST investments | $26.0B |
 | Total debt | $6.4B |
 | Net cash | ~$19.6B |
-| Beta (5yr) | 2.14 |
+| Beta (5yr) | 2.21 |
 | Shares outstanding | 1.129B |
-| Dividend yield | 0.06% |
+| ADTV | ~$32.8B（超高流动性，任意仓位规模无执行障碍）|
 
 ---
 
@@ -61,44 +59,47 @@ Micron is the only U.S. manufacturer of DRAM and NAND flash memory, increasingly
 
 | Metric | Value |
 |--------|-------|
-| Price | **$824.81** (2026-07-31, -5.66% today, vol 56.93×) |
-| 50-day MA | $964.80 (price **-14.5%** below — fails Stage 2 criterion) |
-| 150-day MA | $613.69 (price +34.4% above) |
-| 200-day MA | $517.95 (price +59.2% above) |
-| 52-wk range | $103.38 – $1,255.00 |
-| % from 52-wk high | **-34.3%** |
-| ATR (14d) | $72.28 |
-| Trend template score | **6/8** (fails: price < MA50; price > 52wH-25%) |
-| Stage | **2 corrective** (all MAs in bullish order; price pulled back through MA50) |
-| Pattern | No valid base — major correction from ATH, no tight consolidation |
-| Re-entry trigger | MA50 ($964) reclaim + Q4 FY26 beat (Sep 23, 2026) |
-| Next earnings | **2026-09-23** (Q4 FY2026); EPS est $31.33, Revenue est $50.8B |
+| Price | **$938.40**（2026-08-26，07-31: $824.81，+13.8%）|
+| 50-day MA | $958.88（价格**-2.1%**低于——07-31时为-14.5%，大幅修复）|
+| 150-day MA | $684.71（价格+37.0%高于）|
+| 200-day MA | $581.39（价格+61.4%高于，MA200上升）|
+| 52-wk range | $117.56 – $1,213.37 |
+| % from 52-wk high | -22.7%（07-31: -34.3%）|
+| ATR (14d) | $41.88（07-31: $72.28，波动率明显收敛）|
+| RSI (14d) | 57.6 |
+| Trend template score | **7/8**（07-31: 6/8；唯一失分：价<MA50）|
+| Stage | **2 修复中**（所有均线多头排列；从破位向重回MA50过渡）|
+| Pattern | 无明确底部形态，但正从07-31破位中修复 |
+| Re-entry trigger | MA50（约$958.9）收复 或 Q4 FY2026财报确认（**2026-09-29**，更正） |
+| Next earnings | **2026-09-29**（Q4 FY2026，更正：此前误记为09-23）; EPS est $31.28, Revenue est $50.78B |
 
-**SEPA verdict**: Watch. Stock rallied from $103 (52wk low) to ATH $1,255, now correcting to $825 (-34.3%). MA50 at $964 is the key level — below it, setup is not actionable. Today's -5.66% on 56.93× volume indicates a significant catalyst (unknown from available data); do not enter until catalyst is identified and MA50 is reclaimed.
-
----
-
-## Peers and Relative Performance (Last 3 Months)
-
-| Ticker | Company | 3-mo Corr | Sector |
-|--------|---------|-----------|--------|
-| WDC | Western Digital | r=0.864 | NAND/HDD |
-| AMD | Advanced Micro Devices | r=0.901 | AI GPU/CPU |
-| NVDA | NVIDIA | r=-0.162 | AI GPU (inverse recent) |
-| AVGO | Broadcom | r=-0.270 | Custom ASIC |
-
-MU tracks AMD and WDC most closely — AI compute cycle and NAND storage cycle. Negative correlation with NVDA and AVGO suggests MU has been rotating counterphase to those names over the last 3 months (likely sector rotation within AI infrastructure).
+**SEPA verdict（2026-08-26）**：Watch, approaching Actionable。股价从07-31的$824.81修复至$938.40（+13.8%），MA50距离从-14.5%收窄至-2.1%，趋势模板从6/8升至7/8。07-31的未识别催化剂已过26天无新增坏消息，倾向判定为技术性/轮动性而非结构性。今日NVDA财报的HBM成本评论是独立的正面交叉验证。距MA50收复仅一步之遥，是当前最直接的入场触发点。
 
 ---
 
-## Social Sentiment
+## Peers and Relative Performance (Last 3 Months, 2026-08-26)
+
+| Ticker | 3mo Return | Latest Price | Sector |
+|--------|-----------|-------------|--------|
+| MRVL | **+23.4%** | $245.11 | DRAM控制器/光DSP |
+| **MU** | **+1.1%** | $938.40 | DRAM/HBM |
+| STX | -2.7% | $846.37 | HDD近线 |
+| SNDK | -5.7% | $1,499.37 | NAND |
+| SOXX（板块基准）| -8.6% | $515.40 | 宽半导体 |
+| WDC | -11.6% | $468.88 | NAND后纯HDD |
+
+MU 3个月+1.1%明显跑输MRVL（+23.4%），但跑赢板块基准SOXX（-8.6%）——过去3个月更像估值消化期，而非趋势加速期，与07-31记录的"12个月内+12×"极端拉升形成对比。
+
+---
+
+## Social Sentiment（2026-08-26）
 
 | Platform | Signal | Basis |
 |----------|--------|-------|
-| Reddit (r/stocks, r/investing) | Mixed-Bullish | HBM narrative well-known; bears cite cycle risk |
-| X.com / Twitter | Cautious-Bullish | Analyst upgrades bullish, but today's drop creating confusion |
-| News sentiment | Bearish short-term | Today's 56× volume selloff created negative headlines |
-| **Overall** | **Neutral** | Long-term HBM bull thesis intact; short-term unclear |
+| Reddit (r/stocks, r/investing) | 中性（多25%/空22%）| HBM叙事已被充分认知；讨论量中等 |
+| X.com / Twitter | 净多头（多43%/空12%）| 财报交叉验证叙事扩散，情绪明显偏多 |
+| News sentiment | 净空头（多17%/空33%）| 新闻端偏谨慎，可能反映对周期顶部估值的怀疑 |
+| **Overall** | **偏多但分歧明显** | 三平台方向不一致；X.com最看多，新闻最谨慎，Reddit居中 |
 
 ---
 

@@ -4,9 +4,9 @@ source: austin
 
 # NVDA — Key Financial Metrics
 
-**Last updated**: 2026-07-28
-**Data source**: Yahoo Finance, NVDA FY2026 Annual Report, Q1 FY2027 Earnings Release
-**Next update trigger**: Q2 FY2027 earnings — **2026-08-26**（est EPS $2.08 / 营收 $91.8B）
+**Last updated**: 2026-08-26
+**Data source**: Yahoo Finance, NVDA FY2026 Annual Report, Q2 FY2027 Earnings Release (2026-08-26)
+**Next update trigger**: Q3 FY2027 earnings — 预计 ~2026年11月（重点跟踪：Q3实际毛利率是否兑现74.0%±50bp指引）
 **Language**: English | [中文](financials.zh.md)
 
 ---
@@ -15,20 +15,21 @@ source: austin
 
 | Attribute | Value |
 |-----------|-------|
-| Price (2026-07-28) | **$196.23** （2026-05-20: $223.47，**-12.2%**）|
-| 52-week range | **$164.07** – $236.54 （低点自 $129.16 上移）|
-| Position vs. 52-wk high | **-17%** ｜ vs 52-wk low **+20%** |
-| Market cap | **~$4.75T** （自 $5.41T，-12.2%）|
-| Shares outstanding | 24.22B |
-| Cash / Debt | $53.17B / $12.81B |
-| Trailing P/E | 30.1x （EPS TTM $6.52）|
-| **Forward P/E** | **15.25x** ← 大幅压缩 |
-| Gross margin (latest Q) | **74.1%** （破裂触发线 65%，远未触及）|
-| Analyst consensus | **strong_buy**，58 家 |
-| Analyst mean target | **$302.83** （+54%）｜ 区间 $180–$500 |
+| Price (2026-08-26 收盘) | **$209.66**（盘后 **$218.77**，+4%，财报后）（2026-07-28: $196.23）|
+| 52-week range | **$164.07** – $236.54 |
+| Position vs. 52-wk high | -11.4%（收盘）｜ vs 52-wk low +27.8% |
+| Market cap | **~$5.10T**（收盘）／~$5.32T（盘后）（自 $4.75T）|
+| Shares outstanding | 24.30B |
+| Cash / Debt | 待Q2 FY2027完整资产负债表数据（yfinance尚未收录，见下方说明）|
+| Trailing P/E | 待更新（需Q2实际EPS纳入TTM）|
+| **Forward P/E** | 待重算（不在本次刷新范围，参见§13说明）|
+| Gross margin (latest Q) | **75.0%**（GAAP，Q2 FY2027实际；Q3指引74.0%，Q4指引71-72%，破裂触发线65%仍远未触及）|
+| Analyst consensus | strong_buy（30日预期修正净+40至+45，5up/0down）|
+| Analyst mean target | 待更新（尚未收录财报后修正）|
 
-> **估值倍数压缩，非基本面恶化。** 最新季度营收 $81.61B vs 去年同期 $44.06B（**+85.2% YoY**），
-> 而 forward P/E 从 19.3x 降至 **15.25x**。跌的是市场愿意付的倍数。
+> **本季 beat 全面**：营收 $96.2B（预期 $92.38B，+4.51%）、Adj EPS $2.22（预期 $2.09，+6.29%）、Data Center $89.0B（YoY +117%）。Q3指引$108B（预期$103.9-104.2B，上调）。**但毛利率指引下修**：Q3 74.0%、Q4 71-72%，管理层归因HBM/内存成本超预期上涨——详见§9下方"2026-08-26更新"及thesis.md §8。
+>
+> **数据缺口说明**：yfinance 尚未收录Q2 FY2027（截至2026年7月）的完整季度资产负债表/现金流数据（仍停留在Q1 FY2027即2026-04-30），Cash/Debt/Trailing P/E 待下次刷新或数据源更新后补齐。
 
 ---
 
@@ -102,9 +103,10 @@ Cash runway: Not applicable — NVDA generates $96.7B/year in FCF. Cash balance 
 | Q2 FY2026 (May–Jul 2025) | $46.7B | +6% | Blackwell ramp beginning |
 | Q3 FY2026 (Aug–Oct 2025) | $57.0B | +22% | Blackwell volume ramp; CoWoS bottleneck easing |
 | Q4 FY2026 (Nov–Jan 2026) | $68.1B | +19% | B200 at scale; strong hyperscaler demand |
-| **Q1 FY2027** (Feb–Apr 2026) | **~$81B+** | **+19%** | **Beat consensus $79.1B; upbeat Q2 guide (2026-05-20)** |
+| Q1 FY2027 (Feb–Apr 2026) | $81.6B | +20% | Beat consensus $79.1B; record revenue |
+| **Q2 FY2027** (May–Jul 2026) | **$96.2B** | **+18%** | **Beat consensus $92.38B (+4.51%)；Data Center $89.0B (YoY +117%)；GAAP GM 75.0%** |
 
-Q2 FY2027 consensus: ~$85–$90B (to be updated after earnings call review)
+Q3 FY2027 指引：**$108B ±2%**（一致预期 $103.9-104.2B，上调）。三季度合计（Q1实际+Q2实际+Q3指引）= $285.8B，即便Q4零增长，FY2027全年预计逼近**$394B**，已超原Base案假设$350-380B区间上沿。
 
 ---
 
@@ -124,19 +126,18 @@ Cumulative FY2022→FY2026: -1.6% dilution. Exceptional for a high-growth compan
 
 ## 9. Estimate Momentum
 
-### 30 日预期修正（2026-07-28 实测）
+### 30 日预期修正（2026-08-26 实测，财报后）
 
 | 期间 | 上调 | 下调 | 净 |
 |------|-----:|-----:|---:|
-| 当季 (0q) | **34** | 3 | **+31** |
-| 下季 (+1q) | **35** | 2 | **+33** |
-| 本年 (0y) | **42** | 2 | **+40** |
-| 明年 (+1y) | **42** | 1 | **+41** |
+| 当季 (0q) | 5 | 0 | +5 |
+| 下季 (+1q) | 4 | 0 | +4 |
+| 本年 (0y) | 4 | 0 | +4 |
+| 明年 (+1y) | 4 | 0 | +4 |
 
-**压倒性净上调。** 增长预期：当季 **+98.3%**、下季 +80.7%、本年 **+88.4%**、明年 +43.2%
-（同期指数分别为 +35.5% / +22.6% / +27.2% / +15.9%）。
+**方向仍全面净上调，但样本量较07-28（当时34-42人次）明显更少**——财报刚发布数小时，多数分析师尚未完成模型更新，未来1-2周预计有更大规模修正潮补上。增长预期：当季 +80.0%、下季 +63.7%、本年 +89.8%、明年 +45.0%（同期指数分别为 +48.5% / +23.8% / +31.2% / +13.7%）。
 
-> 价格 -12.2% 期间预期却在净上调 —— 这是价格与基本面背离，非基本面确认下跌。
+> 财报当天口径切换：yfinance "0q"字段已从"下次待发布季度"滚动为"下下季度"，与07-28记录的口径不完全可比，按方向性（全部净上调、零下调）判读即可，不做精确数值对比。
 
 ### EPS Estimates (FY2027E, non-GAAP)
 
@@ -173,13 +174,13 @@ Cumulative FY2022→FY2026: -1.6% dilution. Exceptional for a high-growth compan
 
 | Quarter | EPS Estimate | EPS Actual | Surprise % | Revenue Estimate | Revenue Actual | Rev Beat |
 |---------|-------------|-----------|-----------|-----------------|---------------|---------|
+| **Q2 FY2027 (Jul 2026)** | **$2.09** | **$2.22** | **+6.29%** | **$92.38B** | **$96.2B** | **+4.51%** |
+| Q1 FY2027 (Apr 2026) | ~$0.94 | ~$1.00+ | +6%+ | $79.1B | $81.6B | +3.2% |
 | Q4 FY2026 (Jan 2026) | ~$0.85 GAAP | ~$0.89 | +4.7% | $66.5B | $68.1B | +2.4% |
 | Q3 FY2026 (Oct 2025) | ~$0.72 | ~$0.78 | +8.3% | $55.5B | $57.0B | +2.7% |
 | Q2 FY2026 (Jul 2025) | ~$0.62 | ~$0.65 | +4.8% | $44.5B | $46.7B | +4.9% |
-| Q1 FY2026 (Apr 2025) | ~$0.57 | ~$0.60 | +5.3% | $43.0B | $44.1B | +2.6% |
-| **Q1 FY2027 (Apr 2026)** | **~$0.94** | **~$1.00+** | **+6%+** | **$79.1B** | **~$81B+** | **+2%+** |
 
-4-quarter beat trend: Consistent 3–8% EPS beats; 2–5% revenue beats. NVDA has beaten EPS estimates for 12+ consecutive quarters. Next earnings: Q2 FY2027 ~August 2026.
+5-quarter beat trend: Consistent EPS/revenue beats each quarter; Q2 FY2027 revenue beat (+4.51%) is the largest in this table by dollar magnitude ($3.82B). NVDA has beaten estimates for 13+ consecutive quarters. Next earnings: Q3 FY2027 ~November 2026.
 
 ---
 
@@ -253,12 +254,11 @@ Cumulative FY2022→FY2026: -1.6% dilution. Exceptional for a high-growth compan
 
 | Date | Event | What to Watch |
 |------|-------|--------------|
-| 2026-05-20 | Q1 FY2027 earnings (today) | Revenue beat/miss; gross margin trajectory; Q2 guide |
-| ~June 2026 | COMPUTEX 2026 | Jensen keynote; any Rubin/next-gen preview |
-| ~July 2026 | Hyperscaler Q2 earnings (AMZN/MSFT/GOOGL) | AI capex guidance for H2 2026 |
-| ~August 2026 | Q2 FY2027 earnings | Revenue vs $85–90B; margin recovery confirmation |
-| ~Nov 2026 | Q3 FY2027 earnings | Rubin ramp timing; FY2028 first guide |
+| 2026-05-20 | Q1 FY2027 earnings | ✅ Beat $79.1B est → $81.6B actual |
+| 2026-08-26 | **Q2 FY2027 earnings（今日）** | ✅ 营收/EPS/DataCenter全面beat；Q3指引上调；**毛利率指引下修（新监控项）** |
+| ~Nov 2026 | **Q3 FY2027 earnings** | **关键**：毛利率是否兑现74.0%±50bp指引；Q4指引是否维持71-72%触底表述 |
 | 2026–2027 | Rubin architecture ramp | Performance leap confirmation; supply chain |
+| 持续 | HBM/内存供应商动态（SK Hynix/Micron/Samsung）| 内存成本上涨是行业性还是NVDA特有的采购/定价问题 |
 
 ---
 

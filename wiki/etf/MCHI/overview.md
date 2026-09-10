@@ -55,6 +55,6 @@ Per `/sector-check`'s existing China-internet sector logic: only KWEB is current
 
 ## Why It's In The Wiki
 
-Added 2026-08-11 after a user question ("有不少ETF没有做分析...MCHI") flagged that the currently-held MCHI position (Lorraine Roth + Austin Roth, 163.425 shares combined, notes say "纯论点/Stage 决策") had no supporting thesis document despite the position rules calling for one. This analysis exists to give that "纯论点" decision an actual paper trail, and confirms MCHI is not the efficient vehicle for the China-internet thesis it's nominally being held for — KWEB already fills that role better.
+Added 2026-08-11 after a user question ("有不少ETF没有做分析...MCHI") flagged that an existing MCHI position had no supporting thesis document despite the position rules calling for one. This analysis exists to give that "纯论点" decision an actual paper trail, and confirms MCHI is not the efficient vehicle for the China-internet thesis it's nominally being held for — KWEB already fills that role better.
 
 See [thesis.md](thesis.md) for the full analysis and [holdings.md](holdings.md) for detailed composition.
