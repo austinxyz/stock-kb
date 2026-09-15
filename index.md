@@ -22,4 +22,4 @@
 
 **90 tickers total** — 29 upstream (kgajjala) · 61 overlay (Austin)
 
-*Last build: 2026-09-12*
+*Last build: 2026-09-14*
