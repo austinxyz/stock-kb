@@ -18,6 +18,7 @@
 | BKNG | austin | 2026-07-28 | _(no changelog)_ | _(no changelog)_ |  |
 | BRK.B | upstream | 2026-05-10 | 🟡 **Unchanged** — Q1 2026 confirms operational continuity (+18% operating earnings) but the GEICO deterioration (–34%)… | _(no changelog)_ | 📅 Q2 2026 earnings (≈early August 2026) — GEICO trajectory, buyback cadence, OxyChem first full-quarter contribution,… |
 | CELH | upstream | 2026-05-10 | **Unchanged** vs. v2.8 — Q1 confirmed Alani Nu execution (bullish); CELSIUS +6% deceleration adds residual uncertainty… | _(no changelog)_ | June 2026 shelf-reset scanner data; Q2 2026 earnings (est. August 2026). |
+| CHWY | upstream | 2026-09-25 | _(no changelog)_ | _(no changelog)_ |  |
 | CLFD | austin | 2026-05-14 | _(no changelog)_ | _(no changelog)_ |  |
 | CMG | upstream | 2026-06-03 | Weakened (from prior untracked state) — traffic deterioration structural-to-cyclical TBD; CAVA risk is first material… | _(no changelog)_ | Q2 2026 earnings (late July 2026). SSS ≥+1%; restaurant-level margin trajectory; CAVA competitive read. |
 | COHR | austin | 2026-08-18 | _(no changelog)_ | _(no changelog)_ |  |
@@ -27,7 +28,7 @@
 | DASH | upstream | 2026-08-26 | 🟢 **Strengthened**. Q2 is the confirming print the page had been waiting on since Q4 2025 — operating leverage showed… | _(no changelog)_ | **Q3 2026 earnings, ~Nov 4, 2026** *[Estimate]*. Watch Adj EBITDA vs. the $950M–$1.1B guide, New Verticals gross-profit… |
 | DELL | austin | 2026-08-18 | _(no changelog)_ | _(no changelog)_ |  |
 | DIS | upstream | 2026-07-01 | Initiated at Strengthened-leaning — clean CEO transition, compounding streaming profitability, and record Experiences… | _(no changelog)_ | Q3 FY2026 earnings (~Aug 12, 2026 est.) — tests the guided ~14% YoY ESPN operating-income decline and whether domestic… |
-| DKS | upstream | 2026-09-07 | _(no changelog)_ | _(no changelog)_ |  |
+| DKS | upstream | 2026-09-22 | _(no changelog)_ | _(no changelog)_ |  |
 | EBAY | austin | 2026-08-10 | _(no changelog)_ | _(no changelog)_ |  |
 | EOSE | austin | 2026-06-17 | _(no changelog)_ | _(no changelog)_ |  |
 | FCEL | austin | 2026-05-14 | _(no changelog)_ | _(no changelog)_ |  |
@@ -41,7 +42,7 @@
 | INTC | austin | 2026-08-18 | _(no changelog)_ | _(no changelog)_ |  |
 | INTT | austin | 2026-07-02 | _(no changelog)_ | _(no changelog)_ |  |
 | INTU | austin | 2026-08-07 | _(no changelog)_ | _(no changelog)_ |  |
-| KGS | upstream | 2026-08-02 | **Strengthened** — record Q1 EBITDA, guidance raise, Baker Hughes 1.8 GW partnership all confirm the post-DPS thesis;… | _(no changelog)_ | 📅 Q2 2026 earnings — **August 6, 2026** — first full quarter of Power Infrastructure; de-leveraging progress; Baker… |
+| KGS | upstream | 2026-09-17 | _(no changelog)_ | _(no changelog)_ |  |
 | LASR | austin | 2026-08-18 | _(no changelog)_ | _(no changelog)_ |  |
 | LLY | austin | 2026-07-31 | _(no changelog)_ | _(no changelog)_ |  |
 | LNTH | upstream | 2026-05-10 | Unchanged at pause-point. Q1 2026 print + strategic narrowing to pure radiodiagnostics already captured in the same-day… | _(no changelog)_ | User-directed `resume LNTH` only. Friday weekly cron will skip this ticker. |
@@ -61,7 +62,7 @@
 | OCC | austin | 2026-07-11 | _(no changelog)_ | _(no changelog)_ |  |
 | OKLO | austin | 2026-07-27 | _(no changelog)_ | _(no changelog)_ |  |
 | ONON | austin | 2026-08-11 | _(no changelog)_ | _(no changelog)_ |  |
-| PEP | upstream | 2026-09-07 | _(no changelog)_ | _(no changelog)_ |  |
+| PEP | upstream | 2026-09-22 | _(no changelog)_ | _(no changelog)_ |  |
 | PFE | austin | 2026-07-19 | _(no changelog)_ | _(no changelog)_ |  |
 | PG | upstream | 2026-09-02 | _(no changelog)_ | _(no changelog)_ |  |
 | PLTR | austin | 2026-08-18 | _(no changelog)_ | _(no changelog)_ |  |
@@ -72,7 +73,7 @@
 | RIVN | upstream | 2026-05-18 | 🟡 **Unchanged net** — Weakened on financing/dilution overhang (May-15 S-3 + DOE downsizing; share count +50% since… | _(no changelog)_ | 📅 **Q2 2026 earnings (~early August 2026)** — R2 customer-delivery cadence, whether/how the mixed-shelf S-3 is drawn,… |
 | RKT | upstream | 2026-05-10 | **Strengthened** — Q1 2026 de-risked all three integration legs simultaneously: Cooper synergy ($400M, end-2026),… | _(no changelog)_ | Q2 2026 earnings (~Aug 2026). Watch: adj rev vs. $2.7–2.9B guide, EBITDA margin sustain at 26%+, Redfin attach crossing… |
 | RXT | austin | 2026-06-19 | _(no changelog)_ | _(no changelog)_ |  |
-| SBUX | upstream | 2026-08-06 | 🟢 **Strengthened (substantively)** vs. prior 2026-04-28 baseline. Third consecutive quarter of U.S. transaction growth… | _(no changelog)_ | Q4 FY2026 earnings — late October 2026. Key items: (1) U.S. transactions on toughest comp, (2) op-margin durability… |
+| SBUX | upstream | 2026-09-23 | _(no changelog)_ | _(no changelog)_ |  |
 | SCHW | austin | 2026-08-17 | _(no changelog)_ | _(no changelog)_ |  |
 | SHOP | austin | 2026-08-12 | _(no changelog)_ | _(no changelog)_ |  |
 | SMCI | austin | 2026-06-19 | _(no changelog)_ | _(no changelog)_ |  |

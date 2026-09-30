@@ -4,19 +4,19 @@ source: upstream
 
 # PEP — PepsiCo, Inc.
 
-> **Schema** v5.0 · **Updated** 2026-09-07 · **Status** Active
-> **Price** $137.63 verified Sep 4, 2026 4:00 PM EDT close ([Yahoo](https://finance.yahoo.com/quote/PEP/); US markets closed Sep 7) · 52-wk $133.73–$171.48 · ~10th %ile · −19.7% from high
+> **Schema** v5.0 · **Updated** 2026-09-22 · **Status** Active
+> **Price** $130.82 verified Sep 22, 2026 11:47 AM EDT ([Yahoo](https://finance.yahoo.com/quote/PEP/)) · 52-wk **$127.98**–$171.48 · ~7th %ile · −23.7% from high
 > **Type** Consumer staples — global convenient foods + beverages · **Stage** Mature ex-growth
 
 ## Verdict
 
-**A wide-moat Dividend King at a 4.3% yield whose last three years of new capital earned nothing, whose organic growth was all price until this year, and whose probability-weighted case pays 11.0% a year, short of the hurdle even after the drawdown.**
+**A wide-moat Dividend King at a 4.5% yield whose last three years of new capital earned nothing and whose organic growth was all price until this year; a further 5% fall to a new 52-week low lifts the probability-weighted case to 12.4% a year — closer to the hurdle, still short of it, and still on the wrong side of a back-half-loaded guide.**
 
-🟡 **Non-holder: Watch (entry ≤$126)** · 🟡 **Holder: Hold**
+🟡 **Non-holder: Watch (entry ≤$127)** · 🟡 **Holder: Hold**
 
 | PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | FY26E core P/E | Yield | BAIT | Moat | Next |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **$191** | **11.0% (<13%)** | 9.3% | **6.0:1** | ≤$126 | $191–249 | ≥$249 | ≈16.2× | **4.30%** | **Double** (B+A) | Wide, narrowing | 📅 Oct 8 |
+| **$191** | **12.4% (<13%)** | 9.5% | **10.0:1** | ≤$127 | $191–249 | ≥$249 | ≈15.4× | **4.53%** | **Double** (B+A) | Wide, narrowing | 📅 Oct 8 |
 
 **Breaks if**: full-year core constant-currency EPS lands below the +4% guidance floor. Q2 printed +1% and YTD is +3%, so the guide is back-half loaded; that is the number carrying the thesis.
 
@@ -146,15 +146,30 @@ The Base case rests on **margin (productivity offsetting the price investment) a
 |---|---|---|
 | Long-term algorithm: 4–6% organic revenue, high-single-digit core cc EPS | CAGNY, 2022–23 | 🔴 FY2024 ~+2% / +9%; FY2025 +1.7% / 0% |
 | FY2025: low-single-digit organic, mid-single-digit core cc EPS | Q4 2024 release, Feb 2025 | 🔴 +1.7% / 0% |
-| ≥100 bps core operating margin expansion 2026–28; 20% SKU cut; NA supply-chain review by late 2026 | [Elliott agreement](https://www.pepsico.com/en/newsroom/press-releases/2025/pepsico-announces-priorities-to-enhance-shareholder-value-and-provides-preliminary-2026-outlook), Dec 2025 | 🟡 H1 2026 core margin −15 bps; review pending |
+| ≥100 bps core operating margin expansion 2026–28; 20% SKU cut; NA supply-chain review by late 2026 | [Elliott agreement](https://www.pepsico.com/en/newsroom/press-releases/2025/pepsico-announces-priorities-to-enhance-shareholder-value-and-provides-preliminary-2026-outlook), Dec 2025 | 🟡 Nine months into a 36-month window and core margin is **−15 bps**, not up; the review is now due |
 
-💰 **Outsider grade: Steward (not Outsider)**: 54 consecutive dividend increases and a ~7:1 dividends-to-buybacks ratio make PepsiCo a Dividend King by design, not an opportunistic allocator. The productivity programme is genuine capital discipline, externally imposed. No capital-allocation event this window.
+💰 **Outsider grade: Steward (not Outsider)**: 54 consecutive dividend increases and a ~7:1 dividends-to-buybacks ratio make PepsiCo a Dividend King by design, not an opportunistic allocator. The productivity programme is genuine capital discipline, externally imposed. No capital-allocation event this window — and none at the low, which is itself the point: the stock fell 5% to a new 52-week low and the buyback stayed at its programmatic ~$1B/yr pace.
 
-**Appearances (Jul 1 – Sep 7)**: one, the [Q2 call](../../../raw/PEP/appearances/2026-07-09_Q2-2026-earnings-call_laguarta.txt) (Jul 9), framed volume-forward with the margin cost left to the release body. No broker-conference fireside, television interview or podcast located; the IR events page lists nothing between the Q2 print and Oct 8, and Barclays Staples Conference participation could not be confirmed. **No 8-K filed since July 9.**
+**Board**: on Sep 17 PepsiCo elected **Joaquin Duato** — chairman and CEO of Johnson & Johnson — an independent director effective Dec 1, joining the Audit Committee ([8-K](https://www.sec.gov/Archives/edgar/data/77476/000007747626000042/pep-20260917.htm)). A serious operator of a large, regulated, brand-led business. ⚠️ The filing makes **no reference to Elliott or to any designation right**: this is ordinary board refresh, not an activist seat.
+
+**Activist engagement — what the filings actually show.** The margin commitments this thesis leans on were externally imposed, so how much force still sits behind them matters. [Elliott's 13F history](../../../raw/PEP/filings/2026-09-22_Elliott-13F-position-history.txt), parsed from EDGAR:
+
+| Period end | Elliott disclosed PEP position |
+|---|---|
+| Sep 30 2025 (stake reported) | 1,275,000 sh · $179.1M |
+| Dec 31 2025 (settlement) | 1,275,000 sh · $183.0M |
+| Mar 31 2026 | 1,275,000 sh · $198.0M |
+| Jun 30 2026 (latest) | 1,275,000 sh · **$172.6M** |
+
+Three things follow. **The position has not moved in four quarters** — no add, no trim, so there is no exit signal and no escalation signal. **It is ~$167M at today's price, not $4B**: the reported stake is ~96% held outside 13F reporting, almost certainly in total-return swaps, so the economic exposure is real but unverifiable. And the enforcement is **reputational, not structural** — Elliott took no board seats in the December settlement, has never filed a 13D on PEP, and no proxy-contest material has ever been filed. Steinberg's stated posture remains *"continued engagement with the Company."*
+
+The practical read: the commitments are public, dated and reputationally binding on management, but nobody with a board seat is holding the pen. 📅 The supply-chain review promised for **late 2026** is the first hard test of whether that is enough.
+
+**Appearances (Jul 1 – Sep 22)**: one, the [Q2 call](../../../raw/PEP/appearances/2026-07-09_Q2-2026-earnings-call_laguarta.txt) (Jul 9), framed volume-forward with the margin cost left to the release body. No broker-conference fireside, television interview or podcast located in the extended window either; the IR events page lists nothing before Oct 8. Management has said nothing in public for eleven weeks while the stock made a new low — an absence worth naming, not an inference.
 
 ## 5. Scenarios → PW EV
 
-**Anchor**: $137.63 is ~16.2× FY2026 core EPS of ≈$8.47 *[Derived: YTD $3.81 at PepsiCo's ~45% first-half weighting; consensus $8.44]*, against a historical range nearer 20–24×; EV $230B, ~12.2× EV/EBITDA. Consensus **Hold**, ~$155 (24 analysts).
+**Anchor**: $130.82 is ~15.4× FY2026 core EPS of ≈$8.47 *[Derived: YTD $3.81 at PepsiCo's ~45% first-half weighting; consensus $8.44]*, against a historical range nearer 20–24×; EV ≈$216B, ~11.5× EV/EBITDA. Consensus **Hold**, ~$155 (24 analysts).
 
 | Scenario | 5-yr target (2031E) | Prob. | Contribution | Driving assumption |
 |---|---|---|---|---|
@@ -165,12 +180,12 @@ The Base case rests on **margin (productivity offsetting the price investment) a
 
 | Return math | |
 |---|---|
-| PW return/yr | **11.0% (<13%)**: +39% price over five years (6.7%/yr) plus the 4.30% yield. Entry that clears the hurdle: **$126** |
-| Compounding at a flat multiple | Base core EPS 5.0%/yr + 4.3% yield = **9.3%**; the Base's move from 16.2× to 19× adds ~3 points, so roughly a third of the Base return is re-rating |
-| Price-implied expectations | 2026 FCF ≈$9.3B (80% conversion of core income) on a $230B EV is a 4.0% yield; at an 8% discount rate spot prices **~4% growth forever**, above FY2025's 1.7% organic. Not cheap on its own cash flows; the case is a margin recovery |
+| PW return/yr | **12.4% (<13%)**: +46% price over five years (7.9%/yr) plus the 4.53% yield. Entry that clears the hurdle: **$127.80** — the 52-week low of $127.98 came within 18 cents of it and did not cross |
+| Compounding at a flat multiple | Base core EPS 5.0%/yr + 4.5% yield = **9.5%**; the Base's move from 15.4× to 19× now adds ~4 points, so **closer to 40% of the Base return is re-rating** — the drawdown made the multiple do more of the work, not less |
+| Price-implied expectations | 2026 FCF ≈$9.3B (80% conversion of core income) on a $216B EV is a 4.3% yield; at an 8% discount rate spot prices **~3.7% growth forever**, still above FY2025's 1.7% organic. Cheaper, not cheap; the case remains a margin recovery |
 | Base rate | The Bull needs ~4%/yr nominal sales, ≈1.5% real, the **median** for companies above $50B of sales ([`compounding.md`](../../frameworks/compounding.md)) |
 | Year ten | Mature ex-growth: the value is a 4–5% earnings grower's multiple plus the yield; nothing in §2 changes that, so the terminal multiple *is* the value |
-| R/R | **6.0:1** (Bull +81% / Bear −14%). Spot sits ~9% above the entry threshold |
+| R/R | **10.0:1** (Bull +90% / Bear −9%) ⚠️ flattered mechanically: spot is now only 9% above the Bear anchor of $119, so the ratio says more about how far the stock has fallen than about the odds. Spot sits ~3% above the entry threshold |
 
 ## 6. Risks & Triggers
 
@@ -190,9 +205,16 @@ The Base case rests on **margin (productivity offsetting the price investment) a
 
 **Insiders**: no open-market purchases. General Counsel Flavell sold 2,900 shares ($405K) on Jul 29; otherwise grants and withholding ([SecForm4](https://www.secform4.com/insider-trading/77476.htm)). ⚠️ Nobody bought the 52-week low.
 
-**News**: Jul 9, Q2 2026 results, the material event of the quarter. Sep 2–7: price −2.5% on no company news; no filings.
+**Window events (Sep 7 – Sep 22)**
 
-**Upcoming**: 📅 **Oct 8** Q3 2026 earnings, the test of the NA revenue trajectory and the back-half guide · 📅 late 2026, the Elliott-committed North America supply-chain review · 📅 February 2027, FY2026 10-K (test 3) and the expected 55th consecutive dividend increase.
+| Date | Event | Read |
+|---|---|---|
+| Sep 7–22 | Price **−4.9% to $130.82**; new 52-week low **$127.98** on Sep 17 | No company news drove it; the de-rating is sector and rate-led. Yield now 4.53% |
+| Sep 17 | **Joaquin Duato** (chairman/CEO, Johnson & Johnson) elected to the board, effective Dec 1, Audit Committee | The only filing of the window; governance quality, not a thesis input (§4) |
+| Sep 17 | BofA maintained **Hold** | Consensus unchanged at Hold, ~$155 |
+| — | **Elliott's 13F position flat for four quarters** at 1,275,000 sh (~$167M), no 13D, no proxy material | Engagement intact but structurally unenforced; the reported $4B sits mostly outside 13F (§4) |
+
+**Upcoming**: 📅 **Oct 8** Q3 2026 earnings, the test of the NA revenue trajectory and the back-half guide · 📅 **late 2026, now due** — the Elliott-committed North America supply-chain review, the first hard test of the margin programme (§4) · 📅 **Dec 1** Duato joins the board · 📅 February 2027, FY2026 10-K (test 3) and the expected 55th consecutive dividend increase.
 
 ## 8. Sources
 

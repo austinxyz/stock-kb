@@ -37,7 +37,7 @@ Add/refresh an Outsider read in the Summary's "Why / Why not" only when a **mate
 
 ---
 
-## Cross-Ticker Scoring (as of 2026-09-07)
+## Cross-Ticker Scoring (as of 2026-09-25)
 
 Anchored on the buyback-timing test, read from each page's §4 capital-allocation block. This table is the authoritative central record; each §4 block is the canonical per-ticker home.
 
@@ -54,13 +54,13 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 
 | Ticker | CEO | Read |
 |---|---|---|
+| **CHWY** | Singh | **New (2026-09-25).** FY2024–25 buybacks (~$1.2B) mostly absorbed BC Partners' secondaries at prices well above today's; 2026 turned countercyclical — authorization doubled in April, **$400M at a $22.88 average** with the heaviest buying at $19–21 near the 52-wk low. ⚠️ Funded alongside a first $600M term loan and $575M of health M&A; SBC (~$300M/yr) sits outside every pay metric. |
 | **UBER** | Khosrowshahi | **On probation (2026-09-07).** First-ever buyback (2024) → **$3B record quarter into the 52-wk low**; $27B authorized, $11.3B executed. ⚠️ Q2 2026 failed the signature test for the first time: $510M repurchased at ~$75 while ~$4B built a Delivery Hero stake and the €41.50 all-cash offer ($13.7B net, gross leverage <2×, accretive high-single-digit by year three) launched. Holds Outsider-leaning only if repurchases are back ≥$1.5B/qtr by the Q4 print. |
 | **ACN** | Sweet | **Countercyclical buybacks at trough multiples** — $4.6B FY25 + $1.7B Q2 FY26 at ≈12–13x fwd EPS (vs. historical 22–28x avg); 20-yr dividend-growth streak blunts pure Singleton profile. |
 | **BKNG** | Fogel | **Peak buyback at fear-driven dips** (FY23 $10.4B), −22% share count / 5 yrs; Q1 2026 $3.6B ≈ $14B annualized into the –28% drawdown. Dividend initiation tempers pure-Singleton profile. |
 | **HD** | McPhail | Bought ≈5% of float near **cyclically-depressed multiples pre-boom (IRR >20%)**, paused when expensive/levered. SRS deal ($18.25B) is the open Outsider test. |
-| **KGS** | McKee | **Malone-style** leverage roll-up: acquisitions over buybacks, disciplined 3.5–4× → <3× de-lever path, removed EQT overhang non-dilutively. |
 | **NFLX** | Sarandos | Disciplined tuck-in M&A; **walked from WBD and got paid for it**; no dividend; $13.6B remaining authorization ramping. $5–6B/yr cadence is mechanical not opportunistic, blunting the pure-Singleton read. |
-| **SHOP** | Finkelstein | **First-ever $2B buyback at sub-$130** — opportunistic undervaluation buy; no dividend; disciplined headcount (–6% on +30% revenue growth). |
+| **SHOP** | Finkelstein | **Countercyclical buy, strengthened (2026-09-23)**: $2B first authorization raised to $5B on Jun 2; $1.93B bought in H1 at avg $114.63, heaviest in May at $105.70 near the 52-wk low. No dividend; time-vested pay only. |
 | **CPNG** | Bom Kim | **Buyback tripled into a –50% drawdown**: $391M / 20.4M shares at ≈$19.17 in Q1 2026 alone — one quarter exceeding FY2025 ($243M) and FY2024 ($178M) individually — while the business printed near-zero EBITDA. Corroborated by director Neil Mehta's 7.35M-share open-market purchase. ⚠️ Farfetch's return is unproven and no hurdle-rate framework is disclosed for the Developing Offerings burn. |
 | **SN** | Lawson | Inaugural $750M (≈4.6% of cap), stated as "opportunistic," strong balance sheet; management prioritizing organic reinvestment first. |
 | **CELH** | Fieldly | First sizeable buyback "at the lows" + Alani Nu at <2× revenue (accretive) + debt paydown. |
@@ -74,6 +74,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 
 | Ticker | Read |
 |---|---|
+| **KGS** | **Reinvestor (downgraded from Outsider-leaning 2026-09-17).** The 2025 record was countercyclical ($104M repurchased at a $34.02 average, two dividend raises). 2026 changed the posture: $836M of equity issued at $71 to fund a 2 GW power build at a claimed 15% unlevered IRR — Outsider arithmetic if the returns arrive — but zero H1 repurchases with the $150M authorization expiring in December, the dividend held flat and explicitly de-linked from the 35%-of-DCF policy on the Q2 call, and buybacks ranked last, "opportunistic," behind dividend, balance sheet and power capex. Returns to Outsider-leaning when power shows up in incremental ROIC. |
 | **AMZN** | Bezos's FCF/share + decentralized "two-pizza" doctrine is Outsider canon; minimal buybacks because reinvestment IRR is higher — *consistent* with the rule. Jassy era less distinctive. |
 | **TSLA** | ≈$27.4B net cash into Cybercab/Optimus/AI compute/vertical integration; no dividend/buyback. Q2 2026 made the reinvestment concrete — capex +142%, FCF –$1.09B, management "spending CapEx as fast as it can." ⚠️ Reinvesting *pro*-cyclically into its own narrative with no buyback offset at a 38% drawdown is the opposite of the Singleton test; $2B xAI stake remains the governance blemish. Stays Reinvestor until the capex cycle shows measurable returns. |
 | **FIG** | Pre-revenue; $1.7B war chest into product expansion; too early for buyback test. Walked from Adobe deal cleanly (only capital-discipline data point). |
@@ -91,12 +92,12 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **PG** | 70 consecutive dividend increases; $16B+ annually; programmatic buybacks. Reference archetype for excellent-steward-not-Outsider. |
 | **NKE** | 22+ yr dividend streak; FY22–24 buybacks at mid-cycle prices; Hill's April 2026 $1M personal buy is a positive signal but not institutional countercyclical discipline — and no insider bought the August 2026 12-year low. |
 | **AMCR** | 51-yr unbroken dividend record treated as inviolable; buybacks paused during Berry integration; Dividend Aristocrat archetype. |
-| **SBUX** | Dividend growing since 2010; buybacks slowed for turnaround reinvestment; dividend-first, buyback-secondary. |
+| **SBUX** | Dividend first (~95% of FY26 non-GAAP EPS; FY25 dividend exceeded FCF); no buyback since FY24; China and possibly Japan moved to licensed models, with proceeds to debt reduction. |
 | **MSFT** | $20B+ annual programmatic buybacks + dividend growing since 2003; M&A at strategic premiums. Nadella is an exceptional steward — the Outsider test doesn't fit a patterned return program. |
 | **DELL** | 40-yr strategic capital-allocation mastery (LBO, EMC, VMware spin) but public-company framework is committed programmatic cadence. SLTA insider sales blunt the timing signal. |
 | **UNH** | **Outsider-leaning** *(upgraded 2026-08-06)*: countercyclical $2B+ at $300–355 in Q1 2026, then **doubled FY26 target to ≥$5B** ($4B executed at ~$378 avg); dividend raised to $9.28/yr. The Q1 trough-buy + Q2 acceleration is the clearest Outsider signal in UNH's history; historical programmatic pattern partially offsets. |
 | **RKT** | $16B all-stock dilutive acquisitions (Mr. Cooper + Redfin); long-duration orientation, bold, but fails Thorndike's per-share discipline test; no buybacks during integration. |
-| **SCHW** | Q1 2026 $2.4B buyback is post-recovery (stock near highs) not countercyclical; cash-sorting episode navigated operationally, not exploited as a cheap-stock buyback opportunity. |
+| **SCHW** | Bought $2.4B at ~$99 in Q1 2026, then only $1.0B at ~$89 in Q2 as the stock made its 52-wk low, while issuing $5.85B of senior notes. The inverse of the countercyclical test. |
 
 ### 🔴 Anti-Outsiders / Reforming
 
@@ -112,4 +113,4 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 
 ## Headline
 
-The cleanest Outsiders we track are **BRK.B, ADBE, INTU, EBAY** — countercyclical buyback timing + per-share, low-ego mindset. **UBER, BKNG, HD, KGS, NFLX** form a strong second tier. Dividend Kings (PEP/PG/NKE/LOW) and Stewards (MSFT/DELL/SCHW) are superb businesses that fail Thorndike's *specific* test. **UNH** graduated to Outsider-leaning on 2026-08-06 (countercyclical Q1 trough-buy + Q2 doubling to ≥$5B); **ONON** followed on 2026-08-19 — not on buybacks, which it has never run, but on the rarer operating-side test of sacrificing reported growth to protect unit economics, backed by two founder buying clusters. **DASH** joined them on 2026-08-26 — its first buyback execution came at a ≈$154 average into its own drawdown, converting the long-standing zero-execution mark into evidence. **RH / LULU are active anti-examples** of buyback discipline; **SPOT is still reforming**.
+The cleanest Outsiders we track are **BRK.B, ADBE, INTU, EBAY** — countercyclical buyback timing + per-share, low-ego mindset. **UBER, BKNG, HD, NFLX** form a strong second tier; **KGS** dropped to Reinvestor on 2026-09-17 as every 2026 dollar went to the power build rather than repurchases. Dividend Kings (PEP/PG/NKE/LOW) and Stewards (MSFT/DELL/SCHW) are superb businesses that fail Thorndike's *specific* test. **UNH** graduated to Outsider-leaning on 2026-08-06 (countercyclical Q1 trough-buy + Q2 doubling to ≥$5B); **ONON** followed on 2026-08-19 — not on buybacks, which it has never run, but on the rarer operating-side test of sacrificing reported growth to protect unit economics, backed by two founder buying clusters. **DASH** joined them on 2026-08-26 — its first buyback execution came at a ≈$154 average into its own drawdown, converting the long-standing zero-execution mark into evidence. **RH / LULU are active anti-examples** of buyback discipline; **SPOT is still reforming**.

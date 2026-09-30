@@ -8,6 +8,46 @@ source: upstream
 
 ---
 
+## [2026-09-22] — Price action · new 52-week low · Duato elected · Elliott engagement audited
+
+**Trigger**: user-requested price update. One filing in the window.
+**Sources**: [8-K, board election](https://www.sec.gov/Archives/edgar/data/77476/000007747626000042/pep-20260917.htm) · [Elliott 13F position history](../../../raw/PEP/filings/2026-09-22_Elliott-13F-position-history.txt), parsed from EDGAR CIK 0001791786 · [Yahoo](https://finance.yahoo.com/quote/PEP/) Sep 22 11:47 ET
+
+### Scorecard
+- Volume-for-price trade accretive — 🟡 Pending; resolves Oct 8 on NA convenient foods net revenue.
+- Back-half acceleration real — 🟡 Pending; resolves Oct 8 on the +4–6% guide.
+- Incremental returns recover — 🟡 Pending; resolves at the FY2026 10-K, Feb 2027.
+
+### Changed
+
+*Price and derived figures*
+
+| | Was | Now |
+|---|---|---|
+| Price | $137.63 | **$130.82** (−4.9%); new 52-wk low **$127.98** Sep 17; ~10th → ~7th %ile |
+| PW return/yr | 11.1% | **12.4%** — clears below **$127.80**, so the low missed entry by 18 cents |
+| Yield · core P/E · EV | 4.30% · 16.2× · $230B | 4.53% · **15.4×** · ≈$216B |
+| R/R | 6.0:1 | **10.0:1** ⚠️ mechanically flattered; spot is 9% above the $119 Bear |
+
+Re-rating now supplies ~40% of the Base return, up from a third — a lower entry multiple made the 19× target do *more* of the work, not less.
+
+*Governance and the activist*
+- **Joaquin Duato** (chairman/CEO, J&J) elected effective Dec 1, Audit Committee. Quality refresh; **no Elliott designation right** in the 8-K.
+- **Elliott audited from primary filings** (detail in §4): position **flat at 1,275,000 sh for four quarters**, ~$167M — no exit signal, no escalation signal.
+- ⚠️ That is **~4% of the reported $4B**; the balance sits outside 13F, almost certainly in swaps — real exposure, unverifiable.
+- **No 13D, no proxy material, no board seats** — enforcement is **reputational, not structural**.
+- Promises ledger: nine months into the 36-month ≥100 bps window, core margin is **−15 bps**.
+- 💰 No buyback response to the low; the programmatic ~$1B/yr pace held.
+
+### Status
+- **Thesis**: **Unchanged.** The improvement is entirely price. Probabilities deliberately **not** moved on the activist finding: it changes who holds management to the commitments, not whether they work.
+- **PW EV**: $191 (held) · **PW return/yr**: 11.1% → **12.4%** (hurdle 13%) · **R/R**: 6.0 → 10.0 · **BAIT**: Double, held
+- **Verbs**: non-holder Watch (entry ≤$126 → **≤$127**) · holder Hold
+
+**Next trigger**: 📅 **Oct 8** Q3 2026 — tests 1 and 2 both resolve; then 📅 the **North America supply-chain review, promised for late 2026 and now due** — the first hard test of the Elliott programme.
+
+---
+
 ## [2026-09-07] — Migrated v4.0 → v5.0 (no new company events)
 
 **Trigger**: v5.0 pilot migration. The Sep 2 → Sep 7 window had no filings, no appearances and no rating changes.
